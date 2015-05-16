@@ -1,5 +1,0 @@
-1428244541
-http://www.fortune3.com
-http://www.fortune3.com/robots.txt
-User-agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428244710
-http://meat-slicers-review.toptenreviews.com
-http://meat-slicers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

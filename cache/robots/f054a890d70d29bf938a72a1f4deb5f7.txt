@@ -1,6 +1,0 @@
-1428244969
-http://hardwood-floor-vacuum-cleaners-review.toptenreviews.com
-http://hardwood-floor-vacuum-cleaners-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

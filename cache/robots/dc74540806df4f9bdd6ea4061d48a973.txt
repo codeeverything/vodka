@@ -1,5 +1,0 @@
-1427818466
-https://instagram.com/mapbox
-https://instagram.com/robots.txt
-User-agent: *
-Allow: /

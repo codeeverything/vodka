@@ -1,6 +1,0 @@
-1428244994
-http://turkey-fryers-review.toptenreviews.com
-http://turkey-fryers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

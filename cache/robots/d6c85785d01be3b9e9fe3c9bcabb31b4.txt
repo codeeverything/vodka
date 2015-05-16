@@ -1,5 +1,0 @@
-1428244392
-http://www.jackmorton.com
-http://www.jackmorton.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/

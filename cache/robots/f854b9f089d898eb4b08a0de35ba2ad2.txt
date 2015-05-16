@@ -1,8 +1,0 @@
-1428418856
-http://www.foxlife.us
-http://www.foxlife.us/robots.txt
-User-agent: Mediapartners-Google 
-Disallow:
-
-User-agent: *
-Disallow: /objects/media

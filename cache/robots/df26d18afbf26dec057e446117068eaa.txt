@@ -1,6 +1,0 @@
-1428244950
-http://handheld-massagers-review.toptenreviews.com
-http://handheld-massagers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

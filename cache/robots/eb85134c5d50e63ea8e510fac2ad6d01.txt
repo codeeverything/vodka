@@ -1,6 +1,0 @@
-1428244931
-http://space-heaters-review.toptenreviews.com
-http://space-heaters-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

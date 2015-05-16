@@ -1,5 +1,0 @@
-1427632334
-http://bryanappleyard.com/cinderella-man/
-http://bryanappleyard.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/

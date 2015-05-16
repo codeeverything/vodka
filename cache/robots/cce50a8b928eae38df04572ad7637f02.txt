@@ -1,6 +1,0 @@
-1428244742
-http://mold-test-kits-review.toptenreviews.com
-http://mold-test-kits-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

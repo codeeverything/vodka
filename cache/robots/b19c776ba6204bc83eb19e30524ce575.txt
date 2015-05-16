@@ -1,6 +1,0 @@
-1428244850
-http://french-door-refrigerator-review.toptenreviews.com
-http://french-door-refrigerator-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

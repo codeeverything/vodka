@@ -1,5 +1,0 @@
-1427629483
-http://ad.ca.doubleclick.net/N6872/jump/shaw.bbccanada.com/index;loc=top;sz=250x250,300x250;kw=ron;kw=bbcc;nk=sbrdcst;pr=bbcc;ck=index;imp=index;ord=50661089?
-http://ad.ca.doubleclick.net/robots.txt
-User-agent: *
-Disallow: /

@@ -1,7 +1,0 @@
-1427735194
-http://www.securestate.com
-http://www.securestate.com/robots.txt
-User-agent: *
-Disallow: 
-
-Sitemap: http://www.securestate.com/sitemap.xml

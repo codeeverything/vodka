@@ -1,6 +1,0 @@
-1428422610
-http://londynskie-metro.przegladsportowy.pl
-http://londynskie-metro.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

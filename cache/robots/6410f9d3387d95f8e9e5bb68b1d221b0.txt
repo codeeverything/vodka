@@ -1,5 +1,0 @@
-1428422210
-http://isl.iwmcollections.org.uk
-http://isl.iwmcollections.org.uk/robots.txt
-User-agent: *
-Disallow: /

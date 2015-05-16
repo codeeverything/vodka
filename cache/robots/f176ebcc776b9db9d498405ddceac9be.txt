@@ -1,7 +1,0 @@
-1428421972
-http://www.sunrisershyderabad.in
-http://www.sunrisershyderabad.in/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-
-Sitemap: http://www.sunrisershyderabad.in/sitemap.xml

@@ -1,6 +1,0 @@
-1428234592
-https://everything.yahoo.com
-https://everything.yahoo.com/robots.txt
-User-agent: *
-Disallow: 
-Sitemap: https://everything.yahoo.com/sitemap.xml

@@ -1,6 +1,0 @@
-1428244342
-http://solar-blankets-review.toptenreviews.com
-http://solar-blankets-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

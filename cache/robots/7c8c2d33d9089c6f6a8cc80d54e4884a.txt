@@ -1,6 +1,0 @@
-1428422591
-http://sietrenuje.przegladsportowy.pl
-http://sietrenuje.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

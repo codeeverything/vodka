@@ -1,6 +1,0 @@
-1427735200
-https://github-windows.s3.amazonaws.com/GitHubSetup.exe
-https://github-windows.s3.amazonaws.com/robots.txt
-1427701290
-https://github-windows.s3.amazonaws.com/GitHubSetup.exe
-https://github-windows.s3.amazonaws.com/robots.txt

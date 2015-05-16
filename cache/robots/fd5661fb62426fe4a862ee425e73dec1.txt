@@ -1,8 +1,0 @@
-1427823511
-http://www.syntevo.com/smartgit
-http://www.syntevo.com/robots.txt
-1427805966
-http://www.syntevo.com/smartgit/
-http://www.syntevo.com/robots.txt
-User-agent: *
-Disallow:

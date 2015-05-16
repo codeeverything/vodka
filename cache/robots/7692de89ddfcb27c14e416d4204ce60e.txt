@@ -1,5 +1,0 @@
-1427891798
-http://www.cityofcolumbus.org
-http://www.cityofcolumbus.org/robots.txt
-User-agent: *
-Disallow: /click

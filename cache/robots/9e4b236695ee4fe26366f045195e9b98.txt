@@ -1,6 +1,0 @@
-1428421510
-http://att.tradein-program.com
-http://att.tradein-program.com/robots.txt
-# robotstxt.org/
-
-User-agent: *

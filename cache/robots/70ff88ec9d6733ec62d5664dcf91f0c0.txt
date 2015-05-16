@@ -1,6 +1,0 @@
-1428244456
-http://kegerators-review.toptenreviews.com
-http://kegerators-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

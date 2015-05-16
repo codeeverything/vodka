@@ -1,6 +1,0 @@
-1428244400
-http://sandwich-makers-review.toptenreviews.com
-http://sandwich-makers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

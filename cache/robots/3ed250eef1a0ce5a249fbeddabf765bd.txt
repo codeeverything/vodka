@@ -1,9 +1,0 @@
-1428421296
-http://www.pulselive.com
-http://www.pulselive.com/robots.txt
-1428416963
-http://www.pulselive.com
-http://www.pulselive.com/robots.txt
-User-agent: *
-Disallow: /client/
-

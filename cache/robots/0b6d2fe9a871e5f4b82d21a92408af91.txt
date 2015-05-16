@@ -1,6 +1,0 @@
-1428244982
-http://tower-fan-review.toptenreviews.com
-http://tower-fan-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428242474
-http://carpet-cleaners-review.toptenreviews.com
-http://carpet-cleaners-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

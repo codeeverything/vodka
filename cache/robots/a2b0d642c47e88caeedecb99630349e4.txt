@@ -1,5 +1,0 @@
-1427820241
-http://www.chromeexperiments.com/globe
-http://www.chromeexperiments.com/robots.txt
-User-agent: *
-Disallow:

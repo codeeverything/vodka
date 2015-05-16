@@ -1,8 +1,0 @@
-1428234663
-http://www.rawstory.com/rs
-http://www.rawstory.com/robots.txt
-User-agent: *
-Crawl-delay: 30
-
-User-agent: *
-Disallow: 

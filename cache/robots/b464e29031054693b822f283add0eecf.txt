@@ -1,6 +1,0 @@
-1428244322
-http://stick-vacuum-review.toptenreviews.com
-http://stick-vacuum-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

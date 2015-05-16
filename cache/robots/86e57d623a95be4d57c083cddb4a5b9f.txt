@@ -1,6 +1,0 @@
-1428242427
-http://iphone-card-reader-review.toptenreviews.com
-http://iphone-card-reader-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

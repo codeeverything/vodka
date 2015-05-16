@@ -1,9 +1,0 @@
-1427823584
-https://jemengage.paris.fr
-https://jemengage.paris.fr/robots.txt
-1427806022
-https://jemengage.paris.fr/
-https://jemengage.paris.fr/robots.txt
-User-agent: *
-Disallow: /admin
-Disallow: /mairie

@@ -1,6 +1,0 @@
-1428245055
-http://car-battery-charger-review.toptenreviews.com
-http://car-battery-charger-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,8 +1,0 @@
-1428422154
-http://www.ana.net
-http://www.ana.net/robots.txt
-User-agent: *
-Crawl-delay: 15
-Allow: /
-Disallow: /contentimage/
-

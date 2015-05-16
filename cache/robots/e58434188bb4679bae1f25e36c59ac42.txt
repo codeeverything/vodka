@@ -1,6 +1,0 @@
-1427735448
-http://www.candou.com
-http://www.candou.com/robots.txt
-User-agent: *
-Allow: /
-Sitemap：http://www.candou.com/xml/sitemap.xml

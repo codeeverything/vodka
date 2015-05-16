@@ -1,5 +1,0 @@
-1427800770
-http://www.shouyouzhijia.net
-http://www.shouyouzhijia.net/robots.txt
-User-agent: *
-Sitemap: http://www.shouyouzhijia.net/sitemap.txt

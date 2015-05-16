@@ -1,6 +1,0 @@
-1428422613
-http://telefon-do-pana-lutka.przegladsportowy.pl
-http://telefon-do-pana-lutka.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

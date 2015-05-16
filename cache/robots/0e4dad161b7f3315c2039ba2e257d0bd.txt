@@ -1,6 +1,0 @@
-1428244447
-http://water-softeners-review.toptenreviews.com
-http://water-softeners-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428244316
-http://portable-solar-power-systems-review.toptenreviews.com
-http://portable-solar-power-systems-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

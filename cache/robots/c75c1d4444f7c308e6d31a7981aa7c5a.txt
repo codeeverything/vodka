@@ -1,6 +1,0 @@
-1428244302
-http://www.goclio.com
-http://www.goclio.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

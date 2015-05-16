@@ -1,6 +1,0 @@
-1428244517
-http://compact-microwave-review.toptenreviews.com
-http://compact-microwave-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

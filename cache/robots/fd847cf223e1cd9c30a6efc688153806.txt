@@ -1,5 +1,0 @@
-1427891741
-http://onestop.lbl.gov
-http://onestop.lbl.gov/robots.txt
-User-agent: *
-Disallow: /

@@ -1,6 +1,0 @@
-1428245053
-http://hot-tubs-review.toptenreviews.com
-http://hot-tubs-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428422470
-http://ofensywni.przegladsportowy.pl
-http://ofensywni.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

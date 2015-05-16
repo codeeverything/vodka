@@ -1,8 +1,0 @@
-1427891596
-http://www.internettrafficreport.com/main.htm
-http://www.internettrafficreport.com/robots.txt
-# robots.txt for http://www.internettrafficreport.com/
-
-User-agent: *
-Disallow: /cgi-bin/
-Disallow: /rawdata/

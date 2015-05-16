@@ -1,8 +1,0 @@
-1428418260
-http://www.amcnetworks.com
-http://www.amcnetworks.com/robots.txt
-1428242565
-http://www.amcnetworks.com
-http://www.amcnetworks.com/robots.txt
-User-agent: *
-Disallow: /service/

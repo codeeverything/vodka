@@ -1,9 +1,0 @@
-1427823066
-http://adr1ft.com
-http://adr1ft.com/robots.txt
-1427819535
-http://adr1ft.com/
-http://adr1ft.com/robots.txt
-1427805523
-http://adr1ft.com/
-http://adr1ft.com/robots.txt

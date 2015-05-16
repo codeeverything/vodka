@@ -1,9 +1,0 @@
-1428244781
-http://pedometers-review.toptenreviews.com
-http://pedometers-review.toptenreviews.com/robots.txt
-1428244034
-http://pedometers-review.toptenreviews.com/jawbone-up-review.html
-http://pedometers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

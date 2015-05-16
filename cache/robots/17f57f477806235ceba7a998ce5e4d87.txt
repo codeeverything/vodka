@@ -1,6 +1,0 @@
-1428244635
-http://waffle-maker-review.toptenreviews.com
-http://waffle-maker-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

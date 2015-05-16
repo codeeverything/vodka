@@ -1,6 +1,0 @@
-1427735188
-http://www.portalguard.com
-http://www.portalguard.com/robots.txt
-# robotstxt.org/
-
-User-agent: *

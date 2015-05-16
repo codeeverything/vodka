@@ -1,6 +1,0 @@
-1428244399
-http://beard-trimmers-review.toptenreviews.com
-http://beard-trimmers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

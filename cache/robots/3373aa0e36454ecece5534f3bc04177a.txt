@@ -1,6 +1,0 @@
-1428244872
-http://garage-door-openers-review.toptenreviews.com
-http://garage-door-openers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

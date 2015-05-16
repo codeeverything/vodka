@@ -1,6 +1,0 @@
-1428242419
-http://online-stock-trading-review.toptenreviews.com
-http://online-stock-trading-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

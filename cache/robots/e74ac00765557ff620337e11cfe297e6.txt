@@ -1,6 +1,0 @@
-1428422203
-http://blogs.iwm.org.uk
-http://blogs.iwm.org.uk/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

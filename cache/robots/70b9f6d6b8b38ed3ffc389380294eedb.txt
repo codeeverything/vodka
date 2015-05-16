@@ -1,6 +1,0 @@
-1428244497
-http://coffee-makers-review.toptenreviews.com
-http://coffee-makers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,8 +1,0 @@
-1427800613
-http://www.ruan8.com
-http://www.ruan8.com/robots.txt
-User-agent: *
-Disallow: /down.php
-Disallow: /do.php
-Disallow: /search.php
-Disallow: /tags/

@@ -1,7 +1,0 @@
-1428419337
-http://kodyrabatowe.komputerswiat.pl/#utm_campaign=KodyRabatowe&utm_source=KS&utm_content=Stopka
-http://kodyrabatowe.komputerswiat.pl/robots.txt
-1428419309
-http://kodyrabatowe.komputerswiat.pl
-http://kodyrabatowe.komputerswiat.pl/robots.txt
-User-agent: *

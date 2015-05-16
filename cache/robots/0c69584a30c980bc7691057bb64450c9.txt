@@ -1,5 +1,0 @@
-1428236967
-http://www.rhodesscholarshiptrust.com/rhodes-scholars-elect-class-of-2013
-http://www.rhodesscholarshiptrust.com/robots.txt
-User-agent: *
-Disallow: /Application

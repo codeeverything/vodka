@@ -1,6 +1,0 @@
-1428245026
-http://window-air-conditioners-review.toptenreviews.com
-http://window-air-conditioners-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

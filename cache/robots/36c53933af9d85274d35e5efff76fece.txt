@@ -1,6 +1,0 @@
-1428245046
-http://baby-car-seats-review.toptenreviews.com
-http://baby-car-seats-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

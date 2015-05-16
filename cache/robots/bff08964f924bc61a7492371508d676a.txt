@@ -1,8 +1,0 @@
-1427823532
-https://vine.co/Official_GDC
-https://vine.co/robots.txt
-1427805967
-https://vine.co/Official_GDC
-https://vine.co/robots.txt
-User-agent: *
-Allow: /

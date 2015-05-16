@@ -1,5 +1,0 @@
-1427735240
-http://registration.gdcchina.cn
-http://registration.gdcchina.cn/robots.txt
-User-agent: *
-Disallow: /

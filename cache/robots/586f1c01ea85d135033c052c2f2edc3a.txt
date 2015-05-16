@@ -1,8 +1,0 @@
-1428495941
-http://ingurapresei.a1.ro/social/Mircea-Badea-Asocia-ia-Motocicli-tilor-din-Rom-nia_6943.html
-				   
-http://ingurapresei.a1.ro/robots.txt
-Sitemap: http://ingurapresei.antena1.ro/sitemaps/videos_sitemap.xml
-
-User-agent: *
-Crawl-Delay: 10

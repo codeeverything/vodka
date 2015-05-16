@@ -1,9 +1,0 @@
-1427822536
-http://python-for-humans.heroku.com
-http://python-for-humans.heroku.com/robots.txt
-1427818999
-http://python-for-humans.heroku.com/
-http://python-for-humans.heroku.com/robots.txt
-1427804999
-http://python-for-humans.heroku.com/
-http://python-for-humans.heroku.com/robots.txt

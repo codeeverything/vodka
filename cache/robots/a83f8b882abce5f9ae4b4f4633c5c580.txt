@@ -1,6 +1,0 @@
-1428422631
-http://okiemsnajpera.przegladsportowy.pl
-http://okiemsnajpera.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

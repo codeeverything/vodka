@@ -1,8 +1,0 @@
-1428234581
-https://screen.yahoo.com
-https://screen.yahoo.com/robots.txt
-User-agent: *
-Disallow: /_remote*
-Sitemap: https://screen.yahoo.com/sitemap.xml
-Sitemap: https://screen.yahoo.com/live/sitemaps/sitemap_index_us_en-US.xml.gz
-Sitemap: https://screen.yahoo.com/sitemaps/sitemap_events.xml

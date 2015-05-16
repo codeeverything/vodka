@@ -1,9 +1,0 @@
-1428159097
-http://www.www2015.it
-http://www.www2015.it/robots.txt
-1427891217
-http://www.www2015.it
-http://www.www2015.it/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

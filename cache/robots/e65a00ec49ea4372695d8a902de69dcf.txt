@@ -1,6 +1,0 @@
-1428244686
-http://latex-mattresses-review.toptenreviews.com
-http://latex-mattresses-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

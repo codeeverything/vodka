@@ -1,6 +1,0 @@
-1428244489
-http://circular-saws-review.toptenreviews.com
-http://circular-saws-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

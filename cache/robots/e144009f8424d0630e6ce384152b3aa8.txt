@@ -1,9 +1,0 @@
-1428236546
-https://www.addtoany.com/share_save
-https://www.addtoany.com/robots.txt
-1428235016
-https://www.addtoany.com/share_save
-https://www.addtoany.com/robots.txt
-User-Agent: *
-Disallow: /add_to/*
-Allow: /

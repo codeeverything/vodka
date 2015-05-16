@@ -1,9 +1,0 @@
-1428422216
-http://www.bristol-street-art.co.uk
-http://www.bristol-street-art.co.uk/robots.txt
-User-Agent: *
-Disallow: /add_photos
-Disallow: /rater
-Disallow: /include
-Allow: /
-

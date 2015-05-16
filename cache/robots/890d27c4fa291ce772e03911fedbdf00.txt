@@ -1,8 +1,0 @@
-1427891493
-http://www.linuxpromagazine.com
-http://www.linuxpromagazine.com/robots.txt
-User-agent: *
-Disallow: /layout/set/print/
-Disallow: /content/search
-Disallow: /content/advancedsearch
-Disallow: /7503/DE-Tech-Network

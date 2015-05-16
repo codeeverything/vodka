@@ -1,6 +1,0 @@
-1427891524
-http://blogs.atlassian.jp
-http://blogs.atlassian.jp/robots.txt
-User-agent: *
-Disallow:
-Sitemap: http://app.wistia.com/sitemaps/35455.xml

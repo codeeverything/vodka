@@ -1,8 +1,0 @@
-1427823292
-http://blog.velib.paris.fr/ivelibicanfly
-http://blog.velib.paris.fr/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-
-Sitemap: http://blog.velib.paris.fr/sitemaps/blog-velib-paris-fr.xml.gz

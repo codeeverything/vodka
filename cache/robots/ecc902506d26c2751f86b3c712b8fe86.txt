@@ -1,6 +1,0 @@
-1428244694
-http://leaf-blowers-review.toptenreviews.com
-http://leaf-blowers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

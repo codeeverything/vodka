@@ -1,6 +1,0 @@
-1428242498
-http://home-security-monitoring-review.toptenreviews.com
-http://home-security-monitoring-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

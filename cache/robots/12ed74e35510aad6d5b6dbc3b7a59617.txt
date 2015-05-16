@@ -1,8 +1,0 @@
-1427823603
-http://blogs.paris.fr
-http://blogs.paris.fr/robots.txt
-1427806045
-http://blogs.paris.fr/
-http://blogs.paris.fr/robots.txt
-User-agent: *
-Disallow: /wp-admin/

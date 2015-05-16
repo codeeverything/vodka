@@ -1,7 +1,0 @@
-1428421179
-http://www.bbceurope.com/romania
-http://www.bbceurope.com/robots.txt
-# Allow all robots to index all pages
-User-agent: *
-Allow: /
-

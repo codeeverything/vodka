@@ -1,5 +1,0 @@
-1427910960
-http://www.navercorp.com/en/index.nhn
-http://www.navercorp.com/robots.txt
-User-agent: *
-Disallow:

@@ -1,6 +1,0 @@
-1428244668
-http://kettles-review.toptenreviews.com
-http://kettles-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

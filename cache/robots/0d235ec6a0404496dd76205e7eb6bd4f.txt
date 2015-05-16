@@ -1,8 +1,0 @@
-1428422160
-http://www.aaaa.org
-http://www.aaaa.org/robots.txt
-User-agent: *
-Disallow: /searchcenter/
-
-User-agent: * 
-Disallow: /*.pdf$ 

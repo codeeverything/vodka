@@ -1,8 +1,0 @@
-1427735426
-http://ios.9game.cn
-http://ios.9game.cn/robots.txt
-User-agent: * 
-Disallow: /*?* 
-Disallow: /game/
-Disallow: /*/
-Allow: /category/

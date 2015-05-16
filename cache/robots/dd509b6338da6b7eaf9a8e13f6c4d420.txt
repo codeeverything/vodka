@@ -1,7 +1,0 @@
-1428234796
-http://www.danah.org
-http://www.danah.org/robots.txt
-# go away
-User-agent: *
-Disallow: /old/
-Disallow: /images/

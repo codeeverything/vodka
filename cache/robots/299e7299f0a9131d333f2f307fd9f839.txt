@@ -1,8 +1,0 @@
-1428236946
-https://www.isecpartners.com
-https://www.isecpartners.com/robots.txt
-1428234521
-https://www.isecpartners.com
-https://www.isecpartners.com/robots.txt
-User-agent: *
-Disallow: 

@@ -1,6 +1,0 @@
-1428245068
-http://ice-cream-makers-review.toptenreviews.com
-http://ice-cream-makers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

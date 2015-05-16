@@ -1,6 +1,0 @@
-1428422555
-http://emigranci.przegladsportowy.pl
-http://emigranci.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

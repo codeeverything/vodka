@@ -1,6 +1,0 @@
-1428244759
-http://exercise-bike-review.toptenreviews.com
-http://exercise-bike-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

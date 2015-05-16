@@ -1,6 +1,0 @@
-1428422534
-http://mj-23-znowu-nadaje.przegladsportowy.pl
-http://mj-23-znowu-nadaje.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

@@ -1,6 +1,0 @@
-1428422538
-http://o-co-kaman.przegladsportowy.pl
-http://o-co-kaman.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

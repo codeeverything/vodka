@@ -1,6 +1,0 @@
-1428422511
-http://z-noga-w-glowie.przegladsportowy.pl
-http://z-noga-w-glowie.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

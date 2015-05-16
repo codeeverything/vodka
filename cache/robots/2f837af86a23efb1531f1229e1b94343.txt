@@ -1,8 +1,0 @@
-1427823620
-https://lestribus.paris.fr
-https://lestribus.paris.fr/robots.txt
-1427806059
-https://lestribus.paris.fr/
-https://lestribus.paris.fr/robots.txt
-User-agent: *
-Disallow: /wp-admin/

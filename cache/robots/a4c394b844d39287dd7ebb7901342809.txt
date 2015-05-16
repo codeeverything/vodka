@@ -1,5 +1,0 @@
-1428418367
-http://www.romaniatv.net/ce-interdictii-are-gigi-becali-in-libertate_212409.html
-http://www.romaniatv.net/robots.txt
-User-agent: *
-Allow: /

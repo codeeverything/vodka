@@ -1,5 +1,0 @@
-1428422432
-https://webmail.wightman.ca
-https://webmail.wightman.ca/robots.txt
-User-agent: *
-Disallow: /

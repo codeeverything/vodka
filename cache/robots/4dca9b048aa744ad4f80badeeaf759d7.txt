@@ -1,7 +1,0 @@
-1427820239
-http://mars.jpl.nasa.gov/mer
-http://mars.jpl.nasa.gov/robots.txt
-User-agent: *
-Allow: /
-Disallow: /*.LBL
-Disallow: /participate/jhghhfiyfhasfg25mstiyer3756

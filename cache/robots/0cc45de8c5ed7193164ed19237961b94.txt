@@ -1,6 +1,0 @@
-1427802355
-http://www.win7china.com
-http://www.win7china.com/robots.txt
-User-Agent: *
-Disallow: /search/
-Disallow: /win7/

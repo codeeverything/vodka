@@ -1,8 +1,0 @@
-1427819143
-http://www.digipen.edu/
-http://www.digipen.edu/robots.txt
-1427805136
-http://www.digipen.edu/
-http://www.digipen.edu/robots.txt
-User-agent: *
-Allow: /

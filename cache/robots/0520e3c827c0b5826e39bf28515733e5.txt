@@ -1,6 +1,0 @@
-1427805170
-http://microsoftjobsblog.com/are-you-a-game-changer/
-http://microsoftjobsblog.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

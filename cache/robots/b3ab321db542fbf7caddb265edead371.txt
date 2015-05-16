@@ -1,6 +1,0 @@
-1428244544
-http://cupcake-makers-review.toptenreviews.com
-http://cupcake-makers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

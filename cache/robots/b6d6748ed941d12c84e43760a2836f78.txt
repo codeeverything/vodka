@@ -1,9 +1,0 @@
-1428244357
-https://www.dwolla.com/point-of-sale
-https://www.dwolla.com/robots.txt
-﻿# Hello from Dwolla!
-
-User-agent: *
-Allow: /
-
-Sitemap: https://www.dwolla.com/SiteMap.xml

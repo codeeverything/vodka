@@ -1,5 +1,0 @@
-1428241771
-http://www.simpleloop.com
-http://www.simpleloop.com/robots.txt
-User-agent: *
-Allow: /

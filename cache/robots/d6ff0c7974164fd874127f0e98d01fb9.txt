@@ -1,5 +1,0 @@
-1427735270
-http://www.tv-gamer.com
-http://www.tv-gamer.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/

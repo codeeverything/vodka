@@ -1,6 +1,0 @@
-1427891711
-http://ameriflux.lbl.gov
-http://ameriflux.lbl.gov/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Sitemap: http://ameriflux.lbl.gov/sitemap.xml

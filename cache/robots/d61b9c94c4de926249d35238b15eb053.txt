@@ -1,6 +1,0 @@
-1428244430
-http://budget-vacuums-review.toptenreviews.com
-http://budget-vacuums-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,7 +1,0 @@
-1428243812
-http://toni.podmanicki.com
-http://toni.podmanicki.com/robots.txt
-User-Agent: *
-Allow: /
-Disallow: /copyright/
-Sitemap: http://toni.podmanicki.com/sitemap.xml

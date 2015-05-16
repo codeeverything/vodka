@@ -1,5 +1,0 @@
-1428234734
-http://drugmonkey.scientopia.org
-http://drugmonkey.scientopia.org/robots.txt
-User-agent: *
-Disallow: /wp-admin/

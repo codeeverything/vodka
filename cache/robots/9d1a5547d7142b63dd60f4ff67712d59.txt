@@ -1,6 +1,0 @@
-1428245005
-http://home-generators-review.toptenreviews.com
-http://home-generators-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428422608
-http://bez-rozgrzewki.przegladsportowy.pl
-http://bez-rozgrzewki.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

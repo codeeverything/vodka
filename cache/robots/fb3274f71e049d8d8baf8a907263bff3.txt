@@ -1,5 +1,0 @@
-1427891376
-http://ucat.osu.edu
-http://ucat.osu.edu/robots.txt
-User-agent: *
-Disallow: /wordpress/wp-admin/

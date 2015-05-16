@@ -1,5 +1,0 @@
-1428420477
-http://www.wynagrodzenia.pl
-http://www.wynagrodzenia.pl/robots.txt
-User-agent: *
-Disallow: /new/

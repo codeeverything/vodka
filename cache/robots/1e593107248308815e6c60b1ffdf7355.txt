@@ -1,9 +1,0 @@
-1427735622
-http://i.benshouji.com
-http://i.benshouji.com/robots.txt
-#
-# robots.txt for Discuz! X3
-#
-
-User-agent: *
-Disallow: /*.php

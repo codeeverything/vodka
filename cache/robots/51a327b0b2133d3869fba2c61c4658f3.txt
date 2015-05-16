@@ -1,9 +1,0 @@
-1428422592
-http://okiem-mistrza.przegladsportowy.pl
-http://okiem-mistrza.przegladsportowy.pl/robots.txt
-1428419841
-http://okiem-mistrza.przegladsportowy.pl
-http://okiem-mistrza.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

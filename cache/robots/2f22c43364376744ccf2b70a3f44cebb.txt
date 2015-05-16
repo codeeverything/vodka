@@ -1,6 +1,0 @@
-1428242407
-http://web-hosting-review.toptenreviews.com
-http://web-hosting-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

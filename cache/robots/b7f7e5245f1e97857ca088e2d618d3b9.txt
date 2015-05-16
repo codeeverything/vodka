@@ -1,6 +1,0 @@
-1428244836
-http://food-warmers-review.toptenreviews.com
-http://food-warmers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

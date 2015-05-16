@@ -1,7 +1,0 @@
-1428418391
-http://www.tolo.ro
-http://www.tolo.ro/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-
-Sitemap: http://www.tolo.ro/sitemap.xml

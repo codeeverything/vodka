@@ -1,6 +1,0 @@
-1428244970
-http://tool-chests-review.toptenreviews.com
-http://tool-chests-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

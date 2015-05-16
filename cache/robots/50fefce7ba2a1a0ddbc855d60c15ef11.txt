@@ -1,8 +1,0 @@
-1428159069
-http://developer.ted.com
-http://developer.ted.com/robots.txt
-1427891147
-http://developer.ted.com
-http://developer.ted.com/robots.txt
-User-agent: *
-Disallow: 

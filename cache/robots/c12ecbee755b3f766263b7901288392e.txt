@@ -1,6 +1,0 @@
-1428242417
-http://credit-report-review.toptenreviews.com
-http://credit-report-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

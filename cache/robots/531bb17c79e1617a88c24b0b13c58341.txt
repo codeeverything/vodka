@@ -1,6 +1,0 @@
-1428244486
-http://chest-freezers-review.toptenreviews.com
-http://chest-freezers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

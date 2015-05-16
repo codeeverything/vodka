@@ -1,6 +1,0 @@
-1428244895
-http://shop-vac-review.toptenreviews.com
-http://shop-vac-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

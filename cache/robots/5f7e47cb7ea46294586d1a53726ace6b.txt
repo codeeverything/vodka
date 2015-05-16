@@ -1,6 +1,0 @@
-1428244951
-http://table-saws-review.toptenreviews.com
-http://table-saws-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

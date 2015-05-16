@@ -1,5 +1,0 @@
-1427802345
-http://pay.8090yxs.com
-http://pay.8090yxs.com/robots.txt
-User-agent: *
-Disallow: /

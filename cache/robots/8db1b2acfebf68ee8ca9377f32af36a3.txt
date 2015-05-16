@@ -1,3 +1,0 @@
-1428234814
-https://cloud.torproject.org
-https://cloud.torproject.org/robots.txt

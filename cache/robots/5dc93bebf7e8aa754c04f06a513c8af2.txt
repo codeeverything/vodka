@@ -1,9 +1,0 @@
-1427821823
-http://rubyconf.ph
-http://rubyconf.ph/robots.txt
-1427818482
-http://rubyconf.ph/
-http://rubyconf.ph/robots.txt
-1427804058
-http://rubyconf.ph/
-http://rubyconf.ph/robots.txt

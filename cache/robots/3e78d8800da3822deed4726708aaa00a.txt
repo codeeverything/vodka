@@ -1,6 +1,0 @@
-1428244371
-http://label-makers-review.toptenreviews.com
-http://label-makers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428422558
-http://zapach-szatni.przegladsportowy.pl
-http://zapach-szatni.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

@@ -1,5 +1,0 @@
-1428243610
-http://www.aykutaslantas.com
-http://www.aykutaslantas.com/robots.txt
-User-agent: *
-Disallow:

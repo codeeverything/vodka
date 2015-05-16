@@ -1,8 +1,0 @@
-1428234846
-http://www.macfound.org
-http://www.macfound.org/robots.txt
-User-agent: *
-Disallow: /search/
-Disallow: /maceirecipients/search/
-Disallow: /fellows/search/
-Disallow: /grants/

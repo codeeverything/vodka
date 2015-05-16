@@ -1,6 +1,0 @@
-1428417458
-http://www.topgearstuff.co.za
-http://www.topgearstuff.co.za/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

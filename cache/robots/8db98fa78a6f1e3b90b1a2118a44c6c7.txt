@@ -1,6 +1,0 @@
-1428422560
-http://czeskifutbol.przegladsportowy.pl
-http://czeskifutbol.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

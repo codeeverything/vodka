@@ -1,7 +1,0 @@
-1428234590
-http://finance.yahoo.com
-http://finance.yahoo.com/robots.txt
-User-agent: *
-Disallow: /print/
-Sitemap: http://finance.yahoo.com/sitemap.xml
-Sitemap: http://finance.yahoo.com/seo_sm_finance_xml

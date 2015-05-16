@@ -1,9 +1,0 @@
-1428241755
-http://www.rcuk.ac.uk
-http://www.rcuk.ac.uk/robots.txt
-User-agent: *
-Crawl-Delay: 5
-Disallow: /admin/
-Disallow: /tasks/
-Disallow: /requirements/
-Disallow: /config/

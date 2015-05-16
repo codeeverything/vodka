@@ -1,6 +1,0 @@
-1428244627
-http://dutch-ovens-review.toptenreviews.com
-http://dutch-ovens-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

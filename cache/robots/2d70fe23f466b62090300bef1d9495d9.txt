@@ -1,6 +1,0 @@
-1428422628
-http://outsider.przegladsportowy.pl
-http://outsider.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

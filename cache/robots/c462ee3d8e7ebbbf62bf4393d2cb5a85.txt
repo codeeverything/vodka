@@ -1,6 +1,0 @@
-1428420900
-http://advertise.summitmedia.com.ph
-http://advertise.summitmedia.com.ph/robots.txt
-# robotstxt.org/
-
-User-agent: *

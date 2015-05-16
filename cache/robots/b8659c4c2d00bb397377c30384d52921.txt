@@ -1,6 +1,0 @@
-1428244326
-http://rice-cookers-review.toptenreviews.com
-http://rice-cookers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

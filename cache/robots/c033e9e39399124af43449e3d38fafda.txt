@@ -1,5 +1,0 @@
-1428422416
-https://webmail.bmts.com
-https://webmail.bmts.com/robots.txt
-User-agent: *
-Disallow: /

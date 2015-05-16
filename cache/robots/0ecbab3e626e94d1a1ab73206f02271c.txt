@@ -1,8 +1,0 @@
-1427911013
-https://www.icann.org/news/announcement-2-2015-03-18-en
-https://www.icann.org/robots.txt
-1427891252
-https://www.icann.org/stewardship-accountability
-https://www.icann.org/robots.txt
-User-agent: *
-Crawl-delay: 10

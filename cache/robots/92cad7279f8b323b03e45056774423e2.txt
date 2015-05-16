@@ -1,8 +1,0 @@
-1427911711
-http://www.morganclaypool.com
-http://www.morganclaypool.com/robots.txt
-User-agent: *
-Disallow: /
-
-User-agent: Googlebot
-Disallow: /action

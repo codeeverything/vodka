@@ -1,6 +1,0 @@
-1428244599
-http://donut-makers-review.toptenreviews.com
-http://donut-makers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

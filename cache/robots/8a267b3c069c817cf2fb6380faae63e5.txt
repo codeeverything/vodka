@@ -1,6 +1,0 @@
-1428422588
-http://smiganie-szmiga.przegladsportowy.pl
-http://smiganie-szmiga.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

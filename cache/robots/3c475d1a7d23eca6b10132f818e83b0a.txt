@@ -1,9 +1,0 @@
-1428422185
-http://www.the-dma.org
-http://www.the-dma.org/robots.txt
-User-agent: *
-Disallow: /
-
-User-agent: *
-Disallow: /notavailable.shtml
-Disallow: /cgi/gensecureorder3

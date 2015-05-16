@@ -1,7 +1,0 @@
-1427735411
-http://svg-edit.googlecode.com
-http://svg-edit.googlecode.com/robots.txt
-User-agent: *
-Disallow: /archive/*
-Disallow: /p/*/archive/*
-Disallow: /id/*/archive/*

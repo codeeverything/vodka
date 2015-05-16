@@ -1,6 +1,0 @@
-1428244771
-http://fitness-trackers-review.toptenreviews.com
-http://fitness-trackers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

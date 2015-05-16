@@ -1,8 +1,0 @@
-1427717204
-http://www.epic-premier.com
-http://www.epic-premier.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-content/plugins/vimeography/lib/shared/assets/
-
-Sitemap: http://www.epic-premier.com/sitemap.xml.gz

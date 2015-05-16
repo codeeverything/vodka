@@ -1,6 +1,0 @@
-1428244995
-http://vacuum-food-sealers-review.toptenreviews.com
-http://vacuum-food-sealers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

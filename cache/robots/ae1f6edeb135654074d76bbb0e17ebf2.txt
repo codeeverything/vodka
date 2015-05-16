@@ -1,6 +1,0 @@
-1428244379
-http://mobility-scooters-review.toptenreviews.com
-http://mobility-scooters-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

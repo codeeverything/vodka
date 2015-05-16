@@ -1,6 +1,0 @@
-1428244896
-http://gas-grills-review.toptenreviews.com
-http://gas-grills-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

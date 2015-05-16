@@ -1,5 +1,0 @@
-1428159091
-http://www.iw3c2.org
-http://www.iw3c2.org/robots.txt
-User-agent: *
-Disallow: /mailman/

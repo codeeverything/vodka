@@ -1,8 +1,0 @@
-1428235409
-http://www.vpnaccounts.com
-http://www.vpnaccounts.com/robots.txt
-1428234967
-http://www.vpnaccounts.com
-http://www.vpnaccounts.com/robots.txt
-User-agent: *
-Disallow:

@@ -1,5 +1,0 @@
-1428241709
-http://www.gunshowatl.com
-http://www.gunshowatl.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/

@@ -1,6 +1,0 @@
-1428242389
-http://photo-book-review.toptenreviews.com
-http://photo-book-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

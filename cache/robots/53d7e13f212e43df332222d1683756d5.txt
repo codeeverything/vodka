@@ -1,6 +1,0 @@
-1428244675
-http://electric-knives-and-slicers-review.toptenreviews.com
-http://electric-knives-and-slicers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

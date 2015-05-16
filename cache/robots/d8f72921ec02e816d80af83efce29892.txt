@@ -1,6 +1,0 @@
-1427819027
-http://pycodeconf.s3.amazonaws.com/PyCodeConf2011Sponsor.pdf
-http://pycodeconf.s3.amazonaws.com/robots.txt
-1427805009
-http://pycodeconf.s3.amazonaws.com/PyCodeConf2011Sponsor.pdf
-http://pycodeconf.s3.amazonaws.com/robots.txt

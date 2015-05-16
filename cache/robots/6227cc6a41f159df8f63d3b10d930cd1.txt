@@ -1,6 +1,0 @@
-1428419885
-http://www.blagobox.ru
-http://www.blagobox.ru/robots.txt
-User-agent: *
-Disallow:
-Host: www.blago-box.ru

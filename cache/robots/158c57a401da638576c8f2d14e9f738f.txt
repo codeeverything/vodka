@@ -1,5 +1,0 @@
-1428420367
-http://www.realclearsports.com
-http://www.realclearsports.com/robots.txt
-User-agent: *
-Disallow: /adminpolls/

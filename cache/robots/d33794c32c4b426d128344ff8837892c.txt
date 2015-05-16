@@ -1,5 +1,0 @@
-1428242373
-http://mobile-technology.toptenreviews.com
-http://mobile-technology.toptenreviews.com/robots.txt
-User-Agent: *
-		Allow: /

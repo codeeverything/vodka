@@ -1,6 +1,0 @@
-1428244849
-http://pretzel-makers-review.toptenreviews.com
-http://pretzel-makers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

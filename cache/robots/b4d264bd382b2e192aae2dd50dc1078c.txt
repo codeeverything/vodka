@@ -1,9 +1,0 @@
-1428234756
-http://www.easychair.org
-http://www.easychair.org/robots.txt
-User-agent: Sosospider
-Disallow: /conferences/
-
-User-agent: *
-Disallow: /statistics/
-Disallow: /smart-slide/slides/

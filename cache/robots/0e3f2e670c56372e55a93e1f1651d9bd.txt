@@ -1,5 +1,0 @@
-1428420373
-http://www.realclearworld.com
-http://www.realclearworld.com/robots.txt
-User-agent: *
-Disallow: /adminpolls/

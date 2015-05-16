@@ -1,7 +1,0 @@
-1427820257
-http://www.gnome.org/projects/gnumeric
-http://www.gnome.org/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-
-Sitemap: https://www.gnome.org/sitemap.xml

@@ -1,5 +1,0 @@
-1428243650
-http://feedburner.google.com
-http://feedburner.google.com/robots.txt
-User-agent: *
-Disallow: /

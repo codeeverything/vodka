@@ -1,6 +1,0 @@
-1428420235
-http://bilety.przegladsportowy.pl
-http://bilety.przegladsportowy.pl/robots.txt
-User-agent: *
-
-Disallow: /

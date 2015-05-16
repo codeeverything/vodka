@@ -1,6 +1,0 @@
-1428244827
-http://food-steamers-review.toptenreviews.com
-http://food-steamers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

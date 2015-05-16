@@ -1,6 +1,0 @@
-1428422222
-http://blog.saatchigallery.com/finding-banksy-london
-http://blog.saatchigallery.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

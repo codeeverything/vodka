@@ -1,6 +1,0 @@
-1428244905
-http://slow-cookers-review.toptenreviews.com
-http://slow-cookers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

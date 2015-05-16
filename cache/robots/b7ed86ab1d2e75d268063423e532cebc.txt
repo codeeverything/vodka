@@ -1,6 +1,0 @@
-1428244885
-http://gas-cooktop-review.toptenreviews.com
-http://gas-cooktop-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

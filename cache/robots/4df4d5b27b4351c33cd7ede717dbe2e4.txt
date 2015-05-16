@@ -1,6 +1,0 @@
-1428244756
-http://night-vision-goggles-review.toptenreviews.com
-http://night-vision-goggles-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

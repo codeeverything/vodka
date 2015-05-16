@@ -1,6 +1,0 @@
-1428244345
-http://top-load-washing-machine-review.toptenreviews.com
-http://top-load-washing-machine-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,5 +1,0 @@
-1428244745
-http://www.improbable.com/ig/winners/#ig2005
-http://www.improbable.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/

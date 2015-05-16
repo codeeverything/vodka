@@ -1,9 +1,0 @@
-1428159052
-http://www.secode.com
-http://www.secode.com/robots.txt
-1427891152
-http://www.secode.com
-http://www.secode.com/robots.txt
-User-agent: *
-Disallow: /wordpress/wp-admin/
-Disallow: /wordpress/wp-includes/

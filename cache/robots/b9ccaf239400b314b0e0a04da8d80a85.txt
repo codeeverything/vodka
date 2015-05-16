@@ -1,6 +1,0 @@
-1428244893
-http://gas-furnaces-review.toptenreviews.com
-http://gas-furnaces-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

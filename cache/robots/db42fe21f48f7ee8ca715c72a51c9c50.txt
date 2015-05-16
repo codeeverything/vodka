@@ -1,6 +1,0 @@
-1428244942
-http://hammocks-review.toptenreviews.com
-http://hammocks-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

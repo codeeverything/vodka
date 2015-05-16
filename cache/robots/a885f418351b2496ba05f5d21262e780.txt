@@ -1,9 +1,0 @@
-1427805188
-http://g.co/maps/yxmq5
-http://g.co/robots.txt
-User-agent: *
-Disallow: /action/
-Disallow: /api/
-Disallow: /info/
-Disallow: /static/
-Disallow: /urlshortener/api/

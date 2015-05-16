@@ -1,6 +1,0 @@
-1428242350
-http://time-card-software-review.toptenreviews.com
-http://time-card-software-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

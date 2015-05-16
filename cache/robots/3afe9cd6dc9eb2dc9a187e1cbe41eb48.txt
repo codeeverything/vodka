@@ -1,6 +1,0 @@
-1428242499
-http://email-marketing-service-review.toptenreviews.com
-http://email-marketing-service-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

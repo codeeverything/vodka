@@ -1,6 +1,0 @@
-1428244665
-http://juicers-review.toptenreviews.com
-http://juicers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

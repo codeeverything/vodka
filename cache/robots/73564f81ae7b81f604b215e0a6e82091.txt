@@ -1,5 +1,0 @@
-1428243897
-http://www.heatherwick.com/rolling-bridge
-http://www.heatherwick.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/

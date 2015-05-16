@@ -1,6 +1,0 @@
-1428245034
-http://weed-whacker-review.toptenreviews.com
-http://weed-whacker-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

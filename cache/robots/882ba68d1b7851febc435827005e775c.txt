@@ -1,7 +1,0 @@
-1428420933
-http://spokogadzet.komputerswiat.pl
-http://spokogadzet.komputerswiat.pl/robots.txt
-User-agent: *
-Disallow:
-
-Sitemap: http://spokogadzet.komputerswiat.pl/sitemap.xml

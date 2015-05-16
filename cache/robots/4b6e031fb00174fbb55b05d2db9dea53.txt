@@ -1,5 +1,0 @@
-1428422155
-http://www.aaf.org
-http://www.aaf.org/robots.txt
-User-agent: *
-Disallow: /

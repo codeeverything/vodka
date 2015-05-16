@@ -1,5 +1,0 @@
-1427735284
-http://www.testbird.com
-http://www.testbird.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/

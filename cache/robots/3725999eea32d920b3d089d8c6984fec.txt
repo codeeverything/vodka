@@ -1,6 +1,0 @@
-1428244930
-http://hair-dryers-review.toptenreviews.com
-http://hair-dryers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

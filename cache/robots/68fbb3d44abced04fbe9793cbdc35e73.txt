@@ -1,6 +1,0 @@
-1428244476
-http://cfl-bulbs-review.toptenreviews.com
-http://cfl-bulbs-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

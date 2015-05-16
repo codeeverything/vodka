@@ -1,6 +1,0 @@
-1427736503
-http://www.ppswan.com
-http://www.ppswan.com/robots.txt
-User-agent: *
-Disallow: /*?*
-Disallow: /e/

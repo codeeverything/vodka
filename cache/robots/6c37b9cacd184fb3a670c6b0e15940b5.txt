@@ -1,6 +1,0 @@
-1428242365
-http://electronics.toptenreviews.com
-http://electronics.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

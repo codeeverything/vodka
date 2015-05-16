@@ -1,8 +1,0 @@
-1428417207
-http://uktvplay.uktv.co.uk
-http://uktvplay.uktv.co.uk/robots.txt
-1428241795
-http://uktvplay.uktv.co.uk
-http://uktvplay.uktv.co.uk/robots.txt
-User-agent: *
-Disallow:

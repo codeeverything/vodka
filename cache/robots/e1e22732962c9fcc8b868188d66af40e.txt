@@ -1,6 +1,0 @@
-1428244646
-http://electric-blankets-review.toptenreviews.com
-http://electric-blankets-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,7 +1,0 @@
-1428236955
-http://www.nailfactory.org.uk
-http://www.nailfactory.org.uk/robots.txt
-User-agent: *
-Disallow: /mail/
-Disallow: /css/
-Disallow: /Archive-test.htm

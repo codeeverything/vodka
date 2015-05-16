@@ -1,6 +1,0 @@
-1428244360
-http://air-compressors-review.toptenreviews.com
-http://air-compressors-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

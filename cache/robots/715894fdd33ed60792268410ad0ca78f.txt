@@ -1,8 +1,0 @@
-1427735151
-http://www.twitch.tv/gdca
-http://www.twitch.tv/robots.txt
-User-Agent: *
-Disallow: /user/*
-Disallow: /admin/*
-Disallow: /login
-Disallow: /signup

@@ -1,6 +1,0 @@
-1428245022
-http://water-filter-systems-review.toptenreviews.com
-http://water-filter-systems-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

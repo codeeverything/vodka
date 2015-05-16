@@ -1,6 +1,0 @@
-1428244556
-http://deep-fryers-review.toptenreviews.com
-http://deep-fryers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

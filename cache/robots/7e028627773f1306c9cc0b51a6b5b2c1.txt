@@ -1,5 +1,0 @@
-1428496883
-http://dave.uktv.co.uk
-http://dave.uktv.co.uk/robots.txt
-User-agent: *
-Disallow:

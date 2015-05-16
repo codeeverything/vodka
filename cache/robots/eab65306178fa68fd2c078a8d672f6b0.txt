@@ -1,8 +1,0 @@
-1427891583
-http://www.ixmaps.ca/index.php
-http://www.ixmaps.ca/robots.txt
-User-agent: *
-Disallow: /cgi-bin/
-Disallow: /images/
-Disallow: /ge/
-Disallow: /trsets/

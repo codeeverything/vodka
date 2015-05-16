@@ -1,6 +1,0 @@
-1428244637
-http://egg-cookers-review.toptenreviews.com
-http://egg-cookers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

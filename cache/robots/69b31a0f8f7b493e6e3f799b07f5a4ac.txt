@@ -1,6 +1,0 @@
-1428418477
-http://m.rambler.ru
-http://m.rambler.ru/robots.txt
-User-agent: *
-Disallow: /proxy/*
-Disallow: /search/*

@@ -1,9 +1,0 @@
-1427822534
-http://pythondependency.herokuapp.com/#1
-http://pythondependency.herokuapp.com/robots.txt
-1427818989
-http://pythondependency.herokuapp.com/#1
-http://pythondependency.herokuapp.com/robots.txt
-1427804991
-http://pythondependency.herokuapp.com/#1
-http://pythondependency.herokuapp.com/robots.txt

@@ -1,5 +1,0 @@
-1427891096
-http://www.ohio-statefacultyclub.com
-http://www.ohio-statefacultyclub.com/robots.txt
-User-agent: *
-Disallow:

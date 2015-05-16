@@ -1,6 +1,0 @@
-1427633551
-http://c.moreover.com/click/here.pl?z15070294572&z=1650249688
-http://c.moreover.com/robots.txt
-User-agent: *
-Disallow: /
-

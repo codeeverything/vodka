@@ -1,6 +1,0 @@
-1428244968
-http://toaster-ovens-review.toptenreviews.com
-http://toaster-ovens-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

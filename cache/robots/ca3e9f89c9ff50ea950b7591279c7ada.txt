@@ -1,6 +1,0 @@
-1428245052
-http://hot-plates-review.toptenreviews.com
-http://hot-plates-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428418491
-http://reklama.rambler.ru
-http://reklama.rambler.ru/robots.txt
-User-agent: *
-Disallow: /static/
-Disallow: /media/

@@ -1,8 +1,0 @@
-1427958469
-http://www.icann.org
-http://www.icann.org/robots.txt
-1427890909
-http://www.icann.org
-http://www.icann.org/robots.txt
-User-agent: *
-Crawl-delay: 10

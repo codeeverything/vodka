@@ -1,5 +1,0 @@
-1428236737
-http://blog.zazzle.com
-http://blog.zazzle.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/

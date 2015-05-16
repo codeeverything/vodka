@@ -1,6 +1,0 @@
-1428242483
-http://home-design-software-review.toptenreviews.com
-http://home-design-software-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

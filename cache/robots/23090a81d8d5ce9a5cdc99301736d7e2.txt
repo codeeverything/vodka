@@ -1,6 +1,0 @@
-1428244324
-http://meat-smokers-review.toptenreviews.com
-http://meat-smokers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

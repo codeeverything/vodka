@@ -1,6 +1,0 @@
-1428242408
-http://background-check-services-review.toptenreviews.com
-http://background-check-services-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

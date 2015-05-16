@@ -1,6 +1,0 @@
-1428242460
-http://identity-theft-protection-services-review.toptenreviews.com
-http://identity-theft-protection-services-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

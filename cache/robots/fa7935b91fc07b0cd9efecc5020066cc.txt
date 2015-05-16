@@ -1,6 +1,0 @@
-1428244804
-http://popcorn-maker-review.toptenreviews.com
-http://popcorn-maker-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428244478
-http://chain-saws-review.toptenreviews.com
-http://chain-saws-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

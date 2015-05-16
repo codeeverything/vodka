@@ -1,8 +1,0 @@
-1428236963
-http://www.zachfeuer.com
-http://www.zachfeuer.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-
-Sitemap: http://www.zachfeuer.com/sitemap.xml.gz

@@ -1,7 +1,0 @@
-1427891800
-http://shop.ohiostatebuckeyes.com
-http://shop.ohiostatebuckeyes.com/robots.txt
-User-agent: *
-Sitemap: http://shop.ohiostatebuckeyes.com/sitemap.xml.gz
-Disallow: /pwr/83cs3fjp/rawdata/
-Disallow: /pwr/83cs3fjp/debug.html

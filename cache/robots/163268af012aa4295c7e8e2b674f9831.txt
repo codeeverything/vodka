@@ -1,6 +1,0 @@
-1428244547
-http://curling-irons-review.toptenreviews.com
-http://curling-irons-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

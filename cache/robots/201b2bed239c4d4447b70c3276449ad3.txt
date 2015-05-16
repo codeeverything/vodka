@@ -1,6 +1,0 @@
-1428422472
-http://bulgarska-5-przez-7.przegladsportowy.pl
-http://bulgarska-5-przez-7.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

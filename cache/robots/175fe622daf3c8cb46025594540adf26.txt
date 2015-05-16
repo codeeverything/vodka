@@ -1,8 +1,0 @@
-1427823575
-http://help.twitter.com/entries/109623
-http://help.twitter.com/robots.txt
-1427806036
-http://help.twitter.com/entries/109623
-http://help.twitter.com/robots.txt
-User-agent: *
-Disallow: /

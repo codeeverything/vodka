@@ -1,6 +1,0 @@
-1428244468
-http://led-light-bulbs-review.toptenreviews.com
-http://led-light-bulbs-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

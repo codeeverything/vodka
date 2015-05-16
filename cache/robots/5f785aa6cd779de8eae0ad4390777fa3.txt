@@ -1,6 +1,0 @@
-1427800494
-http://www.cwan.com
-http://www.cwan.com/robots.txt
-User-agent: *
-Disallow: 
-Disallow: /webgame/zsj/gonglue/2014/0805/

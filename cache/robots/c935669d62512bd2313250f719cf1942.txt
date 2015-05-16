@@ -1,6 +1,0 @@
-1428422535
-http://jak-kuba-na-blogu.przegladsportowy.pl
-http://jak-kuba-na-blogu.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

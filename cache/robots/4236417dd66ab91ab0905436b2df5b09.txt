@@ -1,6 +1,0 @@
-1428244624
-http://dryers-review.toptenreviews.com
-http://dryers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

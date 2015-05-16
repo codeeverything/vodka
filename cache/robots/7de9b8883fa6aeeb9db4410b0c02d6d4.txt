@@ -1,6 +1,0 @@
-1428244344
-http://walk-in-tubs-review.toptenreviews.com
-http://walk-in-tubs-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

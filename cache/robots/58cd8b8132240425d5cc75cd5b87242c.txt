@@ -1,5 +1,0 @@
-1428244395
-http://www.pcprofessor.com
-http://www.pcprofessor.com/robots.txt
-User-agent: ia_archiver
-Disallow: /

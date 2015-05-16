@@ -1,6 +1,0 @@
-1428422594
-http://tak-sie-skladak.przegladsportowy.pl
-http://tak-sie-skladak.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

@@ -1,7 +1,0 @@
-1428236949
-http://www.guggenheim.org
-http://www.guggenheim.org/robots.txt
-User-agent: *
-Crawl-delay: 30
-Allow: /
-Disallow: /*?*print=1

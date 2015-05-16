@@ -1,6 +1,0 @@
-1428234507
-https://citp.princeton.edu
-https://citp.princeton.edu/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

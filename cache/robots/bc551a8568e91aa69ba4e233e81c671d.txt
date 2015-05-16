@@ -1,6 +1,0 @@
-1428422570
-http://kick-and-run.przegladsportowy.pl
-http://kick-and-run.przegladsportowy.pl/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

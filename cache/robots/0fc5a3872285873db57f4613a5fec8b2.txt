@@ -1,7 +1,0 @@
-1428418854
-http://www.foxdeportes.com
-http://www.foxdeportes.com/robots.txt
-# www.robotstxt.org/
-# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
-
-User-agent: *

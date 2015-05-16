@@ -1,9 +1,0 @@
-1428422272
-http://blogi.newsweek.pl
-http://blogi.newsweek.pl/robots.txt
-User-agent: *
-
-Disallow: /Autor/Kotlinski/
-
-Disallow: /Tekst/polityka-polska/687400,izabela-lukomska-pyzalska-okradziona-zona-gangstera.html
-Allow: /

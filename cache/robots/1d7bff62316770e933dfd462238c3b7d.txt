@@ -1,8 +1,0 @@
-1427735579
-http://android.gamedog.cn
-http://android.gamedog.cn/robots.txt
-User-agent: *
-Disallow: /index.html
-Disallow: /*?* 
-Disallow: /index.html?*
-Sitemap: http://www.gamedog.cn/sitemap.xml

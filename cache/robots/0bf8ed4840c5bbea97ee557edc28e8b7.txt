@@ -1,6 +1,0 @@
-1428242405
-http://home-security-systems-review.toptenreviews.com
-http://home-security-systems-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

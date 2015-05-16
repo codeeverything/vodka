@@ -1,6 +1,0 @@
-1428244824
-http://food-scales-review.toptenreviews.com
-http://food-scales-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

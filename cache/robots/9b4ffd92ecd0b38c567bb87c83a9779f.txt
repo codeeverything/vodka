@@ -1,6 +1,0 @@
-1428244918
-http://glucometers-review.toptenreviews.com
-http://glucometers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

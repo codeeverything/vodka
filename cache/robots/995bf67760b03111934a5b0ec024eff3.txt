@@ -1,9 +1,0 @@
-1427701157
-http://goo.gl/8k1zIY
-http://goo.gl/robots.txt
-User-agent: *
-Disallow: /action/
-Disallow: /api/
-Disallow: /info/
-Disallow: /static/
-Disallow: /urlshortener/api/

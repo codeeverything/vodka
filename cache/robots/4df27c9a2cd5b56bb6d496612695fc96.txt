@@ -1,4 +1,0 @@
-1428244542
-http://www.king-cart.com
-http://www.king-cart.com/robots.txt
-Crawl-delay: 1

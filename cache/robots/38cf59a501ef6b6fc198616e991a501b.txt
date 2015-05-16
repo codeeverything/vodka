@@ -1,6 +1,0 @@
-1428244696
-http://electric-string-trimmer-review.toptenreviews.com
-http://electric-string-trimmer-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

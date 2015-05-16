@@ -1,8 +1,0 @@
-1427910790
-http://ipo.lbl.gov
-http://ipo.lbl.gov/robots.txt
-1427910597
-http://ipo.lbl.gov
-http://ipo.lbl.gov/robots.txt
-User-agent: *
-Disallow: /wp-admin/

@@ -1,5 +1,0 @@
-1428244001
-http://www.twyford-advertiser.co.uk
-http://www.twyford-advertiser.co.uk/robots.txt
-User-agent: * 
-Allow: /

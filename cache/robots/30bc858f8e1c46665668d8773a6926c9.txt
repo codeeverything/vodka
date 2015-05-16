@@ -1,7 +1,0 @@
-1428418688
-http://www.smartusa.com
-http://www.smartusa.com/robots.txt
-User-agent: *
-Disallow: /*smart-search-results.aspx 
-Disallow: /*?PrinterFriendly=
-Disallow: /*?qa

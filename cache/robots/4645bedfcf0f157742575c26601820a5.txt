@@ -1,6 +1,0 @@
-1428244698
-http://massage-chairs-review.toptenreviews.com
-http://massage-chairs-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,5 +1,0 @@
-1427891504
-http://www.supelec.fr/Welcome.html
-http://www.supelec.fr/robots.txt
-User-agent: *
-Disallow:

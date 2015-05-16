@@ -1,6 +1,0 @@
-1428244941
-http://stairlifts-review.toptenreviews.com
-http://stairlifts-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428242396
-http://medical-alert-systems-review.toptenreviews.com
-http://medical-alert-systems-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

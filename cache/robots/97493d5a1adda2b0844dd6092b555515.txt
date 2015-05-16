@@ -1,6 +1,0 @@
-1428244657
-http://electric-cooktop-review.toptenreviews.com
-http://electric-cooktop-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

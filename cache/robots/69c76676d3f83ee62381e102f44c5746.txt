@@ -1,9 +1,0 @@
-1428417206
-http://m.goodfoodchannel.co.uk
-http://m.goodfoodchannel.co.uk/robots.txt
-1428241788
-http://m.goodfoodchannel.co.uk
-http://m.goodfoodchannel.co.uk/robots.txt
-SITEMAP: http://m.goodfoodchannel.co.uk/sitemap.xml
-
-User-agent: *

@@ -1,5 +1,0 @@
-1427630187
-http://www.lsb-golzern.ch/main.html?src=%2F
-http://www.lsb-golzern.ch/robots.txt
-User-agent: *
-Allow: /

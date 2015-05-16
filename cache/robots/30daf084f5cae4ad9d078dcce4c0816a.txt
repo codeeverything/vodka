@@ -1,6 +1,0 @@
-1428244984
-http://treadmill-review.toptenreviews.com
-http://treadmill-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

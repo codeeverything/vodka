@@ -1,6 +1,0 @@
-1428244741
-http://energy-efficient-light-bulbs-review.toptenreviews.com
-http://energy-efficient-light-bulbs-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

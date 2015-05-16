@@ -1,6 +1,0 @@
-1428244676
-http://electric-lawn-mowers-review.toptenreviews.com
-http://electric-lawn-mowers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1428244488
-http://memory-foam-mattress-review.toptenreviews.com
-http://memory-foam-mattress-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1427735373
-http://a.deveria.com
-http://a.deveria.com/robots.txt
-User-agent: *
-Disallow: /wordpress/wp-admin/
-Disallow: /wordpress/wp-includes/

@@ -1,6 +1,0 @@
-1428245016
-http://washer-dryer-combo-review.toptenreviews.com
-http://washer-dryer-combo-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

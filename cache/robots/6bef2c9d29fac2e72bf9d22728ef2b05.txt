@@ -1,6 +1,0 @@
-1428244454
-http://ceiling-fans-review.toptenreviews.com
-http://ceiling-fans-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

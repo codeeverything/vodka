@@ -1,6 +1,0 @@
-1428242471
-http://document-management-software-review.toptenreviews.com
-http://document-management-software-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

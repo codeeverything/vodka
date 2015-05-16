@@ -1,6 +1,0 @@
-1428242490
-http://dishwasher-review.toptenreviews.com
-http://dishwasher-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

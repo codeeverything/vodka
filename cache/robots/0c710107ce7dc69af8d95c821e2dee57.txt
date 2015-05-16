@@ -1,6 +1,0 @@
-1428420441
-http://www.forbesmedia.com
-http://www.forbesmedia.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

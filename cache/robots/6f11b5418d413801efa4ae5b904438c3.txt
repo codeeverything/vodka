@@ -1,6 +1,0 @@
-1428244917
-http://snow-blowers-review.toptenreviews.com
-http://snow-blowers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

@@ -1,6 +1,0 @@
-1427735688
-http://a.3533.com
-http://a.3533.com/robots.txt
-User-agent: *
-Disallow:/search/
-Allow: /

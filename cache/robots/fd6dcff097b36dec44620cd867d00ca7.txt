@@ -1,6 +1,0 @@
-1427735334
-http://youtui.mobi/
-http://youtui.mobi/robots.txt
-User-agent: * 
-allow: /
-Sitemap: http://youtui.mobi/

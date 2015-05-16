@@ -1,5 +1,0 @@
-1427735324
-https://info.veracode.com/apply-to-become-a-partner.html
-https://info.veracode.com/robots.txt
-User-agent: *
-Allow: /

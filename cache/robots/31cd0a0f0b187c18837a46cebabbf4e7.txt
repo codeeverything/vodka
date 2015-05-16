@@ -1,9 +1,0 @@
-1427822998
-http://gizmodo.com/genius-faceplate-puts-usb-ports-on-your-wall-with-no-wi-1693186539
-http://gizmodo.com/robots.txt
-1427819469
-http://gizmodo.com/genius-faceplate-puts-usb-ports-on-your-wall-with-no-wi-1693186539
-http://gizmodo.com/robots.txt
-User-agent: *
-Disallow:
-Sitemap: http://gizmodo.com/sitemap.xml

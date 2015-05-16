@@ -1,7 +1,0 @@
-1428421802
-https://rh.foxlatinamericanchannels.com
-https://rh.foxlatinamericanchannels.com/robots.txt
-User-agent: *
-Disallow: /
-Allow: /index.html
-Allow: /index/contact.html

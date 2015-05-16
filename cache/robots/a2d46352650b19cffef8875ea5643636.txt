@@ -1,6 +1,0 @@
-1428244589
-http://digital-grill-thermometers-review.toptenreviews.com
-http://digital-grill-thermometers-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

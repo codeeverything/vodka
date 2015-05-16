@@ -1,5 +1,0 @@
-1428417557
-http://topgearrussia.metabar.ru
-http://topgearrussia.metabar.ru/robots.txt
-User-agent: *
-Allow: /

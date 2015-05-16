@@ -1,6 +1,0 @@
-1428234564
-http://www.serverintellect.com
-http://www.serverintellect.com/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/

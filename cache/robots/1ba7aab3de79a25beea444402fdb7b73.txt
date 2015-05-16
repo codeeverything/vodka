@@ -1,9 +1,0 @@
-1427701146
-http://spinroot.com/
-http://spinroot.com/robots.txt
-User-agent: *
-Disallow: /course/contents/
-Disallow: /course/yes/
-Disallow: /spin/Doc/approved/
-Disallow: /spin/Doc/Book91_PDF/
-Disallow: /gh/

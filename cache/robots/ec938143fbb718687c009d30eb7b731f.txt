@@ -1,6 +1,0 @@
-1428244614
-http://trash-compactors-review.toptenreviews.com
-http://trash-compactors-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /

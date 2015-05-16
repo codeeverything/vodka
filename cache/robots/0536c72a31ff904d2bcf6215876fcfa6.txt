@@ -1,6 +1,0 @@
-1428244712
-http://electric-wheelchairs-review.toptenreviews.com
-http://electric-wheelchairs-review.toptenreviews.com/robots.txt
-
-User-Agent: *
-Allow: /
