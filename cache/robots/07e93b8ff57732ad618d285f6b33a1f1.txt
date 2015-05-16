@@ -1,0 +1,30 @@
+1427735208
+http://vimeo.com/70630841
+http://vimeo.com/robots.txt
+# You know, for robots
+#
+# robots@vimeo.com
+
+Sitemap: https://vimeo-sitemaps.storage.googleapis.com/master.xml.gz
+Sitemap: https://vimeo-sitemaps.storage.googleapis.com/latest.xml.gz
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Crawl-delay: 0
+Disallow: /download/
+Disallow: /*/download?
+Disallow: /moogaloop/
+Disallow: /couchmode/
+Disallow: /musicstore/preview
+Disallow: /musicstore/download
+Disallow: /settings
+Disallow: /forgot_password
+Disallow: /help/forgot_login
+Disallow: /help/verify_email
+Disallow: /api
+Disallow: /user/verify
+Disallow: /search/
+Disallow: /search?
+Disallow: /_

@@ -1,0 +1,800 @@
+1427734472
+http://www.playxbla.com
+http://www.playxbla.com/robots.txt
+<!doctype html>
+	<!--[if !IE]>
+	<html class="no-js non-ie" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+	<!--[if IE 7 ]>
+	<html class="no-js ie7" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+	<!--[if IE 8 ]>
+	<html class="no-js ie8" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+	<!--[if IE 9 ]>
+	<html class="no-js ie9" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+	<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Microsoft Studios Blog</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.microsoftstudiosblog.com/xmlrpc.php">
+
+<!-- favicon -->
+
+
+<!--[if IE]><![endif]-->
+
+
+	<style type="text/css">
+		#fancybox-close{right:-15px;top:-15px}
+		div#fancybox-content{border-color:#FFFFFF}
+		div#fancybox-title{background-color:#FFFFFF}
+		div#fancybox-outer{background-color:#FFFFFF}
+		div#fancybox-title-inside{color:#333333}
+	</style>
+
+	<link rel="alternate" type="application/rss+xml" title="Microsoft Studios Blog &raquo; Feed" href="http://www.microsoftstudiosblog.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Microsoft Studios Blog &raquo; Comments Feed" href="http://www.microsoftstudiosblog.com/comments/feed/" />
+<link rel='stylesheet' id='easy-social-share-buttons-css'  href='http://www.microsoftstudiosblog.com/wp-content/plugins/easy-social-share-buttons/assets/css/light-retina/easy-social-share-buttons.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-mail-css'  href='http://www.microsoftstudiosblog.com/wp-content/plugins/easy-social-share-buttons/assets/css/essb-mailform.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.microsoftstudiosblog.com/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lsb-style-css'  href='http://www.microsoftstudiosblog.com/wp-content/plugins/live-stream-badger/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-bootstrap-css'  href='http://www.microsoftstudiosblog.com/wp-content/themes/sparkling/inc/css/bootstrap.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-icons-css'  href='http://www.microsoftstudiosblog.com/wp-content/themes/sparkling/inc/css/font-awesome.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C600%2C700%7CRoboto+Slab%3A400%2C300%2C700&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-style-css'  href='http://www.microsoftstudiosblog.com/wp-content/themes/sparkling_child/style.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.microsoftstudiosblog.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.microsoftstudiosblog.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.microsoftstudiosblog.com/wp-content/plugins/fancybox-for-wordpress/fancybox/jquery.fancybox.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://www.microsoftstudiosblog.com/wp-content/themes/sparkling/inc/js/modernizr.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.microsoftstudiosblog.com/wp-content/themes/sparkling/inc/js/bootstrap.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.microsoftstudiosblog.com/wp-content/themes/sparkling/inc/js/functions.min.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.microsoftstudiosblog.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.microsoftstudiosblog.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+
+<meta property="og:type" content="website" />
+<link rel="publisher" href="https://plus.google.com/104105961298099940227/posts"/>
+
+<style type="text/css">.essb_hide_name a:hover .essb_network_name, .essb_hide_name a:focus .essb_network_name { display: none !important; }.essb_hide_name a:hover .essb_icon, .essb_hide_name a:focus .essb_icon { margin-right: 0px !important; margin-left: 0px !important; }@media only screen and (max-width: 767px) { .essb_fixed { left: 5px !important; } }@media only screen and (max-width: 479px) { .essb_fixed { left: 5px !important; } }.essb_fixed { margin: 0; }.essb_links { text-align: center;}.essb_more_popup { z-index: 999; }.essb_more_popup_content { padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px; margin: 0; text-align: center; }.essb_more_popup_shadow { position:fixed; _position:absolute; /* hack for IE 6*/ height:100%; width:100%; top:0; left:0; background: rgba(99, 99, 99, 0.3); z-index:998; display: none; }.essb_more_popup_button_close { position: absolute; top:5px; right: 0;}.essb_more_popup_button_close a, .essb_more_popup_button_close a:hover { background: none; background-color: none; border: none; font-weight: bold; text-decoration: none; color: #333; padding-right: 5px; margin-top: 5px;}</style>
+<!-- Fancybox for WordPress -->
+<script type="text/javascript">
+jQuery(function(){
+
+jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+	var arr = jQuery("a.fancybox");
+	jQuery.each(arr, function() {
+		var title = jQuery(this).children("img").attr("title");
+		jQuery(this).attr('title',title);
+	})
+}
+
+// Supported file extensions
+var thumbnails = jQuery("a:has(img)").not(".nolightbox").filter( function() { return /\.(jpe?g|png|gif|bmp)$/i.test(jQuery(this).attr('href')) });
+
+thumbnails.addClass("fancybox").attr("rel","fancybox").getTitle();
+jQuery("a.fancybox").fancybox({
+	'cyclic': false,
+	'autoScale': true,
+	'padding': 10,
+	'opacity': true,
+	'speedIn': 500,
+	'speedOut': 500,
+	'changeSpeed': 300,
+	'overlayShow': true,
+	'overlayOpacity': "0.3",
+	'overlayColor': "#666666",
+	'titleShow': true,
+	'titlePosition': 'inside',
+	'enableEscapeButton': true,
+	'showCloseButton': true,
+	'showNavArrows': true,
+	'hideOnOverlayClick': true,
+	'hideOnContentClick': false,
+	'width': 560,
+	'height': 340,
+	'transitionIn': "fade",
+	'transitionOut': "fade",
+	'centerOnScroll': true
+});
+
+
+})
+</script>
+<!-- END Fancybox for WordPress -->
+<style type="text/css">.btn-default, .label-default, .flex-caption h2, .btn.btn-default.read-more, button {background-color: #595959; border-color: #595959;} .site-main [class*="navigation"] a, .more-link { color: #595959}.btn-default:hover, .label-default[href]:hover, .tagcloud a:hover, button, .main-content [class*="navigation"] a:hover, .label-default[href]:focus, #infinite-handle span:hover, .btn.btn-default.read-more:hover, .btn-default:hover, .scroll-to-top:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .site-main [class*="navigation"] a:hover, .more-link:hover, #image-navigation .nav-previous a:hover, #image-navigation .nav-next a:hover, .cfa-button:hover { background-color: #595959; border-color: #595959; }.cfa { background-color: #6d6d6d; } .cfa-button:hover a {color: #6d6d6d;}.navbar.navbar-default {background-color: #000000;}.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .entry-title a:hover {color: #ffffff;}.dropdown-menu {background-color: #000000;}.navbar-default .navbar-nav .open .dropdown-menu > li > a, .dropdown-menu > li > a { color: #f9f9f9;}.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {background-color: #686868; color:#ffffff}.entry-content {font-family: Open Sans; font-size:14px; font-weight: normal; color:#6B6B6B;}/*  */
+aside#reallysimpletwitterwidget-4  { margin-bottom: 3px !important }</style><!-- Google Analytics code -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-50556501-1', 'auto');
+	ga('set', 'forceSSL', true);
+	ga('require', 'displayfeatures');
+	ga('send','pageview');
+
+</script>
+<!-- /GA code -->
+</head>
+
+<body class="home blog custom-background group-blog">
+<div id="page" class="hfeed site">
+
+	<header id="masthead" class="site-header" role="banner">
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="container">
+				<div class="row">
+					<div class="site-navigation-inner col-sm-12">
+		        <div class="navbar-header">
+		            <button type="button" class="btn navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+		                <span class="sr-only">Toggle navigation</span>
+		                <span class="icon-bar"></span>
+		                <span class="icon-bar"></span>
+		                <span class="icon-bar"></span>
+		            </button>
+
+				
+					<div id="logo">
+						<a href="http://www.microsoftstudios.com"><img src="http://studiosblog.azurewebsites.net/wp-content/uploads/2014/12/MSStudiosBlog_76xHigh-shorter7.png"  height="76" width="746" alt="Microsoft Studios Blog"/></a>
+					</div><!-- end of #logo -->
+
+				
+				
+		        </div>
+					<div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-navigation" class="nav navbar-nav"><li id="menu-item-50885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50885 dropdown"><a title="Facebook" href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon dropdown-header"></span>&nbsp;Facebook <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-50878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50878"><a title="Age of Empires" href="https://www.facebook.com/ageofempires">Age of Empires</a></li>
+	<li id="menu-item-50879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50879"><a title="D4: Dark Dreams Don’t Die" href="https://www.facebook.com/pages/D4-Dark-Dreams-Dont-Die/843336535696618">D4: Dark Dreams Don’t Die</a></li>
+	<li id="menu-item-50880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50880"><a title="Forza Motorsport" href="https://www.facebook.com/forzamotorsport">Forza Motorsport</a></li>
+	<li id="menu-item-52264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52264"><a title="Gears of War" href="https://www.facebook.com/gearsofwar">Gears of War</a></li>
+	<li id="menu-item-50882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50882"><a title="Happy Wars" href="https://www.facebook.com/HappyWars">Happy Wars</a></li>
+	<li id="menu-item-50881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50881"><a title="Halo" href="https://www.facebook.com/Halo">Halo</a></li>
+	<li id="menu-item-50883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50883"><a title="Killer Instinct" href="https://www.facebook.com/officialkillerinstinct">Killer Instinct</a></li>
+	<li id="menu-item-50884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50884"><a title="Major Nelson" href="https://www.facebook.com/majornelson">Major Nelson</a></li>
+	<li id="menu-item-50894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50894"><a title="MSN Games" href="https://www.facebook.com/msngames">MSN Games</a></li>
+	<li id="menu-item-50887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50887"><a title="Microsoft Bingo" href="https://www.facebook.com/microsoftbingo">Microsoft Bingo</a></li>
+	<li id="menu-item-50888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50888"><a title="Microsoft Jigsaw" href="https://www.facebook.com/microsoftjigsaw">Microsoft Jigsaw</a></li>
+	<li id="menu-item-50889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50889"><a title="Microsoft Mahjong" href="https://www.facebook.com/microsoftmahjong">Microsoft Mahjong</a></li>
+	<li id="menu-item-50890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50890"><a title="Microsoft Minesweeper" href="https://www.facebook.com/microsoftminesweeper">Microsoft Minesweeper</a></li>
+	<li id="menu-item-50891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50891"><a title="Microsoft Solitaire" href="https://www.facebook.com/microsoftsolitaire">Microsoft Solitaire</a></li>
+	<li id="menu-item-50892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50892"><a title="Microsoft Sudoku" href="https://www.facebook.com/microsoftsudoku">Microsoft Sudoku</a></li>
+	<li id="menu-item-50893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50893"><a title="Microsoft Treasure Hunt" href="https://www.facebook.com/mstreasurehunt">Microsoft Treasure Hunt</a></li>
+	<li id="menu-item-50895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50895"><a title="Ori and the Blind Forest" href="https://www.facebook.com/oriblindforest">Ori and the Blind Forest</a></li>
+	<li id="menu-item-50896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50896"><a title="Project Spark" href="https://www.facebook.com/joinprojectspark">Project Spark</a></li>
+	<li id="menu-item-50897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50897"><a title="Rise of Nations" href="https://www.facebook.com/RiseofNationsEE">Rise of Nations</a></li>
+	<li id="menu-item-50898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50898"><a title="State of Decay" href="https://www.facebook.com/UndeadLabs?ref=br_tf">State of Decay</a></li>
+	<li id="menu-item-50899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50899"><a title="Sunset Overdrive" href="https://www.facebook.com/SunsetOverdriveGame">Sunset Overdrive</a></li>
+	<li id="menu-item-50900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50900"><a title="Wordament" href="https://www.facebook.com/wordament">Wordament</a></li>
+	<li id="menu-item-50901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50901"><a title="World of Tanks: Xbox 360" href="https://www.facebook.com/WoTXbox">World of Tanks: Xbox 360</a></li>
+	<li id="menu-item-50902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50902"><a title="Xbox" href="https://www.facebook.com/xbox">Xbox</a></li>
+	<li id="menu-item-50903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50903"><a title="Zoo Tycoon Friends" href="https://www.facebook.com/ZooTycoonGame">Zoo Tycoon Friends</a></li>
+</ul>
+</li>
+<li id="menu-item-50904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50904 dropdown"><a title="Twitter" href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon dropdown-header"></span>&nbsp;Twitter <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-50905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50905"><a title="@AgeOfEmpires" href="https://twitter.com/AgeOfEmpires">@AgeOfEmpires</a></li>
+	<li id="menu-item-50906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50906"><a title="@ForzaMotorsport" href="https://twitter.com/ForzaMotorsport">@ForzaMotorsport</a></li>
+	<li id="menu-item-52266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52266"><a title="@GearsOfWar" href="https://twitter.com/GearsofWar">@GearsOfWar</a></li>
+	<li id="menu-item-50907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50907"><a title="@Halo" href="https://twitter.com/Halo">@Halo</a></li>
+	<li id="menu-item-50908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50908"><a title="@HappyWars" href="https://twitter.com/HappyWars">@HappyWars</a></li>
+	<li id="menu-item-50909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50909"><a title="@majornelson" href="https://twitter.com/majornelson">@majornelson</a></li>
+	<li id="menu-item-50910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50910"><a title="@MSCasualGames" href="https://twitter.com/MSCasualGames">@MSCasualGames</a></li>
+	<li id="menu-item-50911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50911"><a title="@MSN_Games" href="https://twitter.com/MSN_Games">@MSN_Games</a></li>
+	<li id="menu-item-51062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51062"><a title="@msstudiosblog" href="https://twitter.com/msstudiosblog">@msstudiosblog</a></li>
+	<li id="menu-item-50912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50912"><a title="@OriBlindForest" href="https://twitter.com/OriBlindForest">@OriBlindForest</a></li>
+	<li id="menu-item-50913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50913"><a title="@proj_spark" href="https://twitter.com/proj_spark">@proj_spark</a></li>
+	<li id="menu-item-50914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50914"><a title="@SunsetOverdive" href="https://twitter.com/SunsetOverdrive">@SunsetOverdive</a></li>
+	<li id="menu-item-50915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50915"><a title="@Wordament" href="https://twitter.com/Wordament">@Wordament</a></li>
+	<li id="menu-item-50916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50916"><a title="@WoTXbox" href="https://twitter.com/WoTXbox">@WoTXbox</a></li>
+	<li id="menu-item-50917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50917"><a title="@Xbox" href="https://twitter.com/Xbox">@Xbox</a></li>
+	<li id="menu-item-51058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51058"><a title="@xboxwire" href="https://twitter.com/xboxwire">@xboxwire</a></li>
+</ul>
+</li>
+<li id="menu-item-50949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50949 dropdown"><a title="Other" href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon dropdown-header"></span>&nbsp;Other <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-50920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50920"><a title="Twitch: Age of Empires" href="http://www.twitch.tv/ageofempires">Twitch: Age of Empires</a></li>
+	<li id="menu-item-50921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50921"><a title="Twitch: Forza Motorsport" href="http://www.twitch.tv/forzamotorsport">Twitch: Forza Motorsport</a></li>
+	<li id="menu-item-50922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50922"><a title="Twitch: Halo" href="http://www.twitch.tv/halo">Twitch: Halo</a></li>
+	<li id="menu-item-52080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52080"><a title="Twitch: Killer Instinct" href="http://www.twitch.tv/killerinstinct">Twitch: Killer Instinct</a></li>
+	<li id="menu-item-50923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50923"><a title="Twitch: Microsoft Studios Games" href="http://www.twitch.tv/microsoftstudiosgames">Twitch: Microsoft Studios Games</a></li>
+	<li id="menu-item-50924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50924"><a title="Twitch: Project Spark" href="http://www.twitch.tv/project_spark">Twitch: Project Spark</a></li>
+	<li id="menu-item-50925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50925"><a title="Twitch: Xbox" href="http://www.twitch.tv/xbox">Twitch: Xbox</a></li>
+	<li id="menu-item-50928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50928"><a title="YouTube: Age of Empires" href="https://www.youtube.com/user/officialageofempires">YouTube: Age of Empires</a></li>
+	<li id="menu-item-50929" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50929"><a title="YouTube: Minecraft" href="https://www.youtube.com/channel/UCQvWX73GQygcwXOTSf_VDVg">YouTube: Minecraft</a></li>
+	<li id="menu-item-50930" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50930"><a title="YouTube: Rise of Nations" href="https://www.youtube.com/user/riseofnationsee">YouTube: Rise of Nations</a></li>
+	<li id="menu-item-50931" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50931"><a title="YouTube: Xbox" href="https://www.youtube.com/channel/UCjBp_7RuDBUYbd1LegWEJ8g">YouTube: Xbox</a></li>
+	<li id="menu-item-50945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50945"><a title="G+: Age of Empires" href="https://plus.google.com/104035324391741028258/posts">G+: Age of Empires</a></li>
+	<li id="menu-item-50946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50946"><a title="G+: Halo" href="https://plus.google.com/communities/116727400604511924288">G+: Halo</a></li>
+	<li id="menu-item-50947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50947"><a title="G+: Microsoft Casual Games" href="https://plus.google.com/105176728771695651983/posts">G+: Microsoft Casual Games</a></li>
+	<li id="menu-item-50948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50948"><a title="G+: Wordament" href="https://plus.google.com/106921505634450871502/posts">G+: Wordament</a></li>
+	<li id="menu-item-50939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50939"><a title="Instagram: Halo" href="http://instagram.com/halo">Instagram: Halo</a></li>
+	<li id="menu-item-50940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50940"><a title="Instagram: Microsoft Studios Community Team" href="http://instagram.com/team_scrappy">Instagram: Microsoft Studios Community Team</a></li>
+	<li id="menu-item-50941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50941"><a title="Instagram: Xbox" href="http://instagram.com/xbox">Instagram: Xbox</a></li>
+	<li id="menu-item-50943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50943"><a title="Tumblr: Xbox" href="http://xbox.tumblr.com/">Tumblr: Xbox</a></li>
+	<li id="menu-item-50973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50973"><a title="Pinterest: Age of Empires" href="http://www.pinterest.com/ageofempires/">Pinterest: Age of Empires</a></li>
+	<li id="menu-item-50934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50934"><a title="Pinterest: Microsoft Store" href="http://www.pinterest.com/microsoftstore/">Pinterest: Microsoft Store</a></li>
+	<li id="menu-item-50974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50974"><a title="Pinterest: Microsoft Studios" href="http://www.pinterest.com/MSStudios/">Pinterest: Microsoft Studios</a></li>
+	<li id="menu-item-50935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50935"><a title="Pinterest: PlayXBLA" href="http://www.pinterest.com/PlayXBLA/">Pinterest: PlayXBLA</a></li>
+	<li id="menu-item-50936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50936"><a title="Pinterest: Project Spark" href="http://www.pinterest.com/projectspark/">Pinterest: Project Spark</a></li>
+	<li id="menu-item-50937" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50937"><a title="Pinterest: Xbox" href="http://www.pinterest.com/xbox/">Pinterest: Xbox</a></li>
+</ul>
+</li>
+</ul></div>					</div>
+		    </div>
+		  </div>
+		</nav><!-- .site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+			<div class="top-section">
+											</div>
+
+		<div class="container main-content-area">
+			<div class="row">
+				<div id="content" class="main-content-inner col-sm-12 col-md-8 pull-left">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+						
+				
+<article id="post-54110" class="post-54110 post type-post status-publish format-standard hentry category-killer-instinct-2 tag-killer-instinct">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/hisako-trailer-this-weeks-episode-of-the-combo-break/" title="Hisako Trailer &amp; This Weeks Episode of The Combo Break" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/hisako-trailer-this-weeks-episode-of-the-combo-break/" rel="bookmark">Hisako Trailer &#038; This Weeks Episode of The Combo Break</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/hisako-trailer-this-weeks-episode-of-the-combo-break/" rel="bookmark"><time class="entry-date published" datetime="2015-03-27T16:14:32+00:00">March 27, 2015</time><time class="updated" datetime="2015-03-27T16:15:31+00:00">March 27, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/v-comoor/">Collin Moore</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/hisako-trailer-this-weeks-episode-of-the-combo-break/#respond" title="Comment on Hisako Trailer &amp; This Weeks Episode of The Combo Break"><span class="dsq-postid" data-dsqidentifier="54110 http://www.microsoftstudiosblog.com/?p=54110">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p><a href="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/hisako.jpg"><img class="alignnone size-large wp-image-54111" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/hisako.jpg" alt="hisako" width="648" height="364" /></a></p>
+<p>Another big week for Killer Instinct with the release of the latest character, Hisako! Sacrificing herself to save her town over 450 years ago, her spirit has been awaken and she now walks the Earth seeking vengeance on those who disturbed her rest. Not someone you really want to mess with.</p>
+<p> <a href="http://www.microsoftstudiosblog.com/hisako-trailer-this-weeks-episode-of-the-combo-break/#more-54110" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/hisako-trailer-this-weeks-episode-of-the-combo-break/" title="Hisako Trailer &amp; This Weeks Episode of The Combo Break">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54098" class="post-54098 post type-post status-publish format-standard hentry category-minecraft category-releases-and-content-announcements category-xbox-360 category-xbox-one tag-dlc tag-minecraft tag-pattern-texture-pack">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/mcpattern/" title="Pattern Texture Pack now available for Minecraft on Xbox" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/mcpattern/" rel="bookmark">Pattern Texture Pack now available for Minecraft on Xbox</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/mcpattern/" rel="bookmark"><time class="entry-date published" datetime="2015-03-26T21:39:05+00:00">March 26, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/helenangel/">HelenAngel</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/mcpattern/#respond" title="Comment on Pattern Texture Pack now available for Minecraft on Xbox"><span class="dsq-postid" data-dsqidentifier="54098 http://www.microsoftstudiosblog.com/?p=54098">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p><a href="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/patternpacklogo.png"><img class="aligncenter size-large wp-image-54099" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/patternpacklogo-1024x576.png" alt="Minecraft Pattern Texture Pack" width="648" height="364" /></a></p>
+<p>Now available for all <em>Minecraft</em> console editions for $0.99 USD, the “Pattern Texture Pack” allows players to decorate their <em>Minecraft</em> worlds with bright colors, beautiful patterns and knitted animals.</p>
+<p>The pack also provides a pattern-themed UI and stylized texture set that can be applied to new or previously created <em>Minecraft</em> worlds.</p>
+<p>Be sure to tune into the Minecraft Community livestream on <a href="http://twitch.tv/microsoftstudios">http://twitch.tv/microsoftstudios</a> on Friday March 27th at 2:30 pm Pacific to see the pack in action.</p>
+<p>&nbsp;</p>
+<p>More images behind the cut!</p>
+<p> <a href="http://www.microsoftstudiosblog.com/mcpattern/#more-54098" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/mcpattern/" title="Pattern Texture Pack now available for Minecraft on Xbox">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54092" class="post-54092 post type-post status-publish format-standard hentry category-rise-of-nations category-windows-games">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/54092/" title="Rise of Nations Nation Spotlight: The Spanish" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/54092/" rel="bookmark">Rise of Nations Nation Spotlight: The Spanish</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/54092/" rel="bookmark"><time class="entry-date published" datetime="2015-03-26T14:16:58+00:00">March 26, 2015</time><time class="updated" datetime="2015-03-26T14:18:09+00:00">March 26, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/iamprezsteve/">IamPREZSTEVE</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/54092/#respond" title="Comment on Rise of Nations Nation Spotlight: The Spanish"><span class="dsq-postid" data-dsqidentifier="54092 http://www.microsoftstudiosblog.com/?p=54092">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p>Greetings from Rise of Nations HQ! Nation Spotlight is a feature where we take a closer look at the nations playable in Rise of Nations to discuss their strengths and unique strategies. This week, we’re shining the spotlight on the Spanish.</p>
+<p><img class="aligncenter" src="http://compass.xboxlive.com/assets/50/3b/503b7d44-8649-4036-9c37-bc7ab0e3c9a4.jpg?n=ron.jpg" alt="" width="600" height="338" /></p>
+<p> <a href="http://www.microsoftstudiosblog.com/54092/#more-54092" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/54092/" title="Rise of Nations Nation Spotlight: The Spanish">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54085" class="post-54085 post type-post status-publish format-standard hentry category-fan-content category-ori-and-the-blind-forest category-windows-games category-xbox-one">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-guilles-fan-art/" title="Ori and the Blind Forest – Guille’s Fan Art" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-guilles-fan-art/" rel="bookmark">Ori and the Blind Forest – Guille’s Fan Art</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-guilles-fan-art/" rel="bookmark"><time class="entry-date published" datetime="2015-03-26T09:31:32+00:00">March 26, 2015</time><time class="updated" datetime="2015-03-26T10:24:49+00:00">March 26, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/garmonbozia81/">Garmonbozia81</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-guilles-fan-art/#respond" title="Comment on Ori and the Blind Forest – Guille’s Fan Art"><span class="dsq-postid" data-dsqidentifier="54085 http://www.microsoftstudiosblog.com/?p=54085">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p><a href="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/02/16to9_forMSStudiosBlog_Ori.jpg"><img class="aligncenter size-full wp-image-53707" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/02/16to9_forMSStudiosBlog_Ori.jpg" alt="Ori art finds" width="800" height="450" /></a></p>
+<p>Welcome back to another Ori and the Blind Forest fan art blog. This week’s beautiful image was found on Twitter and comes from user Guille (Twitter handle ‏<a href="https://twitter.com/khnoumecthelion">@khnoumecthelion</a>), who found some real-life resemblance in the game&#8217;s characters.</p>
+<p> <a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-guilles-fan-art/#more-54085" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-guilles-fan-art/" title="Ori and the Blind Forest – Guille’s Fan Art">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54059" class="post-54059 post type-post status-publish format-standard hentry category-happy-wars category-releases-and-content-announcements category-xbox-360">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/happy-wars-happy-cards-bargain-extreme-style-match-and-more/" title="Happy Wars – Happy Cards Bargain, Extreme Style Match, and More" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/happy-wars-happy-cards-bargain-extreme-style-match-and-more/" rel="bookmark">Happy Wars – Happy Cards Bargain, Extreme Style Match, and More</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/happy-wars-happy-cards-bargain-extreme-style-match-and-more/" rel="bookmark"><time class="entry-date published" datetime="2015-03-26T08:30:49+00:00">March 26, 2015</time><time class="updated" datetime="2015-03-25T09:08:20+00:00">March 25, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/garmonbozia81/">Garmonbozia81</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/happy-wars-happy-cards-bargain-extreme-style-match-and-more/#respond" title="Comment on Happy Wars – Happy Cards Bargain, Extreme Style Match, and More"><span class="dsq-postid" data-dsqidentifier="54059 http://www.microsoftstudiosblog.com/?p=54059">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p><a href="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/3-23_1.jpg"><img class="aligncenter size-full wp-image-54060" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/3-23_1.jpg" alt="3-23_1" width="538" height="302" /></a></p>
+<p>Find out all the details about the Happy Wars Campaign, “Extreme Style Match&#8221;, the new items for the Warrior, a new buff, and great deals in this week&#8217;s Happy Wars blog.</p>
+<p> <a href="http://www.microsoftstudiosblog.com/happy-wars-happy-cards-bargain-extreme-style-match-and-more/#more-54059" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/happy-wars-happy-cards-bargain-extreme-style-match-and-more/" title="Happy Wars – Happy Cards Bargain, Extreme Style Match, and More">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54082" class="post-54082 post type-post status-publish format-standard hentry category-contests category-events category-gears-of-war category-xbox-360">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/gears-of-war-contest-why-you-love-gears/" title="Gears of War Contest: Why You Love Gears" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/gears-of-war-contest-why-you-love-gears/" rel="bookmark">Gears of War Contest: Why You Love Gears</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/gears-of-war-contest-why-you-love-gears/" rel="bookmark"><time class="entry-date published" datetime="2015-03-25T15:08:04+00:00">March 25, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/iamprezsteve/">IamPREZSTEVE</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/gears-of-war-contest-why-you-love-gears/#respond" title="Comment on Gears of War Contest: Why You Love Gears"><span class="dsq-postid" data-dsqidentifier="54082 http://www.microsoftstudiosblog.com/?p=54082">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p>Hey Gears Nation! Do you love Gears of War? Sure you do, so why not turn that love into a chance to win some awesome prizes? Hit the jump for details.</p>
+<p><a href="https://forums.gearsofwar.com/showthread.php?5746-OFFICIAL-CONTEST-Why-You-Love-Gears%21-%28Swag%21%29"><img class="aligncenter size-full wp-image-54083" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/whyyoulovegears.jpg" alt="whyyoulovegears" width="900" height="506" /></a> <a href="http://www.microsoftstudiosblog.com/gears-of-war-contest-why-you-love-gears/#more-54082" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/gears-of-war-contest-why-you-love-gears/" title="Gears of War Contest: Why You Love Gears">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54071" class="post-54071 post type-post status-publish format-standard hentry category-ori-and-the-blind-forest category-windows-games category-xbox-one">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-paper-carousel/" title="Ori and the Blind Forest – Paper Carousel" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-paper-carousel/" rel="bookmark">Ori and the Blind Forest – Paper Carousel</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-paper-carousel/" rel="bookmark"><time class="entry-date published" datetime="2015-03-25T11:00:56+00:00">March 25, 2015</time><time class="updated" datetime="2015-03-25T12:26:31+00:00">March 25, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/garmonbozia81/">Garmonbozia81</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-paper-carousel/#respond" title="Comment on Ori and the Blind Forest – Paper Carousel"><span class="dsq-postid" data-dsqidentifier="54071 http://www.microsoftstudiosblog.com/?p=54071">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<figure id="attachment_54076" class="thumbnail wp-caption aligncenter" style="width: 658px"><a href="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/Carousel3.jpg"><img class="wp-image-54076 size-large" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/Carousel3-e1427301462419-1024x577.jpg" alt="Carousel3" width="648" height="365" /></a><figcaption class="caption wp-caption-text">Ori carousel with the Ginso Tree, screenshots from the game, and contest winner fan art</figcaption></figure>
+<p>Hey, Ori fans! Today, we have some cool stuff to share with you. If you have been following our blog, you know that we hosted an <a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-on-campus-employee-launch-event-stream/">Ori employee event</a> on the Microsoft campus last week. As part of this event, we had a live stream, demo stations, and some freebies. One of those free items can be yours now.<br />
+ <a href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-paper-carousel/#more-54071" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/ori-and-the-blind-forest-paper-carousel/" title="Ori and the Blind Forest – Paper Carousel">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54055" class="post-54055 post type-post status-publish format-standard hentry category-fan-content category-mechwarrior-online category-releases-and-content-announcements category-sales-and-promotions category-windows-games">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/54055/" title="MechWarrior Online Weekly: Community Spotlight, Killer Deals, UrbanMech, and more!" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/54055/" rel="bookmark">MechWarrior Online Weekly: Community Spotlight, Killer Deals, UrbanMech, and more!</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/54055/" rel="bookmark"><time class="entry-date published" datetime="2015-03-24T16:36:21+00:00">March 24, 2015</time><time class="updated" datetime="2015-03-24T16:37:19+00:00">March 24, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/iamprezsteve/">IamPREZSTEVE</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/54055/#respond" title="Comment on MechWarrior Online Weekly: Community Spotlight, Killer Deals, UrbanMech, and more!"><span class="dsq-postid" data-dsqidentifier="54055 http://www.microsoftstudiosblog.com/?p=54055">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p>Welcome back to MechWarrior Online Weekly, where we keep all you MechWarriors out there caught up on the exciting things happening with the game! Hit the jump to see what’s new this week.</p>
+<p><img class="alignleft" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/mwo.jpg" alt="" width="603" height="339" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p> <a href="http://www.microsoftstudiosblog.com/54055/#more-54055" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/54055/" title="MechWarrior Online Weekly: Community Spotlight, Killer Deals, UrbanMech, and more!">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54045" class="post-54045 post type-post status-publish format-standard hentry category-forza-motorsport tag-the-week-in-forza-motorsport">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/forza-mazda-mx-5-car-pack-invitational-and-fast-furious/" title="The Week in Forza Motorsport (24 MAR 2015)" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/forza-mazda-mx-5-car-pack-invitational-and-fast-furious/" rel="bookmark">The Week in Forza Motorsport (24 MAR 2015)</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/forza-mazda-mx-5-car-pack-invitational-and-fast-furious/" rel="bookmark"><time class="entry-date published" datetime="2015-03-24T13:00:58+00:00">March 24, 2015</time><time class="updated" datetime="2015-03-24T15:50:15+00:00">March 24, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/pamw/">Pamela Wang</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/forza-mazda-mx-5-car-pack-invitational-and-fast-furious/#respond" title="Comment on The Week in Forza Motorsport (24 MAR 2015)"><span class="dsq-postid" data-dsqidentifier="54045 http://www.microsoftstudiosblog.com/?p=54045">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p><a href="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/Forza_Motorsport_169AR.jpg"><img class="aligncenter size-large wp-image-53832" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/Forza_Motorsport_169AR-1024x576.jpg" alt="Print" width="648" height="364" /></a></p>
+<p>This week, we’ve got a look at the Mazda MX-5 Car Pack, which dropped last Tuesday, an update on the Forza Invitational, which debuts this Wednesday, and the upcoming launch of Forza Horizon 2 Presents Fast &amp; Furious, coming this Friday. And that’s not all! Buckle in people, and let’s hit this harder than Dominic Toretto hits the quarter mile!</p>
+<p><strong><br />
+Mazda MX-5 Car Pack</strong></p>
+<p>Free cars, am I right? Last week, we launched the free Mazda MX-5 Car Pack for Forza Horizon 2 on Xbox One, a four-pack of automotive awesomeness covering more than 20 years of Mazda sports car heritage. From the concept-only Mazda Super20 to the brand new 2016 Mazda MX-5, this pack is a treat for anyone who like small, zippy rides or, for older folks who remember being insanely jealous when their friends’ rich parents were snapping up 1990 Miata models for their spoiled kids! No, I’m not at all bitter. After all, like everyone else playing Forza Horizon 2, now I can hop in the new Miata of my choice and take a blast around southern Europe any time I want. Long live the roadster, indeed!</p>
+<p>&nbsp;</p>
+<p><iframe width="648" height="365" src="https://www.youtube.com/embed/a41v5aj0EzE?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p> <a href="http://www.microsoftstudiosblog.com/forza-mazda-mx-5-car-pack-invitational-and-fast-furious/#more-54045" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/forza-mazda-mx-5-car-pack-invitational-and-fast-furious/" title="The Week in Forza Motorsport (24 MAR 2015)">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-54043" class="post-54043 post type-post status-publish format-standard hentry category-age-of-empires-ii category-age-of-empires-iii category-age-of-empires-castle-siege category-age-of-mythology category-contests category-fan-content category-windows-games category-windows-phone">
+	<div class="blog-item-wrap">
+				<a href="http://www.microsoftstudiosblog.com/last-chance-to-win-in-the-age-of-empires-monthly-contest/" title="Last Chance to Win in the Age of Empires Monthly Contest!" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h1 class="entry-title"><a href="http://www.microsoftstudiosblog.com/last-chance-to-win-in-the-age-of-empires-monthly-contest/" rel="bookmark">Last Chance to Win in the Age of Empires Monthly Contest!</a></h1>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.microsoftstudiosblog.com/last-chance-to-win-in-the-age-of-empires-monthly-contest/" rel="bookmark"><time class="entry-date published" datetime="2015-03-24T11:18:49+00:00">March 24, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.microsoftstudiosblog.com/author/iamprezsteve/">IamPREZSTEVE</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="http://www.microsoftstudiosblog.com/last-chance-to-win-in-the-age-of-empires-monthly-contest/#respond" title="Comment on Last Chance to Win in the Age of Empires Monthly Contest!"><span class="dsq-postid" data-dsqidentifier="54043 http://www.microsoftstudiosblog.com/?p=54043">Leave a comment</span></a></span>
+				
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+					<p>Attention, Age of Empires fans! Do you want your chance to win fabulous Age of Empires prizes? Of course you do! However, time is running out, so open Photoshop or a fresh box of colored pencils and redesign your favorite Age of Empires game’s box cover!</p>
+<p><img class="aligncenter" src="http://www.microsoftstudiosblog.com/wp-content/uploads/2015/03/MSB1.jpg" alt="" width="599" height="337" /> <a href="http://www.microsoftstudiosblog.com/last-chance-to-win-in-the-age-of-empires-monthly-contest/#more-54043" class="more-link">(more&hellip;)</a></p>
+
+				<p><a class="btn btn-default read-more" href="http://www.microsoftstudiosblog.com/last-chance-to-win-in-the-age-of-empires-monthly-contest/" title="Last Chance to Win in the Age of Empires Monthly Contest!">Read More</a></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Posts navigation</h1>
+		<div class="nav-links">
+
+						<div class="nav-previous"> <a href="http://www.microsoftstudiosblog.com/page/2/" ><i class="fa fa-chevron-left"></i> Older posts</a></div>
+			
+			
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+</div>
+	<div id="secondary" class="widget-area col-sm-12 col-md-4" role="complementary">
+		<div class="well">
+						<aside id="search-2" class="widget widget_search"><form method="get" class="form-search" action="http://www.microsoftstudiosblog.com/">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="input-group">
+        <input type="text" class="form-control search-query" value="" name="s" id="s" placeholder="Search...">
+        <span class="input-group-btn">
+          <button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Go"><span class="glyphicon glyphicon-search"></span></button>
+        </span>
+      </div>
+    </div>
+  </div>
+</form></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='http://www.microsoftstudiosblog.com/2014/12/'>December 2014</a></li>
+	<li><a href='http://www.microsoftstudiosblog.com/2014/11/'>November 2014</a></li>
+	<li><a href='http://www.microsoftstudiosblog.com/2014/10/'>October 2014</a></li>
+	<li><a href='http://www.microsoftstudiosblog.com/2014/09/'>September 2014</a></li>
+	<li><a href='http://www.microsoftstudiosblog.com/2015/03/'>March 2015</a></li>
+	<li><a href='http://www.microsoftstudiosblog.com/2015/02/'>February 2015</a></li>
+	<li><a href='http://www.microsoftstudiosblog.com/2015/01/'>January 2015</a></li>
+		</ul>
+</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-865"><a href="http://www.microsoftstudiosblog.com/category/idarb/" >#IDARB</a>
+</li>
+	<li class="cat-item cat-item-820"><a href="http://www.microsoftstudiosblog.com/category/age-of-empires-ii/" >Age of Empires II</a>
+</li>
+	<li class="cat-item cat-item-825"><a href="http://www.microsoftstudiosblog.com/category/age-of-empires-iii/" >Age of Empires III</a>
+</li>
+	<li class="cat-item cat-item-80"><a href="http://www.microsoftstudiosblog.com/category/age-of-empires-castle-siege/" >Age of Empires: Castle Siege</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.microsoftstudiosblog.com/category/age-of-mythology/" >Age of Mythology</a>
+</li>
+	<li class="cat-item cat-item-892"><a href="http://www.microsoftstudiosblog.com/category/contests/" >Contests</a>
+</li>
+	<li class="cat-item cat-item-203"><a href="http://www.microsoftstudiosblog.com/category/crimson-dragon/" >Crimson Dragon</a>
+</li>
+	<li class="cat-item cat-item-809"><a href="http://www.microsoftstudiosblog.com/category/d4/" >D4</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.microsoftstudiosblog.com/category/events/" >Events</a>
+</li>
+	<li class="cat-item cat-item-831"><a href="http://www.microsoftstudiosblog.com/category/extra-life/" >Extra Life</a>
+</li>
+	<li class="cat-item cat-item-268"><a href="http://www.microsoftstudiosblog.com/category/fable-legends/" >Fable Legends</a>
+</li>
+	<li class="cat-item cat-item-893"><a href="http://www.microsoftstudiosblog.com/category/fan-content/" >Fan Content</a>
+</li>
+	<li class="cat-item cat-item-812"><a href="http://www.microsoftstudiosblog.com/category/featured-players/" >Featured Players</a>
+</li>
+	<li class="cat-item cat-item-866"><a href="http://www.microsoftstudiosblog.com/category/flight-simulator-x/" >Flight Simulator X</a>
+</li>
+	<li class="cat-item cat-item-840"><a href="http://www.microsoftstudiosblog.com/category/forza-motorsport/" >Forza Motorsport</a>
+</li>
+	<li class="cat-item cat-item-909"><a href="http://www.microsoftstudiosblog.com/category/gdc-2015/" >GDC 2015</a>
+</li>
+	<li class="cat-item cat-item-318"><a href="http://www.microsoftstudiosblog.com/category/gears-of-war/" >Gears of War</a>
+</li>
+	<li class="cat-item cat-item-344"><a href="http://www.microsoftstudiosblog.com/category/halo/" >Halo</a>
+</li>
+	<li class="cat-item cat-item-347"><a href="http://www.microsoftstudiosblog.com/category/happy-wars/" >Happy Wars</a>
+</li>
+	<li class="cat-item cat-item-864"><a href="http://www.microsoftstudiosblog.com/category/idxbox/" >ID@Xbox</a>
+</li>
+	<li class="cat-item cat-item-1924"><a href="http://www.microsoftstudiosblog.com/category/inside-microsoft-studios/" >Inside Microsoft Studios</a>
+</li>
+	<li class="cat-item cat-item-827"><a href="http://www.microsoftstudiosblog.com/category/just-press-pause/" >Just Press Pause</a>
+</li>
+	<li class="cat-item cat-item-838"><a href="http://www.microsoftstudiosblog.com/category/kalimba/" >Kalimba</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.microsoftstudiosblog.com/category/killer-instinct-2/" >Killer Instinct</a>
+</li>
+	<li class="cat-item cat-item-841"><a href="http://www.microsoftstudiosblog.com/category/magic-2015/" >Magic 2015</a>
+</li>
+	<li class="cat-item cat-item-837"><a href="http://www.microsoftstudiosblog.com/category/mark-of-the-ninja-2/" >Mark of the Ninja</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.microsoftstudiosblog.com/category/max-the-curse-of-brotherhood/" >Max: The Curse of Brotherhood</a>
+</li>
+	<li class="cat-item cat-item-878"><a href="http://www.microsoftstudiosblog.com/category/mechwarrior-online/" >MechWarrior Online</a>
+</li>
+	<li class="cat-item cat-item-815"><a href="http://www.microsoftstudiosblog.com/category/microsoft-bingo/" >Microsoft Bingo</a>
+</li>
+	<li class="cat-item cat-item-821"><a href="http://www.microsoftstudiosblog.com/category/microsoft-casual-games/" >Microsoft Casual Games</a>
+</li>
+	<li class="cat-item cat-item-871"><a href="http://www.microsoftstudiosblog.com/category/microsoft-jackpot/" >Microsoft Jackpot</a>
+</li>
+	<li class="cat-item cat-item-814"><a href="http://www.microsoftstudiosblog.com/category/microsoft-jigsaw/" >Microsoft Jigsaw</a>
+</li>
+	<li class="cat-item cat-item-829"><a href="http://www.microsoftstudiosblog.com/category/microsoft-minesweeper/" >Microsoft Minesweeper</a>
+</li>
+	<li class="cat-item cat-item-823"><a href="http://www.microsoftstudiosblog.com/category/microsoftsolitaire/" >Microsoft Solitaire Collection</a>
+</li>
+	<li class="cat-item cat-item-843"><a href="http://www.microsoftstudiosblog.com/category/microsoft-treasure-hunt/" >Microsoft Treasure Hunt</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.microsoftstudiosblog.com/category/minecraft/" >Minecraft</a>
+</li>
+	<li class="cat-item cat-item-816"><a href="http://www.microsoftstudiosblog.com/category/ori-and-the-blind-forest/" >Ori and the Blind Forest</a>
+</li>
+	<li class="cat-item cat-item-551"><a href="http://www.microsoftstudiosblog.com/category/powerstar-golf/" >Powerstar Golf</a>
+</li>
+	<li class="cat-item cat-item-562"><a href="http://www.microsoftstudiosblog.com/category/project-spark/" >Project Spark</a>
+</li>
+	<li class="cat-item cat-item-830"><a href="http://www.microsoftstudiosblog.com/category/project-totem/" >Project Totem</a>
+</li>
+	<li class="cat-item cat-item-817"><a href="http://www.microsoftstudiosblog.com/category/releases-and-content-announcements/" >Releases &amp; Content Announcements</a>
+</li>
+	<li class="cat-item cat-item-593"><a href="http://www.microsoftstudiosblog.com/category/rise-of-nations/" >Rise of Nations</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.microsoftstudiosblog.com/category/sales-and-promotions/" >Sales and Promotions</a>
+</li>
+	<li class="cat-item cat-item-906"><a href="http://www.microsoftstudiosblog.com/category/screamride/" >ScreamRide</a>
+</li>
+	<li class="cat-item cat-item-875"><a href="http://www.microsoftstudiosblog.com/category/shadowrun/" >Shadowrun</a>
+</li>
+	<li class="cat-item cat-item-818"><a href="http://www.microsoftstudiosblog.com/category/shadowrun-dragonfall/" >Shadowrun: Dragonfall</a>
+</li>
+	<li class="cat-item cat-item-884"><a href="http://www.microsoftstudiosblog.com/category/wordament/snap-attack/" >Snap Attack</a>
+</li>
+	<li class="cat-item cat-item-658"><a href="http://www.microsoftstudiosblog.com/category/state-of-decay/" >State of Decay</a>
+</li>
+	<li class="cat-item cat-item-662"><a href="http://www.microsoftstudiosblog.com/category/sunset-overdrive/" >Sunset Overdrive</a>
+</li>
+	<li class="cat-item cat-item-730"><a href="http://www.microsoftstudiosblog.com/category/twitch/" >Twitch</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.microsoftstudiosblog.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-813"><a href="http://www.microsoftstudiosblog.com/category/windows-games/" >Windows Games</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://www.microsoftstudiosblog.com/category/windows-phone/" >Windows Phone</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://www.microsoftstudiosblog.com/category/wordament/" >Wordament</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://www.microsoftstudiosblog.com/category/world-of-tanks-xbox-360/" >World of Tanks: Xbox 360</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://www.microsoftstudiosblog.com/category/xbox-360/" >Xbox 360</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.microsoftstudiosblog.com/category/xbox-one/" >Xbox One</a>
+</li>
+		</ul>
+</aside>		</div>
+	</div><!-- #secondary -->
+			</div><!-- close .*-inner (main-content or sidebar, depending if sidebar is used) -->
+		</div><!-- close .row -->
+	</div><!-- close .container -->
+</div><!-- close .main-content -->
+
+	<div id="footer-area">
+		<div class="container footer-inner">
+			<div class="row">
+				
+				</div>
+		</div>
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="site-info container">
+				<div class="row">
+					<div class="social-icons"></div>					<nav role="navigation" class="col-md-6">
+											</nav>
+					<div class="copyright col-md-6">
+						©2015 Microsoft | <a target="_blank" href="http://privacy.microsoft.com/en-us/default.mspx">Privacy Policy</a> | <a href="http://www.xbox.com/en-US/Legal/XboxComTOU" target="_blank">Terms of Use</a> | <a href="http://www.xbox.com/en-US/Legal/CodeOfConduct" target="_blank">Code of Conduct</a> | <a href="http://support.xbox.com/en-US/" target="_blank">Support</a> | <a target="_blank" href="http://www.xbox.com/en-US/Marketplace/gameratings">ESRB Ratings</a><br />
+ALL RIGHTS RESERVED						
+					</div>
+				</div>
+			</div><!-- .site-info -->
+			<div class="scroll-to-top"><i class="fa fa-angle-up"></i></div><!-- .scroll-to-top -->
+		</footer><!-- #colophon -->
+	</div>
+</div><!-- #page -->
+
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'xboxcommunitynews';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type="text/javascript">
+		var essb_postcount_data = {
+		'ajax_url': 'http://www.microsoftstudiosblog.com/wp-admin/admin-ajax.php',
+		'post_id': '0'
+	};
+	jQuery(document).bind('essb_selfpostcount_action', function (e, service, post_id) {		
+		post_id = String(post_id);
+	jQuery.post(essb_postcount_data.ajax_url, {
+	'action': 'essb_self_postcount',
+	'post_id': post_id,
+	'service': service,
+	'nonce': '133573ac8c'
+	}, function (data) { if (data) {
+		//alert(data);
+	}},'json');});
+	function essb_self_postcount(service, post_id) {
+
+	jQuery(document).trigger('essb_selfpostcount_action',[service, post_id]);
+	};
+	</script><script type='text/javascript' src='http://www.microsoftstudiosblog.com/wp-content/plugins/easy-social-share-buttons/assets/js/essb-mailform.js?ver=2.0.2'></script>
+<script type='text/javascript' src='http://www.microsoftstudiosblog.com/wp-content/themes/sparkling/inc/js/skip-link-focus-fix.js?ver=20140222'></script>
+
+</body>
+</html>

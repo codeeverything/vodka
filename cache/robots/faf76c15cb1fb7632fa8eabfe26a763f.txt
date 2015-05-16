@@ -1,0 +1,129 @@
+1428496979
+http://www.pinterest.com/bbcfood
+http://www.pinterest.com/robots.txt
+1428421218
+http://www.pinterest.com/bbcshop
+http://www.pinterest.com/robots.txt
+1428419484
+http://www.pinterest.com/tauck
+http://www.pinterest.com/robots.txt
+1428419199
+http://www.pinterest.com/halfords
+http://www.pinterest.com/robots.txt
+1428418699
+http://www.pinterest.com
+http://www.pinterest.com/robots.txt
+1428418608
+http://www.pinterest.com/bbcgoodfoodshow
+http://www.pinterest.com/robots.txt
+1428417343
+http://www.pinterest.com
+http://www.pinterest.com/robots.txt
+1428417177
+http://www.pinterest.com/goodfoodchannel
+http://www.pinterest.com/robots.txt
+1428416819
+http://www.pinterest.com/bbcfood
+http://www.pinterest.com/robots.txt
+1428414555
+http://www.pinterest.com/bbcfood
+http://www.pinterest.com/robots.txt
+1428242668
+http://www.pinterest.com/bbcgoodfoodshow
+http://www.pinterest.com/robots.txt
+1428242626
+http://www.pinterest.com
+http://www.pinterest.com/robots.txt
+1428242433
+http://www.pinterest.com/halfords
+http://www.pinterest.com/robots.txt
+1428242089
+http://www.pinterest.com/foodnetworkCA
+http://www.pinterest.com/robots.txt
+1428241736
+http://www.pinterest.com/goodfoodchannel
+http://www.pinterest.com/robots.txt
+1428241275
+http://www.pinterest.com
+http://www.pinterest.com/robots.txt
+1428241010
+http://www.pinterest.com/foodnetworkca
+http://www.pinterest.com/robots.txt
+1428240931
+http://www.pinterest.com/bbcfood
+http://www.pinterest.com/robots.txt
+1427910802
+http://www.pinterest.com/tednews
+http://www.pinterest.com/robots.txt
+1427910611
+http://www.pinterest.com/tednews
+http://www.pinterest.com/robots.txt
+1427821854
+http://www.pinterest.com
+http://www.pinterest.com/robots.txt
+1427821511
+http://www.pinterest.com/thebelltowertn
+http://www.pinterest.com/robots.txt
+1427818489
+http://www.pinterest.com/
+http://www.pinterest.com/robots.txt
+1427818204
+http://www.pinterest.com/thebelltowertn
+http://www.pinterest.com/robots.txt
+1427804869
+http://www.pinterest.com//
+http://www.pinterest.com/robots.txt
+1427803730
+http://www.pinterest.com/thebelltowertn
+http://www.pinterest.com/robots.txt
+# Pinterest (and specifically the SEO team) is hiring!
+#
+# Learn about the SEO work that we're doing at http://engineering.pinterest.com/post/109318939139/demystifying-seo-with-experiments
+#
+# Check out some of our available positions at https://about.pinterest.com/en/careers/engineering-product
+#
+# Email seodev@pinterest.com to find out more.
+
+User-agent: *
+Disallow: /search?
+Disallow: /search/
+Disallow: /bookmarklet/
+Disallow: /prefs/
+Disallow: /addboard/
+Disallow: /follow_board/
+Disallow: /follow_user/
+Disallow: /delete_post/
+Disallow: /logout/
+Disallow: /new_invite/
+Disallow: /invite/
+Disallow: /invites/
+Disallow: /invited/
+Disallow: /admin/
+Disallow: /facebook/
+Disallow: /autocomplete/
+Disallow: /welcome/
+Disallow: /register/
+Disallow: /_/_/switch/
+Disallow: /_/_/report/
+Disallow: /v3/pidgets/log/
+Disallow: /v1/urls/count.json
+Allow: /resource/*/get/
+Disallow: /resource/
+Disallow: /join/?next=*
+Disallow: /login/?next=*
+Disallow: /join/signup/?next=*
+Allow: /pin/*/repins
+Disallow: /pin/*/repin
+Disallow: /pin/create/
+Disallow: /pin/find/
+Disallow: /*/pins/*
+Disallow: /*/likes/*
+Disallow: /*/followers/*
+Disallow: /*/following/*
+Disallow: /csrf_error/
+Sitemap: https://www.pinterest.com/v2_sitemaps/www_v2_board_sitemap.xml
+Sitemap: https://www.pinterest.com/v2_sitemaps/www_v2_user_sitemap.xml
+Sitemap: https://www.pinterest.com/v2_sitemaps/www_v2_klp_sitemap.xml
+Sitemap: http://downloads.pinterest.com/v2_category_sitemap.xml
+Sitemap: http://downloads.pinterest.com/v2_sitemaps/v2_pinpicks_sitemap.xml
+    

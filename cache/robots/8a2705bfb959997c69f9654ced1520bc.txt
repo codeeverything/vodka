@@ -1,0 +1,19 @@
+1428421194
+http://europe.bbcentertainment.com
+http://europe.bbcentertainment.com/robots.txt
+1428418533
+http://europe.bbcentertainment.com
+http://europe.bbcentertainment.com/robots.txt
+1428242326
+http://europe.bbcentertainment.com
+http://europe.bbcentertainment.com/robots.txt
+# Don't Allow Google agents to index mobile pages.
+User-agent: Googlebot
+Disallow: /m/
+Disallow: /*/m/
+
+# Do allow Google-Mobile agents to index mobile pages
+User-agent: Googlebot-Mobile
+Allow: /m/
+Allow: /*/m/
+

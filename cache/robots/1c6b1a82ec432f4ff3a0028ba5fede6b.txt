@@ -1,0 +1,36 @@
+1428419440
+http://www.bbcgardenersworldlive.com/pinterest
+http://www.bbcgardenersworldlive.com/robots.txt
+1428419438
+http://www.bbcgardenersworldlive.com/twitter
+http://www.bbcgardenersworldlive.com/robots.txt
+1428419437
+http://www.bbcgardenersworldlive.com/youtube
+http://www.bbcgardenersworldlive.com/robots.txt
+1428417342
+http://www.bbcgardenersworldlive.com
+http://www.bbcgardenersworldlive.com/robots.txt
+1428242532
+http://www.bbcgardenersworldlive.com/pinterest
+http://www.bbcgardenersworldlive.com/robots.txt
+1428242530
+http://www.bbcgardenersworldlive.com/twitter
+http://www.bbcgardenersworldlive.com/robots.txt
+1428242529
+http://www.bbcgardenersworldlive.com/youtube
+http://www.bbcgardenersworldlive.com/robots.txt
+1428241317
+http://www.bbcgardenersworldlive.com
+http://www.bbcgardenersworldlive.com/robots.txt
+User-agent: *
+Disallow: /SHeight=
+Disallow: /index.asp
+Disallow: /viewHiRes=
+Disallow: /page.cfm/link=170
+Disallow: /page.cfm/link=266
+Disallow: /page.cfm/link=267
+Disallow: /times
+Disallow: /sainsburys
+Disallow: /Content/Times-Ticket-Offer
+Disallow: /Content/Sainsburys-Ticket-Offer
+

@@ -1,0 +1,11 @@
+1428419569
+http://bbcthestig.tumblr.com/post/93204725153
+http://bbcthestig.tumblr.com/robots.txt
+Sitemap: http://bbcthestig.tumblr.com/sitemap1.xml
+
+User-agent: *
+Disallow: /private
+Disallow: /random
+Disallow: /day
+Crawl-delay: 1
+

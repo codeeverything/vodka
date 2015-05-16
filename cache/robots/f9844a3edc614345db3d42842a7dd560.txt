@@ -1,0 +1,18 @@
+1428418734
+http://www.kataweb.it
+http://www.kataweb.it/robots.txt
+1428242672
+http://www.kataweb.it
+http://www.kataweb.it/robots.txt
+User-agent: *
+Disallow: 		/trovateatri/ 
+Disallow: 		/trovamostre/ 
+Disallow: 		/trovaeventi/week 
+Disallow: 		/trovaeventi/month 
+Disallow: 		/trovaeventi/*? 
+Disallow: 		/trovaconcerti/ 
+Disallow: 		/spec/articolo_speciale.jsp?ids=1103712&amp;id=1105158 
+Disallow: 		/ricerca 
+Disallow: 		/multimedia/media/4401749/14 
+Disallow: 		/detail.jsp?channel=portale 
+Disallow: 		/agenda 

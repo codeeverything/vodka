@@ -1,0 +1,6 @@
+1428422447
+http://www.buqo.ph/Shop/Magazine/PH_TOPGEAR
+http://www.buqo.ph/robots.txt
+User-agent: * 
+Allow: /
+Sitemap: http://www.ookbee.com/sitemap.xml

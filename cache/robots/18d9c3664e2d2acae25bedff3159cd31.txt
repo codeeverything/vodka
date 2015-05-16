@@ -1,0 +1,56 @@
+1428418597
+http://www.clifford-james.co.uk/452882
+http://www.clifford-james.co.uk/robots.txt
+1428418596
+http://www.clifford-james.co.uk/452881
+http://www.clifford-james.co.uk/robots.txt
+1428418595
+http://www.clifford-james.co.uk/47276
+http://www.clifford-james.co.uk/robots.txt
+1428418588
+http://www.clifford-james.co.uk/48445
+http://www.clifford-james.co.uk/robots.txt
+1428418587
+http://www.clifford-james.co.uk/45978
+http://www.clifford-james.co.uk/robots.txt
+1428418587
+http://www.clifford-james.co.uk/452883
+http://www.clifford-james.co.uk/robots.txt
+1428242658
+http://www.clifford-james.co.uk/452882
+http://www.clifford-james.co.uk/robots.txt
+1428242653
+http://www.clifford-james.co.uk/452881
+http://www.clifford-james.co.uk/robots.txt
+1428242652
+http://www.clifford-james.co.uk/47276
+http://www.clifford-james.co.uk/robots.txt
+1428242652
+http://www.clifford-james.co.uk/48445
+http://www.clifford-james.co.uk/robots.txt
+1428242641
+http://www.clifford-james.co.uk/45978
+http://www.clifford-james.co.uk/robots.txt
+1428242641
+http://www.clifford-james.co.uk/452883
+http://www.clifford-james.co.uk/robots.txt
+User-agent: *
+Crawl-Delay: 20
+Disallow: /dntemp/
+Allow: /DNTEMP/Photos/Supplement
+Allow: /Admin/ProductFeeds/GoogleVideoXmlFeed/
+Disallow: /admin/
+Disallow: /groupon/
+Disallow: /ViewCart.cfm
+Disallow: /NewProcessOrder_Satori.cfm
+Disallow: /NewProcessOrder.cfm
+Disallow: /orderlogin.cfm
+Disallow: /OrderFormPC.cfm
+Disallow: /OrderFormNew.cfm
+Disallow: /*ShowProductsFromSearch.cfm*
+Disallow: /INC_360Image.cfm*
+Disallow: /EmailToFriend.cfm*
+Disallow: /FeefoForwarding.cfm
+Disallow: /AddToSavedList.cfm
+Disallow: /trap/
+

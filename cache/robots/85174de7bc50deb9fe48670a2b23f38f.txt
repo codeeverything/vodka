@@ -1,0 +1,5 @@
+1428419150
+http://www.maidenhead-advertiser.co.uk
+http://www.maidenhead-advertiser.co.uk/robots.txt
+User-agent: * 
+Allow: /

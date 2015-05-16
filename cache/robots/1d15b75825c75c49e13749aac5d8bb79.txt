@@ -1,0 +1,6 @@
+1428244902
+http://single-cup-coffee-makers-review.toptenreviews.com
+http://single-cup-coffee-makers-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

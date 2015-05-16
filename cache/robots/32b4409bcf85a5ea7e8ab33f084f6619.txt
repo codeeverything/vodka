@@ -1,0 +1,6 @@
+1428244959
+http://thermoses-review.toptenreviews.com
+http://thermoses-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

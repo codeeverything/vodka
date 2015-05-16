@@ -1,0 +1,6 @@
+1428422517
+http://bez-hamulcow.przegladsportowy.pl
+http://bez-hamulcow.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

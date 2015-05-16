@@ -1,0 +1,6 @@
+1428422590
+http://chleba-i-igrzysk.przegladsportowy.pl
+http://chleba-i-igrzysk.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

@@ -1,0 +1,558 @@
+1428420723
+http://www.ks-ekspert.pl
+http://www.ks-ekspert.pl/robots.txt
+
+    <!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta content="pl" http-equiv="Content-Language" />
+        <script type="text/javascript">
+            if (top.location != location) { top.location.href = document.location.href; }
+        </script>
+        <title>&bull;&bull;
+            Strona o podanym adresie nie istnieje - www.ks-ekspert.pl
+        </title>
+        <meta name="robots" content="noindex, follow">
+        <meta name="description" content=" Aby skorzystać z portalu Komputer Świat Ekspert:   użyj menu na górze  lub skorzystaj z dowolnej z wyszukiwarek tematycznych   Możesz także:   przejść na stron" />
+        <meta name="keywords" content="" />
+        <link rel="stylesheet" href="/static/v1/css/reset-fonts-grids.css" type="text/css" />
+        <link rel="stylesheet" href="/css/ks.v2.Css.MainStyles.css" type="text/css" />
+        <link rel="stylesheet" href="/css/ks.v1.Css.OtherStyles.css" type="text/css" />
+        <link rel="stylesheet" href="/css/ks.v2.Css.TempStyles.css" type="text/css" />
+        <link rel="stylesheet" href="/css/ks.v1.Css.Menu.css" type="text/css" />
+        <link rel="alternate" type="application/rss+xml" href="/rssfeed-komputer-swiat-ekspert.aspx" title="Wiadomości i artykuły - Komputer Świat Ekspert" />
+        <!-- JavaScript  -->
+        <script type="text/javascript" src="/static/v1/js/jquery/1_3_2/jquery-1.3.2.min.js"></script>
+        <script type="text/javascript" src="/static/v1/js/others/spotlight.js"></script>
+        <script type="text/javascript" src="/static/v1/js/others/main.js"></script>
+        <script type="text/javascript" src="/scripts/swfobject.js"></script>
+        <script type="text/javascript">var ADV_DOCUMENT_TYPE = "ks.v1.System.Simple404";var ADV_PAGE_ID = 2728;</script>
+        <script type="text/javascript" src="/scripts/kse.AdTechGemiusTrafficGoogleAnalytics.js"></script>
+        <!-- For Yahoo Menu -->
+        <script type="text/javascript" src="/static/v1/js/menu/yahoo-dom-event.js"></script>
+        <script type="text/javascript" src="/static/v1/js/menu/container_core.js"></script>
+        <script type="text/javascript" src="/static/v1/js/menu/menu.js"></script>
+        <script type="text/javascript">
+            /*
+            Initialize and render the MenuBar when its elements are ready 
+            to be scripted.
+            */
+            YAHOO.util.Event.onContentReady("ks_v1_TopMenu", function () {
+                /*
+                Instantiate a MenuBar:  The first argument passed to the constructor
+                is the id for the Menu element to be created, the second is an 
+                object literal of configuration properties.
+                */
+                var oMenuBar = new YAHOO.widget.MenuBar("ks_v1_TopMenu", {
+                    autosubmenudisplay: true,
+                    hidedelay: 750,
+                    lazyload: true
+                });
+                /*
+                Call the "render" method with no arguments since the 
+                markup for this MenuBar instance is already exists in 
+                the page.
+                */
+                oMenuBar.render();
+            });
+        </script>
+        <!-- Scripts for SyntaxHighlighter tool -->
+        
+    </head>
+    <body>
+        <div class="pasek_all">
+            <div class="pasek">
+                <div class="sz">
+                </div>
+                <ul><li><a href="http://www.komputerswiat.pl/">Komputer Świat</a></li><li><a href="http://download.komputerswiat.pl/">Download</a></li><li><a href="http://ksplus.komputerswiat.pl/">KŚ+</a></li><li><a href="http://slownikkomputerowy.pl/">Słownik</a></li><li><a href="http://gamezilla.komputerswiat.pl/">Gry komputerowe</a></li><li><a href="http://www.komputerswiat.pl/gry/gry-mmo-w-przegladarce.aspx">Gry MMO</a></li><li><a href="http://wiki.komputerswiat.pl">Wiki</a></li></ul>
+            </div>
+        </div>
+        <div id="onet-ad-top" class="onet-ad"></div>
+        <div id="asp">
+            <div id="doc4" class="yui-t7">
+                <div id="hd">
+                    <div id="ks_v1_head_holder">
+                        <div id="ks_v1_logo_holder">
+                            <a href="/" id="ks_v1_logo_btn"></a>
+                        </div>
+                        <div id="ks_v1_search_holder">
+                            <div id="ks_v1_search_info">
+                                <div id="ks_v1_search_info_search">
+                                    szukaj
+                                </div>
+                                <div id="ks_v1_search_info_time">
+                                    wtorek, 07.04.2015
+                                </div>
+                            </div>
+                            <form action="/wyszukiwarka.aspx" name="ks_v1_main_search_form">
+                                <div id="ks_v1_search_btn">
+                                    <img src="/static/v1/gfx/head/ks_search_button.png" border="0" alt="Szukaj" onclick="javascript:document.ks_v1_main_search_form.submit()" />
+                                </div>
+                                <input type="hidden" name="cx" value="partner-pub-7793577536995585:jq6xzn1ek0y" />
+                                <input type="hidden" name="cof" value="FORID:9" />
+                                <input type="hidden" name="ie" value="UTF-8" />
+                                <input type="text" name="q" size="31" id="szukaj" />
+                            </form>
+                            <script type="text/javascript" src="http://www.google.pl/cse/brand?form=cse-search-box&lang=pl"></script>
+                        </div>
+                        <div id="ks_v1_menu_holder">
+                            <div class="yui-skin-sam">
+  <div id="ks_v1_TopMenu" class="yuimenubar yuimenubarnav">
+    <div class="bd">
+      <ul class="first-of-type">
+        <li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="/wiadomosci.aspx">wiadomości</a><div id="wiadomości" class="yuimenu">
+            <div class="bd">
+              <table>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/wiadomosci/bezpieczenstwo.aspx"><img src="/media/1482/bezpieczenstwo.png">Bezpieczeństwo</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/wiadomosci/programy.aspx"><img src="/media/1489/programy.png">Programy</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/wiadomosci/sprzet.aspx"><img src="/media/1496/sprzet.png">Sprzęt</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/wiadomosci/internet.aspx"><img src="/media/1503/internet.png">Internet</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/wiadomosci/wydarzenia.aspx"><img src="/media/1510/wydarzenia.png">Wydarzenia</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/wiadomosci.aspx"><img src="/media/39092/wszystkie.png">Zobacz wszystko</a></td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </li>
+        <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/artykuly/windows.aspx">windows</a><div id="windows" class="yuimenu">
+            <div class="bd">
+              <table>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/windows/bezpieczenstwo.aspx"><img src="/media/1552/bezpieczenstwo.png">Bezpieczeństwo</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/windows/narzedzia-windows.aspx"><img src="/media/1524/narzedzia.png">Narzędzia Windows</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/windows/p2p.aspx"><img src="/media/1531/p2p.png">p2p</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/windows/programy.aspx"><img src="/media/1538/programy.png">Programy</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/windows/rejestr-windows.aspx"><img src="/media/1517/rejestr.png">Rejestr Windows</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/windows.aspx"><img src="/media/39092/wszystkie.png">Zobacz wszystko</a></td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </li>
+        <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/artykuly/sprzet.aspx">sprzęt</a><div id="sprzęt" class="yuimenu">
+            <div class="bd">
+              <table>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/sprzet/dyski-twarde.aspx"><img src="/media/1423/dyski.png">Dyski twarde</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/sprzet/laptopy-i-komputery.aspx"><img src="/media/1437/laptopy_komputery.png">Laptopy i komputery</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/sprzet/karty-graficzne.aspx"><img src="/media/1430/karta_graficzna.png">Karty graficzne</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/sprzet/obudowy.aspx"><img src="/media/1444/obudowy.png">Obudowy</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/sprzet/pamiec.aspx"><img src="/media/1451/pamieci.png">Pamięć</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/sprzet/plyty-glowne.aspx"><img src="/media/1461/plyta_glowna.png">Płyty główne</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/sprzet/sieci-komputerowe.aspx"><img src="/media/1475/sieci.png">Sieci komputerowe</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/sprzet.aspx"><img src="/media/39092/wszystkie.png">Zobacz wszystko</a></td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </li>
+        <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/artykuly/programowanie.aspx">programowanie</a><div id="programowanie" class="yuimenu">
+            <div class="bd">
+              <table>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/programowanie/algorytmy.aspx"><img src="/media/5133/algorytmy.png">Algorytmy</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/programowanie/bazy-danych.aspx"><img src="/media/5140/baza_danych.png">Bazy danych</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/programowanie/delphi.aspx"><img src="/media/5154/delphi.png">Delphi</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/programowanie/java.aspx"><img src="/media/5161/java.png">Java</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/programowanie/pascal.aspx"><img src="/media/5168/pascal.png">Pascal</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/programowanie/vba.aspx"><img src="/media/5175/vba.png">VBA</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/programowanie/flash.aspx"><img src="/media/5217/flash.png">Flash</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/programowanie.aspx"><img src="/media/39092/wszystkie.png">Zobacz wszystko</a></td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </li>
+        <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/artykuly/tworzenie-stron-www.aspx">tworzenie stron www</a><div id="tworzenie stron www" class="yuimenu">
+            <div class="bd">
+              <table>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/tworzenie-stron-www/html-i-css.aspx"><img src="/media/5203/html.png">HTML i CSS</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/tworzenie-stron-www/aspnet.aspx"><img src="/media/5182/asp_net.png">ASP.NET</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/tworzenie-stron-www/cms-y.aspx"><img src="/media/5189/cms.png">CMS-y</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/tworzenie-stron-www/narzedzia-i-skrypty.aspx"><img src="/media/5224/skrypty.png">Narzędzia i skrypty</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/tworzenie-stron-www/php.aspx"><img src="/media/5231/php.png">PHP</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/tworzenie-stron-www/ajax.aspx"><img src="/media/30351/ajax.png">AJAX</a></td>
+                </tr>
+                <tr>
+                  <td class="yuimenuitem yuimenuitem_left"><a class="yuimenuitemlabel" href="/artykuly/tworzenie-stron-www/silverlight.aspx"><img src="/media/75437/silverlight.png">Silverlight</a></td>
+                  <td class="yuimenuitem yuimenuitem_right"><a class="yuimenuitemlabel" href="/artykuly/tworzenie-stron-www.aspx"><img src="/media/39092/wszystkie.png">Zobacz wszystko</a></td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+                        </div>
+                        <div id="ks_v1_rss_holder">
+                            <a href="http://forum.ks-ekspert.pl">
+                            <img src="/static/v1/gfx/icons/ks_forum_icon.png" /></a> <a type="application/rss+xml" href="/rssfeed-komputer-swiat-ekspert.aspx">
+                            <img src="/static/v1/gfx/head/ks_rssfeed_button.png" /></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Main Elem -->
+                
+<div id="bd" >
+<div class="yui-g">  
+
+ 
+<div class="ks_v1_con">
+<div class="ks_v1_con_holder">
+
+<div id="ks_v1_con_sub_left_center">
+	
+    
+	<h2 class="ks_v1_header_tab">Strona o podanym adresie nie istnieje</h2>
+<div id="ks_v1_article">
+<div id="ks_v1_article_content">
+<h2>Aby skorzystać z portalu Komputer Świat Ekspert:</h2>
+
+<ul>
+<li>użyj menu na górze</li>
+
+<li>lub skorzystaj z dowolnej z wyszukiwarek tematycznych</li>
+</ul>
+
+<h2>Możesz także:</h2>
+
+<ul>
+<li>przejść na stronę główną witryny <a
+href="http://www.ks-ekspert.pl/"
+title="www.ks-ekspert.pl">www.ks-ekspert.pl</a></li>
+
+<li>przejść do naszego serwisu z <strong>darmowymi programami do
+pobrania</strong> - <a href="http://szybkidownload.pl "
+title="http://szybkidownload.pl ">http://szybkidownload.pl</a></li>
+</ul>
+
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</div>
+
+
+<div  id="ks_v1_con_sub_right">
+	
+    <div id="onet-ad-right" class="onet-ad"></div>
+    <div style="margin-top: 20px;">
+        
+            
+                <div id="downloadsWidget">
+                    <form name="DownloadsWidgetSearchForm" onsubmit="return OnSubmitDownloadsWidgetForm(this)"
+                    action="">
+                    <input type="text" name="szukaj" class="downloadsSearchText" value="szukaj programu"
+                        onfocus="this.select()" onclick="this.value=''" onblur="if (this.value==''){this.value='szukaj programu'}" />
+                    <input type="hidden" name="dzial" value="30005" />
+                    <button type="submit" class="downloadsSearchButton">
+                    </button>
+                    </form>
+                </div>
+            
+            
+        <br />
+        
+            
+                <div id="dictionaryWidget">
+                    <form name="DictionaryWidgetSearchForm" onsubmit="return OnSubmitDictionaryWidgetForm(this)"
+                    action="">
+                    <input type="text" name="szukaj" class="dictionarySearchText" value="szukaj w słowniku"
+                        onfocus="this.select()" onclick="this.value=''" onblur="if (this.value==''){this.value='szukaj w słowniku'}" />
+                    <input type="hidden" name="dzial" value="30005" />
+                    <button type="submit" class="dictionarySearchButton">
+                    </button>
+                    </form>
+                </div>
+            
+            
+        <br />
+    </div>
+    <div class="ks_v1_box_simple1">
+        <h3 class="ks_v1_box_simple1_head2">polecamy</h3>
+        <div class="ks_v1_box_simple1_main1">
+            <ul class="polecamyList"><li><a href="http://download.komputerswiat.pl/akcesoria-i-narzedzia/nagrywanie-i-kopiowanie-plyt/nero" class="polecamyListItemLink">Nero Download</a></li><li><a href="http://download.komputerswiat.pl/grafika-i-fotografia/przegladarki-graficzne/irfanview" class="polecamyListItemLink">IrfanView</a></li><li><a href="http://www.komputerswiat.pl/testy/programy/gry-komputerowe/2010/09/farmerama---recenzja---farmarama-gra-farma---przeczytaj-o-farmerama---farma-gry.aspx" class="polecamyListItemLink">Farmerama</a></li><li><a href="http://www.gamezilla.pl/content/wolni-farmerzy" class="polecamyListItemLink">Wolni Farmerzy</a></li><li><a href="http://www.komputerswiat.pl/gry/gry-mmo-w-przegladarce/imperium-stylu.aspx" class="polecamyListItemLink">Imperium Stylu</a></li><li><a href="http://www.komputerswiat.pl/nowosci/gry/2010/47/zagraj-w-khan-wars-poprowadz-polan-do-zwyciestwa.aspx" class="polecamyListItemLink">Khan Wars</a></li><li><a href="http://www.komputerswiat.pl/gry/gry-mmo-w-przegladarce/desert-operations.aspx" class="polecamyListItemLink">Desert Operations</a></li><li><a href="http://www.komputerswiat.pl/gry.aspx" class="polecamyListItemLink">Gry MMO, przeglądarkowe, download</a></li><li><a href="http://download.komputerswiat.pl/muzyka-i-wideo/odtwarzacze-wideo/allplayer" class="polecamyListItemLink">AllPlayer Download</a></li><li><a href="http://download.komputerswiat.pl/gry-i-rozrywka/strzelanki/counter-strike" class="polecamyListItemLink">cs 1.6 Download</a></li><li><a href="http://www.komputerswiat.pl/download/3106/pobierz,daemon-tools-lite-4.35.aspx" class="polecamyListItemLink">Daemon Tools Download</a></li><li><a href="http://download.komputerswiat.pl/gry-i-rozrywka/gry-zrecznosciowe/icy-tower" class="polecamyListItemLink">Icy Tower Download</a></li><li><a href="http://download.komputerswiat.pl/internet-i-sieci/telefony-internetowe-voip/skype-1" class="polecamyListItemLink">Skype Download</a></li><li><a href="http://download.komputerswiat.pl/akcesoria-i-narzedzia/programy-archiwizujace/winrar/32-bit-pol" class="polecamyListItemLink">WinRAR Download</a></li><li><a href="http://www.komputerswiat.pl/tematy/facebook.aspx" class="polecamyListItemLink">Google - kompendium</a></li><li><a href="http://www.komputerswiat.pl/tematy.aspx" class="polecamyListItemLink">Komputery, programy, internet</a></li><li><a href="http://www.komputerswiat.pl/aplikacje/nettest/szybkosc-internetu.aspx" class="polecamyListItemLink">Speed Test</a></li><li><a href="http://www.komputerswiat.pl/tematy/facebook.aspx" class="polecamyListItemLink">Facebook - kompendium</a></li><li><a href="http://download.komputerswiat.pl/internet-i-sieci/peer-to-peer-p2p/ares" class="polecamyListItemLink">Pobierz Ares</a></li><li><a href="http://download.komputerswiat.pl/muzyka-i-wideo/odtwarzacze-plikow-muzycznych/winamp-full" class="polecamyListItemLink">Winamp</a></li><li><a href="http://download.komputerswiat.pl/akcesoria-i-narzedzia/menedzery-plikow/total-commander" class="polecamyListItemLink">Total Commander</a></li></ul>
+        </div>
+        <div class="ks_v1_box_simple1_foot1">
+        </div>
+    </div>
+        
+<div style="margin: 10px 0;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7793577536995585";
+/* 300x250, 10-03-22 - ekspert-sidebar */
+google_ad_slot = "2685416331";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+    <div class="ks_v1_box_simple1">
+        <h3 class="ks_v1_box_simple1_head4">najnowszy numer</h3>
+        <div class="ks_v1_box_simple1_main1">
+            <div id="promoteCurrentEdition"><div class="currentEditionElements"><h1><a class="editionNumberLink" href="/wydania/ekspert/2011/ekspert-32011-.aspx">Ekspert 3/2011 </a></h1><a href="/wydania/ekspert/2011/ekspert-32011-.aspx"><img src="/media/237372/kse0311-okladka.jpg" alt="Ekspert 3/2011 " /></a><p><b>Ekspert 3/2011 - Sieć koniec problemów</b><br />W numerze: Sieć bez problemów, własny sklep na Facebooku, technologia chmury, Objective-C i programowanie w Adobe Flex.</p><a class="ks_v1_link_button gray" href="/wydania/ekspert/2011/ekspert-32011-.aspx"><span>czytaj dalej</span></a></div><div class="bottomElements"><a href="http://kiosk.redakcja.pl">prenumerata</a> | <a href="/informacje/kontakt.aspx">kontakt z redakcją</a></div></div>
+        </div>
+        <div class="ks_v1_box_simple1_foot1">
+        </div>
+    </div>
+        <div class="ks_v1_right_column_ad">
+        <object width="300" height="250" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+            codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0">
+            <param name="movie" value="http://www.komputerswiat.pl/media/2011/17/1678890/cutting_knife_300x250.swf">
+            <param name="flashvars" value="click=http://khanwars.komputerswiat.pl/?utm_campaign=cutting_knife%26utm_source=komputerswiat%26utm_medium=www%26utm_content=300x250">
+            <param name="quality" value="autohigh">
+            <param name="wmode" value="opaque">
+            <param name="AllowScriptAccess" value="always">
+            <embed width="300" height="250" src="http://www.komputerswiat.pl/media/2011/17/1678890/cutting_knife_300x250.swf"
+                flashvars="click=http://khanwars.komputerswiat.pl/?utm_campaign=cutting_knife%26utm_source=komputerswiat%26utm_medium=www%26utm_content=300x250"
+                quality="autohigh" wmode="opaque" allowscriptaccess="always" type="application/x-shockwave-flash"
+                pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
+    </div>
+<div class="ks_v1_smart_baner">
+
+    <script type="text/javascript">
+        if (typeof sas_manager != 'undefined') {
+            sas_manager.render(3289); 	// Format : rectangle (3) 0x0
+        }
+    </script>
+
+</div>
+<div class="self_rectangle"><a href="http://www.komputerswiat.pl/hewlett-packard/konkurs-dla-firm.aspx#utm_campaign=KonkursHP&utm_source=KSE&utm_medium=rectangle&utm_content=UpgradeYourOffice_rectangle"><img src="http://www.komputerswiat.pl/media/2012/304/2636604/ks-konkurshp300x250.gif" alt="HP konkurs Upgrade your office" rel="644,100" /></a></div>
+    <div class="ks_v1_box_simple1">
+        <h3 class="ks_v1_box_simple1_head3">tematy</h3>
+        <div class="ks_v1_box_simple1_main1">
+            <ul class="ks_v1_home_tags_ul"><li><a href="/tematy/acer.aspx" class="tag tag3x">Acer</a>   
+                    </li><li><a href="/tematy/amd.aspx" class="tag tag1x">AMD</a>   
+                    </li><li><a href="/tematy/antywirusy.aspx" class="tag tag1x">antywirusy</a>   
+                    </li><li><a href="/tematy/aparaty-cyfrowe.aspx" class="tag tag1x">aparaty cyfrowe</a>   
+                    </li><li><a href="/tematy/apple.aspx" class="tag tag2x">Apple</a>   
+                    </li><li><a href="/tematy/asus.aspx" class="tag tag3x">Asus</a>   
+                    </li><li><a href="/tematy/benq.aspx" class="tag tag1x">BenQ</a>   
+                    </li><li><a href="/tematy/css.aspx" class="tag tag1x">CSS</a>   
+                    </li><li><a href="/tematy/ddr3.aspx" class="tag tag2x">DDR3</a>   
+                    </li><li><a href="/tematy/dell.aspx" class="tag tag1x">Dell</a>   
+                    </li><li><a href="/tematy/drukarki.aspx" class="tag tag2x">drukarki</a>   
+                    </li><li><a href="/tematy/dyski-twarde.aspx" class="tag tag5x">dyski twarde</a>   
+                    </li><li><a href="/tematy/edytor-rejestru.aspx" class="tag tag2x">Edytor rejestru</a>   
+                    </li><li><a href="/tematy/epson.aspx" class="tag tag1x">Epson</a>   
+                    </li><li><a href="/tematy/facebook.aspx" class="tag tag1x">Facebook</a>   
+                    </li><li><a href="/tematy/firefox.aspx" class="tag tag1x">Firefox</a>   
+                    </li><li><a href="/tematy/gigabyte.aspx" class="tag tag2x">Gigabyte</a>   
+                    </li><li><a href="/tematy/glosniki.aspx" class="tag tag2x">głośniki</a>   
+                    </li><li><a href="/tematy/google.aspx" class="tag tag4x">Google</a>   
+                    </li><li><a href="/tematy/google-doodle.aspx" class="tag tag2x">Google Doodle</a>   
+                    </li><li><a href="/tematy/gps.aspx" class="tag tag4x">GPS</a>   
+                    </li><li><a href="/tematy/hp.aspx" class="tag tag1x">HP</a>   
+                    </li><li><a href="/tematy/html.aspx" class="tag tag1x">HTML</a>   
+                    </li><li><a href="/tematy/intel.aspx" class="tag tag2x">Intel</a>   
+                    </li><li><a href="/tematy/internet.aspx" class="tag tag5x">internet</a>   
+                    </li><li><a href="/tematy/internet-explorer.aspx" class="tag tag1x">Internet Explorer</a>   
+                    </li><li><a href="/tematy/karty-graficzne.aspx" class="tag tag5x">karty graficzne</a>   
+                    </li><li><a href="/tematy/klawiatury.aspx" class="tag tag2x">klawiatury</a>   
+                    </li><li><a href="/tematy/komorki.aspx" class="tag tag3x">komórki</a>   
+                    </li><li><a href="/tematy/komputery.aspx" class="tag tag2x">komputery</a>   
+                    </li><li><a href="/tematy/komputronik.aspx" class="tag tag1x">Komputronik</a>   
+                    </li><li><a href="/tematy/konsole-do-gier.aspx" class="tag tag1x">konsole do gier</a>   
+                    </li><li><a href="/tematy/microsoft.aspx" class="tag tag3x">Microsoft</a>   
+                    </li><li><a href="/tematy/monitory-lcd.aspx" class="tag tag5x">monitory LCD</a>   
+                    </li><li><a href="/tematy/msi.aspx" class="tag tag1x">MSI</a>   
+                    </li><li><a href="/tematy/myszy.aspx" class="tag tag4x">myszy</a>   
+                    </li><li><a href="/tematy/netbooki.aspx" class="tag tag2x">netbooki</a>   
+                    </li><li><a href="/tematy/notebooki.aspx" class="tag tag6x">notebooki</a>   
+                    </li><li><a href="/tematy/nvidia.aspx" class="tag tag1x">NVIDIA</a>   
+                    </li><li><a href="/tematy/odtwarzacze-dvd.aspx" class="tag tag1x">odtwarzacze DVD</a>   
+                    </li><li><a href="/tematy/opera.aspx" class="tag tag1x">Opera</a>   
+                    </li><li><a href="/tematy/p2p.aspx" class="tag tag1x">p2p</a>   
+                    </li><li><a href="/tematy/plyty-glowne.aspx" class="tag tag5x">płyty główne</a>   
+                    </li><li><a href="/tematy/procesory.aspx" class="tag tag2x">procesory</a>   
+                    </li><li><a href="/tematy/programowanie.aspx" class="tag tag2x">programowanie</a>   
+                    </li><li><a href="/tematy/programy-antywirusowe.aspx" class="tag tag1x">programy antywirusowe</a>   
+                    </li><li><a href="/tematy/projektory.aspx" class="tag tag3x">projektory</a>   
+                    </li><li><a href="/tematy/przegladarki-internetowe.aspx" class="tag tag1x">przeglądarki internetowe</a>   
+                    </li><li><a href="/tematy/rejestr-windows.aspx" class="tag tag4x">rejestr Windows</a>   
+                    </li><li><a href="/tematy/roboty.aspx" class="tag tag1x">roboty</a>   
+                    </li><li><a href="/tematy/samouczek-html.aspx" class="tag tag1x">samouczek HTML</a>   
+                    </li><li><a href="/tematy/samsung.aspx" class="tag tag1x">Samsung</a>   
+                    </li><li><a href="/tematy/skanery.aspx" class="tag tag1x">skanery</a>   
+                    </li><li><a href="/tematy/sluchawki.aspx" class="tag tag3x">słuchawki</a>   
+                    </li><li><a href="/tematy/smartfony.aspx" class="tag tag2x">smartfony</a>   
+                    </li><li><a href="/tematy/ssd.aspx" class="tag tag1x">SSD</a>   
+                    </li><li><a href="/tematy/tunery-tv.aspx" class="tag tag1x">tunery TV</a>   
+                    </li><li><a href="/tematy/tworzenie-stron-www.aspx" class="tag tag2x">tworzenie stron WWW</a>   
+                    </li><li><a href="/tematy/tworzenie-stron-www---kurs.aspx" class="tag tag5x">tworzenie stron www - kurs</a>   
+                    </li><li><a href="/tematy/ulica-sezamkowa.aspx" class="tag tag1x">Ulica Sezamkowa</a>   
+                    </li><li><a href="/tematy/urzadzenia-wielofunkcyjne.aspx" class="tag tag1x">urządzenia wielofunkcyjne</a>   
+                    </li><li><a href="/tematy/usb.aspx" class="tag tag1x">USB</a>   
+                    </li><li><a href="/tematy/windows.aspx" class="tag tag4x">Windows</a>   
+                    </li><li><a href="/tematy/windows-7.aspx" class="tag tag2x">Windows 7</a>   
+                    </li><li><a href="/tematy/windows-vista.aspx" class="tag tag4x">Windows Vista</a>   
+                    </li><li><a href="/tematy/windows-xp.aspx" class="tag tag5x">Windows XP</a>   
+                    </li></ul>
+            <div id="searchTagWidget">
+  <div class="left_col"><a class="ks_v1_link_button gray" href="/tematy.aspx"><span>więcej tematów</span></a></div>
+  <div class="right_col">
+              
+                    <form name="SearchTagWidgetSearchForm" action="/tematy.aspx" method="get">
+                    <input type="text" name="szukaj" class="tagSearchText" value="szukaj"
+                        onfocus="this.select()" onclick="this.value=''" onblur="if (this.value==''){this.value='szukaj'}" />
+                    <button type="submit" class="tagSearchButton">
+                    </button>
+                    </form>
+               
+            </div>
+  <div class="clear"></div>
+</div>
+        </div>
+        <div class="ks_v1_box_simple1_foot1">
+        </div>
+    </div>
+    <div class="ks_v1_box_simple1">
+        <h3 class="ks_v1_box_simple1_head1">forum gorące wątki</h3>
+        <div class="ks_v1_box_simple1_main1">
+            <ul class="ks_v1_forum_posts">
+  <li>
+    <h5><a href="http://forum.ks-ekspert.pl/topic/437688-fluconazole-150-mg-sans-ordonnance-diflucan-150-sans-ordonnance/" class="&#xA;                    ks_v1_forum_title&#xA;                ">Fluconazole 150 Mg Sans Ordonnance || Diflucan 150 Sans Ordonnance</a></h5>
+    <div>7.04.2015  17:19</div>
+    <p>
+
+
+Diflucan Achat 
+
+
+
+Diflucan Vente 
+
+
+
+Fluconazole Vente 
+
+ 
+Connexe:
+diflucan vente libre queb...</p>
+  </li>
+  <li class="&#xA;                                    alternateItem&#xA;                                ">
+    <h5><a href="http://forum.ks-ekspert.pl/topic/437681-acheter-cymbalta-en-ligne-fluoxetine-acheter/" class="&#xA;                    ks_v1_forum_title&#xA;                ">Acheter Cymbalta En Ligne || Fluoxetine Acheter</a></h5>
+    <div>7.04.2015  17:15</div>
+    <p>
+
+
+Duloxetine Sans Ordonnance 
+
+
+
+Acheter Cymbalta Pris 
+
+
+
+Fluoxetine Prozac Achat 
+
+ 
+Connexe:
+...</p>
+  </li>
+</ul>
+        </div>
+        <div class="ks_v1_box_simple1_foot1">
+        </div>
+    </div>
+    <div id="onet-ad-right2" class="onet-ad"></div>
+    
+
+</div>
+
+</div>  
+</div> 
+
+
+</div>
+</div>
+  
+
+
+
+                <!-- Scripts load for SyntaxHighlight element -->
+                
+                <script type="text/javascript" charset="utf-8">
+                    $('img').load(function () {
+                        $('#nav_box_1').spotlight({ displayTime: 6 });
+                        $(".spotlight_item").css("visibility", "visible");
+                    });
+                    $(document).ready(function () {
+                        $('#nav_box_1').spotlight({ displayTime: 6 });
+                        $(".spotlight_item").css("visibility", "visible");
+                    });
+                </script>
+                <!-- /Main Elem -->
+                <div id="ft">
+                    <div id="ks_v1_ft_holder">
+                        <div class="ks_v1_foot_info1">
+                            <a target="_blank" href="/informacje/o-stronie.aspx">O stronie</a>   <a target="_blank" href="http://reklama.axelspringer.pl/">Reklama</a>   <a target="_blank" href="/informacje/kontakt.aspx">Kontakt</a>   <a target="_blank" href="http://www.komputerswiat.pl/informacje/regulamin-serwisu.aspx">Regulamin i polityka prywatności</a>   <a target="_blank" href="http://cookies.asp24.pl/">Cookies</a>
+                        </div>
+                        <div class="ks_v1_foot_ax">
+                            <a href="/informacje/notka-prawna.aspx">Copyright &copy; Ringier Axel Springer Polska</a>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div class="ks_v1_foot_info2">
+                            <h4>Serwisy Ringier Axel Springer Polska</h4>
+                            <p>
+                                <a href="http://www.komputerswiat.pl" title="Download, testy, poradniki do programów i sprzętu" target="_blank">Komputer Świat</a>, <a href="http://slownikkomputerowy.pl" title="Internetowy słownik komputerowy" target="_blank">Słownik komputerowy</a>, <a href="http://www.newsweek.pl" title="Newsweek Polska - Wiadomości, Opinie i Komentarze" target="_blank">Newsweek</a>, <a href="http://www.auto-swiat.pl" title="Samochody i części, Testy, Giełda" target="_blank">Auto Świat</a>, <a href="http://www.przegladsportowy.pl/" title="Sport, wiadomości sportowe, Przegląd Sportowy" target="_blank">Sport</a>, <a href="http://www.wprzerwie.pl/" title="Filmiki, galerie zdjęć, sport" target="_blank">Wprzerwie.pl</a>, <a href="http://www.relacje24.pl" title="Relacje sportowe, Przegląd Sportowy, sport" target="_blank">Relacje24.pl</a>, <a href="http://www.literia.pl/#utm_source=www.komputerswiat.pl&amp;amp;utm_medium=footer_link&amp;amp;utm_campaign=footer_link" title="Sklep Literia.pl" target="_blank">Sklep Literia.pl</a>, <a href="http://www.w-spodnicy.pl" title="W-spodnicy.pl" target="_blank">W-spodnicy.pl</a>, <a href="http://www.ofeminin.pl/" title="www.ofeminin.pl" target="_blank">ofeminin.pl</a>, <a href="http://www.ksgry.pl/" title="Gry" target="_blank">KSGRY</a>, <a href="http://gamezilla.komputerswiat.pl/" title="Gry PC, PS3, X360 - zapowiedzi, recenzje, newsy" target="_blank">Gamezilla.pl</a>, <a href="http://wyobrazsobie.komputerswiat.pl/" title="wyobrazsobie.komputerswiat.pl/" target="_blank">Foto i video</a>, <a href="http://streetcrime.komputerswiat.pl/" title="Street Crime, darmowe MMO" target="_blank">StreetCrime</a>, <a href="http://lastchaos.gamezilla.pl/" title="Last Chaos, darmowe MMO" target="_blank">Last Chaos</a>, <a href="http://khanwars.komputerswiat.pl" title="Khan Wars" target="_blank">Khan Wars</a>, <a href="http://imperiumstylu.komputerswiat.pl" title="Imperium Stylu" target="_blank">Imperium Stylu</a>, <a href="http://www.komputerswiat.pl/aplikacje/moje-ip-komputera.aspx" title="Moje IP" target="_blank">Moje IP</a>, <a href="http://www.topgear.com.pl/" title="Top Gear" target="_blank">Top Gear</a>, <a href="http://www.shopalike.pl/" title="ShopALike.pl" target="_blank">ShopALike.pl</a>, <a href="http://www.fakt.pl/" title="Plotki, ciekawostki, relacje z życia gwiazd" target="_blank">Fakt</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <script type="text/javascript">
+            var ghmxy_align = 'center';
+            var ghmxy_type = 'percent';
+            var ghmxy_identifier = new String("bVpKuANsD7dFoF2tfteCcXXWzSs1S5tMpu_puII0VDX.d7");
+                </script>
+        <script type="text/javascript" src="http://pro.hit.gemius.pl/hmapxy.js"></script>
+        
+        <script type="text/javascript" src="http://stats.asp24.pl/js/click.4.js"></script>
+        <script type='text/javascript'>
+            { document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"><\/script><div id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"><\/div>'); setTimeout(function () { var d = new Date(); document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src = 'http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d=' + d.getFullYear() + d.getMonth() + d.getDate(); }, 250); }
+        </script>
+        <script type="text/javascript" src="http://cookies.ks-ekspert.pl/resources/js/min.cookies.js"></script>
+        <noscript>
+            <img height="1" width="1" src="http://kropka.onet.pl/_s/kropka/1?DV=rasp_ksekspert%2Fglowna" alt="" />
+        </noscript>
+    </body>
+    </html>

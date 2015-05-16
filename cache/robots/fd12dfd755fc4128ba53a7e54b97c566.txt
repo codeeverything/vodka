@@ -1,0 +1,30 @@
+1428419567
+http://biznes.newsweek.pl/bezpieczne-oszczedzanie-metody-odkladania-pieniedzy-newsweek-pl,artykuly,342610,1.html
+http://biznes.newsweek.pl/robots.txt
+1428419517
+http://biznes.newsweek.pl/dlaczego-zonaci-mezczyzni-radza-sobie-lepiej-na-rynku-pracy-,artykuly,360503,1.html
+http://biznes.newsweek.pl/robots.txt
+1428419510
+http://biznes.newsweek.pl/google-pracuje-nad-wyspecjalizowanymi-robotami-medycznymi,artykuly,360551,1.html
+http://biznes.newsweek.pl/robots.txt
+1428419496
+http://biznes.newsweek.pl/deficyt-w-polsce-najnizszy-od-siedmiu-lat,artykuly,360557,1.html
+http://biznes.newsweek.pl/robots.txt
+1428419495
+http://biznes.newsweek.pl
+http://biznes.newsweek.pl/robots.txt
+1428417733
+http://biznes.newsweek.pl
+http://biznes.newsweek.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/
+Disallow: /oferta
+Disallow: /pomoc

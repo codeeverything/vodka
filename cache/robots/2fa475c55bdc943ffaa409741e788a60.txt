@@ -1,0 +1,13 @@
+1428420223
+http://biegi-narciarskie.przegladsportowy.pl/Sporty-zimowe-Biegi-narciarskie,kategoria,301.html
+http://biegi-narciarskie.przegladsportowy.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/

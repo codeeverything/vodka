@@ -1,0 +1,6 @@
+1428422575
+http://krazek-i-pilka.przegladsportowy.pl
+http://krazek-i-pilka.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

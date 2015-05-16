@@ -1,0 +1,6 @@
+1428244801
+http://pillow-top-mattresses-review.toptenreviews.com
+http://pillow-top-mattresses-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

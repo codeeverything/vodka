@@ -1,0 +1,10 @@
+1428417313
+http://www.bbcgoodfoodeatwellshow.com
+http://www.bbcgoodfoodeatwellshow.com/robots.txt
+1428241303
+http://www.bbcgoodfoodeatwellshow.com
+http://www.bbcgoodfoodeatwellshow.com/robots.txt
+User-agent: *
+Disallow: /SHeight=
+Disallow: /index.asp
+Disallow: /viewHiRes=

@@ -1,0 +1,38 @@
+1427911035
+http://ir.baidu.com
+http://ir.baidu.com/robots.txt
+# ========v2.9 - 01/20/12=========================#
+# =====Block all bots except below entries between 8am and 8pm EST=====#
+
+User-agent: fusionbot
+Disallow: /preview
+Disallow: /redesign
+Disallow: /staging
+
+User-agent: Googlebot
+Disallow: /preview
+Disallow: /redesign
+Disallow: /staging
+
+User-agent: slb-crawler
+Disallow: /preview
+Disallow: /redesign
+Disallow: /staging
+
+User-agent: msnbot
+Disallow: /preview
+Disallow: /redesign
+Disallow: /staging
+
+User-agent: bingbot 
+Disallow: /preview 
+Disallow: /redesign 
+Disallow: /staging 
+
+User-agent: tr-gsa-crawler
+Disallow: /preview 
+Disallow: /redesign 
+Disallow: /staging 
+
+User-agent: *
+Disallow: /

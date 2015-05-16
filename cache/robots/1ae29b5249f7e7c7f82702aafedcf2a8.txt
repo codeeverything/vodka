@@ -1,0 +1,126 @@
+1428420401
+http://www.forbesmiddleeast.com
+http://www.forbesmiddleeast.com/robots.txt
+User-agent: *
+Disallow: 
+Disallow: /welcome.html
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+Disallow: /protected/views/welcome/
+Disallow: /en/protected/views/welcome/
+
+User-agent: Googlebot
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: GoogleBot-Image
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: GoogleBot-Mobile
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: MSNBot
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: Slurp
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: Teoma
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: twiceler
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: Gigabot
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: Scrubby
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: Robozilla
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: Nutch
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: ia_archiver
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: baiduspider
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: naverbot
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: yeti
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: yahoo-mmcrawler
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: psbot
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: asterias
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/
+
+User-agent: yahoo-blogs/v3.9
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: english.forbesmiddleeast.com
+Disallow: /enlgish/

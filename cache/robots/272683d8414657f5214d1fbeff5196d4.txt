@@ -1,0 +1,6 @@
+1427891386
+http://www.sdsc.edu
+http://www.sdsc.edu/robots.txt
+User-agent: *
+Disallow: /us/training/elearning/
+#Disallow: /us/resources/globus/

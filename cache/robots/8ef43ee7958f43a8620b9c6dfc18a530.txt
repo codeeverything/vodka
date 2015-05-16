@@ -1,0 +1,13 @@
+1428417994
+http://www.czasnabieganie.pl
+http://www.czasnabieganie.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/

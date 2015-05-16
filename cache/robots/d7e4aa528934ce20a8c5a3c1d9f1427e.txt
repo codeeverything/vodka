@@ -1,0 +1,6 @@
+1428244408
+http://slide-in-range-review.toptenreviews.com
+http://slide-in-range-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

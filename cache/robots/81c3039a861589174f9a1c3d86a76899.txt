@@ -1,0 +1,100 @@
+1428422228
+https://www.yahoo.com/travel
+https://www.yahoo.com/robots.txt
+1428422227
+https://www.yahoo.com/makers
+https://www.yahoo.com/robots.txt
+1428422226
+https://www.yahoo.com/beauty
+https://www.yahoo.com/robots.txt
+1428422226
+https://www.yahoo.com/food
+https://www.yahoo.com/robots.txt
+1428422209
+https://www.yahoo.com/style
+https://www.yahoo.com/robots.txt
+1428422208
+https://www.yahoo.com/parenting
+https://www.yahoo.com/robots.txt
+1428422207
+https://www.yahoo.com/health
+https://www.yahoo.com/robots.txt
+1428422207
+https://www.yahoo.com/tech
+https://www.yahoo.com/robots.txt
+1428422205
+https://www.yahoo.com/music
+https://www.yahoo.com/robots.txt
+1428422196
+https://www.yahoo.com/movies
+https://www.yahoo.com/robots.txt
+1428422195
+https://www.yahoo.com/tv
+https://www.yahoo.com/robots.txt
+1428422193
+https://www.yahoo.com/politics
+https://www.yahoo.com/robots.txt
+1428422186
+https://www.yahoo.com
+https://www.yahoo.com/robots.txt
+1428417778
+https://www.yahoo.com/music/bp/don-mclean-american-pie-20-things-might-not-212950674.html
+https://www.yahoo.com/robots.txt
+1428234554
+https://www.yahoo.com/travel
+https://www.yahoo.com/robots.txt
+1428234554
+https://www.yahoo.com/makers
+https://www.yahoo.com/robots.txt
+1428234552
+https://www.yahoo.com/beauty
+https://www.yahoo.com/robots.txt
+1428234551
+https://www.yahoo.com/food
+https://www.yahoo.com/robots.txt
+1428234550
+https://www.yahoo.com/style
+https://www.yahoo.com/robots.txt
+1428234550
+https://www.yahoo.com/parenting
+https://www.yahoo.com/robots.txt
+1428234549
+https://www.yahoo.com/health
+https://www.yahoo.com/robots.txt
+1428234548
+https://www.yahoo.com/tech
+https://www.yahoo.com/robots.txt
+1428234547
+https://www.yahoo.com/music
+https://www.yahoo.com/robots.txt
+1428234546
+https://www.yahoo.com/movies
+https://www.yahoo.com/robots.txt
+1428234546
+https://www.yahoo.com/tv
+https://www.yahoo.com/robots.txt
+1428234545
+https://www.yahoo.com/politics
+https://www.yahoo.com/robots.txt
+1428234543
+https://www.yahoo.com
+https://www.yahoo.com/robots.txt
+User-agent: *
+Disallow: /p/
+Disallow: /r/
+Disallow: /bin/
+Disallow: /includes/
+Disallow: /blank.html
+
+Sitemap: https://www.yahoo.com/food/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/tech/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/travel/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/movies/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/beauty/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/health/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/style/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/makers/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/parenting/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/music/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/tv/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/politics/sitemaps/sitemap_index_us_en-US.xml.gz

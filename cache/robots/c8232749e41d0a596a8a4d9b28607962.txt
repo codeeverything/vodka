@@ -1,0 +1,8 @@
+1428244437
+http://www.simpleinvoices.org
+http://www.simpleinvoices.org/robots.txt
+User-Agent: *
+Allow: /
+Sitemap: http://www.simpleinvoices.org/google.xml
+Sitemap: http://www.simpleinvoices.org/sitemap.xml.gz
+Sitemap: http://www.simpleinvoices.org/forum/extension.php?PostBackAction=sitemap.xml

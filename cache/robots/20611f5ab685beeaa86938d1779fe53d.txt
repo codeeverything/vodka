@@ -1,0 +1,10 @@
+1428417296
+http://www.bbcgoodfoodbakesandcakesshow.com
+http://www.bbcgoodfoodbakesandcakesshow.com/robots.txt
+1428241302
+http://www.bbcgoodfoodbakesandcakesshow.com
+http://www.bbcgoodfoodbakesandcakesshow.com/robots.txt
+User-agent: *
+Disallow: /SHeight=
+Disallow: /index.asp
+Disallow: /viewHiRes=

@@ -1,0 +1,6 @@
+1428244928
+http://solar-panels-review.toptenreviews.com
+http://solar-panels-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

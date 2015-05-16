@@ -1,0 +1,6 @@
+1428244709
+http://electric-toothbrushes-review.toptenreviews.com
+http://electric-toothbrushes-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

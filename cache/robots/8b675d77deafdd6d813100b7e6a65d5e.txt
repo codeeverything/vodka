@@ -1,0 +1,24 @@
+1428417997
+http://www.hurontel.on.ca
+http://www.hurontel.on.ca/robots.txt
+User-Agent: *
+Disallow: /~rakunz/
+Disallow: /~ogshuron/
+Disallow: www.curediabetesnow.hurontel.on.ca/
+Disallow: /~skyharbour/
+Disallow: /~maddhb/
+Disallow: /~nsuc/
+Disallow: /~weazle/
+Disallow: http://www.hurontel.on.ca/newsletter/northhuron_hurontel.pdf
+Disallow: pppoe-229.hurontel.on.ca/‎
+Disallow: /~pugwinkle/
+Disallow: /~gmoogk/
+Disallow: http://www.gdci.hurontel.on.ca/
+
+
+
+
+
+
+
+

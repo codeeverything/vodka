@@ -1,0 +1,11 @@
+1428418248
+https://ssl.bbc.com/id/status
+https://ssl.bbc.com/robots.txt
+1428244346
+https://ssl.bbc.com/id/status
+https://ssl.bbc.com/robots.txt
+1427627992
+https://ssl.bbc.com/id/register?ptrt=http%3A%2F%2Fwww.bbc.com%2Fearth%2Fworld
+https://ssl.bbc.com/robots.txt
+User-agent: *
+Disallow: /

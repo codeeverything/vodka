@@ -1,0 +1,6 @@
+1428417504
+http://wyobrazsobie.komputerswiat.pl
+http://wyobrazsobie.komputerswiat.pl/robots.txt
+# robots.txt for http://www.wyobrazsobie.pl/
+User-Agent: *
+Allow: /

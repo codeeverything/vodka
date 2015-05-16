@@ -1,0 +1,34 @@
+1428159110
+http://www.isoc.org
+http://www.isoc.org/robots.txt
+1428159092
+http://www.isoc.org
+http://www.isoc.org/robots.txt
+1427958450
+http://www.isoc.org
+http://www.isoc.org/robots.txt
+1427958361
+http://www.isoc.org
+http://www.isoc.org/robots.txt
+1427958227
+http://www.isoc.org
+http://www.isoc.org/robots.txt
+1427890790
+http://www.isoc.org
+http://www.isoc.org/robots.txt
+# robots.txt
+#  M Schulman, February 2, 1997
+#  for http://www.isoc.org/
+# see <http://web.nexor.co.uk/mak/doc/robots/norobots.html> for an explanation.
+
+User-agent: MOMspider           # The Multi-Owner Maintenance Spider
+Disallow: /cgi-bin/             #     Script files
+Disallow: /Admin/MOM/           #     Local MOMspider output
+Disallow: /zakon/               #     Zakon's Internet Timeline
+Disallow: /guest/               #     Zakon's Internet Timeline
+
+User-agent: *                   # All other spiders should avoid 
+Disallow: /cgi-bin/             #     Script files
+Disallow: /Test/                #     The test area for web experimentation
+Disallow: /Admin/               #     Huge server statistic logs
+Disallow: /isoc_admin/          #     PHP admin directory for data-driven sections

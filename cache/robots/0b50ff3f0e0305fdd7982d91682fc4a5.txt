@@ -1,0 +1,63 @@
+1428418259
+http://www.landor.com
+http://www.landor.com/robots.txt
+# All robots
+User-agent: * 
+Crawl-delay: 10 
+Disallow: /admin/ 
+Disallow: /config/ 
+Disallow: /controller/ 
+Disallow: /css/ 
+Disallow: /errors/ 
+Disallow: /errortemplates/ 
+Disallow: /implicitcircuit/ 
+Disallow: /lexicon/ 
+Disallow: /model/ 
+Disallow: /parsed/ 
+Disallow: /plugins/ 
+Disallow: /src/ 
+Disallow: /view/ 
+Disallow: /app/k9admin/
+Disallow: /app/k9console/
+
+# Fasterfox hack
+User-agent: Fasterfox 
+Disallow: / 
+
+# Bad Bots (probably won't work in theory, but these guys are scourging our servers
+User-agent: Radian6 
+Disallow: / 
+
+User-agent: YoudaoBot 
+Disallow: / 
+
+User-agent: Sosospider
+Disallow: /
+
+User-agent: Soso 
+Disallow: / 
+
+User-agent: Baiduspider 
+Disallow: / 
+
+User-agent: BaiduImagespider 
+Disallow: / 
+
+User-agent: Slurp 
+Disallow: / 
+
+User-agent: MSNBot 
+Disallow: / 
+
+User-agent: Yeti 
+Disallow: / 
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Exabot
+Disallow: *?
+
+Sitemap: http://www.landor.com/sitemap.xml
+
+#EOF

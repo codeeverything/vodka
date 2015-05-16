@@ -1,0 +1,6 @@
+1428422490
+http://biegowy-oskar.przegladsportowy.pl
+http://biegowy-oskar.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

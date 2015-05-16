@@ -1,0 +1,33 @@
+1428236541
+https://www.alienvault.com
+https://www.alienvault.com/robots.txt
+1428235008
+https://www.alienvault.com
+https://www.alienvault.com/robots.txt
+User-agent: *
+Disallow: /apps/rep_monitor/ip/*/pdf/
+Disallow: /apps/rep_monitor/ip/*/pdf/make/
+Disallow: /json/
+Disallow: /blog/
+Disallow: /c-suite-blog/
+Disallow: /discussion/
+Disallow: /open-threat-exchange/blog/tag/
+Disallow: /blogs/tag/
+Disallow: /forms/
+Disallow: /my-account/
+Disallow: /dk/
+Disallow: /tag/
+Disallow: /open-threat-exchange/bloglabs/wp-includes/
+Disallow: /wp-content/
+Disallow: /jblasco/
+Disallow: /forums/profile/
+Disallow: /forums/dashboard/
+Disallow: /forums/activity/
+Disallow: /forums/messages/
+Disallow: /forums/drafts/
+Disallow: /forums/discussions/bookmarked/
+Disallow: /forums/vanilla/
+Disallow: /forums/post/
+Disallow: /forums/search/
+Disallow: /forums/user/
+Disallow: /forums/discussion/qnaoptions/

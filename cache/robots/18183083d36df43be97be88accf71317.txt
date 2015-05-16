@@ -1,0 +1,6 @@
+1428242364
+http://day-trading-software.toptenreviews.com
+http://day-trading-software.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

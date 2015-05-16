@@ -1,0 +1,1699 @@
+1428496835
+http://lovehome.co.uk
+http://lovehome.co.uk/robots.txt
+1428420747
+http://lovehome.co.uk
+http://lovehome.co.uk/robots.txt
+1428418392
+http://lovehome.co.uk
+http://lovehome.co.uk/robots.txt
+1428416796
+http://lovehome.co.uk
+http://lovehome.co.uk/robots.txt
+1428414467
+http://lovehome.co.uk
+http://lovehome.co.uk/robots.txt
+1428242549
+http://lovehome.co.uk
+http://lovehome.co.uk/robots.txt
+1428240877
+http://lovehome.co.uk
+http://lovehome.co.uk/robots.txt
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:uktv="http://uktv.co.uk"> 
+<!-- Server: uktv-web2 -->
+<head>
+	
+	<!--home/layout/inc_header-->
+
+ 
+	
+	<meta name="msvalidate.01" content="EADB4A6E275A237AE14D2E39CEB772AA" />
+	
+	
+	<meta name="p:domain_verify" content="2e68c2efb4e9f86c0411665782155e4b" >
+	
+	
+		<meta name="created" content="Sun 5 Apr 2015 14:23:11 GMT" />
+	
+		<meta name="DESCRIPTION" content="Interior design ideas, DIY how to guides, inspirational advice on home decorating, and garden design ideas all from the UK's best home and garden TV channel, Home." />
+	
+	
+		<meta name="keywords" content="Room Design ideas, DIY how to guides, Interior design, garden design, video how to guides, lovehome.co.uk, Home, lovehome, love home, renovation, redecoration" />
+	
+	
+		<link rel="canonical" href="http://uktv.co.uk/home/dgiped/kw/1"/>
+	
+
+	<link rel="shortcut icon" href="http://uktv.co.uk/favicons/home.ico"  />
+	<link rel="icon" href="http://uktv.co.uk/favicons/home.ico"  />
+		
+	
+	
+
+	<meta http-equiv="PRAGMA" content="NO-CACHE" />
+	<meta http-equiv="CACHE-CONTROL" content="NO-CACHE" />
+	<meta name="REVISIT-AFTER" content="2 DAYS" />
+	<meta name="DISTRIBUTION" content="GLOBAL" />
+	<meta name="AUTHOR" content="UKTV.co.uk" />
+	<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	
+	<meta name="ROBOTS" content="ALL" />
+	<meta name="ROBOTS" content="INDEX, FOLLOW" />
+<meta name="INFO-UKTV" content="dgiped " /> 
+		<link rel="stylesheet" type="text/css" href="http://uktv.co.uk/css/home/min/global.css?C70D0E07DDFD364C3B1D82E85E55CC9520150405" />
+		
+				<link rel="stylesheet" type="text/css" href="http://uktv.co.uk/css/home/min/dgip.css?C70D0E07DDFD364C3B1D82E85E55CC9520150405" />
+			
+		<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://uktv.co.uk/css/home/min/ie6.css?C70D0E07DDFD364C3B1D82E85E55CC9520150405" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://uktv.co.uk/css/home/min/ie7.css?C70D0E07DDFD364C3B1D82E85E55CC9520150405" /><![endif]-->
+		<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://uktv.co.uk/css/home/min/ie8.css?C70D0E07DDFD364C3B1D82E85E55CC9520150405" /><![endif]-->
+		<link rel="stylesheet" type="text/css" href="http://uktv.co.uk/css/home/min/print.css?C70D0E07DDFD364C3B1D82E85E55CC9520150405" media="print" />
+	<!-- inc_javascripts -->
+
+
+<script type="text/javascript" src="http://uktv.co.uk/js/yui/build/yahoo-dom-event/yahoo-dom-event.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/yui/build/animation/animation-min.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/yui/build/element/element-beta-min.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/yui/build/selector/selector-beta-min.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/yui/build/connection/connection-min.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/yui/build/json/json-min.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	
+	<script type="text/javascript" src="http://uktv.co.uk/js/shared/uktv.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script> <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/jquery/jquery.md5.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/jquery/jquery.cookie.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/swfobject.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/jQuery/jquery.writeCapture.min.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/shared/uktv/quicksignup.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/jQuery/fancybox/jquery.fancybox-1.3.4.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+	
+	<script type="text/javascript" src="http://uktv.co.uk/js/uktv.tracking.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+
+	<script type="text/javascript">
+	//<![CDATA[
+		uktv.tracker = new uktv.tracking({trackingUrl:''});
+	//]]>
+	</script> 
+		<script type="text/javascript" src="http://uktv.co.uk/js/home/min/production.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+		<script type="text/javascript" src="http://uktv.co.uk/js/uktv.js?C70D0E07DDFD364C3B1D82E85E55CC9520150405"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			AC_FL_RunContent = 0;
+		/* ]]> */
+		</script>
+ 
+	
+	
+	<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+	<script type="text/javascript" src="http://uktv.co.uk/js/uktv.brightcoveUtilities.js"></script>
+	<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+	
+	
+
+
+<!--_allchannels/tracking/dsp_urchin-->
+
+
+<!-- Google Analytics Tracking -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1623692-1']);
+	_gaq.push(['_setAllowAnchor', true]);
+	_gaq.push(['_addOrganic', 'google', 'q', true, 'google images', '/imgres?']);
+	_gaq.push(['_trackPageview']);
+		
+	function WaitForSeconds(interval) {
+		s = interval * 1000;
+		var t = new Date().getTime(); 
+		while ((new Date().getTime() - t) < s) { var x = 0 >> 1; }
+	}
+
+	var initCount = 0;
+
+	//Common Google Analytics extended tracking
+	$(document).ready(function() {
+
+		// if (initCount==0 && 1==2){
+		if (initCount==0){
+			(function() { 
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
+			initCount++;
+			//Outbound link tracking
+			$('a[href*="aviva.co"]').click(function() { _gaq.push('_trackEvent', 'Outbound Links', 'Clickthrough', 'Aviva'); WaitForSeconds(0.25); });
+			$('a[href*="amazon."]').click(function() { _gaq.push('_trackEvent', 'Outbound Links', 'Clickthrough', 'Amazon'); WaitForSeconds(0.25); });
+			$('a[href*="bbcgoodfood.com"]').click(function() { _gaq.push('_trackEvent', 'Outbound Links', 'Clickthrough', 'BBC Good Food'); WaitForSeconds(0.25); });
+			$('a[href*="mysupermarket.co.uk"]').click(function() { _gaq.push('_trackEvent', 'Outbound Links', 'Clickthrough', 'MySupermarket'); WaitForSeconds(0.25); });		
+			//Track newsletter subscriptions
+			$('#newsletter-signup').one('submit', function() { _gaq.push(['_trackEvent', 'Food Newsletter', 'Signup', location.pathname]); WaitForSeconds(0.25); });
+			//Track print link clicks
+			$('a.print-version').click(function(){ _gaq.push(['_trackEvent', 'Print', 'Print: ' + document.title, location.pathname]); WaitForSeconds(0.25); });
+			//Track email link clicks
+			$('a[href^="mailto:"]').click(function() { _gaq.push(['_trackEvent', 'E-Mail Links', 'Click', $(this).attr('href').replace('mailto:','')]); WaitForSeconds(0.25); });
+			//Track downloads of jpg, jpeg, pdf and mp3 files
+			$('a[href]').filter(function() {
+				return /(jpe?g|pdf|mp3)$/.test( $(this).attr('href'))
+			}).click(function(event) {
+				_gaq.push(['_trackEvent', 'Files', 'Download', $(this).attr('href')]);
+				WaitForSeconds(0.25);
+			});
+			//Track any social share links not converted to their plugin buttons
+			$('a.track-share-link').click(function() {
+				var n = $(this).attr('href').replace(/.*?(twitter|facebook|plus|del\.icio\.us|stumble|digg|reddit|bookmarks).*/gi,'$1');
+				if ( n == 'twitter') { _gaq.push(['_trackSocial', 'Twitter', 'Tweet']); }
+				if ( n == 'facebook') { _gaq.push(['_trackSocial', 'Facebook', 'Like']); }
+				if ( n == 'plus') { _gaq.push(['_trackSocial', 'Google', '+1']); }
+				if ( n == 'del.icio.us') { _gaq.push(['_trackSocial', 'Del.icio.us', 'Share']); }
+				if ( n == 'stumble') { _gaq.push(['_trackSocial', 'StumbleUpon', 'Share']); }
+				if ( n == 'digg') { _gaq.push(['_trackSocial', 'Digg', 'Share']); }
+				if ( n == 'reddit') { _gaq.push(['_trackSocial', 'Reddit', 'Share']); }
+				if ( n == 'bookmarks') { _gaq.push(['_trackSocial', 'Google Bookmarks', 'Bookmark']); }
+			});
+			//Track clicks on 'Recently viewed recipes' text or image links
+			$('ul#recently-viewed-carousel li a').click(function() {
+				var t = $(this).attr('uktv:wt-link-name');
+				var l = '(unknown)';
+				if(t == 'Text link') { l = $(this).text(); }
+				else { l = $(this).children('img').attr('alt'); }
+				_gaq.push(['_trackEvent', 'Recently Viewed Recipes', 'View', l]);
+			});
+			//Account registrations (this doesn't have to be on all pages)
+			$('form[action="http://uktv.co.uk/food/registerprocess"]').one('submit', function() { _gaq.push(['_trackEvent', 'Site Registrations', 'Register', 'Good Food Channel']); WaitForSeconds(0.25); });
+			//Track competition form submissions
+			if(/competition\/aid\/([0-9]+)/.test($(location).attr('pathname'))) {
+				$('a.channelBtn > img[alt="Finish"]').click(function() {
+					var id = $(location).attr('pathname');
+					var re = /aid\/([0-9]+)/gi
+					match = re.exec(id);
+					if (match != null) { id = match[1]; }
+					var name = $(document).attr('title').replace(/(.+?):.*/,'$1');
+					_gaq.push(['_trackEvent','Good Food Competitions','Submit Entry', name + ' (ID: ' + id + ')']);
+					WaitForSeconds(0.25);
+				});
+			}
+			//Set Custom Variable slot 2 and track an event for users who submit a comment
+			$('#comment-form').one('submit', function() {
+				_gaq.push(['_setCustomVar', 2, 'Comments', location.pathname, 2]);
+				_gaq.push(['_trackEvent', 'Comments', 'Submit', location.pathname]);
+				WaitForSeconds(0.25);
+			});
+
+			if(typeof FB !== 'undefined'){// this test added to prevent FB undefined error SCP 24/9/2012
+				FB.Event.subscribe('edge.create', function(targetUrl) { _gaq.push(['_trackSocial', 'Facebook', 'like', targetUrl]); });
+				FB.Event.subscribe('edge.remove', function(targetUrl) { _gaq.push(['_trackSocial', 'Facebook', 'unlike', targetUrl]); });
+			}
+			
+			twttr.events.bind('tweet', function(event){
+			  if (event) {
+			    var targetUrl;
+			    if (event.target && event.target.nodeName == 'IFRAME') {
+			      targetUrl = extractParamFromUri(event.target.src, 'url');
+			      _gaq.push(['_trackSocial', 'Twitter', 'tweet', targetUrl]);
+			    } else {
+			      _gaq.push(['_trackSocial', 'Twitter', 'tweet']);
+				}
+			  }
+			});
+
+		}
+	});
+</script>
+<!-- End Google Analytics Tracking --> 
+<link href="http://uktv.co.uk/css/shared/inhouseAdSlideShow.css" type="text/css" rel="stylesheet" media="screen" /><title>lovehome.co.uk: Interior design ideas and easy how to guides for decorating, DIY and the garden</title><meta name='keywords' content=''/></head>
+
+<body class="js mid2010" id="html-body">
+
+
+<script type="text/javascript">
+function addCSS() {
+	var linktghref = "";
+	if (linktghref!=""){
+	    var headtg = document.getElementsByTagName('head')[0];
+	    if (!headtg) return;
+	    var linktg = document.createElement('link');
+	    linktg.type = 'text/css';
+	    linktg.rel = 'stylesheet';
+	    linktg.href = linktghref;
+	    headtg.appendChild(linktg);
+	}
+} 
+</script> 
+		<script type="text/javascript">
+			adSrc = "http://2a7e9.v.fwmrm.net/ad/g/1?nw=174057&pvrn=211597957881&csid=home/dgiped&resp=ad;_fw_fss=_fw_search&;ptgt=s&envp=g_js&slid=c4advert-PageSkin&w=1024&h=768";
+			adScript = '<scr' + 'ipt type="text/javascript" src="'+adSrc+'"></scr' + 'ipt>';
+			document.write(adScript);
+			var ChannelName = 'home'
+		</script>
+	
+<!-- Begin comScore OnClick v1.1.1 code (c) 2004-2009 Copyright Nedstat B.V. All rights reserved -->
+<script type="text/javascript" language="JavaScript">
+	//<[CDATA[
+	function ns_onclick(i,b,c,h,j)
+	{
+		var e="";
+		if(typeof ns_pixelUrl=="string")
+		{
+			e=ns_pixelUrl.substring(0,ns_pixelUrl.indexOf("?")+1)}e+=c;
+			e+="&ns_type="+h+"&ns_action=view";
+			e+="&ns__t="+(new Date()).getTime();
+			if(!b)
+			{
+				b=i.href
+			}
+			var	d=document.referrer;
+			if(d.lastIndexOf("/")==d.length-1)
+			{
+				d=d.substring(d.lastIndexOf("/"),0)
+			}
+			if(d.length>0)
+			{
+				e+="&amp;ns_referrer="+escape(d)
+			}
+			j=j||"";
+			var	f=(i&&i.target&&i.target!="")?(i.target.substring(0,1)=="_")?i.target.substring(1):i.target:"self";
+			var g=new Image();
+			if(f&&b)
+			{
+				if(window[f])
+				{
+					window.ns_softclick_timer=function(k,a)
+					{
+						return function()
+						{
+							if(window.ns_softclick_timeout)
+							{
+								window.clearTimeout(window.ns_softclick_timeout)
+							}
+							g.onload=g.onerror=function(){return};
+							window[((window[k])?k:"self")].location.href=a
+						}
+					}(f,b);
+					ns_softclick_timeout=window.setTimeout("ns_softclick_timer()",5000);
+					g.onload=g.onerror=window.ns_softclick_timer
+				}
+				else
+				{
+					window.open(b,f,j)
+				}
+			}
+			g.src=e;
+			return false;
+	};
+	// ]]>
+</script>
+<!-- End comScore OnClick v1.1.1 code -->
+
+
+
+
+
+
+
+<!-- Begin CMC v2.0 -->
+<script type="text/javascript">
+	// <![CDATA[
+	function sitestat(u)
+	{
+		var d=document,l=d.location;
+		ns_pixelUrl=u+"&ns__t="+(new Date().getTime());
+		u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);
+		var	m=u.lastIndexOf("&");
+		if(u.length>2000&&m>=0)
+		{
+			u=u.substring(0,m+1)+"ns_cut="+u.substring(m+1,u.lastIndexOf("=")).substring(0,40)
+		}
+		(d.images)?new Image().src=u:d.write('<'+'p><'+'img	src="'+u+'" height="1" width="1" alt="*"/'+'><'+'/p>');
+	};
+	
+		sitestat("//uk.sitestat.com/uktv/home/s?name=lovehome%2Eco%2Euk%3A%20Interior%20design%20ideas%20and%20easy%20how%20to%20guides%20for%20decorating%2C%20DIY%20and%20the%20garden&uktv_campaign=");
+	
+	// ]]>
+</script>
+
+	<noscript><p><img src="//uk.sitestat.com/uktv/home/s?name=lovehome%2Eco%2Euk%3A%20Interior%20design%20ideas%20and%20easy%20how%20to%20guides%20for%20decorating%2C%20DIY%20and%20the%20garden&uktv_campaign=" height="1" width="1" alt="*"/></p></noscript>
+
+<!-- End CMC -->
+<!--dsp_cookieNotice-->
+
+	
+	<div id="cookies-panel">
+		<div class="inner-row clearfix"> 
+			<h2 id="cookie-title">Cookie Notice</h2>
+			<p>Our sites use cookies, including third party cookies, to improve your user experience. By browsing this site you consent to our use of cookies as described in our <a href="http://uktv.co.uk/network/item/aid/652592/" title="Read our Cookie Notice">Cookie Notice</a> which also describes how to manage cookie settings.</p>			
+			<a id="cookies-read-more" href="http://uktv.co.uk/network/item/aid/652592/">Find out more</a>
+			<a id="accept-cookies" class="slideoutBtn" href="#" title="Accept and close">Close</a>
+		</div>
+	</div> 
+			<script type="text/javascript">
+				//<![CDATA[
+					var ebRand = Math.random()+ ' ';
+					ebRand = ebRand * 1000000;
+					document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=31381&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+				//]]>
+			</script>
+			<noscript>
+				<img width="1" height="1" style="border:0" alt="tracking image" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=31381&ns=1" />
+			</noscript>
+	
+	<div id="body-wrap" class="bunty">
+		<div id="header-bar">
+			<ul class="accessibility">
+				<li><a href="#content">Skip to content</a></li>
+				<li><a href="#global-navigation">Skip to main navigation</a></li>
+				<li><a href="#specific-navigation-container">Skip to homes navigation</a></li>
+				<li><a href="#site-search-form">Skip to site search</a></li>
+			</ul>
+
+			<div class="channel-header">
+				<p class="channel-logo"><a href="http://uktv.co.uk/home"><span><em>Lovehome.co.uk</em></span></a></p>
+				<div class="top-advert">
+
+
+
+<span id="VPNT_2" class="_fwph">
+	<form id="_fw_form_VPNT_2" style="display:none">
+		<input type="hidden" name="_fw_input_VPNT_2" id="_fw_input_VPNT_2" value="ptgt=s&h=90&w=728">
+	</form>
+	<span id="_fw_container_VPNT_2" class="_fwac"></span>
+</span>
+</div>
+				<div id="channel-numbers">Virgin 265 | Sky 196 | lovehome.co.uk</div>
+				
+				<ul id="socialBtns">
+					
+						
+						<li id="newsletterBtn">
+							<a href="#" class="socialBtn">Newsletter</a>
+							<div class="container">
+		<form action="http://uktv.co.uk/home/signup-to-newsletter" method="post" name="newsletter-signup" id="newsletter-signup" class="flyout">
+			<p>Find out about the latest Home shows and get new quizzes, comps and videos in your inbox every fortnight.</p>
+			<fieldset>
+				<label for="email">Enter your email address</label>
+				
+				<input type="text" name="email" size="20" id="email" class="greyText" value="" />
+				<input type="hidden" name="newsletterId" id="newsletterId" value="32" />
+				<input type="hidden" name="isQuickNLSignUp" id="isQuickNLSignUp" value="1" />
+				<button type="submit" class="channelBtn">Go</button>
+			</fieldset>
+			<p class="disclaimer">By signing up to our Home newsletter you are agreeing to our <a href="http://network.uktv.co.uk/article/terms-and-conditions/" title="Terms & Conditions" alt="Terms & Conditions" target="_blank">Terms and Conditions</a> and confirm you are over 18.</p>
+			
+			<script language="javascript" src="http://us5.campaign-archive1.com/generate-js/?u=f8de4866ce7dbe0ad425ec672&fid=3573&show=1" type="text/javascript"></script>     
+			
+		</form>
+	</div>
+						</li>
+					
+			
+				</ul>
+			</div>
+			
+			
+
+
+<div id="specific-navigation-container" class="clearfix">
+	<ul class="navigation">
+		<li class="first"></li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgiped/kw/1" title="Home" class="single ">Home</a>
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgip/kw/3" title="Rooms" class=" ">Rooms</a>
+				
+					<ul>
+						
+							<li><a href="http://uktv.co.uk/homes/dgip/kw/13" title="Living room">Living room</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/167" title="Hall">Hall</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/homes/dgip/kw/10" title="Kitchen">Kitchen</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/293" title="Loft">Loft</a></li>
+							
+							<li><a href="http://uktv.co.uk/homes/dgip/kw/11" title="Bedroom">Bedroom</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/homes/dgip/kw/14" title="Dining room">Dining room</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/236" title="Home office">Home office</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/168" title="Conservatory">Conservatory</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/3" title="See all">See all</a></li>
+							
+							<li><a href="http://uktv.co.uk/homes/dgip/kw/12" title="Bathroom">Bathroom</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/138" title="Children's rooms">Children's rooms</a></li>
+							
+					</ul>
+
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgiped/kw/313" title="Real homes" class="single ">Real homes</a>
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgiped/kw/4" title="Design ideas" class=" ">Design ideas</a>
+				
+					<ul>
+						
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/3" title="Room inspiration">Room inspiration</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/145" title="Storage ideas">Storage ideas</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/289" title="Feature wall ideas">Feature wall ideas</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/43" title="Colour schemes">Colour schemes</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/147" title="Craft projects">Craft projects</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/297" title="Ideas for open plan living ">Ideas for open plan living </a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/150" title="Wallpaper">Wallpaper</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/146" title="Window treatments">Window treatments</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/139" title="Budget decorating ideas">Budget decorating ideas</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/154" title="Flooring">Flooring</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/104" title="Ideas for small rooms">Ideas for small rooms</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/4" title="See all">See all</a></li>
+							
+					</ul>
+
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgiped/kw/5" title="DIY" class=" ">DIY</a>
+				
+					<ul>
+						
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/189" title="Decking">Decking</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/244/" title="Plastering & brickwork">Plastering & brickwork</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/154" title="Flooring">Flooring</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/188" title="Paving">Paving</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/156" title="Heating & plumbing">Heating & plumbing</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/22" title="Tiling">Tiling</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/17" title="Outdoor maintenance">Outdoor maintenance</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/151" title="Planning & renovation">Planning & renovation</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/19" title="Painting">Painting</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/281/" title="Damp & mould">Damp & mould</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/157" title="Cleaning tips">Cleaning tips</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/5" title="See all">See all</a></li>
+							
+					</ul>
+
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgip/kw/214" title="Gardens" class=" ">Gardens</a>
+				
+					<ul>
+						
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/205" title="Garden maintenance">Garden maintenance</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgip/kw/185" title="Garden design">Garden design</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgip/kw/186" title="Plants & plant care">Plants & plant care</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/84" title="Outdoor living">Outdoor living</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/189" title="Decking">Decking</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/coolwall/aid/656171" title="Garden design videos">Garden design videos</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/211" title="Grow your own">Grow your own</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/187" title="Lawns">Lawns</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/188" title="Paving">Paving</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/274" title="Patio">Patio</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/214" title="See all">See all</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/273" title="Garden sheds">Garden sheds</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/305" title="Garden furniture">Garden furniture</a></li>
+							
+					</ul>
+
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgiped/kw/147" title="Crafts" class="single ">Crafts</a>
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/video" title="Video" class="single ">Video</a>
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgip/kw/174" title="On TV" class=" ">On TV</a>
+				
+					<ul>
+						
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/55" title="Escape to the Country">Escape to the Country</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/228" title="My Flat-Pack Home">My Flat-Pack Home</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/54" title="DIY SOS">DIY SOS</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/224" title="Nick Knowles' Original Features">Nick Knowles' Original Features</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/225" title="The Hotel Inspector">The Hotel Inspector</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/290" title="Kitchen SOS">Kitchen SOS</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/284" title="First Homes">First Homes</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/291" title="Marbella Mansions">Marbella Mansions</a></li>
+							
+							<li class="row-end"><a href="http://uktv.co.uk/home/dgiped/kw/287" title="Make My Home Bigger">Make My Home Bigger</a></li>
+							
+							<li><a href="http://uktv.co.uk/home/dgiped/kw/174" title="Home shows A-Z">Home shows A-Z</a></li>
+							
+					</ul>
+
+				
+			</li>
+		
+			<li>
+				<a href="http://uktv.co.uk/home/dgiped/kw/165" title="Win" class="single ">Win</a>
+				
+			</li>
+		
+	</ul>
+
+	<div id="action-bar" class="clearfix">
+		
+<div class="right-tools">
+	<p>You are not logged in.</p>
+	<ul>
+		<li class="loginLI">
+			<a rel="login" accesskey="l" href="http://uktv.co.uk/home/login" class="login"><span class="channelBtn"><span>Login</span></span></a>
+			<div class="container">
+				<form action="/home/login" method="post">
+					
+					
+						<input type="hidden" name="redirect" value="http://uktv.co.uk/home/dgiped/kw/1" />
+					
+					<label for="emailAddress">Email address</label>
+					<input type="text" id="emailAddress" name="emailAddress" class="inputText" />
+					<label for="password">Password</label>
+					<input type="password" id="password" name="password" class="inputText" />
+					<button class="channelBtn" type="submit">Login</button>
+					
+						<a href="https://www.facebook.com/dialog/oauth?client_id=172431169478101&scope=email,user_birthday&redirect_uri=http%3A%2F%2Fuktv%2Eco%2Euk%2Findex%2Ecfm%3Fuktv%3Dhome%2Eprocessfb" id="facebook-login">
+							<span>Login</span>
+						</a>
+					
+					<ul>
+						<li><a href="http://uktv.co.uk/home/forgotpassword">Forgotten your password?</a></li>
+						<li><a href="http://uktv.co.uk/home/resendactivation">Resend activation</a></li>
+					</ul>
+					<p>Not yet registered? <a href="http://uktv.co.uk/home/register">Sign up</a></p>
+				</form>
+			</div>
+		</li>
+		<li class="signup"><p>or</p><a href="http://uktv.co.uk/home/register" rel="register" accesskey="r" class="channelBtn">Sign up</a></li>
+	</ul>
+</div>
+
+	<form method="get" action="/home/search/" id="site-search-form">
+		<label for="search-form-input">Search Home</label>
+		<input type="text" name="q" id="search-form-input" value="" />
+		<button type="submit">Go</button>
+		<input type="hidden" name="searchArea" value="2" />
+	</form>
+
+			<a href="/home/tv" id="tvListingsLink">TV Listings</a>
+		
+	</div>
+	
+	
+	
+</div>
+
+<script type="text/javascript">
+	//<![CDATA[
+		$('#specific-navigation-container').homeNavigation();
+	//]]>
+</script>
+
+		</div>
+		<!-- CONTENT -->
+		<div id="content" class=" clearfix">
+			
+<div class="main-content two-col ">
+<div class="header-row clearfix">
+	
+		<div id="sponsored-by">
+			<!--allChannels/ads/dsp_inhousead-->
+
+
+
+		</div>
+	
+</div>
+
+
+
+			<div id="myPromoPanel">
+				<div id="image-container"></div>
+				<ul id="promo-index">
+					
+							<li>
+								<a href="/home/item/aid/658979" rel="http://uktv.co.uk/images/dgipEd/8552917574403_On_TV_My_Dream_Derelict_Home.jpg" title="On TV: My Dream Derelict Home"><span>On TV: My Dream Derelict Home</span></a>
+								
+							</li>
+						
+							<li>
+								<a href="/home/stepbystep/aid/655886/displayVideo/hi" rel="http://uktv.co.uk/images/dgipEd/8552451674580_How_to_make_an_alcove_cupboard.jpg" title="How to make an alcove cupboard"><span>How to make an alcove cupboard</span></a>
+								
+							</li>
+						
+							<li>
+								<a href="/home/dgiped/kw/185" rel="http://uktv.co.uk/images/dgipEd/8552557945401_Garden_design_ideas_and_advice.jpg" title="Garden design ideas and advice"><span>Garden design ideas and advice</span></a>
+								
+							</li>
+						
+							<li>
+								<a href="/home/stepbystep/aid/646558/displayVideo/hi" rel="http://uktv.co.uk/images/dgipEd/8552695090255_How_to_build_decking.jpg" title="How to build decking"><span>How to build decking</span></a>
+								
+							</li>
+						
+							<li>
+								<a href="/home/stepbystep/aid/658560/displayVideo/hi" rel="http://uktv.co.uk/images/dgipEd/8552761489064_Video_Create_a_fresh_and_airy_colour_scheme.jpg" title="Video: Living room colour scheme"><span>Video: Living room colour scheme</span></a>
+								
+							</li>
+						
+				</ul>
+			</div>
+			<script type="text/javascript">
+				//<![CDATA[
+					$('#myPromoPanel').uktvPromoPanel({
+						containerSelector	:	'#image-container',
+						indexSelector		:	'#promo-index li a',
+						autoStart			:	true,
+						delay				:	3000,
+						fadeTime			:	500,
+						adServer			:	'' //adEngine.getVideoAdServer()
+					});
+				//]]>
+			</script>
+		
+			<div class="row clearfix ">
+		
+
+			<div class="col-left feature-teaser coolwall">
+				
+				
+				<a href="http://uktv.co.uk/home/dgip/kw/228">
+					<img src="http://uktv.co.uk/images/dgipEd/8825691018257_Flat-pack_and_self-build_homes.jpg" alt="Flat-pack and self-build homes" width="300" height="184" />
+				</a>
+				<div class="slide">
+					<h3>
+						Flat-pack and self-build homes
+					</h3>
+					<p>
+						Considering buying a pre fabricated house but not sure where to start? We point you in the right direction.
+					</p>
+				</div>
+				<a class="coolwallLink" href="http://uktv.co.uk/home/dgip/kw/228"></a>
+				
+			</div>
+
+		
+
+			<div class="col-right feature-teaser coolwall">
+				
+				
+				<a href="http://uktv.co.uk/home/item/aid/659009/displayVideo/hi">
+					<img src="http://uktv.co.uk/images/standarditem/L1/659009_L1.jpg" alt="How to decorate with orange" width="300" height="184" />
+				</a>
+				<div class="slide">
+					<h3>
+						How to decorate with orange
+					</h3>
+					<p>
+						Orange and yellow can make your home feel happy. Our expert Gordon Whistance gives us his guide to getting it right.
+					</p>
+				</div>
+				<a class="coolwallLink" href="http://uktv.co.uk/home/item/aid/659009/displayVideo/hi"></a>
+				
+			</div>
+
+		
+
+			</div>
+			
+			<div class="row clearfix ">
+		
+
+			<div class="col-left feature-teaser coolwall">
+				
+				
+				<a href="http://uktv.co.uk/home/gallery/aid/658632/galleryKW/1">
+					<img src="http://uktv.co.uk/images/dgipEd/883533247856_Bedroom_design_trends_2014.jpg" alt="Bedroom design trends 2014" width="300" height="184" />
+				</a>
+				<div class="slide">
+					<h3>
+						Bedroom design trends 2014
+					</h3>
+					<p>
+						Looking for trend ideas when decorating your bedroom? Here is our round-up of 2014&#39;s hottest bedroom trends
+					</p>
+				</div>
+				<a class="coolwallLink" href="http://uktv.co.uk/home/gallery/aid/658632/galleryKW/1"></a>
+				
+			</div>
+
+		
+
+			<div class="col-right feature-teaser coolwall">
+				
+				
+				<a href="http://uktv.co.uk/home/stepbystep/aid/633558">
+					<img src="http://uktv.co.uk/images/standarditem/L1/633558_L1.jpg" alt="How to prepare walls before decorating" width="300" height="184" />
+				</a>
+				<div class="slide">
+					<h3>
+						How to prepare walls before decorating
+					</h3>
+					<p>
+						Preparation is the secret to decorating success, so don&#39;t skip the crucial first steps. Here&#39;s what you need to do before you start to decorate.
+					</p>
+				</div>
+				<a class="coolwallLink" href="http://uktv.co.uk/home/stepbystep/aid/633558"></a>
+				
+			</div>
+
+		
+
+			</div>
+			
+			<div class="row clearfix ">
+		
+
+			<div class="col-left feature-teaser coolwall">
+				
+				
+				<a href="http://uktv.co.uk/home/item/aid/654530">
+					<img src="http://uktv.co.uk/images/standarditem/L1/654530_L1.jpg" alt="How to paint wooden furniture" width="300" height="184" />
+				</a>
+				<div class="slide">
+					<h3>
+						How to paint wooden furniture
+					</h3>
+					<p>
+						Upcycle, renovate and transform old wooden furniture with a lick of paint. Linda Barker shares her advice on preparation, choosing the right colour and getting the perfect finish.
+					</p>
+				</div>
+				<a class="coolwallLink" href="http://uktv.co.uk/home/item/aid/654530"></a>
+				
+			</div>
+
+		
+
+			<div class="col-right feature-teaser coolwall">
+				
+				
+				<a href="http://uktv.co.uk/home/gallery/aid/658217/galleryKW/1">
+					<img src="http://uktv.co.uk/images/standarditem/L1/658217_L1.jpg" alt="Feature wall wallpaper ideas" width="300" height="184" />
+				</a>
+				<div class="slide">
+					<h3>
+						Feature wall wallpaper ideas
+					</h3>
+					<p>
+						Thinking of using wallpaper to create a feature wall? Follow our tips and ideas for feature walls
+					</p>
+				</div>
+				<a class="coolwallLink" href="http://uktv.co.uk/home/gallery/aid/658217/galleryKW/1"></a>
+				
+			</div>
+
+		
+
+			</div>
+			
+			<div class="row clearfix section-end">
+		
+
+			<div class="col-left feature-teaser coolwall">
+				
+				
+				<a href="http://uktv.co.uk/home/item/aid/659172/displayVideo/hi">
+					<img src="http://uktv.co.uk/images/dgipEd/8839149632538_Velux_Build_day_light_into_your_project.jpg" alt="Velux: Build daylight into your project" width="300" height="184" />
+				</a>
+				<div class="slide">
+					<h3>
+						Velux: Build daylight into your project
+					</h3>
+					<p>
+						Oxford university researcher Russell Foster shares why it&#39;s important to have plenty of natural daylight in your home.
+					</p>
+				</div>
+				<a class="coolwallLink" href="http://uktv.co.uk/home/item/aid/659172/displayVideo/hi"></a>
+				
+			</div>
+
+		
+
+			<div class="col-right feature-teaser coolwall">
+				
+				
+				<a href="http://uktv.co.uk/home/stepbystep/aid/652457/displayVideo/hi">
+					<img src="http://uktv.co.uk/images/standarditem/L1/652457_L1.jpg" alt="Video: How to layout your garden" width="300" height="184" />
+				</a>
+				<div class="slide">
+					<h3>
+						Video: How to layout your garden
+					</h3>
+					<p>
+						Designing a garden is easier than you think. Just follow some simple rules and you could be enjoying the garden of your dreams in no time at all.
+					</p>
+				</div>
+				<a class="coolwallLink" href="http://uktv.co.uk/home/stepbystep/aid/652457/displayVideo/hi"></a>
+				
+			</div>
+
+		
+
+			</div>
+			
+			<div class="row clearfix noborder">
+		
+
+			<div class="col-left teaser-list">
+				<h2>
+					
+					LATEST DESIGN TRENDS 
+				</h2>
+				<ul>
+					
+
+						<li class="clearfix ">
+							<h3>
+								<a href="http://uktv.co.uk/home/item/aid/654586">Painting stripes on a wall</a>
+							</h3>
+							<a href="http://uktv.co.uk/home/item/aid/654586">
+								<img src="http://uktv.co.uk/images/standarditem/S/654586_S.jpg" alt="Painting stripes on a wall" width="70" height="70" />
+							</a>
+							<p>
+								Painting a wall with stripes can emphasise height or width and create interest on a feature wall.
+							</p>
+						</li>
+					
+
+						<li class="clearfix ">
+							<h3>
+								<a href="http://uktv.co.uk/home/item/aid/651862">Decorating with geometrics</a>
+							</h3>
+							<a href="http://uktv.co.uk/home/item/aid/651862">
+								<img src="http://uktv.co.uk/images/standarditem/S/651862_S.jpg" alt="Decorating with geometrics" width="70" height="70" />
+							</a>
+							<p>
+								Fancy creating boutique hotel style glamour at home? Geometrics could be for you.
+							</p>
+						</li>
+					
+
+						<li class="clearfix last">
+							<h3>
+								<a href="http://uktv.co.uk/home/item/aid/643556">10 spring makeover ideas</a>
+							</h3>
+							<a href="http://uktv.co.uk/home/item/aid/643556">
+								<img src="http://uktv.co.uk/images/standarditem/S/643556_S.jpg" alt="10 spring makeover ideas" width="70" height="70" />
+							</a>
+							<p>
+								After what feels like an eternal winter, spring fever is finally setting in.
+							</p>
+						</li>
+					
+				</ul>
+			</div>
+		
+
+			<div class="col-right teaser-list">
+				<h2>
+					
+					
+						&nbsp;
+					
+				</h2>
+				<ul>
+					
+
+						<li class="clearfix ">
+							<h3>
+								<a href="http://uktv.co.uk/home/item/aid/608219/displayVideo/hi">About the Home TV channel</a>
+							</h3>
+							<a href="http://uktv.co.uk/home/item/aid/608219/displayVideo/hi">
+								<img src="http://uktv.co.uk/images/standarditem/S/608219_S.jpg" alt="About the Home TV channel" width="70" height="70" />
+							</a>
+							<p>
+								Find out more about the Home channel and how to get it.
+							</p>
+						</li>
+					
+
+						<li class="clearfix last">
+							<h3>
+								<a href="http://uktv.co.uk/home/tv">TV listings</a>
+							</h3>
+							<a href="http://uktv.co.uk/home/tv">
+								<img src="http://uktv.co.uk/images/dgipEd/8756131242899_TV_listings_.jpg" alt="TV listings " width="70" height="70" />
+							</a>
+							<p>
+								Find out what&#39;s on when.
+							</p>
+						</li>
+					
+				</ul>
+			</div>
+		
+
+			</div>
+			
+
+
+</div>
+
+
+			<div class="sidebar">
+				
+				
+				
+
+<div class="mpu-container clearfix">
+	<p class="mpu-title"><strong>Advertisement</strong></p>
+	<span class="mpu-content" id="uktv-mpu-ad">
+		<span id="VPNT_1" class="_fwph">
+			<form id="_fw_form_VPNT_1" style="display:none">
+				<input type="hidden" name="_fw_input_VPNT_1" id="_fw_input_VPNT_1" value="ptgt=s&h=250&w=300&cd=300,60">
+			</form>
+			<span id="_fw_container_VPNT_1" class="_fwac"></span>
+		</span>
+	</span>
+</div> <!-- VIDEO -->
+<div class="video-info box-container" id="home-video-info">
+	<h2>Video</h2>
+
+	<dl class="clearfix">
+
+	
+		<dt class="one active"><a href="http://uktv.co.uk/home/video/aid/659172">
+			
+				<img src="http://uktv.co.uk/images/standarditem/s/video_70x70PlaceHolder.gif" alt="Video: Build daylight into your project" width="70" height="70" />
+			
+			</a></dt>
+		<dd class="one active">
+			<em>Video</em>
+			<a href="http://uktv.co.uk/home/video/aid/659172">Video: Build daylight into your project</a>
+		</dd>
+	
+		<dt class="two"><a href="http://uktv.co.uk/home/video/aid/659007">
+			
+				<img src="http://uktv.co.uk/images/standarditem/s/659007_S.jpg" alt="Colour schemes video: The effects of using greys, black, white and browns" width="70" height="70" />
+			
+			</a></dt>
+		<dd class="two">
+			<em>Video</em>
+			<a href="http://uktv.co.uk/home/video/aid/659007">Colour schemes video: The effects of using greys, black, white and browns</a>
+		</dd>
+	
+		<dt class="three"><a href="http://uktv.co.uk/home/video/aid/658552">
+			
+				<img src="http://uktv.co.uk/images/standarditem/s/658552_S.jpg" alt="Colour schemes video: Create a mysterious and dramatic bedroom" width="70" height="70" />
+			
+			</a></dt>
+		<dd class="three">
+			<em>Video</em>
+			<a href="http://uktv.co.uk/home/video/aid/658552">Colour schemes video: Create a mysterious and dramatic bedroom</a>
+		</dd>
+	
+	</dl>
+	
+		<a href="http://uktv.co.uk/home/video/" class="channelBtn">See more</a>
+	
+</div>
+<script type="text/javascript">
+	//<![CDATA[
+		jQuery('#home-video-info').videoInfo();
+	//]]>
+</script>
+<!-- VIDEO -->
+
+
+<!-- GALLERY TABS -->
+<div class="gallery-tabs clearfix" id="home-gallery-tabs">
+	<h2 class="accessibility">GALLERIES</h2>
+	<div class="clearfix">
+		<h3 class=" active"><a href="#gallery-tab-id-1">Galleries</a></h3>
+		<h3 class=""><a href="#gallery-tab-id-2">Real homes</a></h3>
+		<h3><a href="#gallery-tab-id-3">Editor's picks</a></h3>
+	</div>
+	<div id="gallery-tab-id-1" class="tab active">
+		<ul>
+			
+			<li class="clearfix">
+				<a href="http://uktv.co.uk/home/gallery/aid/658868">
+					<img src="http://uktv.co.uk/images/standarditem/s/658868_S.jpg" alt="Creative kids room ideas" width="70" height="70" />
+				</a>
+				<p>
+					<strong><a href="http://uktv.co.uk/home/gallery/aid/658868">Creative kids room ideas</a></strong>
+					Revamping your child’s bedroom is much easier than... 
+				</p>
+			</li>
+			
+			<li class="clearfix">
+				<a href="http://uktv.co.uk/home/gallery/aid/658867">
+					<img src="http://uktv.co.uk/images/standarditem/s/658867_S.jpg" alt="Lighting design ideas" width="70" height="70" />
+				</a>
+				<p>
+					<strong><a href="http://uktv.co.uk/home/gallery/aid/658867">Lighting design ideas</a></strong>
+					From smart task lighting to creating a cosy ... 
+				</p>
+			</li>
+			
+			<li class="clearfix">
+				<a href="http://uktv.co.uk/home/gallery/aid/658986">
+					<img src="http://uktv.co.uk/images/standarditem/s/658986_S.jpg" alt="Patterned tile design ideas" width="70" height="70" />
+				</a>
+				<p>
+					<strong><a href="http://uktv.co.uk/home/gallery/aid/658986">Patterned tile design ideas</a></strong>
+					From bold pattern or subtle motifs, give your home... 
+				</p>
+			</li>
+			
+		</ul>
+	</div>
+	<div id="gallery-tab-id-2" class="tab user-galleries">
+		<ul>
+			
+				<li class="clearfix">
+					<a href="http://uktv.co.uk/home/userGallery/aid/648335">
+						<img src="http://uktv.co.uk/images/user_gallery/s/ugc_301082_648335_S.jpg" alt="Home Office" width="70" height="70" />
+					</a>
+					<p>
+						<strong><a href="http://uktv.co.uk/home/userGallery/aid/648335">Home Office</a></strong>
+						Created by <a href="http://uktv.co.uk/home/profile/uid/1346382">CliveAnderson</a>
+						
+							<img src="http://uktv.co.uk/images/home/content/avatars/avatar_icon_small.jpg" alt="User profile image" width="23" height="23" />
+						
+					</p>
+					<blockquote> 4 m tall, solid oak, made to measure... </blockquote>
+				</li>
+			
+				<li class="clearfix">
+					<a href="http://uktv.co.uk/home/userGallery/aid/648082">
+						<img src="http://uktv.co.uk/images/user_gallery/s/ugc_300731_648082_S.jpg" alt="Bespoke TV Cabinet" width="70" height="70" />
+					</a>
+					<p>
+						<strong><a href="http://uktv.co.uk/home/userGallery/aid/648082">Bespoke TV Cabinet</a></strong>
+						Created by <a href="http://uktv.co.uk/home/profile/uid/1346382">CliveAnderson</a>
+						
+							<img src="http://uktv.co.uk/images/home/content/avatars/avatar_icon_small.jpg" alt="User profile image" width="23" height="23" />
+						
+					</p>
+					<blockquote> red high gloss TV cabinet... </blockquote>
+				</li>
+			
+				<li class="clearfix">
+					<a href="http://uktv.co.uk/home/userGallery/aid/648081">
+						<img src="http://uktv.co.uk/images/user_gallery/s/ugc_300727_648081_S.jpg" alt="Bespoke Study Furniture" width="70" height="70" />
+					</a>
+					<p>
+						<strong><a href="http://uktv.co.uk/home/userGallery/aid/648081">Bespoke Study Furniture</a></strong>
+						Created by <a href="http://uktv.co.uk/home/profile/uid/1346382">CliveAnderson</a>
+						
+							<img src="http://uktv.co.uk/images/home/content/avatars/avatar_icon_small.jpg" alt="User profile image" width="23" height="23" />
+						
+					</p>
+					<blockquote> oak home office study with plum gloss doors and ... </blockquote>
+				</li>
+			
+
+		</ul>
+		
+			<br />
+			<p class="more">
+				<a href="http://uktv.co.uk/home/dgipProp/kw/234/filter/3/">See all real homes galleries</a>
+				<br />
+				<a href="http://uktv.co.uk/home/createGallery">Create your own photo gallery</a>
+			</p>
+		
+	</div>
+
+
+	<div id="gallery-tab-id-3" class="tab">
+		<ul>
+			
+				<li class="clearfix">
+					<a href="http://uktv.co.uk/home/gallery/aid/642259">
+						<img src="http://uktv.co.uk/images/standarditem/s/642259_S.jpg" alt="Small bedroom design ideas" width="70" height="70" />
+					</a>
+					<p>
+						<strong><a href="http://uktv.co.uk/home/gallery/aid/642259">Small bedroom design ideas</a></strong>
+						Need inspiration for decorating a small bedroom? ... 
+					</p>
+				</li>
+			
+				<li class="clearfix">
+					<a href="http://uktv.co.uk/home/item/aid/641347">
+						<img src="http://uktv.co.uk/images/standarditem/s/641347_S.jpg" alt="Ten of the best stain removal tips" width="70" height="70" />
+					</a>
+					<p>
+						<strong><a href="http://uktv.co.uk/home/item/aid/641347">Ten of the best stain removal tips</a></strong>
+						If your clothes, furniture or carpet are plagued ... 
+					</p>
+				</li>
+			
+				<li class="clearfix">
+					<a href="http://uktv.co.uk/home/item/aid/1838">
+						<img src="http://uktv.co.uk/images/standarditem/s/1838_S.jpg" alt="How to declutter your home" width="70" height="70" />
+					</a>
+					<p>
+						<strong><a href="http://uktv.co.uk/home/item/aid/1838">How to declutter your home</a></strong>
+						Decluttering is great therapy for your home and ... 
+					</p>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<script type="text/javascript">
+	//<![CDATA[
+		jQuery('#home-gallery-tabs').galleryTabs();
+	//]]>
+</script>
+<!-- GALLERY TABS -->
+
+
+	<div class="pint-wall box-container">
+		<div>
+			<a data-pin-do="embedUser" href="http://pinterest.com/hometvchannel/" data-pin-scale-width="87" data-pin-scale-height="280" data-pin-board-width="285"></a>
+		</div>
+	</div>
+
+
+<!-- DIY CALCULATORS -->
+<div id="sb-diy-calculators" class="box-container">
+	<h2>DIY Calculators</h2>
+	
+	<ul class="clearfix">
+		<li><a href="http://uktv.co.uk/home/paintCalculator"><img src="http://uktv.co.uk/images/home/content/calculators/thumb-paint.jpg" alt="Paint calculator" /><span>Paint</span></a></li>
+		<li><a href="http://uktv.co.uk/home/tileCalculator"><img src="http://uktv.co.uk/images/home/content/calculators/thumb-tile.jpg" alt="Tile calculator" /><span>Tile</span></a></li>
+		<li><a href="http://uktv.co.uk/home/wallpaperCalculator"><img src="http://uktv.co.uk/images/home/content/calculators/thumb-paper.jpg" alt="Wallpaper calculator" /><span>Wallpaper</span></a></li>
+	</ul>
+</div>
+
+
+			</div>
+			
+		<div class="channel-footer clearfix row" id="bottom-google-ads">
+			<script type="text/javascript"><!--
+				//<![CDATA[
+					google_ad_client = "pub-9539822832326922";
+					google_ad_slot = "4719526828";
+					google_ad_width = 468;
+					google_ad_height = 60;
+				//]]>
+				//-->
+			</script>
+			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		</div>
+	
+	<div class="channel-footer clearfix">
+		<h2>ABOUT THE HOME CHANNEL</h2>
+		<ul>
+			
+					<li class="last"><p style='color: #333333;'>Home is a UK TV channel, available on Sky 196 and Virgin 265, featuring the best interior design, home decorating, DIY and gardening programmes. Our website, lovehome.co.uk, has articles, videos and photo galleries to inspire and help you in your home improvement projects, from kitchens to bathrooms, bedrooms to landscaping.</p><br />
+
+<p style='color:#333333;'>Our team of experts, including Ty Pennington, Paul Martin, Nick Knowles and Craig Phillips, offer practical advice and inspiration in Home's TV shows - from DIY SOS, Homes Under The Hammer and Ground Force to Escape To The Country and Extreme Makeover Home Edition. Find advice or simply draw inspiration by browsing our galleries. Home, there's no place like it!</p></li>
+				
+		</ul>
+	</div>
+
+	<div class="channel-footer clearfix">
+		<h2>TV PROGRAMMES ON HOME</h2>
+		<ul>
+			
+					<li><a href="http://uktv.co.uk/home/dgip/kw/56">Extreme Makeover: Home Edition</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgip/kw/57">Fantasy Homes By The Sea</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgiped/kw/69"> Love the Place You’re In</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgip/kw/64">Homes Under The Hammer</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgip/kw/69">Love The Place You're In</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgip/kw/228">My Flat-Pack Home </a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgip/kw/224">Nick Knowles’ Original Features </a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgip/kw/225"> The Hotel Inspector </a></li>
+				
+		</ul>
+	</div>
+
+	<div class="channel-footer clearfix">
+		<h2>LOVEHOME DIY AND INTERIOR DESIGN IDEAS</h2>
+		<ul>
+			
+					<li><a href="http://uktv.co.uk/home/dgiped/kw/249">Decorating</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgiped/kw/154">Flooring</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgiped/kw/5">DIY</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgiped/kw/214">Gardening</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/item/aid/630354">Underfloor heating</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgip/kw/10">Kitchen design</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgiped/kw/13">Living room ideas</a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgip/kw/13">Colour schemes </a></li>
+				
+					<li><a href="http://uktv.co.uk/home/dgiped/kw/11">Bedroom ideas</a></li>
+				
+					<li><a href=" http://uktv.co.uk/home/dgiped/kw/174">On Home TV </a></li>
+				
+		</ul>
+	</div>
+
+
+
+
+<script language="javascript" type="text/javascript">
+	$(".display_archive .campaign a").text('See the most recent newsletter');
+	$(".display_archive .campaign").html( $(".display_archive .campaign").html().replace(/..\/..\/.... - /g, "") );
+</script>
+
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+<div id="takeover-left">
+	<span id="VPNT_4" class="_fwph">
+		<form id="_fw_form_VPNT_4" style="display:none">
+			<input type="hidden" name="_fw_input_VPNT_4" id="_fw_input_VPNT_4" value="ptgt=s&h=600&w=120&slau=uktv_sky_left">
+		</form>
+		<span id="_fw_container_VPNT_4" class="_fwac"></span>
+	</span>
+</div> 
+		</div>
+		<!--dsp_siteNav-->
+
+
+
+<div id="sitewide-header">
+	<div class="row clearfix">
+		<ul class="channels">
+		
+			<li><a href="http://watchchannel.co.uk">Watch</a></li>				
+			<li><a href="http://goldtv.co.uk">Gold</a></li>
+			<li><a href="http://alibitv.co.uk">Alibi</a></li>			
+			<li><a href="http://joindave.co.uk ">Dave</a></li>
+			<li><a href="http://dramachannel.tv">Drama</a></li>
+			<li><a href="http://edentv.co.uk">Eden</a></li>
+			<li><a href="http://yesterdaytv.co.uk">Yesterday</a></li>
+			<li><a href="http://lovehome.co.uk">Home</a></li>
+			<li><a href="http://goodfoodchannel.co.uk">Good Food</a></li>
+			<li><a href="http://reallytv.co.uk">Really</a></li>
+			<li><a href="http://uktvplay.co.uk">UKTV Play</a></li>
+			<li class="last"><a href="http://network.uktv.co.uk/article/cookie-notice/"><strong>Cookie Notice</strong></a></li>
+		</ul>
+		<ul class="imagined-by">
+			<li>Imagined by</li>
+			<li><a class="uktv-imagined-by" href="http://uktv.co.uk/" title="UKTV">UKTV</a></li>
+		</ul>
+	</div>
+	
+</div>
+	</div><!-- /body-wrap -->
+	
+	<!-- Sitewide fotoer -->
+	
+	<div id="sitewide-footer">
+	    <div class="clearfix row">
+			
+
+<div id="flashPanel" class="flash-panel">  
+	
+    <div id="flashContentSmall" >
+	   			
+	<div class="bottomFooterNetworkLogos">
+		<ul class="networkBrand">
+			<li><a href="http://uktv.co.uk" title="UKTV"><img class="cloudcarousel" src="/images/uktv-brand-footer.png" alt="UKTV"></a></li>
+		</ul>
+		<ul class="networkLogos">
+			<li><a href="http://watchchannel.co.uk" title="Watch"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/watch.png" alt="Watch" title="Watch" width="54" height="38" /></a></li>
+			<li><a href="http://joindave.co.uk" title="Dave"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/dave.png" alt="Dave" title="Dave" width="42" height="38" /></a></li>
+			<li style="width: 58px"><a href="http://alibitv.co.uk" title="Alibi"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/alibi.png" alt="Alibi" title="Alibi" width="37" height="38" /></a></li>
+			<li><a href="http://goldtv.co.uk" title="Gold"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/gold.png" alt="Gold" title="Gold" width="48" height="38" /></a></li>
+			<li style="width: 54px"><a href="http://edentv.co.uk" title="Eden"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/eden.png" alt="Eden" title="Eden" width="37" height="38" /></a></li>
+			<li style="width: 56px"><a href="http://dramachannel.tv" title="Drama"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/drama.png" alt="Drama" title="Drama" width="38" height="38" /></a></li>
+			<li><a href="http://reallytv.co.uk" title="Really"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/really.png" alt="Really" title="Really" width="50" height="38" /></a></li>
+			<li><a href="http://goodfoodchannel.co.uk" title="Good Food"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/goodfood.png" alt="Good Food" title="Good Food" width="38" height="38" /></a></li>
+			<li style="width: 58px"><a href="http://yesterdaytv.co.uk" title="Yesterday"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/yesterday.png" alt="Yesterday" title="Yesterday" width="48" height="38" /></a></li>
+			<li><a href="http://lovehome.co.uk" title="Home"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/home.png" alt="Home" title="Home" width="38" height="38" /></a></li>
+			<li style="width: 74px"><a href="http://uktvplay.uktv.co.uk" title="UKTV Play"><img class="cloudcarousel" src="/images/networkLogos/logos_sm/pngs/play.png" alt="UKTV Play" title="UKTV Play" width="66" height="38" /><a/></li>
+		</ul>		
+	</div>
+	
+	</div>	
+</div>
+
+		<div class="quick-links">
+			<h2>Quick Links</h2>
+
+			<ul>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/goodfood/homepage/sid/566">Good&nbsp;Food&nbsp;Channel</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/food/homepage/sid/423">Recipes</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/food/homepage/sid/5152">Celebrity&nbsp;chefs</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/food/homepage/sid/5151">Cooking&nbsp;videos</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://m.goodfoodchannel.co.uk">Mobile&nbsp;Recipes</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://lovehome.co.uk">Lovehome.co.uk</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/home/dgiped/kw/185">Garden&nbsp;design</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/home/dgiped/kw/10">Kitchen&nbsp;ideas</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/home/dgiped/kw/152">How&nbsp;to&nbsp;DIY&nbsp;guides</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/home/dgiped/kw/43">Decorating&nbsp;ideas</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://joindave.co.uk">Dave</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/dave/series/tvseries/258942">Red&nbsp;Dwarf</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/dave/series/tvseries/1834">Top&nbsp;Gear</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/dave/series/tvseries/3165">Argumental</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://dave.uktv.co.uk/quizzes/">Pub&nbsp;quizzes</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://exploreeden.co.uk">Eden</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://thePerfectAlibi.co.uk">Alibi</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://goLaughDaily.co.uk">GOLD</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://justwatch.co.uk">Watch</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://loveBlighty.co.uk">Blighty</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://visitYesterday.co.uk">Yesterday</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://lovehome.co.uk">Home</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://isitreally.co.uk">Really</a>
+					</li>
+				
+					<li  class="">
+						<a href="http://uktv.co.uk/network/competitions">Competitions</a>
+					</li>
+				
+					<li  class="last">
+						<a href="http://twitter.com/UKTV_press">UKTV&nbsp;on&nbsp;Twitter</a>
+					</li>
+				
+			</ul>
+		</div>
+	
+	    </div>
+	    <div class="info-links">
+	        <ul class="ib-fix">
+	            <li><a href="http://uktv.co.uk/home/sitemap">Site map</a></li>
+	            <li><a href="http://uktv.co.uk/network/item/aid/614885">Terms &amp; Conditions</a></li>
+	            <li><a href="http://uktv.co.uk/network/item/aid/614892">Privacy Policy</a></li>
+	            <li><a href="http://uktv.co.uk/network/item/aid/652592/" title="Our sites use cookies to provide you with the best user experience and enable the sites to work. Other cookies perform functions like recognising you each time you visit the site or helping us understand which parts of our sites visitors prefer. Third parties also use cookies to deliver advertising messages to you.  Read more about cookies used on this site and how to update your settings in our Cookie Notice">Cookie Notice</a></li>
+	            <li><a href="http://uktv.co.uk/network/item/aid/614888">Contact us</a></li>
+	            <li class="last"><a href="http://uktv.co.uk/network/item/aid/614894">Help</a></li>
+			</ul>
+	    </div>
+	</div>
+	
+	
+<script type="text/javascript">//<![CDATA[
+	var clickTotal = 0;
+
+	
+	$("a[uktv\\:wt-link-group]").click(function(e){				
+		ns_onclick(this,'',$(this).attr('uktv:wt-link-name')+'&uktv_linkpos='+$(this).attr('uktv:wt-link-group'),'clickout');
+		_gaq.push(['_trackEvent', 'Outbound Links', $(this).attr('uktv:wt-link-group'), $(this).attr('uktv:wt-link-name')]);
+	});
+	
+	
+		var adImpressionCounter = 0;
+		$('.callReload').click(function(e) {
+			e.preventDefault(); 
+			adsReload(); // added back in SCP 4/7/2012 as food wasn't refreshing.   removed 15/10/12 causing probs.
+			// tracking
+			uktv.tracker.trackGPageView();
+			sitestat('http://uk.sitestat.com/uktv/home/s?name=lovehome%2Eco%2Euk%3A%20Interior%20design%20ideas%20and%20easy%20how%20to%20guides%20for%20decorating%2C%20DIY%20and%20the%20garden&amp;ns_type=view&uktv_loggedin=false');
+			//ns_onclick(this,'',$(this).attr('uktv:wt-link-name')+'&uktv_linkpos='+$(this).attr('uktv:wt-link-group'),'clickout');
+		});
+	
+	// ]]> 
+			
+	function gpluscall(jsonParam){
+		ns_onclick(this,'','Google Plus button click:' + jsonParam.state +'&uktv_linkpos=Social Sharing Links','clickout');
+	}
+	
+	
+	
+
+</script>
+<div id="fb-root"></div>
+
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+	$(document).ready(function(){
+		FB.init({
+				appId: '172431169478101', 
+				status: true, 
+				cookie: true,
+				xfbml: true,
+				channelUrl: 'http://uktv.co.uk/channel.html'
+		});
+	});
+</script> <script>
+	$(document).ready(function(){	
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	});
+</script>
+	<script src="http://uktv.co.uk/js/externallinks.js" type="text/javascript"></script>
+	
+	
+	<!-- CONTENT -->
+	
+<div id="login-register-required">
+	<p class="info">You must be logged in to continue</p>
+	<div class="col-left">
+		<h2>REGISTER</h2>
+		<h3>Benefits of registration</h3>
+		<ul class="clearfix">
+			<li>Access to exclusive offers and services</li>
+			<li>Quick entry to competitions</li>
+			<li>Manage your newsletters</li>
+			<li>Set up handy reminders for programmes you don't want to miss</li>
+			<li>Save articles in your folder</li>
+			<li>Join in the latest discussions</li>
+			<li>Bookmark your favourite content</li>
+		</ul>
+		<p class="clearfix">
+			<a href="http://uktv.co.uk/home/register">Register</a>
+		</p>
+	</div>
+	<div class="col-right">
+		<h2>LOGIN</h2>
+		<form action="http://uktv.co.uk/home/login" method="post" class="validation-required">
+			
+			
+				<input type="hidden" name="redirect" value="http://uktv.co.uk/home/dgiped/kw/1" />
+			
+			<p>
+				<label for="login-register-required-username">EMAIL ADDRESS</label>
+				<input type="text" id="emailAddress" name="emailAddress" class="required" title="Please enter your username." />
+			</p>
+			<p>
+				<label for="login-register-required-password">PASSWORD</label>
+				<input type="password" id="password" name="password" class="required" title="Please enter your password." />
+				<a href="https://www.facebook.com/dialog/oauth?client_id=172431169478101&redirect_uri=http://uktv.co.uk/home/processfb&scope=email,user_birthday">
+					Sign in with Facebook
+				</a>
+				<a href="http://uktv.co.uk/home/forgotpassword">Forgotten your password?</a>
+				<a href="http://uktv.co.uk/home/resendactivation">Resend activation</a>
+			</p>
+			<p class="submit">
+				<input type="image" src="http://uktv.co.uk/images/home/buttons/login.gif" alt="Login!" />
+			</p>
+		</form>
+	</div>
+</div>
+
+	
+
+
+
+<script type="text/javascript">
+	//This will create an async <script> to load the FreeWheel LinkTag2 js.
+   	(function() {
+   		var profilePath = "uktv_display";
+	   		window._fw_linktag_params = {
+	   		scan_delay : 0,
+	   		server : "2a7e9.v.fwmrm.net",
+	   		
+	   			network_id : "174057", // Live
+	   		
+	   		profile : "g_js",
+	   		other_global_params : "csid=home/dgiped",
+	   		key_values :  "uktvid="
+    	};
+
+	    var e = function(){
+		    if(document.addEventListener) document.removeEventListener('DOMContentLoaded',e,false);
+		    else window.detachEvent('onload',e);
+		    window._fw_page_ready = true;
+	    };
+	    if(document.addEventListener) document.addEventListener('DOMContentLoaded',e,false);
+	    else if(window.attachEvent) window.attachEvent('onload',e);
+	
+	    var lt = document.createElement('script');
+	    lt.type = 'text/javascript';
+	    lt.async = true;
+	
+	    lt.src = "http://adm.fwmrm.net/p/"+ profilePath +"/LinkTag2.js";
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lt, s); 
+    })();
+</script>	
+
+
+
+<script type="text/javascript">
+	function fw_config(){
+		return{
+				
+	    			network_id : "174057", // Live
+	    			siteSectionNetworkId:174057,
+					videoAssetNetworkId:174057,
+					fw_server:"http://2a7e7.v.fwmrm.net/ad/p/1",
+					siteSection:"home/dgiped",
+					autoplay:false,
+					amLocation:"http://adm.fwmrm.net/p/uktv_short_live/AdManager.swf"
+					,fw_keyvalues: "uktvid=" 
+			};
+	}
+	 
+	function adsReload(){
+		$('img#_fw_cb_VPNT_1').remove();
+		$('img#_fw_cb_VPNT_2').remove();
+		$('img#_fw_cb_VPNT_3').remove();
+		
+		var lt = document.createElement('script');
+	    lt.type = 'text/javascript';
+	    lt.async = true;
+	
+	    lt.src = "http://adm.fwmrm.net/p/uktv_display/LinkTag2.js";
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lt, s);
+		
+		window._fw_page_ready = true;
+	}
+</script>
+<script type='text/javascript'>
+function crtg_getCookie(a){var b,c,d,e=document.cookie.split(";");for(b=0;b<e.length;b++){c=e[b].substr(0,e[b].indexOf("="));d=e[b].substr(e[b].indexOf("=")+1);c=c.replace(/^\s+|\s+$/g,"");if(c==a){return unescape(d)}}return""}var crtg_nid="1065";var crtg_cookiename="cto2_channel4";var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url="http://rtax.criteo.com/delivery/rta/rta.js?netid="+escape(crtg_nid);crtg_url+="&cookieName="+escape(crtg_cookiename);crtg_url+="&rnd="+crtg_rnd;crtg_url+="&varName=crtg_content";var crtg_script=document.createElement("script");crtg_script.type="text/javascript";crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+</script>
+
+
+	
+</body>
+</html> 

@@ -1,0 +1,12 @@
+1428241759
+http://blog.jorritsalverda.nl
+http://blog.jorritsalverda.nl/robots.txt
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: http://blog.jorritsalverda.com/sitemap.xml
+

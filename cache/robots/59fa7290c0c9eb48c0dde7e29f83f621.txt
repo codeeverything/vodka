@@ -1,0 +1,14 @@
+1428497258
+http://www.seed-consultants.ro
+http://www.seed-consultants.ro/robots.txt
+1428420939
+http://www.seed-consultants.ro
+http://www.seed-consultants.ro/robots.txt
+1428416898
+http://www.seed-consultants.ro
+http://www.seed-consultants.ro/robots.txt
+1428242610
+http://www.seed-consultants.ro
+http://www.seed-consultants.ro/robots.txt
+User-agent: *
+Disallow: /wp-admin/

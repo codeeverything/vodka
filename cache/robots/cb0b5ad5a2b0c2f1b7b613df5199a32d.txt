@@ -1,0 +1,12 @@
+1428244435
+http://www.getharvest.com
+http://www.getharvest.com/robots.txt
+# http://www.robotstxt.org/
+
+User-agent: EasouSpider
+Disallow: /
+
+User-agent: *
+Disallow: /invitation/
+Disallow: /manage/
+Disallow: /generate/

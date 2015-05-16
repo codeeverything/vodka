@@ -1,0 +1,6 @@
+1428245044
+http://wine-cooler-review.toptenreviews.com
+http://wine-cooler-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

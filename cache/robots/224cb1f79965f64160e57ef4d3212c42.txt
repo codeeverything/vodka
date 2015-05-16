@@ -1,0 +1,6 @@
+1428241718
+http://www.georgiaaquarium.org
+http://www.georgiaaquarium.org/robots.txt
+User-agent: *
+Disallow: /Sitefinity
+Disallow: /docs

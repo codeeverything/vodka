@@ -1,0 +1,11 @@
+1428243908
+http://life.khanacademy.org
+http://life.khanacademy.org/robots.txt
+Sitemap: http://life.khanacademy.org/sitemap1.xml
+
+User-agent: *
+Disallow: /private
+Disallow: /random
+Disallow: /day
+Crawl-delay: 1
+

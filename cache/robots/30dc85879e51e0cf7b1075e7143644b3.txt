@@ -1,0 +1,24 @@
+1428422151
+http://www.action-tv.ca/Schedule
+http://www.action-tv.ca/robots.txt
+1428422147
+http://www.action-tv.ca/channel-listings
+http://www.action-tv.ca/robots.txt
+1428422141
+http://www.action-tv.ca
+http://www.action-tv.ca/robots.txt
+1428417134
+http://www.action-tv.ca
+http://www.action-tv.ca/robots.txt
+1428241631
+http://www.action-tv.ca
+http://www.action-tv.ca/robots.txt
+User-agent: *
+Disallow: /pages/searchresult.aspx
+Disallow: /Pages/searchresult.aspx
+Disallow: /Pages/Searchresult.aspx
+Disallow: /workarea/
+Disallow: /WorkArea/
+Disallow: /Workarea/
+Disallow: /cmslogin.aspx
+Disallow: /CMSLogin.aspx

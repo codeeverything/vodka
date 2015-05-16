@@ -1,0 +1,372 @@
+1427891439
+http://www.rrscs.org
+http://www.rrscs.org/robots.txt
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://www.osc.edu/sites/osc.edu/themes/contrib/osc/favicon.ico?v=2?v=2" type="image/vnd.microsoft.icon" />
+<link rel="next" href="/rrscs/about" />
+<link rel="canonical" href="/rrscs" />
+<link rel="shortlink" href="/node/3972" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>The Ralph Regula School of Computational Science | Ohio Supercomputer Center</title>
+  <!--[if lt IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+  <![endif]-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.5.3/modernizr.min.js"></script>
+  <link type="text/css" rel="stylesheet" href="https://www.osc.edu/sites/osc.edu/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.osc.edu/sites/osc.edu/files/css/css_zsbTqh6R_Vqo7pUcxEBvNjCGjboFcil1tvk7A50oBRw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.osc.edu/sites/osc.edu/files/css/css_L_ByLPm6rR45mDYIOdGQLQ-QqGyey-r3KWsihzAw87E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.osc.edu/sites/osc.edu/files/css/css_kPLMZ_oMgJnVVbsAO5K9rFqv34QQntAgiVOccoEblKg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.osc.edu/sites/osc.edu/files/css/css_1M7DRZhCOfKY-tyaWeBLHqMrkRXa12qyIyrl9Aa6klk.css" media="all" />
+  <link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet" type="text/css">
+  <!--[if lt IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.min.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="https://www.osc.edu/sites/osc.edu/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script type="text/javascript" src="https://www.osc.edu/sites/osc.edu/files/js/js_oyc7Kk_MWEgcdAFN6EvQhy5Nl9IHa9dZGqTkN2luIl0.js"></script>
+<script type="text/javascript" src="https://www.osc.edu/sites/osc.edu/files/js/js_uiF75tUtWsZIPud4DMk7FvzKr_zA8oqdtm3l-SnQKJ0.js"></script>
+<script type="text/javascript" src="https://www.osc.edu/sites/osc.edu/files/js/js_4lUtrvpQj6H51TRIIU7f8TmT8wnFcxFFbRTbOH7wM_E.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-34776817-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.osc.edu/sites/osc.edu/files/js/js_4xstWGPryI6G3XXLGhHigv5ntLEwYCLwzWDDcT9lWIo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"osc","theme_token":"kf3A9yISPZ7yCJs2Rx-slJB7G0uVNbqfchh9THVRdH4","jquery_version":"1.7","js":{"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"profiles\/chestnut\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/chestnut\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"profiles\/chestnut\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/chestnut\/modules\/contrib\/linkit\/js\/linkit.js":1,"profiles\/chestnut\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/chestnut\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/chestnut\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/chestnut\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"misc\/progress.js":1,"profiles\/chestnut\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"profiles\/chestnut\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"profiles\/chestnut\/themes\/chestnut\/js\/chestnut.js":1,"profiles\/chestnut\/themes\/chestnut\/js\/jcaption.min.js":1,"profiles\/chestnut\/themes\/chestnut\/js\/printThis.js":1,"profiles\/chestnut\/themes\/chestnut\/js\/toc\/jquery.tableofcontents.min.js":1,"profiles\/chestnut\/themes\/chestnut\/syntax-highlight\/scripts\/XRegExp.js":1,"profiles\/chestnut\/themes\/chestnut\/syntax-highlight\/scripts\/shCore.js":1,"profiles\/chestnut\/themes\/chestnut\/syntax-highlight\/scripts\/shAutoloader.js":1,"profiles\/chestnut\/themes\/chestnut\/js\/plugins.js":1,"sites\/osc.edu\/themes\/contrib\/osc\/js\/osc.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"profiles\/chestnut\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/book\/book.css":1,"profiles\/chestnut\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"profiles\/chestnut\/modules\/features\/chestnut_press_release\/theme\/chestnut_press_release.css":1,"profiles\/chestnut\/modules\/features\/chestnut_text\/chestnut_text.css":1,"profiles\/chestnut\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/chestnut\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/chestnut\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/chestnut\/modules\/custom\/ohtech_share\/ohtech_share.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/chestnut\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/chestnut\/modules\/contrib\/views\/css\/views.css":1,"profiles\/chestnut\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/chestnut\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/chestnut\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/chestnut\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/osc.edu\/files\/css\/follow.css":1,"profiles\/chestnut\/themes\/chestnut\/css\/webforms.css":1,"profiles\/chestnut\/themes\/chestnut\/css\/bootstrap.css":1,"profiles\/chestnut\/themes\/chestnut\/css\/boilerplate.css":1,"profiles\/chestnut\/themes\/chestnut\/css\/grid.css":1,"profiles\/chestnut\/themes\/chestnut\/css\/chestnut.css":1,"profiles\/chestnut\/themes\/chestnut\/css\/responsive.css":1,"profiles\/chestnut\/themes\/chestnut\/css\/colors.css":1,"profiles\/chestnut\/themes\/chestnut\/fonts\/fontello\/css\/fontello.css":1,"profiles\/chestnut\/themes\/chestnut\/syntax-highlight\/styles\/shCore.css":1,"profiles\/chestnut\/themes\/chestnut\/syntax-highlight\/styles\/shThemeDefault.css":1,"sites\/osc.edu\/themes\/contrib\/osc\/css\/osc.css":1,"sites\/osc.edu\/themes\/contrib\/osc\/css\/chestnut-updates.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"linkit":{"autocompletePath":"https:\/\/www.osc.edu\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"extlink":{"extTarget":"_blank","extClass":"0","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3972 node-type-book" >
+  <!--[if lt IE 8]><p class=chromeframe>For a better browsing experience on this site we recommend that you <a href="http://browsehappy.com/">upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe">install Google Chrome Frame</a>.</p><![endif]-->
+    <header id="header">
+  <div class="container">
+    <div id="banner" class="full"><!-- classes: full, fixed, tab -->
+      <div class="container">
+        <nav>
+          <ul>
+            <li><a href="http://www.ohio.gov" class="ir ohio-gov">Ohio.gov</a></li>
+            <li><a href="http://www.ohio.gov/agencies/" target="_blank">State Agencies</a></li>
+            <li><a href="http://www.ohio.gov/services/" target="_blank">Online Services</a></li>
+                        <li class="dropdown accessibility-menu">
+              <a class="dropdown" data-toggle="dropdown" href="#">Accessibility</a>
+              <ul class="dropdown-menu">
+                <li><a href="?alt-style=default-display">Default Display</a></li>
+                <li><a href="?alt-style=text-only">Text Only</a></li>
+                <li><a href="?alt-style=high-contrast">High Contrast</a></li>
+              <li><a href="/accessibility">Accessibility Statement</a></li>
+              </ul>
+            </li>
+                        <li><a href="/user/login">Login</a></li>          </ul>
+        </nav>
+      </div>
+    </div>
+    <div class="container">
+      <div id="masthead">
+        <div class="row-fluid">
+          <div class="span9">
+            <div itemscope itemtype="http://schema.org/GovernmentOrganization" itemid="https://www.osc.edu/" class="site-title">
+              <a href="https://www.osc.edu/" itemprop="url"><img itemprop="logo" id="logo" alt="" typeof="foaf:Image" src="https://www.osc.edu/sites/osc.edu/themes/contrib/osc/logo.png" /></a>            </div>
+          </div>
+          <div class="span3">
+            <div class="masthead">
+              <form class="site-search clearfix" action="/rrscs" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" role="search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input class="ir btn form-submit" type="submit" id="edit-submit" name="op" value="Search" /><input type="hidden" name="form_build_id" value="form-fmTnPsS8uPJc9_JPknJ7gW4fNzRLjGWiGmhNdtwGVbk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>                            <div id="social-media" class="clearfix">
+              <div class='follow-links clearfix site'><span class='follow-link-wrapper follow-link-wrapper-this-site'><a href="/rss.xml" class="follow-link follow-link-this-site follow-link-site" title="Follow Ohio Supercomputer Center on This site (RSS)">This site (RSS)</a>
+</span><span class='follow-link-wrapper follow-link-wrapper-facebook'><a href="http://www.facebook.com/ohiosupercomputercenter" class="follow-link follow-link-facebook follow-link-site" title="Follow Ohio Supercomputer Center on Facebook">Facebook</a>
+</span><span class='follow-link-wrapper follow-link-wrapper-twitter'><a href="https://twitter.com/osc" class="follow-link follow-link-twitter follow-link-site" title="Follow Ohio Supercomputer Center on Twitter">Twitter</a>
+</span><span class='follow-link-wrapper follow-link-wrapper-youtube'><a href="http://www.youtube.com/oscnewmedia" class="follow-link follow-link-youtube follow-link-site" title="Follow Ohio Supercomputer Center on YouTube">YouTube</a>
+</span><span class='follow-link-wrapper follow-link-wrapper-vimeo'><a href="https://vimeo.com/ohiotechnology" class="follow-link follow-link-vimeo follow-link-site" title="Follow Ohio Supercomputer Center on Vimeo">Vimeo</a>
+</span><span class='follow-link-wrapper follow-link-wrapper-linkedin'><a href="http://www.linkedin.com/company/ohio-supercomputer-center" class="follow-link follow-link-linkedin follow-link-site" title="Follow Ohio Supercomputer Center on LinkedIn">LinkedIn</a>
+</span></div>              </div>
+                          </div>
+          </div>
+        </div>
+      </div>
+      <nav id="main-menu" class="navbar" role="navigation">
+        <div class="navbar-inner">
+          <div class="container">
+            <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+            <a href="#" class="btn btn-navbar" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+            <!--<a class="brand" href="#">Menu</a>-->
+            <div class="nav-collapse collapse navbar-responsive-collapse">
+              <ul class="nav"><li><a href="/">Home</a></li><li class="dropdown"><a href="/about/mission">About OSC</a><ul class="dropdown-menu"><li><a href="/about/mission">Our Mission</a></li><li><a href="/about">At A Glance</a></li><li><a href="/about/pandc">Governance</a></li><li><a href="/about/careers">Careers</a></li><li><a href="/leadership">Leadership</a></li><li><a href="/about/partners">Partners</a></li><li><a href="/about/visitOSC">Visit the Ohio Supercomputer Center</a></li></ul></li><li class="dropdown"><a href="/supercomputing">Supercomputing</a><ul class="dropdown-menu"><li><a href="/supercomputing/getting-started">Getting Started</a></li><li><a href="/supercomputing/hpc">HPC Environments</a></li><li><a href="http://www.osc.edu/supercomputing/changelog">Changelog</a></li><li><a href="/supercomputing/software">Available Software</a></li><li><a href="/supercomputing/portals">Portals</a></li><li><a href="/supercomputing/tutorials-training">Tutorials &amp; Training</a></li><li><a href="/supercomputing/support-services">Support Services</a></li><li><a href="/supercomputing/faq">FAQ</a></li><li><a href="/search-documentation">Search Documentation</a></li></ul></li><li class="dropdown"><a href="/research/csd">Cyberinfrastructure</a><ul class="dropdown-menu"><li><a href="/research/analytics">Analytics Research</a></li><li><a href="/research/networking">Networking Research</a></li><li><a href="http://www.oar.net/support">Networking Support</a></li><li><a href="http://www.oar.net/">OARnet</a></li></ul></li><li class="dropdown"><a href="/research">Research</a><ul class="dropdown-menu"><li><a href="/research/bioinformatics">Bioinformatics</a></li><li><a href="/research/Biomed">Virtual Environments &amp; Simulation</a></li><li><a href="/research/cse">Computational Science Engineering Applications</a></li><li><a href="/research/network_file">Systems Research</a></li><li><a href="/supercomputing/accounts">Get an Account</a></li><li><a href="http://app.osc.edu/cgi-bin/app/">Renew your project</a></li><li><a href="/research/research_reports">Research Reports</a></li><li><a href="/research/portals">Supercomputing Portals</a></li></ul></li><li class="dropdown"><a href="/education">Education</a><ul class="dropdown-menu"><li><a href="/education/summer_programs">Summer Educational Programs</a></li><li><a href="/education/ywsi">Young Women&#039;s Summer Institute</a></li><li><a href="/education/si">Summer Institute</a></li><li><a href="/education/give">Sponsor Summer Programs</a></li><li><a href="http://rrscs.org">Ralph Regula School of Computational Science</a></li></ul></li><li class="dropdown"><a href="/industry">Industry</a><ul class="dropdown-menu"><li><a href="https://awesim.org">AweSim</a></li><li><a href="https://www.osc.edu/industry#packages">Starter Packages for Industry</a></li><li><a href="https://www.osc.edu/industry#resources">Full Service Offerings</a></li><li><a href="https://www.osc.edu/industry#engagements">Our Clients</a></li></ul></li><li class="dropdown"><a href="/press">News</a><ul class="dropdown-menu"><li><a href="/events">Upcoming Events</a></li><li><a href="/contact/media_inquiries">Media Inquiries</a></li><li><a href="/press/media/">Media Kit</a></li><li><a href="/press/by-date">Press Releases</a></li><li><a href="/branding">Branding</a></li></ul></li><li><a href="https://oh-tech.org/blog/categories/ohio_supercomputer_center">Blog</a><ul class="dropdown-menu"><li><a href="/events">Upcoming Events</a></li><li><a href="/contact/media_inquiries">Media Inquiries</a></li><li><a href="/press/media/">Media Kit</a></li><li><a href="/press/by-date">Press Releases</a></li><li><a href="/branding">Branding</a></li></ul></li><li class="dropdown"><a href="/contact/osc">Contact Us</a><ul class="dropdown-menu"><li><a href="/contact/supercomputing_support">Supercomputing Support</a></li><li><a href="/content/email_osc">General Inquiries</a></li><li><a href="/contact/media_inquiries">Media Inquiries</a></li><li><a href="/directory">Staff Directory</a></li></ul></li></ul>                          </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div id="main" class="page" role="main">
+  <div class="container">
+    <div class="row-fluid">
+      <div id="content-wrapper" class="span12 span8">
+                <div id="pre-content">
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div></div>                  </div>
+                <div id="content">
+          <div id="feature"><section id="block-block-12" class="block block-block">
+
+    
+  <div class="content">
+    <p><img alt="Ralph Regula School of Computational Science Image" height="148" src="/sites/osc.edu/files/rrscs/rrscsheader1.png" width="700" /></p>
+  </div>
+</section></div>                                <h1 class="title" id="page-title">
+              The Ralph Regula School of Computational Science              <div id="title-links"><span id="addthis"><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript">var addthis_config = { services_exclude:"print", ui_508_compliant:true, data_ga_property:"UA-34776817-1", data_ga_social: true };</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=51d1d1b06537f78e"></script>
+<!-- AddThis Button END --></span></div>
+            </h1>                                                  <section id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <article id="node-3972" class="node node-book clearfix" about="/rrscs" typeof="sioc:Item foaf:Document">
+  <header>
+                  <span property="dc:title" content="The Ralph Regula School of Computational Science" class="rdf-meta element-hidden"></span>        </header>
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><figure class="caption" style="float:left"><img alt="" height="201" src="/sites/osc.edu/files/rrscs/IntCompSciGroup.jpg" width="300" /><figcaption></figcaption></figure><p>The Ralph Regula School of Computational Science at the Ohio Supercomputer Center is a statewide virtual school focused on the exciting new area of computational science -- the use of computer modeling and simulation to solve complex business, technical and academic research problems. Businesses recognize computational science as an essential tool for innovation and use it to develop new products. Researchers do the same to expand the frontiers of knowledge.</p>
+
+<p>Students may take part in the computational science minor or associate degree program offered at 14 colleges and universities throughout the state of Ohio.  The program take an interdisciplinary approach to allow undergraduates to apply computational tools directly to their area of study.  Students use these tool to solve real-world problems in a wide range of fields.</p>
+
+<p>In collaboration with the Ohio Board of Regents, OSC, and state colleges and universities, the Ralph Regula School ensures that Ohio students have the skillsets that companies need to support the use of this new approach to innovation.</p>
+</div></div></div>  <div id="book-navigation-3972" class="book-navigation">
+    <ul class="menu"><li class="first leaf"><a href="/rrscs/about">About RRSCS</a></li>
+<li class="leaf"><a href="/rrscs/associate">Associate Degree Program</a></li>
+<li class="leaf"><a href="/rrscs/baccalaureate">Baccalaureate Minor Program</a></li>
+<li class="leaf"><a href="/rrscs/certificate">Certificate Programs</a></li>
+<li class="leaf"><a href="/rrscs/contact">Contact</a></li>
+<li class="leaf"><a href="/rrscs/faq">Frequently Asked Questions</a></li>
+<li class="last leaf"><a href="/rrscs/links">Links</a></li>
+</ul>
+        <div class="page-links clearfix">
+                          <a href="/rrscs/about" class="page-next" title="Go to next page">About RRSCS ›</a>
+          </div>
+    
+  </div>
+  </div>
+  <footer>
+    <ul class="links inline"><li class="book_printer first last"><a href="/book/export/html/3972" title="Show a printer-friendly version of this book page and its sub-pages.">Printer-friendly version</a></li>
+</ul>      </footer>
+</article>
+
+  </div>
+</section>                  </div>
+      </div>
+      <div id="sidebar-right" class="span4 pull-right">
+        <div id="sidebar"><section id="block-menu-block-1" class="block block-menu-block">
+
+    <h2>The Ralph Regula School of Computational Science</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-book-toc-3972 parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-3175"><a href="/rrscs/about">About RRSCS</a></li>
+<li class="leaf menu-mlid-3179"><a href="/rrscs/associate">Associate Degree Program</a></li>
+<li class="leaf menu-mlid-3181"><a href="/rrscs/baccalaureate">Baccalaureate Minor Program</a></li>
+<li class="leaf menu-mlid-3180"><a href="/rrscs/certificate">Certificate Programs</a></li>
+<li class="leaf menu-mlid-3178"><a href="/rrscs/contact">Contact</a></li>
+<li class="leaf menu-mlid-3177"><a href="/rrscs/faq">Frequently Asked Questions</a></li>
+<li class="last leaf menu-mlid-3176"><a href="/rrscs/links">Links</a></li>
+</ul></div>
+  </div>
+</section><section id="block-views-calendar-items-block" class="block block-views">
+
+    <h2>Upcoming Events</h2>
+  
+  <div class="content">
+    <div class="view view-calendar-items view-id-calendar_items view-display-id-block view-dom-id-8844b30cb982e000037abdc1bb5e4e4e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-ohtech-icon">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/events/casc_spring_meeting">CASC Spring Meeting</a></span>  </div>  
+  <div class="views-field views-field-ohtech-cal-date">        <div class="field-content"><div class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-03-31T12:00:00-04:00">Mar 31 2015 - 12:00pm</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-04-02T21:00:00-04:00">Apr 2 2015 - 9:00pm</span></div></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-ohtech-icon">        <div class="field-content"><img typeof="foaf:Image" src="https://www.osc.edu/sites/osc.edu/files/styles/icon/public/oh-tech-icons/Ohio_Supercomputer_Center_icon.png?itok=v-VE_LA5" width="40" height="40" alt="OSC icon" title="Ohio Supercomputer Center" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/events/xsede_hpc_workshop_big_data">XSEDE HPC Workshop: Big Data</a></span>  </div>  
+  <div class="views-field views-field-ohtech-cal-date">        <div class="field-content"><span class="date-display-single">Apr 7 2015 - <div class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-04-07T11:00:00-04:00">11:00am</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-04-07T17:00:00-04:00">5:00pm</span></div></span></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-ohtech-icon">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/events/enterprise_hpc_2015">Enterprise HPC 2015</a></span>  </div>  
+  <div class="views-field views-field-ohtech-cal-date">        <div class="field-content"><div class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-05-11T00:00:00-04:00">May 11 2015 - 12:00am</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-05-12T21:00:00-04:00">May 12 2015 - 9:00pm</span></div></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/events">
+    more  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</section><section id="block-views-press-releases-block-1" class="block block-views">
+
+    <h2>Recent News</h2>
+  
+  <div class="content">
+    <div class="view view-press-releases view-id-press_releases view-display-id-block_1 view-dom-id-e4901cac19555d470e80cf482e846bde">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-ohtech-icon">        <div class="field-content"><img typeof="foaf:Image" src="https://www.osc.edu/sites/osc.edu/files/styles/icon/public/oh-tech-icons/Ohio_Supercomputer_Center_icon.png?itok=v-VE_LA5" width="40" height="40" alt="OSC icon" title="Ohio Supercomputer Center" /></div>  </div>  
+  <span class="views-field views-field-field-press-city">        <span class="field-content">Columbus,</span>  </span>  
+  <span class="views-field views-field-field-press-state">        <span class="field-content">Ohio - </span>  </span>  
+  <span class="views-field views-field-field-publish-date">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-02-24T00:00:00-05:00">Feb 24</span>: </span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/press/undergraduate_osc_researcher_heading_to_uk">Undergraduate OSC researcher heading to U.K.</a></span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-ohtech-icon">        <div class="field-content"><img typeof="foaf:Image" src="https://www.osc.edu/sites/osc.edu/files/styles/icon/public/oh-tech-icons/Ohio_Supercomputer_Center_icon.png?itok=v-VE_LA5" width="40" height="40" alt="OSC icon" title="Ohio Supercomputer Center" /></div>  </div>  
+  <span class="views-field views-field-field-press-city">        <span class="field-content">Columbus,</span>  </span>  
+  <span class="views-field views-field-field-press-state">        <span class="field-content">Ohio - </span>  </span>  
+  <span class="views-field views-field-field-publish-date">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-12-05T00:00:00-05:00">Dec 5</span>: </span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/press/junior_researchers_exhibit_work_through_posters_flash_talks">Junior researchers exhibit work through posters, flash talks</a></span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-ohtech-icon">        <div class="field-content"><img typeof="foaf:Image" src="https://www.osc.edu/sites/osc.edu/files/styles/icon/public/oh-tech-icons/Ohio_Supercomputer_Center_icon.png?itok=v-VE_LA5" width="40" height="40" alt="OSC icon" title="Ohio Supercomputer Center" /></div>  </div>  
+  <span class="views-field views-field-field-press-city">        <span class="field-content">New Orleans,</span>  </span>  
+  <span class="views-field views-field-field-press-state">        <span class="field-content">Louisiana - </span>  </span>  
+  <span class="views-field views-field-field-publish-date">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-11-18T00:00:00-05:00">Nov 18</span>: </span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/press/osu_researcher_wins_supercomputing_award_for_cancer_research">OSU researcher wins supercomputing award for cancer research</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/press">
+    more  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</section><section id="block-chestnut-module-chestnut-twitter-block" class="block block-chestnut-module">
+
+    
+  <div class="content">
+    <a class="twitter-timeline" href="https://twitter.com/osc/osc-and-hpc-notices" data-widget-id="364406450077962240">Tweets from @osc/osc-and-hpc-notices</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>  </div>
+</section><section id="block-chestnut-core-chestnut-google-translate" class="block block-chestnut-core">
+
+    <h2>Translate</h2>
+  
+  <div class="content">
+    <div id="google_translate_element"></div>
+          <script>
+            function googleTranslateElementInit() {
+              new google.translate.TranslateElement({
+                pageLanguage: 'en'
+              }, 'google_translate_element');
+            }
+          </script>
+          <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  </div>
+</section></div>      </div>
+    </div>
+  </div>
+</div>
+
+<footer id="footer" class="full"><!-- classes: full, fixed -->
+  <div class="container">
+    <div id="footer-message">
+      <div itemscope itemtype="http://schema.org/GovernmentOrganization" itemid="https://www.osc.edu/"><div>
+      <a itemprop="url" href="https://www.osc.edu/">
+        <span itemprop="name">Ohio Supercomputer Center (OSC)</span>
+      </a><span> &middot; </span>
+      <span itemprop="description">A member of the
+        <span itemscope itemtype="http://schema.org/GovernmentOrganization" itemid="http://oh-tech.org" </span>
+          <a itemprop="url" href="http://oh-tech.org">
+            <span itemprop="name">Ohio Technology Consortium</span>
+          </a>
+        </span>
+      </span>
+    </div><div><span class="contact-item" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span itemprop="streetAddress">1224 Kinnear Road</span>,
+        <span itemprop="addressLocality">Columbus</span>,
+        <span itemprop="addressRegion">OH</span>
+        <span itemprop="postalCode">43212</span>,
+        <span itemprop="addressCountry">US</span>
+      </span><span class="vertical-separator"> &middot; </span><span class="contact-item">tel: <span itemprop="telephone">614-292-9248</span></span><span class="vertical-separator"> &middot; </span><span class="contact-item">fax: <span itemprop="faxNumber">614-292-7168</span></span><span class="vertical-separator"> &middot; </span><span class="contact-item" itemprop="email"><a href="mailto:webmaster@osc.edu">webmaster@osc.edu</a></span></div><div><span>Copyright &copy; 2015 by the Ohio Supercomputer Center. All Rights Reserved.</span><span> &middot; <a href="http://oh-tech.org/node/1188">Privacy Policy</a></span>    </div>
+  </div>
+</footer>
+
+<div id="ohtech-footer-message">
+	<div class="container">
+    <div class="span4">
+      <p>
+        <span class="heavy">
+          <a href="http://www.ohiohighered.org/">
+            Ohio Board of Regents<br />
+            University System of Ohio<br />
+          </a>
+        </span>
+          25 South Front Street<br />
+          Columbus, Ohio 43215
+      </p>
+    </div>
+    <div class="span4">
+      <p>
+        <span class="heavy">
+          STATE GOVERNMENT LINKS<br />
+        </span>
+        <a href="http://www.governor.ohio.gov/">John Kasich, Governor</a> |
+        <a href="http://www.ohio.gov/">Ohio.gov</a><br />
+      </p>
+    </div>
+    <div class="span4">
+      <p class="last">
+        <span class="heavy">
+          EDUCATION LINKS <br />
+        </span>
+          <a href="http://www.ohiohighered.org/">Ohio Board of Regents</a> |
+          <a href="http://www.oh-tech.org">OH-TECH</a><br>
+          <a href="http://www.oar.net">OARnet</a> |
+          <a href="http://www.osc.edu">OSC</a> |
+          <a href="http://www.ohiolink.edu/">OhioLINK</a> |
+          <a href="http://www.estudentservices.org/">eStudent Services</a><br>
+          <a href="http://www.ohiocommunitycolleges.org/">OACC</a> |
+          <a href="http://www.iuc-ohio.org/">IUC</a> |
+          <a href="http://www.collegeadvantage.com/">OTTA</a> |
+          <a href="http://www.ode.state.oh.us/">ODE</a>
+      </p>
+    </div>
+  </div>
+</div>
+  </body>
+</html>

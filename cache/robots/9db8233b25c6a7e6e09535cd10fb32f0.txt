@@ -1,0 +1,38 @@
+1427823528
+https://ti.to/github-training/github-intermediate-online-training-2015-03-25
+https://ti.to/robots.txt
+1427821719
+https://ti.to/github-events/git-merge-2015
+https://ti.to/robots.txt
+1427818424
+https://ti.to/github-events/git-merge-2015
+https://ti.to/robots.txt
+1427805975
+https://ti.to/github-training/github-intermediate-online-training-2015-03-25
+https://ti.to/robots.txt
+1427804852
+https://ti.to/github-events/git-merge-2015
+https://ti.to/robots.txt
+1427803970
+https://ti.to/github-events/git-merge-2015
+https://ti.to/robots.txt
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+User-agent: *
+Disallow: /tickets
+Disallow: /registrations
+Disallow: /receipts
+Disallow: /*tickets
+Disallow: /*registrations
+Disallow: /*receipts
+Disallow: /*password
+Disallow: /*release_id
+Disallow: /checkin_lists
+Disallow: /*checkin_lists
+Disallow: /*waiting_list_registrations
+Disallow: /allocations
+Disallow: /*allocations
+Disallow: /survey_responses
+Disallow: /*survey_responses
+ 

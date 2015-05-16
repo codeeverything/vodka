@@ -1,0 +1,24 @@
+1428422180
+http://www.diy.ca/channel-listings
+http://www.diy.ca/robots.txt
+1428422167
+http://www.diy.ca
+http://www.diy.ca/robots.txt
+1428417137
+http://www.diy.ca
+http://www.diy.ca/robots.txt
+1428241635
+http://www.diy.ca
+http://www.diy.ca/robots.txt
+1427629652
+http://www.diy.ca
+http://www.diy.ca/robots.txt
+User-agent: *
+Disallow: /pages/searchresult.aspx
+Disallow: /Pages/searchresult.aspx
+Disallow: /Pages/Searchresult.aspx
+Disallow: /workarea/
+Disallow: /WorkArea/
+Disallow: /Workarea/
+Disallow: /cmslogin.aspx
+Disallow: /CMSLogin.aspx

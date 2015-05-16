@@ -1,0 +1,13 @@
+1428420826
+http://sport.fakt.pl
+http://sport.fakt.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/

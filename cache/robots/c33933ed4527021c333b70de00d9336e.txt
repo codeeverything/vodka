@@ -1,0 +1,9 @@
+1428244912
+http://www.nasa.gov/newsaudio
+http://www.nasa.gov/robots.txt
+# Robots.txt file from http://www.nasa.gov
+#
+# All robots will spider the domain
+
+User-agent: *
+Disallow: /worldbook/

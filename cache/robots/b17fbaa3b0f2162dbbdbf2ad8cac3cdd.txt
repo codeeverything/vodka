@@ -1,0 +1,47 @@
+1428421049
+http://anunturipenet.gsp.ro
+http://anunturipenet.gsp.ro/robots.txt
+User-agent: *
+Disallow: */f/*
+Disallow: */alba,* 
+Disallow: */arad,* 
+Disallow: */arges,* 
+Disallow: */bacau,* 
+Disallow: */bihor,* 
+Disallow: */bistrita-nasaud,* 
+Disallow: */botosani,* 
+Disallow: */braila,* 
+Disallow: */brasov,* 
+Disallow: */bucuresti,* 
+Disallow: */buzau,* 
+Disallow: */calarasi,* 
+Disallow: */caras-severin,* 
+Disallow: */cluj,* 
+Disallow: */constanta,* 
+Disallow: */covasna,* 
+Disallow: */dambovita,* 
+Disallow: */dolj,* 
+Disallow: */galati,* 
+Disallow: */giurgiu,* 
+Disallow: */gorj,* 
+Disallow: */harghita,* 
+Disallow: */hunedoara,* 
+Disallow: */ialomita,* 
+Disallow: */iasi,* 
+Disallow: */ilfov,* 
+Disallow: */maramures,* 
+Disallow: */mehedinti,* 
+Disallow: */mures,* 
+Disallow: */neamt,* 
+Disallow: */olt,* 
+Disallow: */prahova,* 
+Disallow: */salaj,* 
+Disallow: */satu-mare,* 
+Disallow: */sibiu,* 
+Disallow: */suceava,* 
+Disallow: */teleorman,* 
+Disallow: */timis,* 
+Disallow: */tulcea,* 
+Disallow: */valcea,* 
+Disallow: */vaslui,* 
+Disallow: */vrancea,* 

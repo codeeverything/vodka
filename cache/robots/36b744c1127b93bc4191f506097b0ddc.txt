@@ -1,0 +1,114 @@
+1427822527
+http://intel.com/diversity
+http://intel.com/robots.txt
+1427818983
+http://intel.com/diversity
+http://intel.com/robots.txt
+1427804977
+http://intel.com/diversity
+http://intel.com/robots.txt
+# robots.txt exclusion for www.intel.com/ - US
+User-agent: *
+Disallow: /cgi
+Disallow: /iaweb/
+Disallow: /cpc/vision/
+Disallow: /intel/june297/
+Disallow: /cpc/eps/
+Disallow: /design/june297/
+Disallow: /cpc/archive/
+Disallow: /cpc/dia/
+Disallow: /cpc/ecs/
+Disallow: /cpc/fcs/
+Disallow: /cpc/gif/
+Disallow: /cpc/OptContent/
+Disallow: /cpc/pix/
+Disallow: /cpc/sound/
+Disallow: /cpc/feature/
+Disallow: /emergency/
+Disallow: /content/www/*/*/buy/intelinside/
+Disallow: /content/www/*/*/buy/inteltechnologyprovider/
+Disallow: /content/www/*/*/buy/intelproducts/
+Disallow: /content/www/*/*/homepage/_jcr_content/
+Disallow: /content/data/disclaimers/
+Disallow: /content/www/*/*/contentlibrary.html?
+Disallow: /content/iip/
+Disallow: /content/www/*/*/enterprise-security/ultrabook-and-all-in-one-pcs-for-business-cmpg.html
+Disallow: /*.swf$
+Disallow: /content/dam/www/secure/
+Disallow: /buy/*/*/catalog/variations/
+Disallow: /buy/*/*/retailers/
+Disallow: /catalog/2-in-1s/all/*
+Disallow: /catalog/2-in-1s/convertible/*
+Disallow: /catalog/2-in-1s/detachable/*
+Disallow: /catalog/2-in-1s/ultrabook/*
+Disallow: /catalog/tablets/all/*
+Disallow: /catalog/tablets/android/*
+Disallow: /catalog/tablets/windows/*
+Disallow: /catalog/laptops/all/*
+Disallow: /catalog/laptops/standard/*
+Disallow: /catalog/laptops/ultrabook/*
+Disallow: /catalog/laptops/value/*
+Disallow: /catalog/desktop/all/*
+Disallow: /catalog/desktop/allinone/*
+Disallow: /catalog/desktop/premium/*
+Disallow: /catalog/desktop/value/*
+Disallow: /catalog/components/all/*
+Disallow: /catalog/components/boxedboards/*
+Disallow: /catalog/components/boxedprocessors/*
+Disallow: /catalog/components/raid/*
+Disallow: /catalog/components/ssd/*
+Disallow: /tablets/shop-tablets-argentina.html
+Disallow: /tablets/shop-tablets-chile.html
+Disallow: /tablets/shop-tablets-colombia.html
+Disallow: /tablets/shop-tablets-mexico.html
+Disallow: /tablets/shop-tablets-peru.html
+Disallow: /2-in-1/shop-2-in-1-argentina.html
+Disallow: /2-in-1/shop-2-in-1-chile.html
+Disallow: /2-in-1/shop-2-in-1-colombia.html
+Disallow: /2-in-1/shop-2-in-1-mexico.html
+Disallow: /2-in-1/shop-2-in-1-peru.html
+Disallow: /content/www/ca/en/
+Disallow: /content/www/ca/fr/
+Disallow: /content/www/cn/zh/
+Disallow: /content/www/id/id/
+Disallow: /content/www/il/he/
+Disallow: /content/www/jp/ja/
+Disallow: /content/www/kr/ko/
+Disallow: /content/www/uk/en/
+Disallow: /content/www/za/en/
+Disallow: /content/www/au/en/
+Disallow: /content/www/br/pt/
+Disallow: /content/www/tr/tr/
+Disallow: /content/www/tw/zh/
+Disallow: /content/www/eg/ar/
+Disallow: /content/www/jo/ar/
+Disallow: /content/www/lk/en/
+Disallow: /content/www/nz/en/
+Disallow: /content/www/pt/pt/
+Disallow: /content/www/ro/ro/
+Disallow: /content/www/sa/ar/
+Disallow: /content/www/xe/en/
+Disallow: /content/www/de/de/
+Disallow: /content/www/xr/ar/
+Disallow: /content/www/xr/en/
+Disallow: /content/www/es/es/
+Disallow: /content/www/eu/en/
+Disallow: /content/www/fr/fr/
+Disallow: /content/www/ie/en/
+Disallow: /content/www/in/hi/
+Disallow: /content/www/it/it/
+Disallow: /content/www/xl/es/
+Disallow: /content/www/mx/es/
+Disallow: /content/www/my/en/
+Disallow: /content/www/nl/nl/
+Disallow: /content/www/ph/en/
+Disallow: /content/www/pk/en/
+Disallow: /content/www/pl/pl/
+Disallow: /content/www/ru/ru/
+Disallow: /content/www/se/sv/
+Disallow: /content/www/xa/en/
+Disallow: /content/www/ua/uk/
+Disallow: /content/www/vn/vi/
+Disallow: /content/www/th/th/
+Disallow: /content/www/eg/en/
+Disallow: /content/www/sa/en/

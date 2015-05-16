@@ -1,0 +1,6 @@
+1428242366
+http://ecommerce-software-review.toptenreviews.com
+http://ecommerce-software-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

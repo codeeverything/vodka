@@ -1,0 +1,6 @@
+1428243966
+http://heart-rate-monitor-watches-review.toptenreviews.com
+http://heart-rate-monitor-watches-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

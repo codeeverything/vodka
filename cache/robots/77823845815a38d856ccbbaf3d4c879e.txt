@@ -1,0 +1,7 @@
+1428234972
+https://www.nearlyfreespeech.net
+https://www.nearlyfreespeech.net/robots.txt
+User-agent: *
+
+Disallow: /files/privileges.sql
+

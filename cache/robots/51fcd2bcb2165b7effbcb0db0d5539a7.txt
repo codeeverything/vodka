@@ -1,0 +1,16 @@
+1428419227
+http://100najbogatszychpolakow.forbes.pl
+http://100najbogatszychpolakow.forbes.pl/robots.txt
+1428418958
+http://100najbogatszychpolakow.forbes.pl/najbogatsze-polki-2015-ranking-magazynu-forbes,artykuly,192415,1,1.html
+http://100najbogatszychpolakow.forbes.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/

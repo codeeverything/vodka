@@ -1,0 +1,10 @@
+1427910964
+http://awards.acm.org
+http://awards.acm.org/robots.txt
+User-agent: *
+Disallow: /actionfiles/ 
+Disallow: /primarytemplatefiles/ 
+Disallow: /install/ 
+Disallow: login.cfm
+Disallow: logout.cfm
+Disallow: search.cfm

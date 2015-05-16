@@ -1,0 +1,21 @@
+1427891414
+http://oaa.osu.edu/strategicplanning.html
+http://oaa.osu.edu/robots.txt
+1427891090
+http://oaa.osu.edu
+http://oaa.osu.edu/robots.txt
+# Default modx exclusions
+User-agent: *
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /install/
+Disallow: /manager/
+Disallow: /archive/
+
+# For sitemaps.xml autodiscovery. Uncomment if you have one:
+# Sitemap: http://example.com/sitemap.xml

@@ -1,0 +1,26 @@
+1427651834
+https://ssl.bbc.co.uk/id/signout
+https://ssl.bbc.co.uk/robots.txt
+1427633672
+https://ssl.bbc.co.uk/id/status
+https://ssl.bbc.co.uk/robots.txt
+1427633552
+https://ssl.bbc.co.uk/id/statecookie/facebook.com?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews
+https://ssl.bbc.co.uk/robots.txt
+1427633476
+https://ssl.bbc.co.uk/id/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fsports-personality
+https://ssl.bbc.co.uk/robots.txt
+1427632190
+https://ssl.bbc.co.uk/id/register?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnewsbeat%2F32105380
+https://ssl.bbc.co.uk/robots.txt
+1427632152
+https://ssl.bbc.co.uk/id/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-england-london-32101255
+https://ssl.bbc.co.uk/robots.txt
+1427629640
+https://ssl.bbc.co.uk/id/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnewsbeat%2F32105380
+https://ssl.bbc.co.uk/robots.txt
+1427629435
+https://ssl.bbc.co.uk/id/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fexplainers
+https://ssl.bbc.co.uk/robots.txt
+User-agent: *
+Disallow: /

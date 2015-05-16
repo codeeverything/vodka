@@ -1,0 +1,6 @@
+1428242397
+http://credit-card-processing-review.toptenreviews.com
+http://credit-card-processing-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

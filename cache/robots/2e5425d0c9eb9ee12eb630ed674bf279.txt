@@ -1,0 +1,12 @@
+1428234593
+http://science-professor.blogspot.com
+http://science-professor.blogspot.com/robots.txt
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: http://science-professor.blogspot.com/sitemap.xml
+

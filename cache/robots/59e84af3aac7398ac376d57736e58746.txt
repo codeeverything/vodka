@@ -1,0 +1,12 @@
+1428234613
+http://andysresearch.blogspot.com
+http://andysresearch.blogspot.com/robots.txt
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: http://andysresearch.blogspot.com/sitemap.xml
+

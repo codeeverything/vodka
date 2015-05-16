@@ -1,0 +1,5 @@
+1428420410
+http://www.forbesindia.com
+http://www.forbesindia.com/robots.txt
+# go away
+User-agent: *

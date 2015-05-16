@@ -1,0 +1,11 @@
+1427821658
+http://dmca.openstreetmap.org
+http://dmca.openstreetmap.org/robots.txt
+1427818350
+http://dmca.openstreetmap.org/
+http://dmca.openstreetmap.org/robots.txt
+1427803897
+http://dmca.openstreetmap.org/
+http://dmca.openstreetmap.org/robots.txt
+User-agent: *
+Disallow: /

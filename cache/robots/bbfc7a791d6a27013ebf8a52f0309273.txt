@@ -1,0 +1,6 @@
+1428244496
+http://nail-guns-review.toptenreviews.com
+http://nail-guns-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

@@ -1,0 +1,26 @@
+1428243611
+http://www.ugureskici.com/hakkimda
+http://www.ugureskici.com/robots.txt
+1428243602
+http://www.ugureskici.com/feed
+http://www.ugureskici.com/robots.txt
+1428243601
+http://www.ugureskici.com/arsiv
+http://www.ugureskici.com/robots.txt
+1428243601
+http://www.ugureskici.com/kaynakca
+http://www.ugureskici.com/robots.txt
+1428241756
+http://www.ugureskici.com
+http://www.ugureskici.com/robots.txt
+User-agent: *
+Disallow: /?ref=
+Disallow: /*?s=
+Disallow: /wp-content/plugins/
+Disallow: /images/
+Disallow: /author/
+
+User-agent: ia_archiver
+Disallow: /
+
+sitemap: http://www.ugureskici.com/sitemap.xml.gz

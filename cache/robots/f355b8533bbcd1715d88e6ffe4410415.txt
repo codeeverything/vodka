@@ -1,0 +1,9 @@
+1428234737
+https://mail.yahoo.com
+https://mail.yahoo.com/robots.txt
+User-agent: *
+Disallow: /config/isp_verify_user
+Disallow: /config/pwtoken_get
+Disallow: /config/pwtoken_login
+Disallow: /auth/
+

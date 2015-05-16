@@ -1,0 +1,6 @@
+1428244992
+http://travel-bottle-warmer-review.toptenreviews.com
+http://travel-bottle-warmer-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

@@ -1,0 +1,6 @@
+1428242456
+http://voip-service-review.toptenreviews.com
+http://voip-service-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

@@ -1,0 +1,8 @@
+1427735718
+http://www.dashi.com
+http://www.dashi.com/robots.txt
+User-agent: *
+Disallow: /userinfo.php
+Disallow: /user*
+Disallow: /user/*
+Disallow: /recycle*

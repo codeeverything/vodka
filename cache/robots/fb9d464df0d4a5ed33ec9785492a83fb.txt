@@ -1,0 +1,8 @@
+1428245062
+http://english-176050639939.spampoison.com
+http://english-176050639939.spampoison.com/robots.txt
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /images/

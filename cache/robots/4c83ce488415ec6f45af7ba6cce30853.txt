@@ -1,0 +1,80 @@
+1427910795
+http://slrn.sourceforge.net
+http://slrn.sourceforge.net/robots.txt
+1427910603
+http://slrn.sourceforge.net
+http://slrn.sourceforge.net/robots.txt
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Home of the slrn newsreader</title>
+<meta name="description" content="Home page for the slrn newsreader.">
+<meta name="author" content="Andrew Strong">
+<link rel="stylesheet" type="text/css" href="style.css" media="all">
+</head>
+<body>
+<!-- 'wrapper' encloses the entire page -->
+<div id="wrapper">
+<!-- 'header' gives the header information -->
+<div id="header">
+<a href="http://sourceforge.net/"><img src="http://sourceforge.net/sflogo.php?group_id=7768&amp;type=5"  width="210" height="62" alt="Hosted by Sourceforge"></a>
+  <h1>Home of the slrn newsreader</h1>
+  <p>http://slrn.sourceforge.net</p>
+</div>
+<!-- This is the navigation at the left of the page -->
+<div id="nav">
+  <ul>
+    <li><strong>Introduction</strong></li>
+    <li><a href="documentation.html">Documentation</a></li>
+    <li><a href="download.html">Download</a></li>
+    <li><a href="patches.html">Patches</a></li>
+    <li><a href="macros.html">Macros</a></li>
+    <li><a href="links.html">Links</a></li>
+  </ul>
+</div>
+<!-- 'content' holds the main material of the page -->
+<div id="content">
+<!-- 'content' holds the 'breaking news' section -->
+<div id="news">
+<h6>Latest News</h6>
+<p>Version 1.0.2 was released September 20, 2014. Directions for obtaining slrn 1.0.2 can be found on the <a href="download.html">download page</a> of this site while details of the changes contained in this version can be seen in <a href="docs/changes.txt">the changelog</a>. And remember 'Have fun!'.</p>
+</div>
+ <h2>Introduction to slrn</h2>
+  <p>slrn is the creation of John E. Davis (JED) and was first made available in 1994. It was written in part because of JED's dissatisfaction with the relatively sluggish performance of gnus/emacs as well as a general dissatisfaction with other newsreaders such as tin, nn, rn and others. JED also wanted to write software that would utilise his new screen management routines for the S-Lang library and finally wanted to write a newsreader for his girlfriend to use on a VMS platform. From these various threads slrn was created. But what is slrn?</p>
+ <blockquote cite="http://slrn.sourceforge.net/docs/slrn-manual-1.html">
+<p>slrn ('S-Lang read news') is a newsreader, i.e. a program that accesses a newsserver to read messages from the Internet News service (also known as 'Usenet'). It runs in console mode on various Unix-like systems (including Linux), 32-bit Windows, OS/2, BeOS and VMS. Beside the usual features of a newsreader slrn supports scoring rules to highlight, sort or kill articles based on information from their header. It is highly customizable, allows free key-bindings and can easily be extended using the sophisticated S-Lang macro language. Offline reading is possible by using either slrnpull (shipped with slrn) or a local newsserver (like leafnode or INN).</p>
+</blockquote>
+ <p>JED took a break from slrn development after releasing slrn 0.9.6.4. From 2000 to 2007 slrn was developed by Thomas Schultz with the help of a great number of people who made contributions. John E. Davis returned to develop slrn again in October 2007 and after much work released slrn 0.9.9 and now in 2014 slrn 1.0.2. The slrn community thank both Thomas and JED for their dedicated work over an incredible 20 year period.</p>
+  <h2>Information about slrn</h2>
+  <p>This web page aims to be the central access point for web based information on slrn but there are several other places to gain information about slrn. There are several newsgroups where slrn is discussed:</p>
+ <ul>
+ <li><a href="news:news.software.readers">news.software.readers</a>: This newsgroup deals with all kinds of newsreaders, so please put &quot;[slrn]&quot; somewhere in the Subject header line to make your posting easy to find for other slrn users. The newsgroup is read by the slrn community and JED.</li>
+ <li><a href="news:alt.lang.s-lang">alt.lang.s-lang</a>: This newsgroup deals with the S-Lang macro language that can be used to extend and customize slrn.</li>
+ <li><a href="news:de.comm.software.newsreader">de.comm.software.newsreader</a>: This newsgroup corresponds to news.software.readers, but is intended for discussions in German language.</li>
+ </ul>
+<p>There are also two public mailing lists for slrn:</p>
+ <ul>
+ <li><a href="https://lists.sourceforge.net/lists/listinfo/slrn-announce">slrn announce</a>: The slrn-announce mailing list was used to inform slrn's users of new releases, important bugfixes or major changes of the website. This mailing list could at the very least be described as 'quiescent' as there have been no posts since 2007.</li>
+ <li><a href="https://lists.sourceforge.net/lists/listinfo/slrn-user">slrn-user</a>: The slrn-user mailing list is open for discussion of the use, development and extension of the slrn newsreader. slrn-related announcements are also forwarded to this list, so there is no need to subscribe both slrn-admin and slrn-user. For questions about slrn that might be of broader interest, please use the appropriate newsgroup (which is in most cases news.software.readers).</li>
+ </ul>
+<h2>Some Acknowledgements</h2>
+<p>This website owes a debt to those who built the previous slrn website: Sven Guckes, Thomas Schultz, Felix Sch&#252;ller and Matthias Friedrich. A great deal of assistance was also given by regulars of the newsgroup news.software.readers, regulars of the slrn-users mailing list and of course by the developer of slrn John E. Davis. The current website team acknowledge the debt to <em>all</em> of these generous people.</p>
+</div>
+<!-- 'footer' holds the buttons, email etc at the base of the page -->
+<div id="footer">
+ <ul>
+ <li><a href="http://validator.w3.org/check/referer"><img src="images/valid-html401.png" width="88" height="31" alt="Valid HTML 4.01"></a></li>
+ <li><img src="images/lynxpaw.gif" width="88" height="31" alt="Inspected with lynx"></li>
+ <li><a href="http://jigsaw.w3.org/css-validator/validator?uri=http://slrn.sourceforge.net/style.css"><img src="images/vcss.png" width="88" height="31" alt="Valid CSS"></a></li>
+ </ul> 
+<!-- Email address obscured courtesy of http://www.addressmunger.com/ -->
+<p>
+ Page last updated: October 2014 <br>
+ Email to: <a href="&#x6d;&#00097;&#105;&#x6c;&#x74;&#000111;&#00058;&#97;&#110;&#x64;&#x72;&#101;&#x77;&#00046;&#100;&#00097;&#x76;&#x69;&#000100;&#00046;&#x73;&#x74;&#000114;&#x6f;&#000110;&#x67;&#00064;&#x67;&#x6d;&#00097;&#x69;&#x6c;&#x2e;&#x63;&#000111;&#109;" >&#x57;&#000101;&#00098;&#x73;&#x69;&#x74;&#x65;&#32;&#00084;&#000101;&#97;&#000109;</a>
+</p>
+</div>
+</div>
+</body>
+</html>

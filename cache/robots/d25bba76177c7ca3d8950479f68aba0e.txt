@@ -1,0 +1,12 @@
+1428235012
+https://smallbusiness.yahoo.com
+https://smallbusiness.yahoo.com/robots.txt
+User-agent: *
+Disallow: /_xhr/
+
+
+User-agent: Yahoo!-AdCrawler
+Crawl-delay: 1
+
+
+Sitemap: https://smallbusiness.yahoo.com/sitemap.xml

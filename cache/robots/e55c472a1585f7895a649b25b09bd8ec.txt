@@ -1,0 +1,6 @@
+1428244597
+http://teeth-whiteners-review.toptenreviews.com
+http://teeth-whiteners-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

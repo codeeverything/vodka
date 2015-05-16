@@ -1,0 +1,42 @@
+1427823569
+https://about.twitter.com
+https://about.twitter.com/robots.txt
+1427821707
+https://about.twitter.com/careers
+https://about.twitter.com/robots.txt
+1427818411
+https://about.twitter.com/careers
+https://about.twitter.com/robots.txt
+1427806031
+https://about.twitter.com//
+https://about.twitter.com/robots.txt
+1427804029
+https://about.twitter.com/careers
+https://about.twitter.com/robots.txt
+1427803956
+https://about.twitter.com/careers
+https://about.twitter.com/robots.txt
+User-agent: *
+
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+
+# Files
+Disallow: /cron.php
+
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/

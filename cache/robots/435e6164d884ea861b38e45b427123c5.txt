@@ -1,0 +1,472 @@
+1428420948
+http://identity.seed-consultants.ro
+http://identity.seed-consultants.ro/robots.txt
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title>Identity | Seed Consultants</title>
+			
+	
+	<link rel="pingback" href="http://identity.seed-consultants.ro/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://identity.seed-consultants.ro/wp-content/themes/Divi%202/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="Identity &raquo; Feed" href="http://identity.seed-consultants.ro/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Identity &raquo; Comments Feed" href="http://identity.seed-consultants.ro/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Identity &raquo; Identity Comments Feed" href="http://identity.seed-consultants.ro/?feed=rss2&#038;page_id=37" />
+<meta content="Divi v.2.1.2" name="generator"/><link rel='stylesheet' id='divi-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-crete-round-css'  href='http://fonts.googleapis.com/css?family=Crete+Round:400,400italic&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://identity.seed-consultants.ro/wp-content/themes/Divi%202/style.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://identity.seed-consultants.ro/wp-content/themes/Divi%202/epanel/shortcodes/css/shortcodes.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='http://identity.seed-consultants.ro/wp-content/themes/Divi%202/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://identity.seed-consultants.ro/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://identity.seed-consultants.ro/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://identity.seed-consultants.ro/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://identity.seed-consultants.ro/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Sample Page' href='http://identity.seed-consultants.ro/?page_id=2' />
+<meta name="generator" content="WordPress 3.9.3" />
+<link rel='canonical' href='http://identity.seed-consultants.ro/' />
+<link rel='shortlink' href='http://identity.seed-consultants.ro/' />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />	<style>
+		a { color: #2EA3F2; }
+
+		body { color: #2d3746; }
+
+		.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content { background-color: #2EA3F2; }
+
+		#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: #ffffff; }
+
+		#top-header, #et-secondary-nav li ul { background-color: #2EA3F2; }
+
+		.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #2EA3F2 !important; }
+
+		#et_search_icon:hover, .mobile_menu_bar:before, .footer-widget h4, .et-social-icon a:hover, .comment-reply-link, .form-submit input, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover { color: #2EA3F2 !important; }
+
+		.woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .et_pb_contact_submit, .et_pb_bg_layout_light .et_pb_newsletter_button, .nav-single a, .posted_in a { color: #2EA3F2 !important; }
+
+		.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #2EA3F2; }
+
+		#main-footer { background-color: #222222; }
+
+		#top-menu a { color: #545454; }
+
+		#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a, .bottom-nav li.current-menu-item > a { color: #2EA3F2; }
+
+	h1, h2, h3, h4, h5, h6 { font-family: 'Crete Round', Georgia, "Times New Roman", serif; }	</style>
+<link rel="shortcut icon" href="http://identity.seed-consultants.ro/wp-content/uploads/2014/08/favicon.jpg" />	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+<body class="home page page-id-37 page-template page-template-page-template-blank-php et_fixed_nav et_pb_pagebuilder_layout et_right_sidebar unknown et_includes_sidebar">
+	<div id="page-container">
+
+<div id="main-content">
+
+
+			
+				<article id="post-37" class="post-37 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et_pb_section et_pb_fullwidth_section et_section_regular">
+			
+			
+				
+				<div class="et_pb_slider et_pb_slider_no_arrows et_pb_slider_no_pagination et_slider_auto et_slider_speed_2000">
+			<div class="et_pb_slides">
+				<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/sigla-identity1.jpg);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content">
+<h1>Seed Consultants lansează iDentity</h1>
+</div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/receptie.jpg);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content">
+<h1>Agenția de branding Seed Consultants a lansat recent un nou proiect de rebranding – iDentity – clinică stomatologică.</h1>
+</div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/repeptie31.jpg);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content">
+<h1 style="font-weight: 500;">Etapele proiectului de branding au constat în analiza și auditul pieței, dezvoltarea poziționării, crearea numelui, dezvoltarea identității vizuale și a aplicațiilor grafice.</h1>
+</div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/cabinet-roz.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/before-and-after.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/1.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/6.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/8.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/Homepage-iDentity.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/10.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/12.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/4.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center" style='background-color:#ffffff;background-image:url(http://identity.seed-consultants.ro/wp-content/uploads/2014/08/uniforme.png);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					
+					<div class="et_pb_slide_content"></div>
+					
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		
+			</div> <!-- .et_pb_slides -->
+		</div> <!-- .et_pb_slider -->
+		
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section et_section_regular" style='background-color:#ffffff;'>
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_1_3">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			
+<p>Clinica MultiDent simțea nevoia unei împrospătari la nivel de identitate vizuală. În urma auditului, a fost evidentă necesitatea repoziționării pe teritoriul încrederii, atribut esențial în serviciile medicale. iDentity, numele clinicii, păstrează ceea ce și-a dorit clientul – particela “dent” – și este în același timp diferențiator, atât din punct de vedere semantic, cât și grafic.</p>
+<p><strong>iDentity este locul potrivit pentru “șlefuirea zâmbetului” pentru că vorbim aici despre performanță, inovație, pasiune și relaționare. </strong></p>
+<p> </p>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			
+<p>Clienții vin aici pentru că au încredere în medici și se regăsesc în orice mic detaliu care definește experiența senzorială a brandului: cromatica îndrăzneață încă de la recepție, mesajele de pe pereți, din tavan și de pe halatele personalului, desenele vesele din cabinetul pentru copii sau ambientalul sonor. Iar pasul următor este recomandarea și e ușor pentru că vorbim și de statut – clienții recomandă pentru că le place să-și asocieze imaginea cu ceea ce e modern.</p>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3">
+			<div class="et_pb_testimonial et_pb_testimonial_no_image et_pb_bg_layout_light et_pb_text_align_left clearfix" style="background-color: #f5f5f5;">
+			
+			<div class="et_pb_testimonial_description">
+				
+<p>Relansarea iDentity spune că antreprenorii români pun accent din ce în ce mai mult, pe lângă calitatea serviciului, și pe imagine. Ei înțeleg că procesul de vânzare este mult mai facil atunci când imaginea este cel puțin la același nivel cu serviciul.</p>
+
+				<strong class="et_pb_testimonial_author">Dochița Zenoveiov</strong>
+				<p class="et_pb_testimonial_meta">Managing Director, Seed Consultants</p>
+			</div> <!-- .et_pb_testimonial_description -->
+		</div> <!-- .et_pb_testimonial -->
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section et_section_regular" style='background-color:#f3bb20;'>
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_4_4">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			
+<h2>Procesul de branding a fost realizat în două luni. Iată care a fost echipa de proiect:</h2>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row --><div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_1_4">
+			<div class="et_pb_team_member et_pb_bg_layout_light clearfix">
+			<div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+				<img src="http://identity.seed-consultants.ro/wp-content/uploads/2014/08/dochita4.png" alt="Dochița Zenoveiov" />
+			</div>
+			<div class="et_pb_team_member_description">
+				<h4>Dochița Zenoveiov</h4>
+				<p class="et_pb_member_position">Managing Director</p>
+				
+				
+			</div> <!-- .et_pb_team_member_description -->
+		</div> <!-- .et_pb_team_member --><div class="et_pb_team_member et_pb_bg_layout_light clearfix">
+			<div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+				<img src="http://identity.seed-consultants.ro/wp-content/uploads/2014/08/Cristiana-Borsaru.png" alt="Cristiana Borsaru" />
+			</div>
+			<div class="et_pb_team_member_description">
+				<h4>Cristiana Borsaru</h4>
+				<p class="et_pb_member_position">Project Executive</p>
+				
+				
+			</div> <!-- .et_pb_team_member_description -->
+		</div> <!-- .et_pb_team_member -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4">
+			<div class="et_pb_team_member et_pb_bg_layout_light clearfix">
+			<div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+				<img src="http://identity.seed-consultants.ro/wp-content/uploads/2014/08/Ecaterina-Gaman3.png" alt="Ecaterina Găman" />
+			</div>
+			<div class="et_pb_team_member_description">
+				<h4>Ecaterina Găman</h4>
+				<p class="et_pb_member_position">Brand Designer</p>
+				
+				
+			</div> <!-- .et_pb_team_member_description -->
+		</div> <!-- .et_pb_team_member --><div class="et_pb_team_member et_pb_bg_layout_light clearfix">
+			<div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+				<img src="http://identity.seed-consultants.ro/wp-content/uploads/2014/08/Eda-Mologani.png" alt="Eda Mologani" />
+			</div>
+			<div class="et_pb_team_member_description">
+				<h4>Eda Mologani</h4>
+				<p class="et_pb_member_position">Project Executive</p>
+				
+				
+			</div> <!-- .et_pb_team_member_description -->
+		</div> <!-- .et_pb_team_member -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4">
+			<div class="et_pb_team_member et_pb_bg_layout_light clearfix">
+			<div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+				<img src="http://identity.seed-consultants.ro/wp-content/uploads/2014/08/Roxana-Jitaru.png" alt="Roxana Jitaru" />
+			</div>
+			<div class="et_pb_team_member_description">
+				<h4>Roxana Jitaru</h4>
+				<p class="et_pb_member_position">Junior Designer</p>
+				
+				
+			</div> <!-- .et_pb_team_member_description -->
+		</div> <!-- .et_pb_team_member -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4">
+			<div class="et_pb_team_member et_pb_bg_layout_light clearfix">
+			<div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+				<img src="http://identity.seed-consultants.ro/wp-content/uploads/2014/08/Sabina-Leonte.png" alt="Sabina Leonte" />
+			</div>
+			<div class="et_pb_team_member_description">
+				<h4>Sabina Leonte</h4>
+				<p class="et_pb_member_position">Project Manager</p>
+				
+				
+			</div> <!-- .et_pb_team_member_description -->
+		</div> <!-- .et_pb_team_member -->
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section et_section_regular">
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_1_2">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			
+<h3>Ești interesat de branding?</h3>
+<h3>Înscrie-te la Newsletterul nostru și vei primi constant informații despre proiectele pe care le desfășurăm și despre cum poți îmbunătăți și tu imaginea business-ului tău!</h3>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2">
+			<div class="et_pb_newsletter clearfix et_pb_bg_layout_dark et_pb_text_align_center" style="background-color: #f3bb20;">
+			<div class="et_pb_newsletter_description">
+				<h2>Newsletter Seed Consultants</h2>
+				
+			</div>
+			
+					<div class="et_pb_newsletter_form">
+						<div class="et_pb_newsletter_result"></div>
+						<p>
+							<label class="et_pb_contact_form_label" for="et_pb_signup_firstname" style="display: none;">First Name</label>
+							<input id="et_pb_signup_firstname" class="input" type="text" value="First Name" name="et_pb_signup_firstname">
+						</p>
+						<p>
+							<label class="et_pb_contact_form_label" for="et_pb_signup_lastname" style="display: none;">Last Name</label>
+							<input id="et_pb_signup_lastname" class="input" type="text" value="Last Name" name="et_pb_signup_lastname">
+						</p>
+						<p>
+							<label class="et_pb_contact_form_label" for="et_pb_signup_email" style="display: none;">Email Address</label>
+							<input id="et_pb_signup_email" class="input" type="text" value="Email Address" name="et_pb_signup_email">
+						</p>
+						<p><a class="et_pb_newsletter_button" href="#">Înscrie-te!</a></p>
+						<input type="hidden" value="ec8ef38f78" name="et_pb_signup_list_id" />
+					</div>
+		</div>
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section et_section_regular" style='background-color:#f3bb2a;'>
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_1_4">
+			<a href="http://www.seed-consultants.ro" target="_blank"><img src="http://identity.seed-consultants.ro/wp-content/uploads/2014/08/logo-seed-png-800x402.png" alt="" class="et-waypoint et_pb_image et_pb_animation_off et_pb_image_sticky" /></a>
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			
+<p style="color: #000000;">Suntem întotdeauna dornici să discutăm despre branduri și business. Sună-ne, trimite-ne un e-mail sau fă-ne o vizită!</p>
+<p style="color: #000000;">Tel +4 021 20 30 162<br /> <a style="color: #969696;" href="mailto:salut@seed-consultants.ro" target="_blank">salut@seed-consultants.ro</a></p>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4">
+			<ul class="et_pb_social_media_follow et_pb_bg_layout_light clearfix">
+			<li class="et_pb_social_icon et_pb_social_network_link et-social-facebook">
+			<a href="https://www.facebook.com/SeedLandor" class="icon rounded_rectangle" title="facebook" target="_blank" style="background-color: #3b5998;"><span>facebook</span></a>
+			
+		</li><li class="et_pb_social_icon et_pb_social_network_link et-social-twitter">
+			<a href="https://twitter.com/seedlandor" class="icon rounded_rectangle" title="Twitter" target="_blank" style="background-color: #00aced;"><span>Twitter</span></a>
+			
+		</li><li class="et_pb_social_icon et_pb_social_network_link et-social-linkedin">
+			<a href="https://www.linkedin.com/company/459139?trk=tyah&amp;trkInfo=tarId%3A1407939575058%2Ctas%3Aseed%20consultants%2Cidx%3A2-1-3" class="icon rounded_rectangle" title="LinkedIn" target="_blank" style="background-color: #007bb6;"><span>LinkedIn</span></a>
+			
+		</li>
+		</ul> <!-- .et_pb_counters -->
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section -->
+					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+	</div> <!-- #page-container -->
+
+	<script type='text/javascript' src='http://identity.seed-consultants.ro/wp-includes/js/comment-reply.min.js?ver=3.9.3'></script>
+<script type='text/javascript' src='http://identity.seed-consultants.ro/wp-content/themes/Divi%202/js/jquery.fitvids.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://identity.seed-consultants.ro/wp-content/themes/Divi%202/js/waypoints.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://identity.seed-consultants.ro/wp-content/themes/Divi%202/js/jquery.magnific-popup.js?ver=2.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_custom = {"ajaxurl":"http:\/\/identity.seed-consultants.ro\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/identity.seed-consultants.ro\/wp-content\/themes\/Divi%202\/images","et_load_nonce":"1312add1ec","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","next":"Next"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://identity.seed-consultants.ro/wp-content/themes/Divi%202/js/custom.js?ver=2.1.2'></script>
+</body>
+</html>

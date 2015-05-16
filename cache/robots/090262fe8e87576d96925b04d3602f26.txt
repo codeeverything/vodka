@@ -1,0 +1,23 @@
+1427802346
+http://www.chaoji007.com
+http://www.chaoji007.com/robots.txt
+1427801478
+http://www.chaoji007.com
+http://www.chaoji007.com/robots.txt
+1427800452
+http://www.chaoji007.com
+http://www.chaoji007.com/robots.txt
+1427736695
+http://www.chaoji007.com
+http://www.chaoji007.com/robots.txt
+#
+# robots.txt for chaoji007.com
+#
+User-agent: * 
+Disallow: /caches
+Disallow: /phpcms
+Disallow: /install
+Disallow: /phpsso_server
+Disallow: /api
+Disallow: /tui
+Disallow: /admin.php

@@ -1,0 +1,36 @@
+1428422297
+http://shop.nationalgeographic.com
+http://shop.nationalgeographic.com/robots.txt
+1428420154
+http://shop.nationalgeographic.com/blog
+http://shop.nationalgeographic.com/robots.txt
+1428417171
+http://shop.nationalgeographic.com
+http://shop.nationalgeographic.com/robots.txt
+1428241672
+http://shop.nationalgeographic.com
+http://shop.nationalgeographic.com/robots.txt
+User-agent: *
+
+# CMS Pages Sitemap
+Sitemap: http://shop.nationalgeographic.com/sitemap.xml
+
+# CMS Directories
+Disallow: /ngs/cart/
+Disallow: /ngs/checkout/
+Disallow: /html/catalog/popup/
+Disallow: /html/catalog/onefill/
+
+# CMS Pages
+Disallow: /ngs/browse/emailAFriend.jsp
+Disallow: /ngs/m/browse/emailAFriend.jsp
+Disallow: /ngs/company/terms.jsp
+Disallow: /ngs/facet/facetGlossary.jsp
+Disallow: /ngs/category/groupon-order-confirmation
+Disallow: /ngs/browse/sizechartPopup.jsp
+
+# Flash Files
+Disallow: /html/catalog/games/herod/Herod_Flash.swf
+Disallow: /html/catalog/games/PlanItGreen/PlanItGreen_v5.2b.swf
+Disallow: /html/catalog/games/lostcityofz/LCZ.swf
+Disallow: /html/catalog/onefill/video-player.swf

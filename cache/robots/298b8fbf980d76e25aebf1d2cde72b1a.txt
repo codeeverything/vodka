@@ -1,0 +1,6 @@
+1428245002
+http://upright-vacuum-cleaner-review.toptenreviews.com
+http://upright-vacuum-cleaner-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

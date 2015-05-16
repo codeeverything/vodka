@@ -1,0 +1,823 @@
+1427734437
+http://www.napslo.org/
+http://www.napslo.org/robots.txt
+
+
+<!DOCTYPE html>
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" id="MainHtml">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="description" /><meta name="author" /><title>
+	iMIS Login
+</title><link href="//fonts.googleapis.com/css?family=Signika:600,400,300" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/favicon.ico" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var gDocumentTitle = document.title;
+var gPostBackFormObject = null;
+var gWindowOnLoad = new Array();
+var gPostBackFormProcessSubmit = true;
+var gUserLanguage = 'en-US';
+var gWebRoot= '';
+var gAdminWebRoot = gWebRoot + '/Admin';
+var gWebsiteKey = 'b30712e8-c627-487a-8379-63045804a341';
+var gHKey = '';
+var gIsPostBack = false;
+var gDefaultConfirmMessage = 'Continue without saving changes?';
+var gIsEasyEditEnabled = false;
+var gMasterPage = '/templates/masterpages/napslo_rwd.master';
+
+if(gWebsiteKey != 'fbdf17a3-cae7-4943-b1eb-71b9c0dd65d2' && gWebsiteKey != 'fad2fd17-7e27-4c96-babe-3291ecde4822'){
+    gIsEasyEditEnabled = false;  
+}
+//]]>
+</script><!--[if lt IE 9]>
+<script src="/AsiCommon/Scripts/HTML5/html5shiv.min.js" type="text/javascript"></script>
+<![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1381533-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="/bootstrap/bootstrap.min.css" />
+	<!--Google Custom Search Script -- JR@ATS 10102014-->
+	<script>
+	  (function() {
+		var cx = '017380512448595539348:8ctcqqrcr7k';
+		var gcse = document.createElement('script');
+		gcse.type = 'text/javascript';
+		gcse.async = true;
+		gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+			'//www.google.com/cse/cse.js?cx=' + cx;
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(gcse, s);
+	  })();
+	</script>
+	<script>
+	function NAPSLOsearch() {
+		"use strict";
+		var GsearchDIV = document.getElementById('NAPSLOsearch'), GCSEsearchBox = document.createElement('div');
+		GCSEsearchBox.innerHTML = '<gcse:searchresults-only autoSearchOnLoad="true" queryParameterName="search">';
+		GsearchDIV.appendChild(GCSEsearchBox);
+	}
+	</script>
+<meta name="rating" content="General" /><meta name="Author" content="Advanced Solutions International, Inc." /><link href="../../../../App_Themes/NAPSLO_RWD/00-Reset.css" type="text/css" rel="stylesheet" /><link href="../../../../App_Themes/NAPSLO_RWD/01-MasterPage.css" type="text/css" rel="stylesheet" /><link href="../../../../App_Themes/NAPSLO_RWD/10-UltraWave.css" type="text/css" rel="stylesheet" /><link href="../../../../App_Themes/NAPSLO_RWD/11-ObjectBrowser.css" type="text/css" rel="stylesheet" /><link href="../../../../App_Themes/NAPSLO_RWD/CalendarStyles.css" type="text/css" rel="stylesheet" /><link href="../../../../App_Themes/NAPSLO_RWD/zNAPSLO.css" type="text/css" rel="stylesheet" /><link href="../../../../App_Themes/NAPSLO_RWD/zzCustom.css" type="text/css" rel="stylesheet" /><link href="../../../../App_Themes/NAPSLO_RWD/zzzResponsive.css" type="text/css" rel="stylesheet" /><script src="/AsiCommon/Scripts/Jquery/Jquery.min.js" type="text/javascript"></script><script src="/AsiCommon/Scripts/Jquery/jquery-migrate-1.2.1.min.js" type="text/javascript"></script><script src="/AsiCommon/Scripts/Jquery/jquery-ui.custom.min.js" type="text/javascript"></script><link href="/WebResource.axd?d=GXdpmzpmNbZGcTpdhvPkLNDVOKBsQxPc4gZa07Ki11ZfZBP4d_nGR8snyRGkQTgAxBiRVVTvwQsA4IvpabMLmhVHIephTK4VDqnaKBpiIBl8VwUlcl9--Q2hhkySgPVwI373Qw2&amp;t=635195063320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=Y1tonXxU3gWmFngUrVvIYHwhpHWonNsYJqOADK32NNoKnok3J0H1WEBdHuVx9hxVRQKb98q4cQyD7vKhsD9mAhferVhT-TEhYVmEURh1kz75jWRTPX2hQ8SLvdZ4_5rEt8Tmljki3haRBjLsrTiyfGJQ72k1&amp;t=635195063320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=KjA7XyDhtmgB12-bw5Y6brmFXgAEWubDAqR3JpFAEfn2xW5YU9pbezCgwurvAFpzr3U8mzikijG10taQiK3y5pkSfySXEWhyuxvBsQqPYDQ6gFcBFSAPZUK-mMNRCMlvTsaCQg2&amp;t=635195063320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=rrGDt7nD3_ifHg4I7UrT3IR1n_pf1cR1rMF0KsYEkU9XDTRRbA7szR0vAkP7Z-E7XFbMF35EEz_i7cquBN8ryD4lxrLXSTLwEwuI8WxIZjxrtGiY_kw568kjqduvwQZtbTKSXVXgUt-8m_fFkgO8Rx0JOzk1&amp;t=635195063320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body id="ctl00_MainBody" class="color-blue">
+    <form name="aspnetForm" method="post" action="Login.aspx?WebsiteKey=b30712e8-c627-487a-8379-63045804a341&amp;LoginMessage=Your+session+has+timed+out.+Please+try+your+operation+again." id="aspnetForm">
+<input type="hidden" name="__CTRLKEY" id="__CTRLKEY" value="" />
+<input type="hidden" name="__SHIFTKEY" id="__SHIFTKEY" value="" />
+<input type="hidden" name="ctl00_ScriptManager1_TSM" id="ctl00_ScriptManager1_TSM" value="" />
+<input type="hidden" name="PageInstanceKey" id="PageInstanceKey" value="7209fc20-d413-4af7-a9c8-c8e3d3f4300b" />
+<input type="hidden" name="TemplateUserMessagesID" id="TemplateUserMessagesID" value="ctl00_TemplateUserMessages_ctl00_Messages" />
+<input type="hidden" name="PageIsDirty" id="PageIsDirty" value="false" />
+<input type="hidden" name="IsControlPostBackctl00$hdSocial$NewContentHtml" id="IsControlPostBackctl00$hdSocial$NewContentHtml" value="1" />
+<input type="hidden" name="IsControlPostBackctl00$SearchField2" id="IsControlPostBackctl00$SearchField2" value="1" />
+<input type="hidden" name="NavMenuClientID" id="NavMenuClientID" value="ctl00_TemplateMainNavigation_Primary_NavMenu" />
+<input type="hidden" name="IsControlPostBackctl00$SearchField" id="IsControlPostBackctl00$SearchField" value="1" />
+<input type="hidden" name="IsControlPostBackctl00$ftContact$NewContentHtml" id="IsControlPostBackctl00$ftContact$NewContentHtml" value="1" />
+<input type="hidden" name="IsControlPostBackctl00$ftLearnMore$NewContentHtml" id="IsControlPostBackctl00$ftLearnMore$NewContentHtml" value="1" />
+<input type="hidden" name="IsControlPostBackctl00$ftBlog$NewContentHtml" id="IsControlPostBackctl00$ftBlog$NewContentHtml" value="1" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhkMjM4ZmZiODUyZThmYhgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WCQUYY3RsMDAkTG9naW5TdGF0dXMxJGN0bDAxBRhjdGwwMCRMb2dpblN0YXR1czEkY3RsMDMFLGN0bDAwJFRlbXBsYXRlTWFpbk5hdmlnYXRpb24kUHJpbWFyeSROYXZNZW51BTRjdGwwMCRTaWRlQmFyUGxhY2VIb2xkZXIkU2Vjb25kYXJ5JFN1Yk5hdmlnYXRpb25UcmVlBTZjdGwwMCRUZW1wbGF0ZUJvZHkkTG9naW4xJExvZ2luVmlldzEkTG9naW4xJFJlbWVtYmVyTWUFC2N0bDAwJGN0bDIyBRNjdGwwMCRHZW5lcmljV2luZG93BRNjdGwwMCRPYmplY3RCcm93c2VyBRljdGwwMCRPYmplY3RCcm93c2VyRGlhbG9nErFBvVUAZfN1BHGQYyGKfRSjKIw=" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_ScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.50508%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a0c8c847b-b611-49a7-8e75-2196aa6e72fa%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2013.2.717.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a4401a8f1-5215-4b97-a426-3601ce0fa0ff%3a16e4e7cd%3af7645509%3a24ee1bba%3ae330518b%3a2003d0b8%3a1e771326%3ac8618e41%3af46195d3%3ae524c98b%3a92fe8ea0%3a874f8ea2%3afa31b949%3a19620875%3a490a9d4e%3abd8f85e4%3bAjaxControlToolkit%2c+Version%3d4.1.50508.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a0c8c847b-b611-49a7-8e75-2196aa6e72fa%3a782b16ab" type="text/javascript"></script>
+<script src="/AsiCommon/scripts/Asi.js" type="text/javascript"></script>
+<script src="/AsiCommon/Scripts/Asi.Web.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return PageMethods._staticInstance.get_path();},
+GetActionLink:function(action,templateType,docType,hierarchyKey,documentVersionKey,folderHierarchyKey,itemCount,closeWindowOnCommit,websiteKey,pageInstanceKey,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetActionLink',false,{action:action,templateType:templateType,docType:docType,hierarchyKey:hierarchyKey,documentVersionKey:documentVersionKey,folderHierarchyKey:folderHierarchyKey,itemCount:itemCount,closeWindowOnCommit:closeWindowOnCommit,websiteKey:websiteKey,pageInstanceKey:pageInstanceKey},succeededCallback,failedCallback,userContext); },
+GetWindowProperties:function(action,templateType,docType,hierarchyKey,documentVersionKey,folderHierarchyKey,itemCount,closeWindowOnCommit,websiteKey,pageInstanceKey,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetWindowProperties',false,{action:action,templateType:templateType,docType:docType,hierarchyKey:hierarchyKey,documentVersionKey:documentVersionKey,folderHierarchyKey:folderHierarchyKey,itemCount:itemCount,closeWindowOnCommit:closeWindowOnCommit,websiteKey:websiteKey,pageInstanceKey:pageInstanceKey},succeededCallback,failedCallback,userContext); },
+GetAddressCompletionList:function(prefixText,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetAddressCompletionList',false,{prefixText:prefixText},succeededCallback,failedCallback,userContext); },
+CheckForPasteConflict:function(selectedKeys,targetHierarchyKey,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'CheckForPasteConflict',false,{selectedKeys:selectedKeys,targetHierarchyKey:targetHierarchyKey},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) { PageMethods._staticInstance.set_path(value); }
+PageMethods.get_path = function() { return PageMethods._staticInstance.get_path(); }
+PageMethods.set_timeout = function(value) { PageMethods._staticInstance.set_timeout(value); }
+PageMethods.get_timeout = function() { return PageMethods._staticInstance.get_timeout(); }
+PageMethods.set_defaultUserContext = function(value) { PageMethods._staticInstance.set_defaultUserContext(value); }
+PageMethods.get_defaultUserContext = function() { return PageMethods._staticInstance.get_defaultUserContext(); }
+PageMethods.set_defaultSucceededCallback = function(value) { PageMethods._staticInstance.set_defaultSucceededCallback(value); }
+PageMethods.get_defaultSucceededCallback = function() { return PageMethods._staticInstance.get_defaultSucceededCallback(); }
+PageMethods.set_defaultFailedCallback = function(value) { PageMethods._staticInstance.set_defaultFailedCallback(value); }
+PageMethods.get_defaultFailedCallback = function() { return PageMethods._staticInstance.get_defaultFailedCallback(); }
+PageMethods.set_enableJsonp = function(value) { PageMethods._staticInstance.set_enableJsonp(value); }
+PageMethods.get_enableJsonp = function() { return PageMethods._staticInstance.get_enableJsonp(); }
+PageMethods.set_jsonpCallbackParameter = function(value) { PageMethods._staticInstance.set_jsonpCallbackParameter(value); }
+PageMethods.get_jsonpCallbackParameter = function() { return PageMethods._staticInstance.get_jsonpCallbackParameter(); }
+PageMethods.set_path("Login.aspx");
+PageMethods.GetActionLink= function(action,templateType,docType,hierarchyKey,documentVersionKey,folderHierarchyKey,itemCount,closeWindowOnCommit,websiteKey,pageInstanceKey,onSuccess,onFailed,userContext) {PageMethods._staticInstance.GetActionLink(action,templateType,docType,hierarchyKey,documentVersionKey,folderHierarchyKey,itemCount,closeWindowOnCommit,websiteKey,pageInstanceKey,onSuccess,onFailed,userContext); }
+PageMethods.GetWindowProperties= function(action,templateType,docType,hierarchyKey,documentVersionKey,folderHierarchyKey,itemCount,closeWindowOnCommit,websiteKey,pageInstanceKey,onSuccess,onFailed,userContext) {PageMethods._staticInstance.GetWindowProperties(action,templateType,docType,hierarchyKey,documentVersionKey,folderHierarchyKey,itemCount,closeWindowOnCommit,websiteKey,pageInstanceKey,onSuccess,onFailed,userContext); }
+PageMethods.GetAddressCompletionList= function(prefixText,onSuccess,onFailed,userContext) {PageMethods._staticInstance.GetAddressCompletionList(prefixText,onSuccess,onFailed,userContext); }
+PageMethods.CheckForPasteConflict= function(selectedKeys,targetHierarchyKey,onSuccess,onFailed,userContext) {PageMethods._staticInstance.CheckForPasteConflict(selectedKeys,targetHierarchyKey,onSuccess,onFailed,userContext); }
+var gtc = Sys.Net.WebServiceProxy._generateTypedConstructor;
+Type.registerNamespace('Asi.Web.UI.Common.BSA');
+if (typeof(Asi.Web.UI.Common.BSA.WindowProperties) === 'undefined') {
+Asi.Web.UI.Common.BSA.WindowProperties=gtc("Asi.Web.UI.Common.BSA.WindowProperties");
+Asi.Web.UI.Common.BSA.WindowProperties.registerClass('Asi.Web.UI.Common.BSA.WindowProperties');
+}
+Type.registerNamespace('Asi.Web.UI');
+if (typeof(Asi.Web.UI.PageOperation) === 'undefined') {
+Asi.Web.UI.PageOperation = function() { throw Error.invalidOperation(); }
+Asi.Web.UI.PageOperation.prototype = {None: 0,Edit: 1,New: 2,Execute: 3,Select: 4,SelectAndReturnValue: 5,Delete: 6,Purge: 7,Import: 8,Export: 9,Publish: 10,Versions: 11,Refresh: 12,Cut: 13,Copy: 14,Paste: 15,Undo: 16,SelectAll: 17,Search: 18,Preview: 19,Submit: 20,RequestDelete: 21,PurgeAll: 22}
+Asi.Web.UI.PageOperation.registerEnum('Asi.Web.UI.PageOperation', true);
+}
+if (typeof(Asi.Web.UI.TemplateType) === 'undefined') {
+Asi.Web.UI.TemplateType = function() { throw Error.invalidOperation(); }
+Asi.Web.UI.TemplateType.prototype = {I: 0,D: 1,P: 2,E: 3,T: 4,F: 5,A: 6}
+Asi.Web.UI.TemplateType.registerEnum('Asi.Web.UI.TemplateType', true);
+}
+//]]>
+</script>
+
+        
+    <!-- This control will display the progress image when a page load activity is taking a longer than expected time to load -->
+    
+<div class="container-fluid masterWrapper" id="masterWrapper">
+
+
+    <div id="hd" role="banner" class="header sticky-enabled ClearFix">
+        <div class="innerShell">
+
+
+
+
+
+
+            <div class="surfToEdit">
+                <!--  This control will display the Surf-to-Edit button-->
+                
+                <img id="ctl00_KeepAliveTarget" src="../../../Images/3x3.gif" alt=" " border="0" />
+                
+            </div>
+
+            <table class="hdLinks">
+                <tr>
+                    <td>    
+                        <div class="auxNav">
+                            <!--  Get the Auxiliary Navigation Items from the site map-->
+                            
+                        </div>
+                    </td>
+                    <td>
+                        <div class="login">
+                            <!--  This template required to display the (Sign In/Out Link)-->
+                            <a id="ctl00_LoginStatus1" accesskey="l" href="javascript:__doPostBack(&#39;ctl00$LoginStatus1$ctl02&#39;,&#39;&#39;)">Sign In</a>
+                        </div>
+                    </td>
+
+                    <td>
+
+                        <nav class="social">
+                            <div class="yui-bd">
+<div class="yui-g shade"><div id="ctl00_hdSocial_Zone1PlaceHolder">
+	<div id="ste_container_NewContentHtml" class="ContentItemContainer"><div class="ContentItemButtonPanel">
+
+</div><ul>
+    <li><a href="http://www.facebook.com/NAPSLO" class="facebook">Facebook</a></li>
+    <li><a href="http://twitter.com/napslo" class="twitter">Twitter</a></li>
+    <li><a href="http://www.linkedin.com/groups?gid=1865874&amp;trk=hb_side_g" class="linkedin">LinkedIn</a></li>
+    <li><a href="http://napslo.blogspot.com" class="blogger">Blog</a></li>
+</ul></div>
+</div></div>
+</div><div class="ContentRecordPageButtonPanel">
+
+</div>
+
+
+                        </nav>
+                    </td>
+                </tr>
+            </table> 
+
+<nav class="navbar navbar-default" role="navigation">
+
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+            <!-- Logo -->
+            <a class="logo" href="/wcm"><img src="/app_themes/napslo_rwd/images/logo.png"/></a>
+
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+     
+         <div class="siteSearch collapse">
+			<!-- Added by JR@ATS 10102014 -->
+				<gcse:searchbox-only autoSearchOnLoad="true" enableHistory="true" queryParameterName="search" resultsUrl="/wcm/_icore/Content/NAPSLOsearch.aspx" newWindow="false">
+			<!-- Removed by JR@ATS 10102014 -->
+				<!--  This control will display the simple search field-->
+				<!-- <div id="SimpleSearchBlock"><label for="ctl00_SearchField2_SearchTerms" id="ctl00_SearchField2_Prompt" class="screen-reader-text">Search</label><input name="ctl00$SearchField2$SearchTerms" type="text" value="Search" id="ctl00_SearchField2_SearchTerms" class=" Watermarked" onfocus="SimpleSearchField_OnFocus(&#39;ctl00_SearchField2_SearchTerms&#39;, ctl00_SearchField2_SearchTermsProperties);" onblur="SimpleSearchField_OnBlur(&#39;ctl00_SearchField2_SearchTerms&#39;, ctl00_SearchField2_SearchTermsProperties);" onkeypress="return clickButton(event,&#39;ctl00_SearchField2_GoSearch&#39;);" /><input type="button" name="ctl00$SearchField2$GoSearch" value="Go" onclick="SimpleSearchField_ExecuteSearch(&#39;ctl00_SearchField2_SearchTerms&#39;, ctl00_SearchField2_SearchTermsProperties); return cancelEvent();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchField2$GoSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" id="ctl00_SearchField2_GoSearch" class="TextButton" /></div> -->
+    </div>
+
+            <div class="mainNav">
+                <div id="ctl00_NavPanel" role="navigation">
+	
+                    
+                    <!--  This control will display the Primary Navigation control-->
+                    
+<div id="ctl00_TemplateMainNavigation_Primary_NavMenu" class="RadMenu RadMenu_wcm rmSized" style="z-index:2999;">
+		<!-- 2013.2.717.45 --><ul class="rmRootGroup rmHorizontal">
+			<li class="rmItem rmFirst"><a href="/wcm/Home/wcm/default.aspx?hkey=197f243d-8a04-4a22-a5b7-9848fe8f3d18" class="rmLink rmRootLink"><span class="rmText">Home</span></a></li><li class="rmItem "><a href="/wcm/About/wcm/About/About.aspx?hkey=3252790d-d602-475c-bb66-e3051646c5ca" class="rmLink rmRootLink"><span class="rmText">About</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="/wcm/About/What_is_Surplus_Lines/wcm/About/What_is_Surplus_Lines.aspx?hkey=edaa38ab-2c87-4861-a8ad-aa9b615c620e" class="rmLink"><span class="rmText">What is Surplus Lines</span></a></li><li class="rmItem "><a href="/wcm/About/History/wcm/About/History.aspx?hkey=c0d3eb36-ebd0-481c-bb64-92a683424f0e" class="rmLink"><span class="rmText">History</span></a></li><li class="rmItem "><a href="/wcm/About/Awards/wcm/About/Awards.aspx?hkey=8fdbd872-d4d2-4efc-8c72-ac9a5a3d09ff" class="rmLink"><span class="rmText">Awards</span></a></li><li class="rmItem rmLast"><a href="/wcm/About/Past_Presidents/wcm/About/Past_Presidents.aspx?hkey=d5d1732f-6de2-4ed9-83f1-159be1882cd7" class="rmLink"><span class="rmText">Past Presidents</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="/wcm/Members/wcm/Members/Members.aspx?hkey=c1c337a8-a76c-4478-9178-d6b12880714b" class="rmLink rmRootLink"><span class="rmText">Members</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="/wcm/Members/Member_Management_Portal/wcm/Members/Dues.aspx?hkey=0cca3c47-ee5a-41c0-a8e6-6f8d91e6367e" class="rmLink"><span class="rmText">Member Management Portal</span></a></li><li class="rmItem "><a href="/wcm/Members/Find_A_NAPSLO_Member/wcm/_iCore/Contacts/Members.aspx?hkey=37a0f747-50e3-4168-ada8-ff372711c577" class="rmLink"><span class="rmText">Find A NAPSLO Member</span></a></li><li class="rmItem "><a href="/wcm/Members/Membership_Directory/wcm/_iCore/Contacts/Directory4.aspx?hkey=35f41ab2-fa1f-4201-abc8-8e15833d95ef" class="rmLink"><span class="rmText">Membership Directory</span></a></li><li class="rmItem "><a href="/wcm/Members/Access_Member_Lists/wcm/Members/Member_Lists.aspx?hkey=75f10b63-bcb2-4955-9e3e-4f067d343e16" class="rmLink"><span class="rmText">Access Member Lists</span></a></li><li class="rmItem "><a href="/wcm/Members/NAPSLO___Lloyd_s/wcm/Members/NAPSLO___Lloyd_s.aspx?hkey=c5cf0dc7-eab2-4b6e-9ef7-c0d3961d2617" class="rmLink"><span class="rmText">NAPSLO &amp; Lloyd&#39;s</span></a></li><li class="rmItem rmLast"><a href="/wcm/Members/The_NAPSLO_Logo/wcm/Wholesale_Value/NAPSLO_Logo.aspx?#Logo&amp;hkey=82d21f60-797a-4c48-ac67-8c1caca53527" class="rmLink"><span class="rmText">The NAPSLO Logo</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="/wcm/News/wcm/News/News.aspx?hkey=9795cf65-9ed4-496b-9bcd-4f4447d170dc" class="rmLink rmRootLink"><span class="rmText">News</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="/wcm/News/NAPSLO_News/wcm/News/NAPSLO_News.aspx?hkey=fd2594e5-b92c-4716-befd-c6dd0ee61875" class="rmLink"><span class="rmText">NAPSLO News</span></a></li><li class="rmItem "><a href="/wcm/News/Publications/wcm/News/Publications.aspx?hkey=a10be1aa-6fcd-47d8-a93f-94e5b87b8eea" class="rmLink"><span class="rmText">Publications</span></a></li><li class="rmItem rmLast"><a href="/wcm/News/Videos/wcm/News/Videos.aspx?hkey=1fd3cb87-38ac-4965-8ba6-ea472f8f327d" class="rmLink"><span class="rmText">Videos</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="/wcm/Committees/wcm/Committees/Committees.aspx?hkey=b8bf09f1-d6ac-4a11-a131-826767f0a8cf" class="rmLink rmRootLink"><span class="rmText">Committees</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="/wcm/Committees/Budget__Finance__Audit___Investment/wcm/Committees/Budget.aspx?hkey=7b231bcd-0073-49e0-9c60-0b9500845a67" class="rmLink"><span class="rmText">Budget, Finance, Audit &amp; Investment</span></a></li><li class="rmItem "><a href="/wcm/Committees/Career_Awareness___Internship/wcm/Committees/Career.aspx?hkey=df3e77c0-98fa-4d11-956c-c4ad671904e5" class="rmLink"><span class="rmText">Career Awareness &amp; Internship</span></a></li><li class="rmItem "><a href="/wcm/Committees/Communications___Technology/wcm/Committees/Communications.aspx?hkey=8af1637b-ab7f-4d17-946e-63debe814c12" class="rmLink"><span class="rmText">Communications &amp; Technology</span></a></li><li class="rmItem "><a href="/wcm/Committees/Convention/wcm/Committees/Convention.aspx?hkey=31b07b7f-a7b6-48d3-8eb9-6c7a78fa785c" class="rmLink"><span class="rmText">Convention</span></a></li><li class="rmItem "><a href="/wcm/Committees/Education/wcm/Committees/Education.aspx?hkey=76145c82-c695-4bb3-8a6e-4e110fcb2083" class="rmLink"><span class="rmText">Education</span></a></li><li class="rmItem "><a href="/wcm/Committees/Legislative/wcm/Committees/Legislative.aspx?hkey=90aeed11-5763-4280-9428-3b09a70601be" class="rmLink"><span class="rmText">Legislative</span></a></li><li class="rmItem "><a href="/wcm/Committees/Membership___Ethics/wcm/Committees/Membership.aspx?hkey=1599fa07-e64e-4cf0-9fc0-00f89e699df2" class="rmLink"><span class="rmText">Membership &amp; Ethics</span></a></li><li class="rmItem "><a href="/wcm/Committees/Mid-Year/wcm/Committees/Mid-Year.aspx?hkey=6490716d-857b-4d90-a3cd-ba15f3d4768f" class="rmLink"><span class="rmText">Mid-Year</span></a></li><li class="rmItem "><a href="/wcm/Committees/PAC/wcm/Committees/PAC.aspx?hkey=5a79d43d-1c4b-4f2a-a3b1-a8d026141b90" class="rmLink"><span class="rmText">PAC</span></a></li><li class="rmItem rmLast"><a href="/wcm/Committees/Past_Presidents_Council/wcm/Committees/PastPresidentsCouncil.aspx?hkey=2589eb1f-f036-43c4-aea1-1d05d478ea84" class="rmLink"><span class="rmText">Past Presidents Council</span></a></li>
+				</ul>
+			</div></li><li class="rmItem rmLast"><a href="/wcm/Join/wcm/Join/Join.aspx?hkey=320c12be-3548-4058-b019-3bd84b2ba31c" class="rmLink rmRootLink"><span class="rmText">Join</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="/wcm/Join/Benefits_of_Membership/wcm/Join/Benefits_of_Membership.aspx?hkey=d7f328e2-f7c5-4a29-bb4b-ced918287db9" class="rmLink"><span class="rmText">Benefits of Membership</span></a></li><li class="rmItem "><a href="/wcm/Join/Membership_Applications/wcm/Join/Membership_Applications.aspx?hkey=12417da3-0ae5-4365-9529-c00b3ddf6cea" class="rmLink"><span class="rmText">Membership Applications</span></a></li><li class="rmItem "><a href="/wcm/Join/Membership_Criteria/wcm/Join/Membership_Criteria.aspx?hkey=10f90361-d356-42ea-8020-2c5fa71f7f61" class="rmLink"><span class="rmText">Membership Criteria</span></a></li><li class="rmItem "><a href="/wcm/Join/Membership_Dues/wcm/Members/Fee_Structure.aspx?hkey=64b48594-487b-4e55-b11a-29c5587f86c4" class="rmLink"><span class="rmText">Membership Dues</span></a></li><li class="rmItem "><a href="/docs/PDF/NAPSLOBylaws.pdf?hkey=050c12c5-dee9-445b-8808-8274b67df83c" class="rmLink"><span class="rmText">Bylaws</span></a></li><li class="rmItem rmLast"><a href="/docs/PDF/CodeEthic14.pdf?hkey=0f0f10ba-30b2-4037-b004-43827ec81db4" class="rmLink"><span class="rmText">Code of Ethics</span></a></li>
+				</ul>
+			</div></li>
+		</ul><input id="ctl00_TemplateMainNavigation_Primary_NavMenu_ClientState" name="ctl00_TemplateMainNavigation_Primary_NavMenu_ClientState" type="hidden" />
+	</div> 
+                    
+                
+</div>
+            </div>
+</div>
+</nav>
+
+
+
+
+
+
+
+</div> <!-- /innerShell -->
+
+</div> <!-- /end header -->
+
+<div id="bd">
+
+    
+
+
+<div id="ctl00_InteriorPageContent" class="InteriorPageContent">
+	
+<div id="masterMainBreadcrumb" class="masterMainBreadcrumb breadcrumb" role="navigation">
+    <div class="innerShell">
+        <!-- This control will display the currently applicable Breadcrumb Navigation (if any) -->
+        
+        </div>
+    </div>
+    <div id="masterContentArea" class="row">
+
+<div class="col-sm-4 pull-right intCol2">
+    <div role="siteSearch" class="siteSearch">
+		<!-- Added by JR@ATS 10102014 -->
+			<gcse:searchbox-only autoSearchOnLoad="true" enableHistory="true" queryParameterName="search" resultsUrl="/wcm/_icore/Content/NAPSLOsearch.aspx" newWindow="false">
+		<!-- Removed by JR@ATS 10102014 -->
+			<!--  This control will display the simple search field-->
+			<!-- <div id="SimpleSearchBlock"><label for="ctl00_SearchField_SearchTerms" id="ctl00_SearchField_Prompt" class="screen-reader-text">Search</label><input name="ctl00$SearchField$SearchTerms" type="text" value="Search" id="ctl00_SearchField_SearchTerms" class=" Watermarked" onfocus="SimpleSearchField_OnFocus(&#39;ctl00_SearchField_SearchTerms&#39;, ctl00_SearchField_SearchTermsProperties);" onblur="SimpleSearchField_OnBlur(&#39;ctl00_SearchField_SearchTerms&#39;, ctl00_SearchField_SearchTermsProperties);" onkeypress="return clickButton(event,&#39;ctl00_SearchField_GoSearch&#39;);" /><input type="button" name="ctl00$SearchField$GoSearch" value="Go" onclick="SimpleSearchField_ExecuteSearch(&#39;ctl00_SearchField_SearchTerms&#39;, ctl00_SearchField_SearchTermsProperties); return cancelEvent();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchField$GoSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" id="ctl00_SearchField_GoSearch" class="TextButton" /></div> -->
+    </div>
+    <div id="masterSideBarPanel" class="masterSideBarPanel" class="">
+        <h2 class="sideNavHead"><span><div id="ctl00_SubNavTitle" class="sideNavHead">Home</div></span></h2>
+        
+
+        
+<div id="ctl00_SideBarPlaceHolder_Secondary_SubNavigationTree" class="RadTreeView RadTreeView_wcm">
+		<input id="ctl00_SideBarPlaceHolder_Secondary_SubNavigationTree_ClientState" name="ctl00_SideBarPlaceHolder_Secondary_SubNavigationTree_ClientState" type="hidden" />
+	</div>  
+
+    
+    <h2><span>NAPSLO Programs &amp; Services</span></h2>
+    <ul class='NavigationUnorderedList'><li class='NavigationListItem'><a id="ctl00_SubNav_SubNav_rptWrapper_SubNav_rptWrapper_rpt_ctl01_NavigationLink" class="NavigationLink" href="/wcm/Legislative_Advocacy___PAC/wcm/Legislative_Advocacy___PAC/Legislative_Advocacy___PAC.aspx?hkey=8a0ee55c-12dd-449e-afdc-d1f2076b5335">Legislative Advocacy & PAC</a></li><li class='NavigationListItem'><a id="ctl00_SubNav_SubNav_rptWrapper_SubNav_rptWrapper_rpt_ctl02_NavigationLink" class="NavigationLink" href="/wcm/Education/wcm/Education/Education.aspx?hkey=d3436355-153d-4f4c-9cdb-886103ee898b">Education</a></li><li class='NavigationListItem'><a id="ctl00_SubNav_SubNav_rptWrapper_SubNav_rptWrapper_rpt_ctl03_NavigationLink" class="NavigationLink" href="/wcm/Networking/wcm/Networking/Networking_Home.aspx?hkey=ba7f5928-d769-4666-a9ff-3106e9331df4">Networking</a></li><li class='NavigationListItem'><a id="ctl00_SubNav_SubNav_rptWrapper_SubNav_rptWrapper_rpt_ctl04_NavigationLink" class="NavigationLink" href="/wcm/Career_Awareness__Internships___Next_Generation/wcm/Internship___Next_Generation/Internship___Next_Generation.aspx?hkey=b315793a-85a2-456c-bffe-b14e7cdc7c8e">Career Awareness, Internships & Next Generation</a></li><li class='NavigationListItem'><a id="ctl00_SubNav_SubNav_rptWrapper_SubNav_rptWrapper_rpt_ctl05_NavigationLink" class="NavigationLink" href="/wcm/Wholesale_Value/wcm/Wholesale_Value/Wholesale_Value.aspx?hkey=8d77a0d6-4405-4355-b120-c671a3a3367b">Wholesale Value</a></li></ul>
+
+
+</div>
+
+</div><!--  END COL2 -->
+
+        <div class="col-sm-8 intCol1">
+
+            <div id="">
+                <div class="">
+                    <!-- Group Breadcrumbs, Proxy and Page Tasks so they can be controlled together -->
+                    <div id="masterReferenceArea" class="ClearFix">
+
+                        <div id="masterPageTasks" style="display:none;">
+                            <!-- This control will display the print, text-only and email buttons -->
+                            <div id="ctl00_PageTasksPanel" class="PageTasksPanel NotPrinted">
+		
+                            <a id="ctl00_TemplatePageTasks_PrintButton" title="Printable version of this page" class="PrintButton" href="javascript:__doPostBack(&#39;ctl00$TemplatePageTasks$PrintButton&#39;,&#39;&#39;)"></a><a title="Switch to a text-only version of this website." class="TextOnlyButton" href="javascript:__doPostBack(&#39;ctl00$TemplatePageTasks$ctl00&#39;,&#39;&#39;)" style="cursor:pointer;"></a><a onclick="return emailAFriend(&#39;iMIS Login&#39;);" title="E-mail this page to a friend" class="EmailButton" href="javascript:__doPostBack(&#39;ctl00$TemplatePageTasks$ctl01&#39;,&#39;&#39;)"></a>
+                        
+	</div>
+                    </div>
+                    <div id="masterMainImpersonation" style="display:none;">
+                        <!-- This control displays the On Behalf Of control -->
+                        
+                        
+                        <!-- This control will display the applicable Impersonation/Proxy control (if any) -->
+                        
+                </div>
+            </div>
+            <!-- This panel contains the Main content area for a page -->
+            <div id="ctl00_ContentPanel" role="main" class="ContentPanel">
+		
+<!--  This update panel is needed so that any user messages that get configured in the main
+    content area will cause the TemplateUserMessages panel to be updated-->
+    <div id="ctl00_UserMessagesUpdatePanel">
+			
+        <!-- This provides a placeholder for any applicable User Messages that a page needs to display -->
+        
+    
+
+		</div>
+<div id="ctl00_TemplatePrintDisplay">
+			
+
+		</div>
+
+	<script type="text/javascript">
+		/* 
+		Temporary frame breakout for login page. 
+		Redirects back to requested target parent frame after authentication.
+		*/
+		try
+		{
+			if (parent !== self)
+				self.parent.location.replace(document.URL.replace(/\?ReturnUrl=.*$/i, "?ReturnUrl=" + escape(parent.document.URL)));
+		}
+		catch(e){}
+	</script>
+    <div id="login">
+	    
+
+<script type="text/javascript">
+    addLoadEvent(focusLogonName);
+    function focusLogonName()
+    {
+        var logonNameId = 'ctl00_TemplateBody_Login1_LoginView1_Login1_UserName';
+        if (logonNameId.length > 0)
+            $get(logonNameId).focus();
+    }
+</script>
+<div style="width:100%; text-align: center;">
+<div id="ctl00_TemplateBody_Login1_LoginUpdatePanel">
+			
+    <p><span id="ctl00_TemplateBody_Login1_lblMessage">Your session has timed out. Please try your operation again.</span></p>
+    <p class="error"></p>
+    
+            <table id="ctl00_TemplateBody_Login1_LoginView1_Login1" cellspacing="0" cellpadding="0" border="0" width="275" style="margin:auto;">
+				<tr>
+					<td>
+                    <div id="ctl00_TemplateBody_Login1_LoginView1_Login1_PanelTemplate1" class="StandardPanel">
+						<div id="ctl00_TemplateBody_Login1_LoginView1_Login1_PanelTemplate1_Head" class="PanelHead Distinguish">
+							<h2 class="PanelTitle">Log On</h2>
+						</div><div id="ctl00_TemplateBody_Login1_LoginView1_Login1_PanelTemplate1_Body" class="PanelBody">
+							                        
+                        <span class="Error" style="width:99%; text-align:center;">
+                            
+                        </span>
+                        <div class="PanelField AutoWidth">
+                            <label for="ctl00_TemplateBody_Login1_LoginView1_Login1_UserName" id="ctl00_TemplateBody_Login1_LoginView1_Login1_UserNameLabel" style="width:6em !important;">Logon</label>
+                            <div class="PanelFieldValue">
+                                <input name="ctl00$TemplateBody$Login1$LoginView1$Login1$UserName" type="text" id="ctl00_TemplateBody_Login1_LoginView1_Login1_UserName" style="width:11em;" /> 
+                            </div>
+                        </div>
+                        <div class="PanelField AutoWidth">
+                            <label for="ctl00_TemplateBody_Login1_LoginView1_Login1_Password" id="ctl00_TemplateBody_Login1_LoginView1_Login1_PasswordLabel" style="width:6em !important;">Password</label>
+                            <div class="PanelFieldValue">
+                                <input name="ctl00$TemplateBody$Login1$LoginView1$Login1$Password" type="password" id="ctl00_TemplateBody_Login1_LoginView1_Login1_Password" style="width:11.1em;" /> 
+                            </div>
+                        </div>
+                        <div id="ctl00_TemplateBody_Login1_LoginView1_Login1_Div1" class="PanelField AutoWidth FloatNone" style="text-align:left;">
+                            <input id="ctl00_TemplateBody_Login1_LoginView1_Login1_RememberMe" type="checkbox" name="ctl00$TemplateBody$Login1$LoginView1$Login1$RememberMe" /><label for="ctl00_TemplateBody_Login1_LoginView1_Login1_RememberMe">Remember me on this computer.</label>
+                        </div>
+                        <div class="PanelField" style="text-align:right; margin-left: auto; border-bottom: none;">
+                            <input type="submit" name="ctl00$TemplateBody$Login1$LoginView1$Login1$Login" value="Log On" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TemplateBody$Login1$LoginView1$Login1$Login&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_TemplateBody_Login1_LoginView1_Login1_Login" title="Log On" class=" TextButton" />
+                        </div>
+                        <div id="ctl00_TemplateBody_Login1_LoginView1_Login1_ForgotMyLogon" class="PanelField" style="text-align:left; border-bottom: none;">
+                            <a id="ctl00_TemplateBody_Login1_LoginView1_Login1_ForgotMyLogonLink" href="../../../../Core/FindMePage.aspx">Forgot my logon</a>
+                        </div>
+                        <div class="PanelField" style="text-align:left; border-bottom: none;">
+                            <a id="ctl00_TemplateBody_Login1_LoginView1_Login1_RecoverPasswordLink" href="RecoverPassword.aspx">Forgot my password</a>
+                        </div>
+                        <div id="ctl00_TemplateBody_Login1_LoginView1_Login1_CreateAccount" class="PanelField" style="text-align:left;">
+                            <a id="ctl00_TemplateBody_Login1_LoginView1_Login1_CreateAnAccountLink" href="../../../../wcm/_iCore/Contacts/CreateAccount.aspx?LoginMessage=Your+session+has+timed+out.+Please+try+your+operation+again.">Create a new account</a>
+                        </div>
+                        <div class="PanelField" style="text-align:right; margin-left: auto;">
+                            <img id="ctl00_TemplateBody_Login1_LoginView1_Login1_iMISOrangeImage" src="../../../../App_Themes/NAPSLO_RWD/images/login/imis_orange.jpg" border="0" />
+                        </div>
+                    
+						</div>
+					</div>
+                </td>
+				</tr>
+			</table>
+        
+    
+		</div>
+</div>
+
+    </div>	
+
+
+	</div>
+<!-- This panel will contain the Button panel for any page that has command buttons (e.g., Save/Cancel) -->
+<div id="ctl00_ButtonPanel" class="ButtonPanel NotPrinted">
+		
+<div id="masterMainButtonBar" class="CommandBar">
+    <span id="ctl00_ButtonBar"></span>
+    
+
+</div>
+
+	</div>
+</div>
+</div>
+</div> <!-- end COL1 -->
+
+<br class="clearfix"/>
+</div>
+
+
+</div>	
+<a href="#top" class="go-top" style="display: block;">Go to top of page</a>
+
+</div> <!-- /#bd -->
+<div id="footer">
+    <!-- The following control will display the applicable Footer Navigation (if any) -->
+    <div class="innerShell row">
+        <div class="col-xs-4 zone">
+            <div class="yui-bd">
+<div class="yui-g shade"><div id="ctl00_ftContact_Zone1PlaceHolder">
+	<div id="ste_container_NewContentHtml" class="ContentItemContainer"><div class="ContentItemButtonPanel">
+
+</div><h3><span>Contact Us</span></h3>
+<p><strong>NAPSLO</strong><br />
+4131 N. Mulberry Drive<br />
+Suite 200<br />
+Kansas City, MO 64116<br />
+Phone: 816.741.3910<br />
+E-mail: <a href="mailto:info@napslo.org">info@napslo.org</a>
+</p></div>
+</div></div>
+</div><div class="ContentRecordPageButtonPanel">
+
+</div>
+
+
+
+
+        </div>
+        <div class="col-xs-4 zone">
+            <div class="yui-bd">
+<div class="yui-g shade"><div id="ctl00_ftLearnMore_Zone1PlaceHolder">
+	<div id="ste_container_NewContentHtml" class="ContentItemContainer"><div class="ContentItemButtonPanel">
+
+</div><h3><span>Learn More</span></h3>
+<ul>
+    <li><a href="/wcm/_icore/Content/NAPSLOsearch.aspx">Search</a></li>
+    <li><a href="/wcm/Join/Benefits_of_Membership/wcm/Join/Benefits_of_Membership.aspx" style="line-height: 1.385em;">Benefits of Membership</a></li>
+    <li><a href="/wcm/Join/NAPSLO_Team/wcm/Join/NAPSLO_Team.aspx">NAPSLO Team</a></li>
+    <li><a href="/wcm/Join/Board_of_Directors/wcm/Join/Board_of_Directors.aspx">Board of Directors</a></li>
+    <li><a href="/docs/PDF/NAPSLOBylaws.pdf">Bylaws</a></li>
+    <li><a href="/docs/PDF/CodeEthic14.pdf">Code of Ethics</a></li>
+    <li><a href="/wcm/Join/Privacy_Policy/wcm/Join/Privacy_Policy.aspx">Privacy Policy</a></li>
+</ul></div>
+</div></div>
+</div><div class="ContentRecordPageButtonPanel">
+
+</div>
+
+
+
+
+
+        </div>
+        <div class="col-xs-4 zone">
+
+
+
+            <div class="yui-bd">
+<div class="yui-g shade"><div id="ctl00_ftBlog_Zone1PlaceHolder">
+	<div id="ste_container_NewContentHtml" class="ContentItemContainer"><div class="ContentItemButtonPanel">
+
+</div><h3><span>Recent NAPSLO News</span></h3>
+<p><a href="http://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1262088409&amp;message_id=9714673&amp;user_id=NAPSLO&amp;jobid=26859672">Important compliance update impacting North Dakota risks</a><br />
+<br />
+<a href="http://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1262088409&amp;message_id=9591014&amp;user_id=NAPSLO&amp;jobid=26859653">Registration open for NAPSLO E&amp;S School</a><br />
+<br />
+<a href="http://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1262088409&amp;message_id=9505826&amp;user_id=NAPSLO&amp;jobid=26540390">March 2015 NAPSLO News</a><br />
+<br />
+<a href="http://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1262088409&amp;message_id=9173802&amp;user_id=NAPSLO&amp;jobid=26043030">February 2015 NAPSLO News - Legislative update</a><br />
+<br />
+<a href="http://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1262088409&amp;message_id=8805294&amp;user_id=NAPSLO&amp;jobid=25519677">January 2015 NAPSLO News</a><br />
+<br />
+<a href="http://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1262088409&amp;message_id=8504426&amp;user_id=NAPSLO&amp;jobid=24990526">President signs TRIA and NARAB legislation</a><br />
+<br />
+<a href="http://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1262088409&amp;message_id=8412982&amp;user_id=NAPSLO&amp;jobid=24829483">TRIA passes U.S. House, states make changes to ECP criteria</a><br />
+<br />
+<a href="http://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=23334708&amp;message_id=6603391&amp;user_id=NAPSLO&amp;jobid=21660540" style="line-height: 1.385em;">A.M. Best's <em>2014 Special Report U.S. Surplus Lines - Segment Review</em> Released</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+</div></div>
+</div><div class="ContentRecordPageButtonPanel">
+
+</div>
+
+
+
+            <!--   <input name="MAIL" id="news_email" placeholder="Your e-mail"><button type="submit" name="subscribe" id="subscribe" value="1"><img src="/images/napslo/mail.png" alt="Subscribe"></button> -->
+
+
+        </div>
+
+        <div id="masterFooterNavigation" class="ftnav" role="navigation">
+            
+        </div>
+        <br class="clearing" />
+    </div>
+
+</div> <!--  /#footer -->
+</div> <!-- /MasterWrapper -->
+
+
+<div id="ctl00_ctl22" style="display:none;">
+	<div id="ctl00_GenericWindow" style="display:none;">
+		<div id="ctl00_GenericWindow_C" style="display:none;">
+
+		</div><input id="ctl00_GenericWindow_ClientState" name="ctl00_GenericWindow_ClientState" type="hidden" />
+	</div><div id="ctl00_ObjectBrowser" style="display:none;">
+		<div id="ctl00_ObjectBrowser_C" style="display:none;">
+
+		</div><input id="ctl00_ObjectBrowser_ClientState" name="ctl00_ObjectBrowser_ClientState" type="hidden" />
+	</div><div id="ctl00_ObjectBrowserDialog" style="display:none;">
+		<div id="ctl00_ObjectBrowserDialog_C" style="display:none;">
+
+		</div><input id="ctl00_ObjectBrowserDialog_ClientState" name="ctl00_ObjectBrowserDialog_ClientState" type="hidden" />
+	</div><div id="ctl00_ctl22_alerttemplate" style="display:none;">
+		<div class="rwDialogPopup radalert">			
+			<div class="rwDialogText">
+			{1}				
+			</div>
+			
+			<div>
+				<a  onclick="$find('{0}').close(true);"
+				class="rwPopupButton" href="javascript:void(0);">
+					<span class="rwOuterSpan">
+						<span class="rwInnerSpan">##LOC[OK]##</span>
+					</span>
+				</a>				
+			</div>
+		</div>
+		</div><div id="ctl00_ctl22_prompttemplate" style="display:none;">
+		 <div class="rwDialogPopup radprompt">			
+			    <div class="rwDialogText">
+			    {1}				
+			    </div>		
+			    <div>
+				    <script type="text/javascript">
+				    function RadWindowprompt_detectenter(id, ev, input)
+				    {							
+					    if (!ev) ev = window.event;                
+					    if (ev.keyCode == 13)
+					    {															        
+					        var but = input.parentNode.parentNode.getElementsByTagName("A")[0];					        
+					        if (but)
+						    {							
+							    if (but.click) but.click();
+							    else if (but.onclick)
+							    {
+							        but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);							 
+							    }
+						    }
+					       return false;
+					    } 
+					    else return true;
+				    }	 
+				    </script>
+				    <input title="Enter Value" onkeydown="return RadWindowprompt_detectenter('{0}', event, this);" type="text"  class="rwDialogInput" value="{2}" />
+			    </div>
+			    <div>
+				    <a onclick="$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value);"				
+					    class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				    <a onclick="$find('{0}').close(null);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			    </div>
+		    </div>				       
+		</div><div id="ctl00_ctl22_confirmtemplate" style="display:none;">
+		<div class="rwDialogPopup radconfirm">			
+			<div class="rwDialogText">
+			{1}				
+			</div>						
+			<div>
+				<a onclick="$find('{0}').close(true);"  class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				<a onclick="$find('{0}').close(false);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			</div>
+		</div>		
+		</div><input id="ctl00_ctl22_ClientState" name="ctl00_ctl22_ClientState" type="hidden" />
+</div>
+
+<script type="text/javascript">
+    //<![CDATA[
+    var language;
+    jQuery.ajax({
+        type: "POST",
+        url: gWebRoot + "/WebMethodUtilities.aspx/GetCurrentUserLanguage",
+        data: "{}",
+        contentType: "application/json; charset=utf-8",
+        dataType: 'json',
+        success: function (result) {
+            if (result.d == '' || result.d == null) {
+                alert('In your browser options, specify a language.');
+                gUserLanguage = 'en-US';
+            } else if (result.d == 'NEUTRAL') {
+                alert('In your browser options, specify a language that is not culture neutral as the first language.');
+                gUserLanguage = 'en-US';
+            } else
+                gUserLanguage = result.d;
+        },
+        async: true
+    });
+
+    var gCartCount;
+    var cartDiv = $get("CartItemCount");
+    if (cartDiv != null){
+        jQuery.ajax({
+            type: "POST",
+            url: gWebRoot + "/WebMethodUtilities.aspx/GetCartItemCount",
+            data: "{}",
+            contentType: "application/json; charset=utf-8",
+            dataType: 'json',
+            success: function(result) {
+                if (result.d != '' && result.d != null) {
+                    gCartCount = result.d;
+                    if (gCartCount != null) {
+                        cartDiv.innerHTML = gCartCount;
+                    }
+                }
+            },
+            async: true
+        });
+    }
+
+    function CheckForChildren() {
+        var contentRecordPageButtonPanelHasChildren = false;
+        var contentRecordPageButtonPanel = jQuery('div.ContentRecordPageButtonPanel');
+        for (var i = 0, max = contentRecordPageButtonPanel.length; i < max; i++) {
+            if (contentRecordPageButtonPanel[i].children.length > 0) {
+                contentRecordPageButtonPanelHasChildren = true;
+                break;
+            }
+        }
+        if (!contentRecordPageButtonPanelHasChildren) {
+            jQuery("Body").addClass("TemplateAreaEasyEditOn");
+        }
+    }
+    if (gIsEasyEditEnabled)
+        CheckForChildren();  
+    //]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+__Document_Head_Init('http://www.napslo.org/NoCookies.html', '', true);NavigationList_NavControlId = 'Auxiliary_rptWrapper';NavigationList_Init();var ctl00_SearchField2_SearchTermsProperties = new SimpleSearchFieldProperties();
+ctl00_SearchField2_SearchTermsProperties.WatermarkClass = 'Watermarked';
+ctl00_SearchField2_SearchTermsProperties.WatermarkText = 'Search';
+ctl00_SearchField2_SearchTermsProperties.SearchTarget = 'http://www.napslo.org/Search';
+NavigationList_NavControlId = 'ctl00_TemplateMainNavigation_Primary_NavMenu';NavigationList_Init();PageNavR_NavMenuClientID = 'ctl00_TemplateMainNavigation_Primary_NavMenu';var ctl00_SearchField_SearchTermsProperties = new SimpleSearchFieldProperties();
+ctl00_SearchField_SearchTermsProperties.WatermarkClass = 'Watermarked';
+ctl00_SearchField_SearchTermsProperties.WatermarkText = 'Search';
+ctl00_SearchField_SearchTermsProperties.SearchTarget = 'http://www.napslo.org/Search';
+NavigationList_NavControlId = 'ctl00_SideBarPlaceHolder_Secondary_SubNavigationTree';NavigationList_Init();Telerik.Web.UI.RadTreeView._preInitialize("ctl00_SideBarPlaceHolder_Secondary_SubNavigationTree","0");PanelTemplateControls.push($('ctl00_TemplateBody_Login1_LoginView1_Login1_PanelTemplate1'));Sys.Application.add_init(function() {
+    $create(AsiWebControls.KeepAliveBehavior, {"KeepAlivePageUrl":"/KeepSessionAlive.aspx?PreserveStatefulBusinessContainer=true\u0026PageInstanceKey=7209fc20-d413-4af7-a9c8-c8e3d3f4300b","MaxReconnectAttempts":-1,"SessionTimeoutLength":7200000,"TooltipFormatText":"Idle for at least {0} minutes","id":"ctl00_KeepAliveControl"}, null, null, $get("ctl00_KeepAliveTarget"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"wcm","attributes":{},"autoScrollMinimumWidth":100,"clientStateFieldID":"ctl00_TemplateMainNavigation_Primary_NavMenu_ClientState","collapseAnimation":"{\"duration\":450}","defaultGroupSettings":"{\"flow\":0,\"offsetX\":0}","enableAutoScroll":true,"expandAnimation":"{\"duration\":450}","itemData":[{"value":"Home","navigateUrl":"/wcm/Home/wcm/default.aspx?hkey=197f243d-8a04-4a22-a5b7-9848fe8f3d18"},{"items":[{"value":"What is Surplus Lines","navigateUrl":"/wcm/About/What_is_Surplus_Lines/wcm/About/What_is_Surplus_Lines.aspx?hkey=edaa38ab-2c87-4861-a8ad-aa9b615c620e"},{"value":"History","navigateUrl":"/wcm/About/History/wcm/About/History.aspx?hkey=c0d3eb36-ebd0-481c-bb64-92a683424f0e"},{"value":"Awards","navigateUrl":"/wcm/About/Awards/wcm/About/Awards.aspx?hkey=8fdbd872-d4d2-4efc-8c72-ac9a5a3d09ff"},{"value":"Past Presidents","navigateUrl":"/wcm/About/Past_Presidents/wcm/About/Past_Presidents.aspx?hkey=d5d1732f-6de2-4ed9-83f1-159be1882cd7"}],"value":"About","navigateUrl":"/wcm/About/wcm/About/About.aspx?hkey=3252790d-d602-475c-bb66-e3051646c5ca"},{"items":[{"value":"Member Management Portal","navigateUrl":"/wcm/Members/Member_Management_Portal/wcm/Members/Dues.aspx?hkey=0cca3c47-ee5a-41c0-a8e6-6f8d91e6367e"},{"value":"Find A NAPSLO Member","navigateUrl":"/wcm/Members/Find_A_NAPSLO_Member/wcm/_iCore/Contacts/Members.aspx?hkey=37a0f747-50e3-4168-ada8-ff372711c577"},{"value":"Membership Directory","navigateUrl":"/wcm/Members/Membership_Directory/wcm/_iCore/Contacts/Directory4.aspx?hkey=35f41ab2-fa1f-4201-abc8-8e15833d95ef"},{"value":"Access Member Lists","navigateUrl":"/wcm/Members/Access_Member_Lists/wcm/Members/Member_Lists.aspx?hkey=75f10b63-bcb2-4955-9e3e-4f067d343e16"},{"value":"NAPSLO \u0026 Lloyd\u0027s","navigateUrl":"/wcm/Members/NAPSLO___Lloyd_s/wcm/Members/NAPSLO___Lloyd_s.aspx?hkey=c5cf0dc7-eab2-4b6e-9ef7-c0d3961d2617"},{"value":"The NAPSLO Logo","navigateUrl":"/wcm/Members/The_NAPSLO_Logo/wcm/Wholesale_Value/NAPSLO_Logo.aspx?#Logo\u0026hkey=82d21f60-797a-4c48-ac67-8c1caca53527"}],"value":"Members","navigateUrl":"/wcm/Members/wcm/Members/Members.aspx?hkey=c1c337a8-a76c-4478-9178-d6b12880714b"},{"items":[{"value":"NAPSLO News","navigateUrl":"/wcm/News/NAPSLO_News/wcm/News/NAPSLO_News.aspx?hkey=fd2594e5-b92c-4716-befd-c6dd0ee61875"},{"value":"Publications","navigateUrl":"/wcm/News/Publications/wcm/News/Publications.aspx?hkey=a10be1aa-6fcd-47d8-a93f-94e5b87b8eea"},{"value":"Videos","navigateUrl":"/wcm/News/Videos/wcm/News/Videos.aspx?hkey=1fd3cb87-38ac-4965-8ba6-ea472f8f327d"}],"value":"News","navigateUrl":"/wcm/News/wcm/News/News.aspx?hkey=9795cf65-9ed4-496b-9bcd-4f4447d170dc"},{"items":[{"value":"Budget, Finance, Audit \u0026 Investment","navigateUrl":"/wcm/Committees/Budget__Finance__Audit___Investment/wcm/Committees/Budget.aspx?hkey=7b231bcd-0073-49e0-9c60-0b9500845a67"},{"value":"Career Awareness \u0026 Internship","navigateUrl":"/wcm/Committees/Career_Awareness___Internship/wcm/Committees/Career.aspx?hkey=df3e77c0-98fa-4d11-956c-c4ad671904e5"},{"value":"Communications \u0026 Technology","navigateUrl":"/wcm/Committees/Communications___Technology/wcm/Committees/Communications.aspx?hkey=8af1637b-ab7f-4d17-946e-63debe814c12"},{"value":"Convention","navigateUrl":"/wcm/Committees/Convention/wcm/Committees/Convention.aspx?hkey=31b07b7f-a7b6-48d3-8eb9-6c7a78fa785c"},{"value":"Education","navigateUrl":"/wcm/Committees/Education/wcm/Committees/Education.aspx?hkey=76145c82-c695-4bb3-8a6e-4e110fcb2083"},{"value":"Legislative","navigateUrl":"/wcm/Committees/Legislative/wcm/Committees/Legislative.aspx?hkey=90aeed11-5763-4280-9428-3b09a70601be"},{"value":"Membership \u0026 Ethics","navigateUrl":"/wcm/Committees/Membership___Ethics/wcm/Committees/Membership.aspx?hkey=1599fa07-e64e-4cf0-9fc0-00f89e699df2"},{"value":"Mid-Year","navigateUrl":"/wcm/Committees/Mid-Year/wcm/Committees/Mid-Year.aspx?hkey=6490716d-857b-4d90-a3cd-ba15f3d4768f"},{"value":"PAC","navigateUrl":"/wcm/Committees/PAC/wcm/Committees/PAC.aspx?hkey=5a79d43d-1c4b-4f2a-a3b1-a8d026141b90"},{"value":"Past Presidents Council","navigateUrl":"/wcm/Committees/Past_Presidents_Council/wcm/Committees/PastPresidentsCouncil.aspx?hkey=2589eb1f-f036-43c4-aea1-1d05d478ea84"}],"value":"Committees","navigateUrl":"/wcm/Committees/wcm/Committees/Committees.aspx?hkey=b8bf09f1-d6ac-4a11-a131-826767f0a8cf"},{"items":[{"value":"Benefits of Membership","navigateUrl":"/wcm/Join/Benefits_of_Membership/wcm/Join/Benefits_of_Membership.aspx?hkey=d7f328e2-f7c5-4a29-bb4b-ced918287db9"},{"value":"Membership Applications","navigateUrl":"/wcm/Join/Membership_Applications/wcm/Join/Membership_Applications.aspx?hkey=12417da3-0ae5-4365-9529-c00b3ddf6cea"},{"value":"Membership Criteria","navigateUrl":"/wcm/Join/Membership_Criteria/wcm/Join/Membership_Criteria.aspx?hkey=10f90361-d356-42ea-8020-2c5fa71f7f61"},{"value":"Membership Dues","navigateUrl":"/wcm/Join/Membership_Dues/wcm/Members/Fee_Structure.aspx?hkey=64b48594-487b-4e55-b11a-29c5587f86c4"},{"value":"Bylaws","navigateUrl":"/docs/PDF/NAPSLOBylaws.pdf?hkey=050c12c5-dee9-445b-8808-8274b67df83c"},{"value":"Code of Ethics","navigateUrl":"/docs/PDF/CodeEthic14.pdf?hkey=0f0f10ba-30b2-4037-b004-43827ec81db4"}],"value":"Join","navigateUrl":"/wcm/Join/wcm/Join/Join.aspx?hkey=320c12be-3548-4058-b019-3bd84b2ba31c"}]}, {"load":PageNavR_OnClientLoadHandler}, null, $get("ctl00_TemplateMainNavigation_Primary_NavMenu"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTreeView, {"_skin":"wcm","_uniqueId":"ctl00$SideBarPlaceHolder$Secondary$SubNavigationTree","clientStateFieldID":"ctl00_SideBarPlaceHolder_Secondary_SubNavigationTree_ClientState","collapseAnimation":"{\"duration\":200}","expandAnimation":"{\"duration\":200}","nodeData":[]}, null, null, $get("ctl00_SideBarPlaceHolder_Secondary_SubNavigationTree"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":false,"behaviors":117,"clientStateFieldID":"ctl00_GenericWindow_ClientState","formID":"aspnetForm","height":"550px","iconUrl":"about:blank","minimizeIconUrl":"about:blank","modal":true,"name":"GenericWindow","showContentDuringLoad":false,"skin":"Default","visibleStatusbar":false,"width":"800px"}, null, null, $get("ctl00_GenericWindow"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":false,"behaviors":117,"clientStateFieldID":"ctl00_ObjectBrowser_ClientState","formID":"aspnetForm","height":"550px","iconUrl":"about:blank","minimizeIconUrl":"about:blank","modal":true,"name":"ObjectBrowser","showContentDuringLoad":false,"skin":"Default","visibleStatusbar":false,"width":"760px"}, null, null, $get("ctl00_ObjectBrowser"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":false,"behaviors":117,"clientStateFieldID":"ctl00_ObjectBrowserDialog_ClientState","formID":"aspnetForm","height":"400px","iconUrl":"about:blank","minimizeIconUrl":"about:blank","modal":true,"name":"ObjectBrowserDialog","showContentDuringLoad":false,"skin":"Default","visibleStatusbar":false,"width":"600px"}, null, null, $get("ctl00_ObjectBrowserDialog"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"behaviors":117,"clientStateFieldID":"ctl00_ctl22_ClientState","formID":"aspnetForm","iconUrl":"","minimizeIconUrl":"","name":"ctl22","skin":"Default","windowControls":"['ctl00_GenericWindow','ctl00_ObjectBrowser','ctl00_ObjectBrowserDialog']"}, null, {"child":"ctl00_GenericWindow"}, $get("ctl00_ctl22"));
+});
+//]]>
+</script>
+</form>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    var ie6 = false;
+</script>
+<script type="text/javascript" id="ResizeContentPanelScript">
+// Resizing initialization
+addLoadEvent(AdminMaster_Load);
+function AdminMaster_Load() {
+// these functions are defined in Asi.Web.MasterPageBase.js
+MasterPageBase_SetupComponents('hd', 'ctl00_TemplateMainNavigation_Primary_NavMenu,masterReferenceArea,masterSideBarPanel', '', 'ctl00_ContentPanel', 'ctl00_ButtonPanel', 'ft', 28);
+// Window_Load_Aspen();
+}
+</script>
+<script type="text/javascript">
+// if there is something in the side bar this converts the layout to 2 columns
+// if ($('masterSideBarPanel').children.length != 0) {
+//   $('masterWrapper').setAttribute("class", "masterWrapper yui-t2 HasSubNav");
+//}
+</script>
+<!--facebook API is loaded into here -->
+<div id="fb-root"></div>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/scripts.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/ie.js"></script>
+<![endif]-->
+<script type="text/javascript">
+    $(document).ready(function() {
+// grab the initial top offset of the navigation 
+var headerHeight = $('.header').height();
+
+
+// our function that decides weather the navigation bar should have "fixed" css position or not.
+var stickyNav = function(){
+var scrollTop = $(window).scrollTop(); // our current vertical position from the top
+
+// if we've scrolled more than the navigation, change its position to fixed to stick to top,
+// otherwise change it back to relative
+if (scrollTop > headerHeight) { 
+    $('.header').addClass('sticky');
+    $('.masterWrapper').css("padding-top", '125px');
+} else {
+    $('.header').removeClass('sticky'); 
+    $('.masterWrapper').removeAttr('style');
+
+}
+};
+
+stickyNav();
+// and run it again every time you scroll
+$(window).scroll(function() {
+    stickyNav();
+});
+});
+</script>
+
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<Div><script type="text/javascript">Sys.Application.add_load(function () {{ MasterPageBase_Init(); }});</script>
+</Div>	  
+</body>
+</html>

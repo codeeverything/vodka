@@ -1,0 +1,10 @@
+1428416929
+http://www.bbcentertainment.com
+http://www.bbcentertainment.com/robots.txt
+1428241229
+http://www.bbcentertainment.com
+http://www.bbcentertainment.com/robots.txt
+# Allow all robots to index all pages
+User-agent: *
+Allow: /
+

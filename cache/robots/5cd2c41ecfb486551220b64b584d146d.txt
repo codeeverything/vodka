@@ -1,0 +1,6 @@
+1428244961
+http://handheld-vacuum-review.toptenreviews.com
+http://handheld-vacuum-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

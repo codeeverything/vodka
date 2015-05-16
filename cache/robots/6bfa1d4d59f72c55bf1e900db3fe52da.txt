@@ -1,0 +1,6 @@
+1427891365
+http://www.cmu.edu/index.shtml
+http://www.cmu.edu/robots.txt
+User-agent: *
+Disallow: /cmufront/
+Disallow: /myandrew

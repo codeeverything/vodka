@@ -1,0 +1,6 @@
+1428244625
+http://upright-freezer-review.toptenreviews.com
+http://upright-freezer-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

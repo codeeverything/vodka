@@ -1,0 +1,292 @@
+1428417797
+http://www.natgeo.com.cn
+http://www.natgeo.com.cn/robots.txt
+1428243643
+http://www.natgeo.com.cn
+http://www.natgeo.com.cn/robots.txt
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>国家地理频道</title>
+<meta content="福斯国际电视网,国家地理频道节目预告,福斯国际频道,Fox International Channel,美国国家地理频道中国官方网站,大迁徙,生灵的远征,国家地理,国家地理频道,National Geographic,National Geographic Channel,探索,发现,寰宇地理,寰宇野生,寰宇历险,discovery,艾美奖,地球日,美国国家地理下载,国家地理台官网,环球地理" name="description"> 
+<meta content="福斯国际电视网,国家地理频道节目预告,福斯国际频道,Fox International Channel,美国国家地理频道,国家地理,大迁徙,生灵的远征,国家地理频道,历史,动物,海洋,人文,科技,考古,探秘,地理,深度,惊奇,世界之最,National Geographic,National Geographic Channel,探索,发现,寰宇地理,寰宇野生,寰宇历险,discovery,艾美奖,地球日,美国国家地理下载,国家地理台官网,环球地理" name="keywords">
+<meta property="wb:webmaster" content="7dfeccd8e9b5a180" />
+<link rel="icon" href="/favicon.gif" /><link rel="shortcut icon" href="/favicon.gif" /> 
+<link href="/style/default/_theme.css" rel="stylesheet" type="text/css" />
+<link href="/style/default/Main.css" rel="stylesheet" type="text/css" />
+<link href="/style/default/Pages.css" rel="stylesheet" type="text/css" />
+<link href="/style/default/BaseControls.css" rel="stylesheet" type="text/css" />
+<link href="/style/default/Programmes.css" rel="stylesheet" type="text/css" />
+<link href="/style/default/Video.css" rel="stylesheet" type="text/css" />
+<link href="/style/default/Schedule.css" rel="stylesheet" type="text/css" />
+<link href="/style/default/Footer.css" rel="stylesheet" type="text/css" />
+<!--[if IE 6]>
+		<script type="text/javascript" src="/script/iepngfix_tilebg.js"></script>
+		<style type="text/css">
+			body {behavior: url(/script/csshover.htc);} 
+			div, img { behavior: url(/script/iepngfix.htc); }
+		</style>
+<![endif]--> 
+   
+<link href="/style/default/404.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/script/swfobject.js"></script> 
+</head>
+
+<body>
+
+<div class="HomepageBg"></div> 
+<div id="Main"> 
+    
+	<div id="MainTopBar" > 
+		<div id="MainTopForm"> 
+			<div class="section SectionSeparatorBd" style=" width: 155px; padding-right: 10px; border:0px;"> 
+			 	
+			</div> 
+			<!--
+			<div class="section SectionSeparatorBd" style="border-right-width: 1px; padding-right: 10px;position:absolute;top:0;right:0;"> 
+				<input name="EmailTextBox" type="text" id="EmailTextBox" class="MainTopInput FloatLeft email" value="Email" onclick="if(value == 'Email') value='';" onblur="if(value == '') value='Email';" /><input name="PasswordTextBox" type="password" id="PasswordTextBox" class="MainTopInput FloatLeft password" onkeypress="return RespondOnEnter(event, 'ctl00$LoginButton$ButtonButton')" /> 
+<a id="ctl00_LoginButton_ButtonButton" class="Button ButtonNoLeft" href="javascript:__doPostBack('ctl00$LoginButton$ButtonButton','')"> 
+		<div class="left"></div>  
+		<div id="" class="middle">登录</div> 
+		<div class="right"></div> 
+	</a> 
+ 
+				<div style="float: left; width: 4px; overflow: hidden;">&nbsp;</div> 
+				<a id="" class="Button" href="/community/register.aspx"> 
+		<div class="left"></div> 
+		<div id="" class="middle">注册</div> 
+		<div class="right"></div> 
+	</a> 
+ 
+ 
+				<div style="float: left; width: 10px; overflow: hidden;">&nbsp;</div> 
+				<a href="/Community/ForgottenPassword.aspx" style="padding-top:4px; float:left;">忘记密码了？</a> 
+			</div> 
+			-->
+		</div> 
+		
+		<div id="MainTopTabs"> 
+			<a class="selected" href="/">美国国家地理频道</a><a class="SectionSeparatorBd" href="http://www.natgeo.com.cn/earthday/" target="_blank" style="border-right-width: 1px;">世界地球日</a><a class="SectionSeparatorBd" href="http://www.natgeo.com.cn/great-migrations/" target="_blank" style="border-right-width: 1px;">生灵的远征</a><!--<a class="SectionSeparatorBd" href="http://www.ngwild.com/" target="_blank" style="border-right-width: 1px;">WILD</a><a class="SectionSeparatorBd" href="http://www.natgeoadventure-asia.tv/home.shtml" target="_blank" style="border-right-width: 1px;">ADVENTURE</a><a class="SectionSeparatorBd" href="http://www.ngchdasia.com/" target="_blank">HD</a><a class="SectionSeparatorBd" href="http://music.natgeochannel.co.uk" style="border-right-width: 1px;border-left-width: 1px;">MUSIC</a> -->
+		</div> 
+	</div> 
+	<div id="MainFqs" style="height:14px;"></div> 
+<!--AD start-->	
+	<div> 
+		<div class="MainBanner" >
+		<a href="/ra" target="_blank"><img  Alt="美国国家地理频道" src="/files/ad/201504ra728x90.jpg" style="border-width:0px;" /></a>	
+		</div> 
+		<a href="/"><img class="MainLogo" Alt="美国国家地理频道" src="/style/Default/Images/Main/Logo.gif" style="border-width:0px;" /></a> 
+	</div>
+<!--AD End--> 	
+    
+<div class="MainMenuBar"> 
+		<div><a class="" href="/">首页</a></div> 
+		<div><a href="/about/gg" class=""><h6>▊</h6>寰宇地理</a> 
+		</div>
+		<!--<div><a href="/about/junior" class=""><h6>▊</h6>寰宇梦想家</a></div>
+		<div><a href="/about/natadv" class=""><h6>▊</h6>寰宇历险</a></div>-->
+		<div><a href="/about/people" class=""><h6>▊</h6>寰宇客</a></div>
+		
+		<div class="hasLinks"> 
+            
+			<a  href="#" class="">精彩节目</a> 
+			<span class="programmes"> 
+			<a href="/great-migrations">艾美奖纪录片：生灵的远征</a>
+			
+			<a href="/blue-whale/default.aspx">特别制作：大蓝鲸</a>
+			<a href="/earthday">特别制作：世界地球日</a>
+			
+				<!--<a href="#">http://www.natgeo.com.cn/404.aspx?404;http://www.natgeo.com.cn:80/robots.txt</a>-->
+			</span> 
+		</div> 
+		<!--<div class="hasLinks"> 
+			<a href="#" class="">节目类型</a> 
+			<span class="subjects"> 
+			            <a href="/category/world">缤纷世界</a> 
+						<a href="/category/science">科技尖端</a> 
+						<a href="/category/story">风云盛宴</a> 
+						<a href="/category/animal">狂野周末</a> 
+						<a href="/category/special">月度主题周</a> 
+			</span> 
+		</div> -->
+		<div  class="hasLinks"><a href="/schedule.aspx" class="">节目表 Schedule</a> 
+		<span class="programmes"> 
+		    <a href="/schedule.aspx">《寰宇地理》2015年4月节目表</a>
+		    <a href="/peopleschedule.aspx">《寰宇客》2015年4月节目表</a>
+		    <!--<a href="/juniorschedule.aspx">《寰宇梦想家》2015年4月节目表</a>-->
+		    <a href="/localchannel.aspx">《寰宇地理》收视指南</a>
+		    <a href="/schedule/asia/2015-04-05">国家地理卫星频道节目表</a>
+		    <a href="/schedule/asia_en/2015-04-05">Schedule in English</a>	    
+		</span>
+		</div> 
+		<!--<div class="hasLinks"> 
+			<a href="#" class="">国家地理频道俱乐部</a> 
+			<span class="community"> 
+				<a href="community/ask.aspx">Ask The Experts</a> 
+				<a href="community/competition.aspx">Competitions</a> 
+				<a href="community/forums.aspx">Forums</a> 
+				<a href="games">Games</a> 
+				<a href="community/polls.aspx">Polls</a> 
+			</span>  
+		</div><div><a href="#" class="">精彩视频</a></div> -->
+		<div><a href="/hotel.aspx" class="">酒店覆盖网络</a></div>
+		<div><a href="/newslist.aspx" class="">新闻</a></div>
+		<div><a href="http://www.natgeotv.com/international" class="">International</a></div>
+		<div><a href="http://www.nationalgeographic.com.cn" target="_blank">国家地理中文网</a></div>
+		<div style="float:right;"> 
+      <div style="margin-right:0px; color:#FFFFFF;">     <!--<a href="http://photo.samsung.com.cn/" target="_blank">三星用户影像社区</a>--><a href="http://weibo.com/natgeotv" target="_blank"><img src="/style/Default/Images/miniblog_icon_str.png" style="border-width:0px;" align="absmiddle" /></a> <a href="http://www.natgeo.com.cn/news/37" ><img src="/style/Default/Images/weixin16.png" style="border-width:0px;" align="absmiddle" /></a>  </div> 
+       
+       
+		   
+		
+	</div> 
+		
+	</div>	
+    
+    <div id="MainContent"> 
+    <div id="BigHeader404" class="Header404"> 
+		<div class="Title404"> 
+			<h1>页面没有找到</h1> 
+		</div> 
+	</div> 
+	<div class="SearchNatGeo404 VMargin FloatLeft" id="SearchDiv"> 
+		<div class="SearchNatGeoContent404"> 
+			<div style="padding-bottom: 8px;	border-bottom: solid 1px #d9d9d9;"> 
+				<div id="SearchNatGeo" class="Title"> 
+					搜索国家地理频道网站内容
+				</div> 
+			</div> 
+			<div class="SearchNatGeo404Error"> 
+				<div style="font-weight: bold; padding-bottom: 18px;"> 
+					您访问的网页没有找到！ 
+				</div> 
+				<div style="padding-bottom: 18px;"> 
+					该页面可能已经转移或者不存在了。<br /> 
+					• 请检查您输入的网址是否正确<br /> 
+					• 使用下面的搜索工具<br /> 
+					• 访问右边的链接寻找感兴趣的内容<br /> 
+					• 当您找到需要的内容后，别忘记更新收藏夹
+				</div> 
+				
+				<script type="text/javascript"> 
+						function search()
+						{
+							document.getElementById("searchWord").value = document.getElementById("404Search").value;
+							document.getElementById("cse-search-box").submit();
+							return false;
+						}
+						
+						function SearchRespondOnEnter(evt, postbackId)
+						{
+							if (postbackId == '404Search')
+							{
+								if (!evt) var evt = window.event;
+								if (!evt) return;
+								if (evt.keyCode == 13)
+								{
+									document.getElementById("searchWord").value = document.getElementById("404Search").value;
+									document.getElementById("cse-search-box").submit();
+									return false;
+								}
+							}
+							else return true;
+						}
+				</script> 
+				
+				<div class="FloatLeft" style="height: 26px;"><input type="text" onkeypress="return SearchRespondOnEnter(event,'404Search')" id="404Search" size="32" class="MainTopInput FloatLeft" style="border:1px solid #CCCCCC; padding: 3px; height:18px; width: 282px" /></div> 
+				<div class="FloatLeft" style="height: 26px;"><a style="margin-left: 10px; margin-top: 13px; float:left;" href="javascript:search();">搜索</a></div>  
+			</div>  
+ 
+			<div class="HomePage404"> 
+				<a id="ctl00_MainContentPlaceHolder_HomeHyperLink" href="./">返回首页</a> 
+			</div> 
+		</div> 
+	</div> 
+	<div id="ProgrammesFeatured" class="FloatLeft MediumW VMargin HMargin"> 
+	<a id="ctl00_MainContentPlaceHolder_ProgrammesFeaturedAz1_Header_HeaderLink" class="HeaderDark" href="programmes/a-z"> 
+	<div class="left"> 
+		<div id="ctl00_MainContentPlaceHolder_ProgrammesFeaturedAz1_Header_HeaderRightDiv" class="rightLink"> 
+			<div id="ctl00_MainContentPlaceHolder_ProgrammesFeaturedAz1_Header_HeaderTextDiv" class="HeaderTxt"><h2>国家地理频道本月精彩节目</h2></div> 
+		</div> 
+	</div> 
+</a> 
+
+       <div> 
+				<a href="/programme/2015-04-04"><img src="/files/pic/1278.jpg" alt="战栗杀手" style="border-width:0px;" /></a> 
+				
+				<div class="content " style='width: 371px;' > 
+					<a href="/programme/2015-04-04"><h3>战栗杀手</h3></a> 
+					
+					<div>巨大的蜘蛛，狼吞虎咽的水母，沼泽魔王，这些都是恐怖电影里的角色。但这些让人战栗的杀手全都是真的，有时真相远比想象更诡异。一部好的恐怖片要有悬疑的元素，或要有骇人的血腥场面，或是...</div> 
+				</div> 
+			</div> 
+
+       <div> 
+				<a href="/programme/2015-04-10"><img src="/files/pic/1950.jpg" alt="寰行中国：梦回西域+弘扬华夏" style="border-width:0px;" /></a> 
+				
+				<div class="content " style='width: 371px;' > 
+					<a href="/programme/2015-04-10"><h3>寰行中国：梦回西域+弘扬华夏</h3></a> 
+					
+					<div>在本期节目中，原和玉来到了内蒙古自治区。在那里，他将与骆驼来一次亲密接触，学习蒙古族摔跤并和当地人一较高下。此外，他还要去山东、陕西各省，希望通过金、木、水、火、土五种元素，来...</div> 
+				</div> 
+			</div> 
+
+       <div> 
+				<a href="/programme/2015-04-11"><img src="/files/pic/1951.jpg" alt="阿拉斯加捕鱼大战：胜者为王" style="border-width:0px;" /></a> 
+				
+				<div class="content " style='width: 371px;' > 
+					<a href="/programme/2015-04-11"><h3>阿拉斯加捕鱼大战：胜者为王</h3></a> 
+					
+					<div>捕鲑季来到最后一天，夜鹰号的迪诺船长找到了一个很棒的捕鱼地点；夜之央号的引擎出现故障，韦斯船长还没开始捕鱼就不得不打道回府；内德拉·E号的泰勒船长在父亲的帮助下小有收获；而北鸦...</div> 
+				</div> 
+			</div> 
+
+       <div> 
+				<a href="/programme/2015-04-13"><img src="/files/pic/1953.jpg" alt="阿拉斯加终极生存大赛：北极赛场" style="border-width:0px;" /></a> 
+				
+				<div class="content " style='width: 371px;' > 
+					<a href="/programme/2015-04-13"><h3>阿拉斯加终极生存大赛：北极赛场</h3></a> 
+					
+					<div>新一季的阿拉斯加终极生存大赛拉开帷幕。第一赛段的起点位于朱诺市的一处荒凉的冰原。12名来自全美各地的野外求生高手组成了4支队伍——登山者队、军人队、耐力运动员队和樵夫队。他们要...</div> 
+				</div> 
+			</div> 
+
+	</div>
+	
+<div id="MainFooter" style="text-align: center;" class="FloatLeft">		
+				<div class="FloatLeft" style="width:980px;"> 
+					<div class="FooterSection VMargin" style="width:980px;float:left;"> 
+						<div class="Up"> 
+							<a href="/about/ngc">美国国家地理频道简介</a><a href="/about/Academy">美国国家地理学会简介</a><a href="/about/gg">寰宇地理简介</a><a href="localchannel.aspx">收视指南</a><!--<a href="/advertise">广告业务</a>--><a href="/contact">联系我们</a><a href="javascript:Bookmark();">加入收藏</a><a href="/terms-and-conditions">使用条款</a><a href="/privacy-policy">隐私政策</a>
+						</div> 
+						<div class="Down"> 
+							 为了获得最好的浏览效果，推荐使用Chrome,IE7+,FF3+浏览器，以及Vista, Win7
+						</div> 
+					</div> 
+				</div> 
+				<div class="FloatLeft" style="width:980px;"> 
+				<a href="http://www.miibeian.gov.cn" target="_blank">京ICP备10025206号</a><br /><div><script src="http://s122.cnzz.com/stat.php?id=1467176&web_id=1467176&show=pic1" language="JavaScript" charset="gb2312"></script></div>
+
+
+<!-- Advertiser '.Fox Networks (Global)',  Include user in segment 'HK - FOX Audience - NGC CN' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="https://ad.yieldmanager.com/pixel?id=1930155&t=2" width="1" height="1" />
+<!-- End of segment tag -->
+</div>	
+			</div> 
+			<script type="text/javascript">
+    function Bookmark() {
+        title = "国家地理频道";
+        url = "http://www.natgeo.com.cn/";
+
+        if (window.sidebar)  // Mozilla Firefox Bookmark
+            window.sidebar.addPanel(title, url, "");
+        else if (window.external)  // IE Favorite
+            window.external.AddFavorite(url, title);
+    }
+</script> 		
+</div>
+</div>
+</body>
+</html>

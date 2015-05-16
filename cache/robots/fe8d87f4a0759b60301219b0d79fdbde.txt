@@ -1,0 +1,6 @@
+1428244730
+http://meat-thermometers-review.toptenreviews.com
+http://meat-thermometers-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

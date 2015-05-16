@@ -1,0 +1,19 @@
+1427823543
+http://www.jroller.com/habuma
+http://www.jroller.com/robots.txt
+1427805992
+http://www.jroller.com/habuma/
+http://www.jroller.com/robots.txt
+User-agent: *
+Disallow: /
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /images
+Disallow: /roller-
+Disallow: /theme
+Disallow: /language
+Disallow: /resources
+Disallow: /trackback
+Disallow: /comment
+Disallow: /main.do

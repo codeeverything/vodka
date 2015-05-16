@@ -1,0 +1,8 @@
+1428234510
+http://notary.icsi.berkeley.edu
+http://notary.icsi.berkeley.edu/robots.txt
+1427890650
+http://notary.icsi.berkeley.edu
+http://notary.icsi.berkeley.edu/robots.txt
+User-agent: *
+Disallow: /index.html

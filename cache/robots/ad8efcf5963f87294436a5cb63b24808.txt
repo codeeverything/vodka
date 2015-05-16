@@ -1,0 +1,8 @@
+1427818558
+http://feeds2.feedburner.com/igfnews
+http://feeds2.feedburner.com/robots.txt
+1427804863
+http://feeds2.feedburner.com/igfnews
+http://feeds2.feedburner.com/robots.txt
+User-agent: *
+Disallow: /~a/

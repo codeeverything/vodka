@@ -1,0 +1,109 @@
+1427717664
+http://www.servicemanagementfusion.com/photos.aspx
+http://www.servicemanagementfusion.com/robots.txt
+1427717431
+http://www.servicemanagementfusion.com/
+http://www.servicemanagementfusion.com/robots.txt
+1427716653
+http://www.servicemanagementfusion.com/
+http://www.servicemanagementfusion.com/robots.txt
+User-agent: *
+Disallow: /PageNotFound
+Disallow: /sitecore/
+Disallow: /webservices/
+Disallow: /membership/local-chapters/lco-portal
+Disallow: /publications/pressReleases/pressfeed.xml
+Disallow: /chapters/capitaldc
+Disallow: /chapters/cchdi
+Disallow: /chapters/charlotte
+Disallow: /chapters/cos
+Disallow: /chapters/delval
+Disallow: /chapters/edmonton
+Disallow: /chapters/frontier
+Disallow: /chapters/greenville
+Disallow: /chapters/gumbo
+Disallow: /chapters/hdiatlantaorg
+Disallow: /chapters/hdipittsburghorg
+Disallow: /chapters/helpdeskdfwcom
+Disallow: /chapters/helpdeskhoustoncom
+Disallow: /chapters/ihdf
+Disallow: /chapters/indiana
+Disallow: /chapters/iowa
+Disallow: /chapters/jacksonville
+Disallow: /chapters/kc
+Disallow: /chapters/kihdi
+Disallow: /chapters/lahdicom
+Disallow: /chapters/maryland
+Disallow: /chapters/memphis
+Disallow: /chapters/mexico
+Disallow: /chapters/midwestregion
+Disallow: /chapters/monterrey
+Disallow: /chapters/nashville
+Disallow: /chapters/nebraska
+Disallow: /chapters/ne
+Disallow: /chapters/new
+Disallow: /chapters/newjersey
+Disallow: /chapters/northcoast/CHAPTER PICTURE PAGES
+Disallow: /chapters/northcoast/JOB BOARD INFO
+Disallow: /chapters/northcoast/Meeting Minutes
+Disallow: /chapters/northcoast/MEETING MINUTES
+Disallow: /chapters/northcoast/MEMBER DISCUSSION FORUM
+Disallow: /chapters/northcoast/MISC FILES
+Disallow: /chapters/northcoast/Newsletters
+Disallow: /chapters/northcoast/newsletters
+Disallow: /chapters/northcoast/NEWSLETTERS
+Disallow: /chapters/northcoast/OfficersOnly
+Disallow: /chapters/northcoast/POPUPS
+Disallow: /chapters/northcoast/Presentations
+Disallow: /chapters/northcoast/PRESENTATIONS
+Disallow: /chapters/northcoast/Previous Year Program Schedules
+Disallow: /chapters/northcoast/Virtual Help Desk Tours
+Disallow: /chapters/northcoast/Whitepapers
+Disallow: /chapters/northcoast/WHITEPAPERS
+Disallow: /chapters/northeast
+Disallow: /chapters/nyc
+Disallow: /chapters/ohio
+Disallow: /chapters/orlando
+Disallow: /chapters/phd
+Disallow: /chapters/pittsburgh
+Disallow: /chapters/regina
+Disallow: /chapters/riogrande
+Disallow: /chapters/sacramento
+Disallow: /chapters/sandiego
+Disallow: /chapters/sc
+Disallow: /chapters/sfhdi
+Disallow: /chapters/slc
+Disallow: /chapters/sonora-desertorg
+Disallow: /chapters/southflorida
+Disallow: /chapters/sova
+Disallow: /chapters/tba
+Disallow: /chapters/triadhdi
+Disallow: /chapters/tulsa
+Disallow: /chapters/vihdc
+Disallow: /chapters/wcny
+Disallow: /chapters/westmi
+Disallow: /chapters/wcny
+Disallow: /chapters/winnipeg
+Disallow: /hdi2002
+Disallow: /hdi2003
+Disallow: /hdi2004
+Disallow: /HDI2004
+Disallow: /hdi2005
+Disallow: /HDI2005
+Disallow: /hdi2006
+Disallow: /hdi2007
+Disallow: /HDI2007
+Disallow: /hdi2008
+Disallow: /hdi2009
+Disallow: /hdi2010
+Disallow: /sm2009
+Disallow: /library
+Disallow: /library/deliverfile.aspx
+Disallow: /files/tools
+Disallow: /cert/certoverview.asp
+Disallow: /certification/onlineTraining/SCA-DEMO-9-28-09.html
+Disallow: /APEX%204TB/%20Client%20Files/HDI:UBM/UB%20135%20May%202012%20RC%20Report/Design%20Files/InDesign:Quark%20Files/sh%20HD/Users/apex/Library/Caches/Adobe%20InDesign/Version%207.0/en_US/InDesign%20ClipboardScrap1.pdf
+Sitemap: hdiconf-sitemap.xml
+Sitemap: smfusion-sitemap.xml
+Sitemap: thinkhdi-sitemap.xml
+Sitemap: hdiconnect-sitemap.xml

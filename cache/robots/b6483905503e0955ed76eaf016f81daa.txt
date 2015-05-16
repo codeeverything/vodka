@@ -1,0 +1,1020 @@
+1428421057
+http://vdt.antena3.ro
+http://vdt.antena3.ro/robots.txt
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+<meta name="identifier-url" content="http://vdt.antena3.ro//" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="RO" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>VDT Online! | VDTonline.ro</title>
+<meta name="description" content="VDTonline -  un site care prezinta totul despre viata celebritatilor si secretele lor cele mai ascunse"/><meta name="keywords" content="vedete, vdt, vdtonline, celebritati, viata celebritati, secrete, secrete ascunse, star, VIP, secrete staruri, celebritati mondene, stiri despre celebritati, galerii foto"/>
+<meta property="fb:app_id" content="151992738257546"/>
+
+<meta property="og:title" content="VDT Online!" />
+<meta property="og:site_name" content="VDTONLINE.RO" />
+<meta property="og:image" content="http://vdt.antena3.ro//templates/default/img/a1logo.png" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="VDTONLINE.RO" href="http://vdt.antena3.ro//rss/" />
+
+<!--stylesheets
+	<link rel="stylesheet" href="/templates/default/css/normalize.css">
+	<link rel="stylesheet" href="/templates/default/css/font-awesome/css/font-awesome.min.css">
+-->
+	<link rel="stylesheet" href="/templates/default/css/style.css?3">
+
+	<!--[if IE 7]><link rel="stylesheet" href="/templates/default/css/font-awesome/css/font-awesome-ie7.min.css"><![endif]-->
+<!--/stylesheets-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+<script src="/templates/default/js/jquery.easing.min.js"></script>
+<script src="/templates/default/js/jquery.zaccordion.js"></script>
+<script type="text/javascript" src="/js/xajax.js"></script>
+<script type="text/javascript" src="/js/utils.js"></script>
+
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("pre.js").each(function(index) {
+			eval($(this).text());
+		});
+	});
+</script>
+
+<script type='text/javascript'>
+
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+</script>
+<script type='text/javascript'>
+
+googletag.cmd.push(function() {
+googletag.defineSlot('/62727623/Antena3-VDT-Leaderboard', [728, 90], 'div-gpt-ad-1404730260104-0').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Antena3-VDT-Rectangle', [300, 250], 'div-gpt-ad-1404730260104-1').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Antena3-VDT-Special', [1, 1], 'div-gpt-ad-1404730366057-0').addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/62727623/Antena3-VDT-Special', 'div-gpt-ad-1404730366057-0-oop').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableVideoAds();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+
+</script>
+
+
+</head>
+
+<body id="theme-default">
+	<div class="eticheta">
+		<a target="_blank" title="Antena3.ro" href="http://www.antena3.ro">
+			<img src="/templates/default/img/eticheta_antena3.png">
+		</a>
+	</div>
+
+<div style="position:absolute">
+<!-- BRAT VERSION="1.5" -->
+<script language="JavaScript" type="text/javascript"> <!--
+		var br_sitecode = "antena3";
+		var br_sitepath = "homepage";
+		var IVW="http://"+br_sitecode+".count.brat-online.ro/cgi-bin/cnt/CP/"+br_sitepath;
+		document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"&x="+screen.width+"x"+screen.height+"\" width=\"1\" height=\"1\" alt=\"\"/>");
+//-->
+</script>
+<noscript>
+      <img src="http://antena3.count.brat-online.ro/cgi-bin/cnt/CP/vdtonline/homepage" width="1" height="1" alt="" />
+</noscript>
+<script src="http://antena3.count.brat-online.ro/2004/01/survey.js" type="text/javascript"></script>
+<!-- /BRAT -->
+
+
+<script src="/js/spring.js"></script>
+
+<script type="text/javascript">
+ 
+    var springq =
+ 
+     springq || [];
+      springq.push({
+            "s":"antena3ro",
+            "cp":"homepage",
+            "url": document.location.href
+      });
+ 
+ </script></div>
+
+
+
+
+	<div class="head">
+	<div class="head_center">
+	
+		<div class="head_left">
+			<div class="logo"><a href="/"><img src="/templates/default/img/logo.png"></a></div>
+		</div>
+		<div class="head_right">
+			<div class="head_top">
+				<a href="https://www.facebook.com/VDTonline" target="_blank">
+					<img src="/templates/default/img/facebook.png" class="fl ml10">
+				</a>
+				<a href="https://twitter.com/VdtOnline" target="_blank">
+					<img src="/templates/default/img/tweeter.png" class="fl ml10">
+				</a>
+				<div class="search">
+					<form action="http://vdt.antena3.ro//cautare/" id="cse-search-box">
+					  <div>
+					    <input type="hidden" name="cx" value="partner-pub-6690815492770139:4655547397" />
+					    <input type="hidden" name="cof" value="FORID:10" />
+					    <input type="hidden" name="ie" value="UTF-8" />
+					    <input type="text" name="key"  class="search_camp"/>
+					    <input type="image" src="/templates/default/img/cauta.png" class="fr" name="sa" value="Search" />
+					  </div>
+					</form>
+				</div>
+			</div>
+			<div class="meniu">
+
+				<ul>
+					
+	<li><a class="selected" href="http://vdt.antena3.ro/">HOMEPAGE</a></li>
+	<li><img src="/templates/default/img/linie.png" class="linie"></li>
+
+
+			<li><a  href="/fashion/">FASHION</a></li>
+		
+	
+	<li><img src="/templates/default/img/linie.png" class="linie"></li>
+
+
+			<li><a  href="/hot-sport/">HOT SPORT</a></li>
+		
+	
+	<li><img src="/templates/default/img/linie.png" class="linie"></li>
+
+
+			<li><a  href="/muzica/">MUZICA</a></li>
+		
+	
+	<li><img src="/templates/default/img/linie.png" class="linie"></li>
+
+
+			<li><a  href="/film/">FILM</a></li>
+		
+	
+	<li><img src="/templates/default/img/linie.png" class="linie"></li>
+
+
+			<li><a  href="/vedete/">VEDETE</a></li>
+		
+	
+	<li><img src="/templates/default/img/linie.png" class="linie"></li>
+
+
+			<li><a  href="/paparazzi/">PAPARAZZI</a></li>
+		
+	
+	<li><img src="/templates/default/img/linie.png" class="linie"></li>
+
+
+			<li><a  href="/vip/">VIP</a></li>
+		
+	
+	
+
+				</ul>
+			
+			</div>
+		<DIV CLASS="clear"></div>
+		</div>
+	</div>
+
+</div>
+
+<div style="background-color: #fff; border: 15px solid #fff; box-shadow: 0 0 7px #d8d8d8; margin: 15px auto 0; width: 850px; padding-left:120px;">
+
+<!-- Antena3-VDT-Leaderboard -->
+<div id='div-gpt-ad-1404730260104-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404730260104-0'); });
+</script>
+</div>
+</div>
+
+					
+<div class="main">
+
+
+
+	<div id="slider">
+	<ul>
+
+		
+										
+		<li class="frame-0" style="background-image:url(/uploads/modules/layout/custom/1/340x419_0x940c82cba28b41846f6d0fbb65c4ced3.jpg)">
+			<div class="frame-content">
+			
+								<div class="slider_text">
+					<a href="http://vdt.antena3.ro/paparazzi/kelly-bensimon-fericita-in-costum-de-baie-dar-arata-bine-numai-de-departe-id35950.html" target="_self">Kelly Bensimon, fericită în costum de baie. Dar arată bine numai de departe </a>
+					<img src="/templates/default/img/sag2.png" class="sag2">
+									</div>
+			</div>
+		</li>
+
+
+		
+										
+		<li class="frame-1" style="background-image:url(/uploads/modules/layout/custom/1/340x419_1xcb14a9f0f90f8ce60644ea9cf345833f.jpg)">
+			<div class="frame-content">
+			
+								<div class="slider_text">
+					<a href="http://vdt.antena3.ro/poza-zilei/david-cameron-un-politician-sensibil-id35949.html" target="_self">David Cameron, un politician sensibil </a>
+					<img src="/templates/default/img/sag2.png" class="sag2">
+									</div>
+			</div>
+		</li>
+
+
+		
+										
+		<li class="frame-2" style="background-image:url(/uploads/modules/layout/custom/1/340x419_2x249b55f9b2d00c86359573620f87b697.jpg)">
+			<div class="frame-content">
+			
+								<div class="slider_text">
+					<a href="http://vdt.antena3.ro/paparazzi/jennifer-lopez-aparitie-surprinzatoare-o-simpla-mamica-fara-stralucire-id35952.html" target="_self">Jennifer Lopez, apariţie surprinzătoare. O simplă mămică, fără strălucire </a>
+					<img src="/templates/default/img/sag2.png" class="sag2">
+									</div>
+			</div>
+		</li>
+
+
+		
+										
+		<li class="frame-3" style="background-image:url(/uploads/modules/layout/custom/1/340x419_3x0a52f0f61883ab8525000afb279805af.jpg)">
+			<div class="frame-content">
+			
+								<div class="slider_text">
+					<a href="http://vdt.antena3.ro/vedete/tiffany-as-poza-din-nou-in-playboy-chiar-si-la-43-de-ani-id35948.html" target="_self">Tiffany: Aş poza din nou în Playboy, chiar şi la 43 de ani </a>
+					<img src="/templates/default/img/sag2.png" class="sag2">
+									</div>
+			</div>
+		</li>
+
+
+		
+
+	</ul>
+	</div>
+
+
+
+</div>
+
+
+<pre class="js nones">
+$(document).ready(function() {
+	$("#slider ul").zAccordion({
+		slideWidth: 340,
+		width: 970,
+		height: 420,
+		timeout: 3000,
+		slideClass: "frame"
+	});
+});
+</pre>	
+
+
+					<div class="content">
+			<div class="left">
+				
+		<div class="grup1">
+
+
+
+	
+																										
+			<DIV CLASS="stire_portret">
+				<div class="stire_portret_int">
+					<div class="photo2">Playboy</div>					<a href="/vedete/tiffany-as-poza-din-nou-in-playboy-chiar-si-la-43-de-ani-id35948.html"><img src="/uploads/modules/news/0/2015/4/7/35948/265x402_14283992904f1ca49c.jpg" width="265" height="402"></a>
+					<div class="sectiune_label">
+						Vedete
+						<img src="/templates/default/img/sag1.png" class="sag1">
+					</div>
+					<div class="portret_titlu">
+						<a href="/vedete/tiffany-as-poza-din-nou-in-playboy-chiar-si-la-43-de-ani-id35948.html" target="_self">Tiffany: Aş poza din nou în Playboy, chiar şi la 43 de ani</a>
+						<img src="/templates/default/img/sag2.png" class="sag2">
+					</div>
+				</div>
+				<div class="text">
+					A fost o senzaţie nu doar muzicală a anilor 80, ci şi o bombă sexy şi, ajunsă la 43 de ani, Tiffany nu este tocmai pregătită să renunţe la asta.				</div>
+			</div>
+
+	
+	
+																										
+		<div class="stire_mica">
+			<h2><a href="/vedete/david-beckham-cel-mai-bun-tatic-celebru-id35933.html"class="" style="">David Beckham, cel mai bun tătic celebru</a></h2>
+			<a href="/vedete/david-beckham-cel-mai-bun-tatic-celebru-id35933.html"><img width="100" height="100" alt="" src="				/uploads/modules/news/0/2015/4/6/35933/100x100_14282993013081b424.jpg
+				"></a>
+			<div class="continut">
+				<p class="label">Vedete</p>
+				<div class="clear"></div>
+				<p class="text">Şi-a încheiat cariera de fotbalist, dar David Beckham continuă să rămână în atenţia publicului.</p>
+			</div>
+			<div class="clear"></div>
+			<div class="linie_punctata"></div>		</div>
+
+
+	
+																										
+		<div class="stire_mica">
+			<h2><a href="/vedete/povesti-de-la-hollywood-charlie-chaplin-omul-de-dincolo-de-actor-id35919.html"class="" style="">Poveşti de la Hollywood! Charlie Chaplin, omul de dincolo de actor</a></h2>
+			<a href="/vedete/povesti-de-la-hollywood-charlie-chaplin-omul-de-dincolo-de-actor-id35919.html"><img width="100" height="100" alt="" src="				/uploads/modules/news/0/2015/4/3/35919/100x100_142805229152445bd4.jpg
+				"></a>
+			<div class="continut">
+				<p class="label">Vedete</p>
+				<div class="clear"></div>
+				<p class="text">Secrete de mult îngropate au ieşit din nou la iveală. De data aceasta este vorba de Charlie Chaplin.</p>
+			</div>
+			<div class="clear"></div>
+			<div class="linie_punctata"></div>		</div>
+
+
+	
+																										
+		<div class="stire_mica">
+			<h2><a href="/vedete/din-nou-hot-tatiania-eriksen-arata-de-ce-a-devenit-iepuras-playboy-id35915.html"class="" style="">Din nou hot! Tatiania Eriksen arată de ce a devenit iepuraş Playboy</a></h2>
+			<a href="/vedete/din-nou-hot-tatiania-eriksen-arata-de-ce-a-devenit-iepuras-playboy-id35915.html"><img width="100" height="100" alt="" src="				/uploads/modules/news/0/2015/4/2/35915/100x100_142797176048c342f5.jpg
+				"></a>
+			<div class="continut">
+				<p class="label">Vedete</p>
+				<div class="clear"></div>
+				<p class="text">Cu siguranţă, Columbia are frumuseţi care merită promovate mai mult. O dovedeşte Tatiania Eriksen.</p>
+			</div>
+			<div class="clear"></div>
+					</div>
+
+
+		<div class="clear"></div>
+
+	</div>	
+
+
+					
+<div class="clear"></div>
+		<div class="fashion">
+			<div class="top">paparazzi</div>
+	
+																										
+		<div class="poza mr10">
+			<div class="photo2">Hepta</div>			<a href="/paparazzi/jennifer-lopez-aparitie-surprinzatoare-o-simpla-mamica-fara-stralucire-id35952.html"><img src="/uploads/modules/news/0/2015/4/7/35952/265x402_1428405005eacb1014.jpg" width="211" height="380"></a>
+			<div class="portret_titlu">
+				<a href="/paparazzi/jennifer-lopez-aparitie-surprinzatoare-o-simpla-mamica-fara-stralucire-id35952.html" target="_self"><span>Jennifer</span><br /><span>Lopez, apariţie surprinzătoare. O simplă mămică, fără strălucire</span></a>
+				<img src="/templates/default/img/sag2.png" class="sag2">
+			</div>
+		</div>
+
+		
+	
+																										
+		<div class="poza mr10">
+			<div class="photo2">Hepta</div>			<a href="/paparazzi/a-uitato-pe-pamela-anderson-tommy-lee-dragoste-fierbinte-cu-sofia-toufa-id35951.html"><img src="/uploads/modules/news/0/2015/4/7/35951/265x402_14284030849e6d414e.jpg" width="211" height="380"></a>
+			<div class="portret_titlu">
+				<a href="/paparazzi/a-uitato-pe-pamela-anderson-tommy-lee-dragoste-fierbinte-cu-sofia-toufa-id35951.html" target="_self"><span>A</span><br /><span>uitat-o pe Pamela Anderson! Tommy Lee, dragoste fierbinte cu Sofia Toufa</span></a>
+				<img src="/templates/default/img/sag2.png" class="sag2">
+			</div>
+		</div>
+
+		
+	
+																										
+		<div class="poza ">
+			<div class="photo2">Hepta</div>			<a href="/paparazzi/kelly-bensimon-fericita-in-costum-de-baie-dar-arata-bine-numai-de-departe-id35950.html"><img src="/uploads/modules/news/0/2015/4/7/35950/265x402_142840103524bbdd00.jpg" width="211" height="380"></a>
+			<div class="portret_titlu">
+				<a href="/paparazzi/kelly-bensimon-fericita-in-costum-de-baie-dar-arata-bine-numai-de-departe-id35950.html" target="_self"><span>Kelly</span><br /><span>Bensimon, fericită în costum de baie. Dar arată bine numai de departe</span></a>
+				<img src="/templates/default/img/sag2.png" class="sag2">
+			</div>
+		</div>
+
+		
+	</div>	
+
+
+					<div class="clear"></div>
+		<div class="grup1 mt10">
+
+																											
+				
+				
+				
+		
+						<DIV CLASS="stire_portret">
+				<div class="stire_portret_int">
+				<div class="photo2">Hepta</div>					<a href="/film/jennifer-aniston-imi-permit-o-zi-pe-saptamana-de-rasfat-id35946.html"><img src="/uploads/modules/news/0/2015/4/7/35946/265x402_142839362889ab95ce.jpg" width="265" height="402"></a>
+					<div class="sectiune_label">
+						Film
+						<img src="/templates/default/img/sag1.png" class="sag1">
+					
+					</div>
+					<div class="portret_titlu">
+						<a href="/film/jennifer-aniston-imi-permit-o-zi-pe-saptamana-de-rasfat-id35946.html">Jennifer Aniston: Îmi permit o zi pe săptămână de răsfăţ</a>
+						<img src="/templates/default/img/sag2.png" class="sag2">
+					</div>
+				</div>
+				<div class="text">Este adepta unui regim sănătos, dar Jennifer Aniston recunoaşte că îşi oferă o zi pe săptămână pentru răsfăţ.</div>
+				<div class="clear"></div>
+			</div>
+			
+			
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+						<div class="stire_mica">
+									<h2><a href="/film/chris-martin-si-jennifer-lawrence-iubire-cu-repetitie-id35937.html"class="" style="">Chris Martin şi Jennifer Lawrence, iubire cu repetiţie</a></h2>
+					<a href="/film/chris-martin-si-jennifer-lawrence-iubire-cu-repetitie-id35937.html"><img src="/uploads/modules/news/0/2015/4/6/35937/100x100_14283082228e289be3.jpg"></a>
+				<div class="continut">
+						<p class="label">Film</p>
+						<div class="clear"></div>
+						<p class="text">Tocmai s-a întors din vacanţa din Mexic, pe care a petrecut-o alături de fosta lui parteneră de viaţă, Gwyneth Paltrow, dar Chris Martin, 38 de ani, a avut grijă să infirme zvonurile că perechea şi-ar mai acorda o nouă şansă.</p>
+				</div>
+				<div class="clear"></div>
+							</div>
+			
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+						<div class="stire_mica">
+								<div class="linie_punctata2"></div>
+				<div class="related">
+					<img src="/templates/default/img/sag_related.png" class="fl mt5 mr10"/>
+					<a href="/film/andrew-garfield-si-emma-stone-la-final-de-relatie-id35924.html" class="">Andrew Garfield şi Emma Stone, la final de relaţie?</a>
+				</div>
+							</div>
+			
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+						<div class="stire_mica">
+								<div class="linie_punctata2"></div>
+				<div class="related">
+					<img src="/templates/default/img/sag_related.png" class="fl mt5 mr10"/>
+					<a href="/film/stanley-tucci-star-din-hunger-games-a-fost-dificil-sa-trec-peste-moartea-primei-sotii-id35920.html" class="">Stanley Tucci, star din Hunger Games: A fost dificil să trec peste moartea primei soţii</a>
+				</div>
+				<div class="linie_punctata"></div>
+							</div>
+			
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+			
+						<div class="stire_mica">
+									<h2><a href="/film/care-kristen-robert-pattinson-sa-logodit-id35918.html"class="" style="">Care Kristen? Robert Pattinson s-a logodit</a></h2>
+					<a href="/film/care-kristen-robert-pattinson-sa-logodit-id35918.html"><img src="/uploads/modules/news/0/2015/4/3/35918/100x100_142803795125af6503.jpg"></a>
+				<div class="continut">
+						<p class="label">Film</p>
+						<div class="clear"></div>
+						<p class="text">Veşti proaste pentru admiratoarele lui Robert Pattinson. Starul din „Twilight” s-a logodit cu iubita lui, cântăreaţa britanică de hip-hop, FKA Twigs.</p>
+				</div>
+				<div class="clear"></div>
+							</div>
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+			
+						<div class="stire_mica">
+								<div class="linie_punctata2"></div>
+				<div class="related">
+					<img src="/templates/default/img/sag_related.png" class="fl mt5 mr10"/>
+					<a href="/film/milla-jovovich-mamica-pentru-a-doua-oara-id35909.html" class="">Milla Jovovich, mămică pentru a doua oară</a>
+				</div>
+							</div>
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+			
+						<div class="stire_mica">
+								<div class="linie_punctata2"></div>
+				<div class="related">
+					<img src="/templates/default/img/sag_related.png" class="fl mt5 mr10"/>
+					<a href="/film/ea-stie-angelina-jolie-ce-nu-te-omoara-te-face-mai-puternic-id35902.html" class="">Ea ştie! Angelina Jolie: Ce nu te omoară te face mai puternic</a>
+				</div>
+				<div class="linie_punctata"></div>
+							</div>
+			
+			
+			
+
+	
+	<div class="clear"></div>
+			
+</div>
+
+
+
+	
+
+
+					
+		<div class="film">
+			<div class="top">Muzica</div>
+			<div class="container_film">
+				
+				
+
+
+
+
+
+
+
+																											
+				
+				
+				
+		
+								<div class="film_poza">
+										<img src="/uploads/modules/news/0/2015/4/7/35945/265x402_14283907459027d64f.jpg" width="265" height="310">
+					<div class="film_titlu">
+						<a href="/muzica/legendarul-bb-king-internat-de-urgenta-id35945.html">Legendarul B.B. King, internat de urgenţă</a>
+						<img src="/templates/default/img/sag_mov.png" class="sag2">
+					</div>
+				</div>
+						
+
+																											
+				
+				
+				
+		
+															<div class="film_right">
+											<a href="/muzica/delir-nicki-minaj-cu-posteriorul-la-vedere-intrun-concert-id35936.html">
+						<img src="/uploads/modules/news/0/2015/4/6/35936/90x90_14283054631861f07e.jpg">
+						</a>
+						<div class="film_content">
+							<p class="label">Muzica</p>
+							<div class="clear"></div>
+
+							<p class="mt10"><a href="/muzica/delir-nicki-minaj-cu-posteriorul-la-vedere-intrun-concert-id35936.html">Delir! Nicki Minaj, cu posteriorul la vedere într-un concert</a></p>
+						</div>
+
+						<div class="clear"></div>
+						<div class="linie_punctata_mov"></div>					
+						
+
+																											
+				
+				
+				
+		
+															<a href="/muzica/richie-sambora-acuzat-de-o-fosta-iubita-ca-o-ameninta-cu-moartea-id35931.html">
+						<img src="/uploads/modules/news/0/2015/4/5/35931/90x90_1428224500a9016943.jpg">
+						</a>
+						<div class="film_content">
+							<p class="label">Muzica</p>
+							<div class="clear"></div>
+
+							<p class="mt10"><a href="/muzica/richie-sambora-acuzat-de-o-fosta-iubita-ca-o-ameninta-cu-moartea-id35931.html">Richie Sambora, acuzat de o fostă iubită că o ameninţă cu moartea</a></p>
+						</div>
+
+						<div class="clear"></div>
+						<div class="linie_punctata_mov"></div>					
+						
+
+																											
+				
+				
+				
+		
+															<a href="/muzica/ricky-martin-nevoit-sa-amane-planurile-de-a-deveni-tata-de-fetita-id35926.html">
+						<img src="/uploads/modules/news/0/2015/4/3/35926/90x90_14280686185b47e37a.jpg">
+						</a>
+						<div class="film_content">
+							<p class="label">Muzica</p>
+							<div class="clear"></div>
+
+							<p class="mt10"><a href="/muzica/ricky-martin-nevoit-sa-amane-planurile-de-a-deveni-tata-de-fetita-id35926.html">Ricky Martin, nevoit să amâne planurile de a deveni tată de fetiţă</a></p>
+						</div>
+
+						<div class="clear"></div>
+																	</div>
+					
+						
+
+	
+
+			</div>
+		
+		</div>
+
+
+	
+
+
+					<div class="clear"></div>
+		<div class="grup1 mt10">
+
+																											
+				
+				
+				
+		
+						<DIV CLASS="stire_portret">
+				<div class="stire_portret_int">
+				<div class="photo2">Hepta</div>					<a href="/tv/nina-dobrev-paraseste-the-vampire-diaries-dupa-sase-sezoane-id35947.html"><img src="/uploads/modules/news/0/2015/4/7/35947/265x402_142839559889b3fc88.jpg" width="265" height="402"></a>
+					<div class="sectiune_label">
+						TV
+						<img src="/templates/default/img/sag1.png" class="sag1">
+					
+					</div>
+					<div class="portret_titlu">
+						<a href="/tv/nina-dobrev-paraseste-the-vampire-diaries-dupa-sase-sezoane-id35947.html">Nina Dobrev părăseşte The Vampire Diaries, după şase sezoane</a>
+						<img src="/templates/default/img/sag2.png" class="sag2">
+					</div>
+				</div>
+				<div class="text">Veste proastă pentru fanii serialului „The Vampire Diaries”. Nina Dobrev, interpreta Elenei Gilbert şi unul din personajele principale, a anunţat că va părăsi producţia, la finalul celui de-al şaselea sezon.</div>
+				<div class="clear"></div>
+			</div>
+			
+			
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+						<div class="stire_mica">
+									<h2><a href="/tv/kim-kardashian-sfatuita-sa-ia-in-considerare-o-mama-surogat-id35944.html"class="" style="">Kim Kardashian, sfătuită să ia în considerare o mamă surogat</a></h2>
+					<a href="/tv/kim-kardashian-sfatuita-sa-ia-in-considerare-o-mama-surogat-id35944.html"><img src="/uploads/modules/news/0/2015/4/7/35944/100x100_1428389020d7e6e589.jpg"></a>
+				<div class="continut">
+						<p class="label">TV</p>
+						<div class="clear"></div>
+						<p class="text">Prea mult sex pare să nu o fi ajutat pe Kim Kardashian. Vedeta a fost sfătuită de doctori să ia în considerarea să folosească o mamă surogat, pentru a-şi vedea visul cu ochii: acela de a deveni mamă pentru a doua oară.</p>
+				</div>
+				<div class="clear"></div>
+							</div>
+			
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+						<div class="stire_mica">
+								<div class="linie_punctata2"></div>
+				<div class="related">
+					<img src="/templates/default/img/sag_related.png" class="fl mt5 mr10"/>
+					<a href="/tv/sasha-mitchell-star-din-step-by-step-divorteaza-dupa-patru-ani-id35934.html" class="">Sasha Mitchell, star din Step By Step, divorţează după patru ani</a>
+				</div>
+							</div>
+			
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+						<div class="stire_mica">
+								<div class="linie_punctata2"></div>
+				<div class="related">
+					<img src="/templates/default/img/sag_related.png" class="fl mt5 mr10"/>
+					<a href="/tv/sean-whalen-star-din-dragoste-si-putere-divorteaza-dupa-21-de-ani-id35927.html" class="">Sean Whalen, star din Dragoste şi putere, divorţează după 21 de ani</a>
+				</div>
+				<div class="linie_punctata"></div>
+							</div>
+			
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+			
+						<div class="stire_mica">
+									<h2><a href="/tv/joanna-page-vedeta-din-gavin-stacey-a-devenit-din-nou-mama-id35917.html"class="" style="">Joanna Page, vedetă din Gavin & Stacey, a devenit din nou mamă</a></h2>
+					<a href="/tv/joanna-page-vedeta-din-gavin-stacey-a-devenit-din-nou-mama-id35917.html"><img src="/uploads/modules/news/0/2015/4/3/35917/100x100_142803747765adefe0.jpg"></a>
+				<div class="continut">
+						<p class="label">TV</p>
+						<div class="clear"></div>
+						<p class="text">Bucurie pentru Joanna Page. Vedeta din seriale precum „Gavin & Stacey” sau „Q Pootle 5” a devenit mamă pentru a doua oară, după ce a adus pe lume un băiat, miercuri, 1 aprilie.</p>
+				</div>
+				<div class="clear"></div>
+							</div>
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+			
+						<div class="stire_mica">
+								<div class="linie_punctata2"></div>
+				<div class="related">
+					<img src="/templates/default/img/sag_related.png" class="fl mt5 mr10"/>
+					<a href="/tv/january-jones-si-will-forte-iubire-pe-platourile-de-la-mad-men-id35910.html" class="">January Jones şi Will Forte, iubire pe platourile de la Mad Men</a>
+				</div>
+							</div>
+			
+			
+			
+
+																											
+				
+				
+				
+		
+			
+			
+						<div class="stire_mica">
+								<div class="linie_punctata2"></div>
+				<div class="related">
+					<img src="/templates/default/img/sag_related.png" class="fl mt5 mr10"/>
+					<a href="/tv/jon-wellner-star-din-csi-sa-despartit-de-sotie-dupa-sapte-ani-id35898.html" class="">Jon Wellner, star din CSI, s-a despărţit de soţie, după şapte ani</a>
+				</div>
+				<div class="linie_punctata"></div>
+							</div>
+			
+			
+			
+
+	
+	<div class="clear"></div>
+			
+</div>
+
+
+
+	
+
+
+	</div>
+	<DIV CLASS="right">
+		
+	<div style="margin-bottom:20px;">
+	<object width="300" height="250" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/
+	pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0">
+	<param name="SRC" value="/templates/default//banners/campanii/Banner_Cristi_Pascu.swf">
+	<embed src="/templates/default//banners/campanii/Banner_Cristi_Pascu.swf" width="300" height="250">
+	</object>
+	</div>
+
+				
+
+			
+			
+
+		<div class="dr_caseta_poza">
+
+												<div class="caseta_poza_content" style="margin-bottom:10px;">
+				<div class="photo2">Hepta</div>					<DIV CLASS="poza_zilei">
+					
+						<a href="/poza-zilei/david-cameron-un-politician-sensibil-id35949.html"><IMG SRC="/uploads/modules/news/0/2015/4/7/35949/300x350_142839994512ee285a.jpg"></a>
+						<div class="sectiune_label">
+							Poza zilei
+							<img src="/templates/default/img/sag1.png" class="sag1">
+							
+						</div>
+					</DIV>		
+					<div class="portret_titlu">
+							<a href="/poza-zilei/david-cameron-un-politician-sensibil-id35949.html">David Cameron, un politician sensibil</a>
+							<img src="/templates/default/img/sag2.png" class="sag2">
+					</div>
+			</div>
+															<div class="caseta_poza_item">
+				<a href="/poza-zilei/doutzen-kroes-promoveaza-alaptatul-intrun-mod-inedit-id35938.html"><img src="/uploads/modules/news/0/2015/4/6/35938/95x95_1428314199912bf951.jpg" class="mr10 fl"></a>
+				<div class="poza_item_dr" >
+					<a href="/poza-zilei/doutzen-kroes-promoveaza-alaptatul-intrun-mod-inedit-id35938.html">Doutzen Kroes promovează alăptatul într-un mod inedit</a>
+		
+				</div>
+			</div>
+			<div class="clear"></div>
+			<div class="linie_punctata"></div>															<div class="caseta_poza_item">
+				<a href="/poza-zilei/josh-duhamel-meditatie-nud-in-natura-id35929.html"><img src="/uploads/modules/news/0/2015/4/4/35929/95x95_142809068850ca2130.jpg" class="mr10 fl"></a>
+				<div class="poza_item_dr" >
+					<a href="/poza-zilei/josh-duhamel-meditatie-nud-in-natura-id35929.html">Josh Duhamel, meditaţie nud în natură</a>
+		
+				</div>
+			</div>
+			<div class="clear"></div>
+											</div>
+
+
+
+	
+	
+	
+
+
+	
+				<!-- Antena3-VDT-Rectangle -->
+		<div id='div-gpt-ad-1404730260104-1' style='margin:20px 0 20px 0; width:300px; height:250px;'>
+		
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404730260104-1'); });
+		</script>
+		
+		</div>
+				
+
+			
+			
+
+		<div class="dr_caseta_poza">
+
+												<div class="caseta_poza_content" style="margin-bottom:10px;">
+				<div class="photo2">Instagram</div>					<DIV CLASS="poza_zilei">
+					
+						<a href="/fashion/candice-swanepoel-distanta-este-buna-intro-relatie-id35943.html"><IMG SRC="/uploads/modules/news/0/2015/4/7/35943/300x350_14283862533d1282f2.jpg"></a>
+						<div class="sectiune_label">
+							Fashion
+							<img src="/templates/default/img/sag1.png" class="sag1">
+							
+						</div>
+					</DIV>		
+					<div class="portret_titlu">
+							<a href="/fashion/candice-swanepoel-distanta-este-buna-intro-relatie-id35943.html">Candice Swanepoel: Distanţa este bună într-o relaţie</a>
+							<img src="/templates/default/img/sag2.png" class="sag2">
+					</div>
+			</div>
+															<div class="caseta_poza_item">
+				<a href="/fashion/alessandra-ambrosio-un-iepuras-sexy-id35941.html"><img src="/uploads/modules/news/0/2015/4/6/35941/95x95_1428317037a13f80b2.jpg" class="mr10 fl"></a>
+				<div class="poza_item_dr" >
+					<a href="/fashion/alessandra-ambrosio-un-iepuras-sexy-id35941.html">Alessandra Ambrosio, un iepuraş sexy</a>
+		
+				</div>
+			</div>
+			<div class="clear"></div>
+			<div class="linie_punctata"></div>															<div class="caseta_poza_item">
+				<a href="/fashion/ayyan-ali-supermodel-pakistanez-arestata-pe-aeroport-id35935.html"><img src="/uploads/modules/news/0/2015/4/6/35935/95x95_1428303558dbd0d845.jpg" class="mr10 fl"></a>
+				<div class="poza_item_dr" >
+					<a href="/fashion/ayyan-ali-supermodel-pakistanez-arestata-pe-aeroport-id35935.html">Ayyan Ali, supermodel pakistanez, arestată pe aeroport</a>
+		
+				</div>
+			</div>
+			<div class="clear"></div>
+											</div>
+
+
+
+	
+	
+	
+
+
+	
+	<br>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FVDTonline&amp;width&amp;height=480&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=151992738257546" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:480px;" allowTransparency="true"></iframe>
+	</div>
+
+
+
+
+
+
+<div class="clear"></div>
+<div class="footer mt10">	
+© 2005-2015 S.C. Antena 3 S.A. Toate drepturile rezervate.
+</div></div>
+
+<div id="wy-popup" class="sharepopup" style="display:none;"></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4426758-3");
+pageTracker._trackPageview();
+</script>
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="fb-root"></div>
+
+
+<script>
+
+
+(function(){
+	var e = document.createElement('script'); e.async = true;
+	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+	document.getElementById('fb-root').appendChild(e);
+}());
+
+      window.fbAsyncInit = function() {
+        FB.init({
+			appId: '151992738257546',
+			cookie: true,
+			xfbml: true,
+			oauth: true
+        });
+
+
+      };
+
+
+
+</script>
+
+
+<script type="text/javascript">  (function() {
+    var scr = document.createElement('script'); 
+    scr.type = 'text/javascript'; scr.async = true;
+    scr.src = '/js/spring.js';
+    var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(scr, s);
+    })();
+ 
+</script>
+
+<!-- Antena3-VDT-Special -->
+<div id='div-gpt-ad-1404730366057-0' style='width:1px; height:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404730366057-0'); });
+</script>
+</div>
+<!-- Antena3-VDT-Special out-of-page -->
+<div id='div-gpt-ad-1404730366057-0-oop'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404730366057-0-oop'); });
+</script>
+</div>
+
+
+</body>
+</html>
+
+
+
+
+

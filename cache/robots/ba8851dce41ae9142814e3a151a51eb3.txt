@@ -1,0 +1,13 @@
+1428236549
+http://www.exeter.edu
+http://www.exeter.edu/robots.txt
+1428235020
+http://www.exeter.edu
+http://www.exeter.edu/robots.txt
+User-agent: *
+Disallow: /306/
+Disallow: /xml/
+Disallow: /forms/conferenceforms.aspx
+Disallow: /forms/sp_registration.aspx
+Disallow: /forms/bio_registration.aspx
+Disallow: /forms/sp_registration_late.aspx

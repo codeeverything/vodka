@@ -1,0 +1,6 @@
+1428244374
+http://patio-heaters-review.toptenreviews.com
+http://patio-heaters-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

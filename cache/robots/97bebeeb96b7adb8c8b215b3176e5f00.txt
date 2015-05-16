@@ -1,0 +1,10 @@
+1428416918
+http://www.bbclifestyle.com
+http://www.bbclifestyle.com/robots.txt
+1428241211
+http://www.bbclifestyle.com
+http://www.bbclifestyle.com/robots.txt
+# Allow all robots to index all pages
+User-agent: *
+Allow: /
+

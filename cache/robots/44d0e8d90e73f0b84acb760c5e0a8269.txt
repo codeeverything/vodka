@@ -1,0 +1,8 @@
+1427891337
+https://portal.xsede.org
+https://portal.xsede.org/robots.txt
+User-agent: *
+Disallow: /tg-archives
+Disallow: /wwwteragrid
+Disallow: /delegate/services/start
+

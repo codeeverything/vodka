@@ -1,0 +1,6 @@
+1428244545
+http://programmable-thermostats-review.toptenreviews.com
+http://programmable-thermostats-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

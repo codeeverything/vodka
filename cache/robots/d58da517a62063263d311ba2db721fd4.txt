@@ -1,0 +1,14 @@
+1427735182
+http://www.mediabrains.com
+http://www.mediabrains.com/robots.txt
+1427734510
+http://www.mediabrains.com
+http://www.mediabrains.com/robots.txt
+1427717430
+http://www.mediabrains.com/privacy.htm
+http://www.mediabrains.com/robots.txt
+﻿User-agent: *
+Disallow: /Client/
+Disallow: /client/
+
+SITEMAP:http://www.mediabrains.com/sitemap.xml

@@ -1,0 +1,10 @@
+1428421023
+http://blogsport.gsp.ro
+http://blogsport.gsp.ro/robots.txt
+1428418388
+http://blogsport.gsp.ro
+http://blogsport.gsp.ro/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+
+Sitemap: http://blogsport.gsp.ro/sitemap.xml

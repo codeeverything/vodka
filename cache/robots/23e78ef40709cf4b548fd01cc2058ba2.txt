@@ -1,0 +1,10 @@
+1428422465
+http://mycars.topgear.com.ph
+http://mycars.topgear.com.ph/robots.txt
+User-agent: *
+Disallow: /admin*
+Disallow: /getSellerPaginate/
+Disallow: /404
+
+Sitemap: http://mycars.topgear.com.ph/sitemap.xml
+

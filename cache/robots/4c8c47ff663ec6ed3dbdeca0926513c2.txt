@@ -1,0 +1,6 @@
+1428244315
+http://sewing-machine-review.toptenreviews.com
+http://sewing-machine-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

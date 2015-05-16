@@ -1,0 +1,3200 @@
+1428418382
+http://www.euforia.tv
+http://www.euforia.tv/robots.txt
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+<meta name="identifier-url" content="http://euforia.tv/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="RO" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!-- 6363178b8c805e4d7900a49aa5326ffe -->
+
+<title>Euforia Lifestyle TV | Euforia.tv</title>
+<meta name="description" content="Euforia TV, televiziune in stilul tau."/><meta name="keywords" content="Euforia, lifestyle, hobby, fashion, retete culinare, sanatate, community"/>
+<meta property="fb:app_id" content="119428494888328"/>
+
+<meta property="og:title" content="Euforia Lifestyle TV" />
+<meta property="og:site_name" content="EUFORIA.TV" />
+<meta property="og:image" content="http://euforia.tv/templates/default/img/a1logo.png" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="EUFORIA.TV" href="http://euforia.tv/rss/" />
+
+<!--stylesheets-->
+	<link rel="stylesheet" href="/templates/default/css/normalize.css">
+	<link rel="stylesheet" href="/templates/default/css/main-style.css?11">
+	<link rel="stylesheet" href="/templates/default/css/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/templates/default/js/3dslider/slider/assets/css/main.css" />
+	<link rel="stylesheet" href="/templates/default/js/3dslider/refineslide.css" />
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300,300italic,400italic,600italic,600,700italic%7cOpen+Sans+Condensed:300,700,300italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<!--[if IE 7]><link rel="stylesheet" href="/templates/default/css/font-awesome/css/font-awesome-ie7.min.css"><![endif]-->
+	<link rel="stylesheet" href="/templates/default/css/colorbox.css">
+<!--/stylesheets-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+<script type="text/javascript" language="javascript" src="/templates/default/js/jquery.carouFredSel-6.1.0-packed.js"></script>
+<script type="text/javascript" src="/js/xajax.js"></script>
+<script type="text/javascript" src="/js/utils.js"></script>
+<script type="text/javascript" src="/templates/default/js/jquery.touchswipe.min.js"></script>
+<script type="text/javascript" language="javascript" src="/templates/default/js/jquery.colorbox-min.js"></script>
+
+
+
+<script type="text/javascript">
+	var springq = springq || [];
+	springq.push({
+		"s":"euforiatv",
+		"cp":"homepage",
+		"url": document.location.href
+	});
+</script>
+<script type='text/javascript'>
+
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+</script>
+<script type='text/javascript'>
+googletag.defineSlot('/62727623/Euforia-Content-PromoFinArt', [620, 600], 'div-gpt-ad-1424955006996-0').addService(googletag.pubads());
+</script>
+
+
+<script type='text/javascript'>
+
+googletag.defineSlot('/62727623/Euforia-Content-AdFinArt', [620, 150], 'div-gpt-ad-1405603283070-0').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Euforia-HP-Leaderboard', [[728, 90], [1000, 200]], 'div-gpt-ad-1387278529214-1').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Euforia-HP-Rectangle', [[300, 250], [300, 600]], 'div-gpt-ad-1387278529214-2').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Euforia-HP-Rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1387278529214-3').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Euforia-HP-Special', [1, 1], 'div-gpt-ad-1387278529214-4').addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/62727623/Euforia-HP-Special', 'div-gpt-ad-1387278529214-4-oop').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Euforia-HP-SkyLeft', [[120, 600], [160, 600]], 'div-gpt-ad-1387278529214-5').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Euforia-HP-SkyRight', [[120, 601], [160, 601]], 'div-gpt-ad-1387278529214-6').addService(googletag.pubads());
+googletag.defineSlot('/62727623/Euforia-HP-Branding', [[1040, 150], [1040, 200], [1000, 200]], 'div-gpt-ad-1387278529214-0').addService(googletag.pubads());
+googletag.pubads().setTargeting('mature', 'no');
+googletag.pubads().enableSyncRendering();
+//googletag.pubads().enableSingleRequest();
+googletag.pubads().enableVideoAds();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+
+</script>
+<script type='text/javascript'>
+googletag.pubads().setTargeting("IP","130.211.79.160");
+</script>
+</head>
+
+<body id="theme-default"><!--homepage-->
+
+<div style="position:absolute">
+<!-- BRAT VERSION="1.5" -->
+<SCRIPT LANGUAGE="JavaScript"> <!--
+        var br_sitecode = "euforia";
+        var br_sitepath = "homepage";
+        var IVW="http://"+br_sitecode+".count.brat-online.ro/cgi-bin/cnt/CP/"+br_sitepath;
+        document.write("<IMG SRC=\""+IVW+"?r="+escape(document.referrer)+"&amp;d="+(Math.random()*100000)+"&amp;x="+screen.width+"x"+screen.height+"\" WIDTH=\"1\" HEIGHT=\"1\">");
+      //-->
+</SCRIPT>
+<NOSCRIPT>
+      <IMG SRC="http://euforia.count.brat-online.ro/cgi-bin/cnt/CP/homepage" WIDTH="1" HEIGHT="1">
+</NOSCRIPT>
+<script src="http://euforia.count.brat-online.ro/2004/01/survey.js" type="text/javascript"></script>
+<!-- /BRAT --></div>
+
+<!-- Euforia-HP-Special -->
+<div id='div-gpt-ad-1387278529214-4' style='width:1px; height:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387278529214-4'); });
+</script>
+</div>
+<!-- Euforia-HP-Special out-of-page -->
+<div id='div-gpt-ad-1387278529214-4-oop'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387278529214-4-oop'); });
+</script>
+</div>
+
+	<header>
+	<div class="hidder clearfix">
+		<div class="midder clearfix">
+			<div class="fr menpos clearfix">
+				
+	
+			<a  href="/lifestyle/">LIFESTYLE</a>
+		<p>&bull;</p>
+	
+	
+	
+	
+			<a  href="/beauty/">BEAUTY</a>
+		<p>&bull;</p>
+	
+	
+	
+	
+			<a  href="/relatie/">RELAŢIE</a>
+		<p>&bull;</p>
+	
+	
+	
+	
+			<a  href="/sanatate/">SĂNĂTATE</a>
+		<p>&bull;</p>
+	
+	
+	
+	
+			<a href="http://club.euforia.tv" target="_blank">CLUB.EUFORIA</a>
+		<p>&bull;</p>
+	
+	
+	
+	
+			<a  href="/cuisine/">CUISINE</a>
+		<p>&bull;</p>
+	
+	
+	
+	
+			<a  href="/program-tv/">PROGRAM TV</a>
+		
+	
+	</div></div>
+
+			</div>
+		</div>
+	</div>
+	<div class="midder">
+		<div class="menu clearfix">
+			<div class="logo"><a href="/"><img alt="" src="/templates/default/img/euforia-logo.png"></a></div>
+			<ul class="clearfix menulist">
+
+		<li class="clearfix">
+			<div class="thumpic fl"><img width="45" height="45" src="/uploads/modules/elements/75/upload_menu2_icon.jpg" alt="" /></div>							<a class="fl emistitle " href="/downton-abbey/">DOWNTON ABBEY</a><span>L, 23:00</span>					</li>
+
+
+
+		<li class="clearfix">
+			<div class="thumpic fl"><img width="45" height="45" src="/uploads/modules/elements/85/upload_menu2_icon.jpg" alt="" /></div>							<a class="fl emistitle " href="/legea-pamantului/">LEGEA PĂMÂNTULUI</a><span>L-V, 20:00</span>					</li>
+
+
+
+		<li class="clearfix">
+			<div class="thumpic fl"><img width="45" height="45" src="/uploads/modules/elements/77/upload_menu2_icon.png" alt="" /></div>							<a class="fl emistitle " href="/euforisme/">EUFORISME</a><span>Special euforia.tv</span>					</li>
+
+
+
+		<li class="clearfix">
+			<div class="thumpic fl"><img width="45" height="45" src="/uploads/modules/elements/83/upload_menu2_icon.jpg" alt="" /></div>							<a class="fl emistitle " href="/interviurile-euforia/">INTERVIURILE EUFORIA</a>					</li>
+
+
+
+		<li class="clearfix">
+			<div class="thumpic fl"><img width="45" height="45" src="/uploads/modules/elements/82/upload_menu2_icon.jpg" alt="" /></div>							<a class="fl emistitle " href="/euforimetru/">EUFORIMETRU</a><span>Special euforia.tv</span>					</li>
+
+
+</ul>
+		</div>
+	</div>
+	<div class="submenu">
+		<div class="midder">
+			<ul class="clearfix">
+				<li class="live-aplay"><a target="_blank" href="http://antenaplay.ro/"></a></li>
+				<li class="live-a1"><a target="_blank" href="http://antenaplay.ro/live/antena1"></a></li>
+				<li class="live-a2"><a target="_blank" href="http://antenaplay.ro/live/antena-stars"></a></li>
+				<li class="live-a3"><a target="_blank" href="http://antenaplay.ro/live/antena3"></a></li>
+				<li class="live-euforia"><a target="_blank" href="http://antenaplay.ro/live/euforia"></a></li>
+				<li class="live-gsptv"><a target="_blank" href="http://antenaplay.ro/live/zu-tv"></a></li>
+			</ul>
+		</div>
+	</div>
+</header>
+
+<script type="text/javascript">
+	$("a.emistitle").each(function() {
+		if($(this).width() >120) {
+			var str = $(this).text();
+			var lastIndex = str.lastIndexOf(" ")
+			var final = str.substring(0, lastIndex) + "<br />" + str.substring(lastIndex);
+			$(this).html(final.toString());
+			$(this).css('padding-top','2px');
+		}
+	});
+</script>
+
+
+<div style="position:relative">
+	<div style="position: absolute; left: 50%; margin-left: -660px; top: 0px;">
+<!-- Euforia-HP-SkyLeft -->
+<div id='div-gpt-ad-1387278529214-5'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387278529214-5'); });
+</script>
+</div>
+</div>	<div style="position: absolute; left: 50%; margin-left: 500px; top: 0px;">
+<!-- Euforia-HP-SkyRight -->
+<div id='div-gpt-ad-1387278529214-6'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387278529214-6'); });
+</script>
+</div>
+</div></div>
+
+<div style="margin:auto;text-align:center;width:1000px;">
+<!-- Euforia-HP-Branding -->
+<div id='div-gpt-ad-1387278529214-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387278529214-0'); });
+</script>
+</div>
+</div>
+<div id="content">
+
+			
+
+<ul id="images-3d" class="rs-slider">
+
+<li class="group">
+	<div class="emis-3d">
+		<a href="http://euforia.tv/legea-pamantului/" target="_self"></a>
+		<img width="230" height="160" src="/uploads/modules/layout/custom/41/230x160_2x079219305cf5d11b14010108b8f358d3.jpg" alt="">
+		<div class="in-3d">
+			<p>L-V, 20:00</p>
+			<div style="clear:both; height:1px"></div>
+			<h4>Legea pământului</h4>
+		</div>
+    </div>
+
+
+
+	<div class="emis-3d">
+		<a href="http://euforia.tv/totul-despre-sex/" target="_self"></a>
+		<img width="230" height="160" src="/uploads/modules/layout/custom/41/230x160_5x8933f2b5b74d6c7f3b70959a6b4a4f8b.jpg" alt="">
+		<div class="in-3d">
+			<p>L-V, 21:00</p>
+			<div style="clear:both; height:1px"></div>
+			<h4>Medici în Santa Monica</h4>
+		</div>
+    </div>
+
+
+
+	<div class="emis-3d">
+		<a href="http://euforia.tv/program-tv/" target="_self"></a>
+		<img width="230" height="160" src="/uploads/modules/layout/custom/41/230x160_8xf3d100cfd246d2cad2c4723e2a498152.jpg" alt="">
+		<div class="in-3d">
+			<p>L-V, 22:00</p>
+			<div style="clear:both; height:1px"></div>
+			<h4>Dr. House</h4>
+		</div>
+    </div>
+
+
+
+	<div class="emis-3d">
+		<a href="http://www.euforia.tv/program-tv/" target="_blank"></a>
+		<img width="230" height="160" src="/uploads/modules/layout/custom/41/230x160_6xdb6b4fe84e5522bef74d627c0f42ad66.jpg" alt="">
+		<div class="in-3d">
+			<p>JOI, 00.00</p>
+			<div style="clear:both; height:1px"></div>
+			<h4>Podul</h4>
+		</div>
+    </div>
+
+
+</li><li class="group">
+	<div class="emis-3d">
+		<a href="http://www.euforia.tv/program-tv/" target="_blank"></a>
+		<img width="230" height="160" src="/uploads/modules/layout/custom/41/230x160_4xfa3ead8134d9782279d0a3354db6a682.jpg" alt="">
+		<div class="in-3d">
+			<p>S-D, 9:15</p>
+			<div style="clear:both; height:1px"></div>
+			<h4>Glee</h4>
+		</div>
+    </div>
+
+
+
+	<div class="emis-3d">
+		<a href="http://www.euforia.tv/program-tv/" target="_blank"></a>
+		<img width="230" height="160" src="/uploads/modules/layout/custom/41/230x160_5x5c9dfb6a06898ff02d05291fcb98839a.jpg" alt="">
+		<div class="in-3d">
+			<p>S-D, 12:00</p>
+			<div style="clear:both; height:1px"></div>
+			<h4>Ally McBeal</h4>
+		</div>
+    </div>
+
+
+
+	<div class="emis-3d">
+		<a href="http://www.euforia.tv/program-tv/" target="_blank"></a>
+		<img width="230" height="160" src="/uploads/modules/layout/custom/41/230x160_6x1cf94a0f778515a6c1ad72a809732008.jpg" alt="">
+		<div class="in-3d">
+			<p>S, 19:00</p>
+			<div style="clear:both; height:1px"></div>
+			<h4>Parțial legal </h4>
+		</div>
+    </div>
+
+
+
+	<div class="emis-3d">
+		<a href="http://www.euforia.tv/program-tv/" target="_blank"></a>
+		<img width="230" height="160" src="/uploads/modules/layout/custom/41/230x160_7x7065f73d49781551a9c49930826d9329.jpg" alt="">
+		<div class="in-3d">
+			<p>D, 19:00</p>
+			<div style="clear:both; height:1px"></div>
+			<h4>Pe viață</h4>
+		</div>
+    </div>
+
+
+</li>
+</ul>		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+
+
+<div id="wrapper" style="height:400px;overflow:hidden;">
+	<div id="new-opening">
+
+		<div id="carousel1428347757" class="carousel">
+
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/legea-pamantului/legea-pamantului-noul-serial-turcesc-difuzat-de-euforia-tv-incepand-cu-6-aprilie-id36243.htmlhttp://euforia.tv/legea-pamantului/rolurile-se-inverseaza-in-primul-episod-leyla-a-fost-salvatoarea-lui-omer-id36627.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#LEGEAPAMANTULUI</div></div>
+					<h2><a href="/legea-pamantului/legea-pamantului-noul-serial-turcesc-difuzat-de-euforia-tv-incepand-cu-6-aprilie-id36243.htmlhttp://euforia.tv/legea-pamantului/rolurile-se-inverseaza-in-primul-episod-leyla-a-fost-salvatoarea-lui-omer-id36627.html" target="_self">Rolurile se inversează! În primul episod, Leyla îl salvează pe Omer!</a></h2>
+					<p>Ai ratat premiera? Nu-i nimic! Află aici cum s-au cunoscut Omer și Leyla</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_11xb44aee02d6b45cdbc25c4dd55ba2f5dd.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/legea-pamantului/intre-traditie-si-modernitate-cum-intregeste-vestimentatia-imaginea-personajelor-din-legea-pamantului-id36439.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#LEGEAPAMANTULUI</div></div>
+					<h2><a href="http://euforia.tv/legea-pamantului/intre-traditie-si-modernitate-cum-intregeste-vestimentatia-imaginea-personajelor-din-legea-pamantului-id36439.html" target="_self">Între tradiţie şi modernitate! Cum întregeşte vestimentaţia imaginea personajelor din serial</a></h2>
+					<p>Dicle și Kureysa nu ar putea fi mai diferite de Leyla! Află ce preferă fiecare în materie de vestimentație!</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_1xb22df3cfb7aac3fc76dd9f13b4720344.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/interviurile-euforia/cu-bicicleta-din-romania-in-indonezia-afla-povestea-alinei-ene-tanara-care-a-traversat-13-ari-pentru-a-studia-id36356.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#INTERVIURILEEUFORIA</div></div>
+					<h2><a href="/interviurile-euforia/cu-bicicleta-din-romania-in-indonezia-afla-povestea-alinei-ene-tanara-care-a-traversat-13-ari-pentru-a-studia-id36356.html" target="_self">Cu bicicleta, din România în Indonezia! Alina Ene a traversat 13 țări pentru a... studia!</a></h2>
+					<p>A prins-o atât de tare microbul încât a plecat până în Indonezia pedalând. De ce Indonezia? Pentru că acolo o aştepta o bursă de studiu</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_2xf697f0ffa0e279fa8176d01ff73325e6.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/andreea-berecleanu-i-estetica-premium-recomanda/invaa-sa-te-iubeti-aa-cum-eti-terapia-prin-hipnoza-te-ajuta-sa-te-placi-pe-tine-insai-id36470.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#ESTETICAPREMIUM</div></div>
+					<h2><a href="http://euforia.tv/andreea-berecleanu-i-estetica-premium-recomanda/invaa-sa-te-iubeti-aa-cum-eti-terapia-prin-hipnoza-te-ajuta-sa-te-placi-pe-tine-insai-id36470.html" target="_self">Învață să te iubești așa cum ești! Terapia prin hipnoză te ajută să te placi pe tine însăți!</a></h2>
+					<p>Orice femeie are nevoie să își reamintească cât de frumoasă este din când în când...</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_12x3de5b00063a1d4183494639b2d1675a3.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/euforisme/lasai-femeile-sa-se-opereze-id36529.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#FIFISTIE</div></div>
+					<h2><a href="http://euforia.tv/euforisme/lasai-femeile-sa-se-opereze-id36529.html" target="_self">Lăsați femeile să se opereze!</a></h2>
+					<p>Domnii sunt ca vinul. La femei e mai complicat. Fără să intervină cu creme minune sau operații, femeile consideră că își pierd din frumusețe </p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_7xc73a8cffc91d7aee86b175f0560b52dc.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/euforisme/despre-iubirea-din-noi-de-la-rumi-la-elif-safak-id36449.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#CARTEAPENTRUDUMINICA</div></div>
+					<h2><a href="http://euforia.tv/euforisme/despre-iubirea-din-noi-de-la-rumi-la-elif-safak-id36449.html" target="_self">Despre iubirea din noi – de la Rumi la Elif Şafak</a></h2>
+					<p>De puţine ori mi s-a întâmplat ca o carte să îmi dea o stare atât de bună ca Cele patruzeci de legi ale iubirii, de Elif Şafak. Fără nicio strădanie, autoarea reuşeşte să te poarte prin cele mai profunde învăţături ale cultului...</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_4xd2f6f602dfdb630031c74cd4151e5471.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/euforisme/ce-sunt-asanele-id36381.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#LIVELOVEPILATES</div></div>
+					<h2><a href="http://euforia.tv/euforisme/ce-sunt-asanele-id36381.html" target="_self">Ce sunt asanele?</a></h2>
+					<p>Ați auzit vreodată de duduk? E instrumentul tradițional armenesc. Dacă sunteți fan Gladiatorul cu Russell Crowe și știți coloana sonoră...atunci, acela e duduk.Pe muzica lui se pot practica perfect asanele yoga</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_6x5d748b27e0cc2438b983e370c8009d92.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/euforisme/horoscopul-sanataii-in-2015-in-funcie-de-zodie-id34520.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#ELACRACIUN</div></div>
+					<h2><a href="http://euforia.tv/euforisme/horoscopul-sanataii-in-2015-in-funcie-de-zodie-id34520.html" target="_self">Horoscopul sănătății în 2015 </a></h2>
+					<p>Cristina Demetrescu deține meșteșugul astrelor și ne creionează impecabil fiecare zodie în parte, din punct de vedere al sănătății. Sănătoși să fim că restul vine de la sine!</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_7xe492e5d2cba10b8c22a44123f66a1bf7.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/euforisme/hamurile-margai-sau-cum-am-descoperit-ca-sportul-poate-fi-fun-id36374.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#AFTERHOURS</div></div>
+					<h2><a href="/euforisme/hamurile-margai-sau-cum-am-descoperit-ca-sportul-poate-fi-fun-id36374.html" target="_self">Hamurile Margăi sau cum am descoperit că sportul poate fi fun</a></h2>
+					<p>N-am fost niciodată o persoană căreia să îi placă să facă mișcare. O recunosc deschis. Am fost mereu conștientă de beneficiile sportului asupra minții și corpului, dar mereu mi-am găsit scuze – până am găsit-o pe Marga Bălan</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_11xba13310a82b42792d68c9afa419a9955.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/euforisme/alimente-care-nu-ingraa-id35778.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#FITNOTFAT</div></div>
+					<h2><a href="/euforisme/alimente-care-nu-ingraa-id35778.html" target="_self">Alimente care nu îngrașă</a></h2>
+					<p>Alimentele cu un conţinut ridicat de apă conţin minerale, vitamine, antioxidanţi şi fibre, previn oboseala, accelerează detoxifierea şi reduc retenţia de apă. Uite ce îți recomandă Florin Neby:</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_10xb09638254c7d18005c3fa50c7f32bd6a.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/euforisme/cine-este-hedi-slimane-id36193.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#FASHIONDINCONDEI</div></div>
+					<h2><a href="/euforisme/cine-este-hedi-slimane-id36193.html" target="_self">L-a tăiat pe Yves din Saint Laurent și a mutat Parisul în Los Angeles! Cine este Hedi Slimane</a></h2>
+					<p>Controversat, Hedi nu oferă scuze sau explicații, taie în carne vie și duce couture-ul în stradă!</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_4x42edb98d8bb02e7cd7bf44411ae8c2b7.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/euforimetru/chris-simion-vs-euforimetru-id35777.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#COMPLEXĂ</div></div>
+					<h2><a href="/euforimetru/chris-simion-vs-euforimetru-id35777.html" target="_self">Chris Simion vs. Euforimetru</a></h2>
+					<p>În teatru, Chris Simion este cunoscută ca un regizor de avangardă. Spectacolele ei reprezintă provocări atât pentru actorii cu care lucrează, cât şi pentru spectatorii care îi prizează poveştile. Autoarea unui bestseller ne răspunde...</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_2x66986cf86a29801e58979a6337cacaca.jpg" alt="" />
+			</div>
+		
+
+		</div>
+
+
+		<div id="pager1428347757" class="pager clearfix push-bullets"></div>
+		<i id="prev_button1428347757" class="prev_button fa fa-chevron-left" style="cursor:pointer;"></i>
+		<i id="next_button1428347757" class="next_button fa fa-chevron-right" style="cursor:pointer;"></i>
+	</div>
+</div>
+
+
+
+
+<script type="text/javascript">
+    $(function(){
+
+    	$('#carousel1428347757').carouFredSel({
+    		responsive: true,
+    		items: {
+    			visible: 1,
+    			width: 960,
+    			height: 400,
+    		},
+    		scroll: {
+    			duration: 500,
+    			timeoutDuration: 5000,
+    			fx: 'uncover-fade',
+    			//easing      : "easeOutBounce",
+    			pauseOnHover    : true,
+    		},
+
+			pagination : {
+				container   : "#pager1428347757",
+				keys        : true,
+				//easing      : "easeOutBounce",
+				duration    : 500
+			},
+
+			prev : {
+				button : "#prev_button1428347757",
+				//easing      : "easeOutBounce",
+				duration    : 500
+			},
+			next : {
+				button : "#next_button1428347757",
+				//easing      : "easeOutBounce",
+				duration    : 500
+			},
+
+			swipe:{
+				onTouch : true,
+				onMouse:true,
+			}
+
+
+    	});
+    });
+</script>		<div class="desp-20"></div>
+	
+			<div class="logare" id="__widget_club_user">
+	<div class="icons_tv">
+		<li class="icons"><a href="http://club.euforia.tv/"><img src="http://club.euforia.tv/templates/default/img/new/home.png"></a></li>
+		<li class="icons"><a id="__widget_club_user_friends" href="http://club.euforia.tv/"><img src="http://club.euforia.tv/templates/default/img/new/prieteni.png"></a></li>
+		<li class="icons"><a href="http://club.euforia.tv/site/mesaje/"><img src="http://club.euforia.tv/templates/default/img/new/mesaje.png"></a></li>
+	</div>
+
+	<form name="search" method="get" action="/cautare/">
+		<div class="cautare_tv">
+			<input type="text" id="vm" value="" name="key" class="cautare_input" placeholder="CUVINTE CHEIE">
+		</div>
+		<div class="buton_tv">
+			<a href="javascript:void(0)" onclick="document.search.submit();"><img src="http://club.euforia.tv/templates/default/img/new/cauta.png"></a>
+		</div>
+	</form>
+
+	<div id="__widget_club_user_notlogged" style="position:relative;" class="user_logare_tv">
+		<div class="user_non_logged"><img src="http://club.euforia.tv/templates/default/img/new/face.png"></div>
+		<div class="user_name_non_logged_tv"><a class="roz" onclick="getMeIn();" href="javascript:void(0);">Login cu Facebook</a></div>
+	</div>
+
+	<div id="__widget_club_user_logged" class="user_logare_tv" style="position:relative;display:none;">
+		<div class="user"><img id="__widget_club_user_avatar" width="32" height="32" src=""></div>
+		<div class="user_name"><a id="__widget_club_user_name" href="http://club.euforia.tv/"></a></div>
+	</div>
+
+	<div class="clear"></div>
+</div>
+
+
+<script type="text/javascript">
+
+	$(document).ready(function() {
+		$.getScript("http://club.euforia.tv/js/state.js.php", function () {
+
+			if ( _club_user ){
+				$("#__widget_club_user_friends").attr("href", $("#__widget_club_user_friends").attr("href") + _club_user.user + "/prieteni/" );
+				$("#__widget_club_user_avatar").attr("src", _club_user.avatar);
+				$("#__widget_club_user_name").attr("href", $("#__widget_club_user_name").attr("href") + _club_user.user + "/" );
+				$("#__widget_club_user_name").html(_club_user.name);
+				$("#__widget_club_user_notlogged").hide();
+				$("#__widget_club_user_logged").show();
+			}
+
+		});
+	});
+
+</script>
+
+		<div class="banner-wide"><div style="margin:auto;text-align:center;">
+<!-- Euforia-HP-Leaderboard -->
+<div id='div-gpt-ad-1387278529214-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387278529214-1'); });
+</script>
+</div>
+</div></div>
+	
+	<div style="margin-left:-20px;margin-bottom:10px"><div style="margin:auto;text-align:center;">
+
+</div></div>
+	
+			
+
+<div class="clearfix" id="opening">
+
+	<div class="clearfix"><div class="label fl main-label">Top News</div></div>
+
+	
+																										
+		<div class="o-featured fl">
+			<div class="bigpic"><a href="/trends-by-euforia/te-casatoreti-la-sfaritul-anului-alege-o-rochie-de-mireasa-in-tendine-id36642.html" target="_self"><img width="500" height="307" alt="" src="/uploads/modules/layout/custom/64/500x307_2xce00f4cbafa5d1b4b1402bd637431971.jpg"></a></div>
+			<h1><a href="/trends-by-euforia/te-casatoreti-la-sfaritul-anului-alege-o-rochie-de-mireasa-in-tendine-id36642.html" target="_self">Te căsătorești până la sfârșitul anului? Alege o rochie de mireasă în tendințe!</a></h1>
+		</div>
+
+	
+	<div class="o-others fr">
+	
+																										
+		<div class="others-item clearfix theme-default">
+			<div class="thumb fl"><a href="/lifestyle/formaia-abba-se-intoarce-uite-cum-arata-solitii-intro-noua-ipostaza-id36640.html" target="_self"><img width="156" height="108" alt="" src="/uploads/modules/layout/custom/64/156x108_0x77694ebbca46b642ec100d4e13cb2177.jpg"></a></div>
+			<div class="desc fr">
+				<div class="clearfix">
+				<a href="/lifestyle/formaia-abba-se-intoarce-uite-cum-arata-solitii-intro-noua-ipostaza-id36640.html" target="_self"><h3 class="fl label">LIFESTYLE</h3></a>
+								</div>
+				<h2><a href="/lifestyle/formaia-abba-se-intoarce-uite-cum-arata-solitii-intro-noua-ipostaza-id36640.html" target="_self">Formația ABBA se întoarce! Uite cum arată soliștii într-o nouă ipostază!</a></h2>
+			</div>
+		</div>
+
+
+	
+																										
+		<div class="others-item clearfix theme-default">
+			<div class="thumb fl"><a href="/legea-pamantului/poi-sal-recunoti-era-cel-mai-dulce-baiat-in-copilarie-astazi-este-rivalul-lui-omer-id36635.html" target="_self"><img width="156" height="108" alt="" src="/uploads/modules/layout/custom/64/156x108_1xf69c5a13b4d3d8c9bb7c7f2743db3c0d.jpg"></a></div>
+			<div class="desc fr">
+				<div class="clearfix">
+				<a href="/legea-pamantului/poi-sal-recunoti-era-cel-mai-dulce-baiat-in-copilarie-astazi-este-rivalul-lui-omer-id36635.html" target="_self"><h3 class="fl label">LEGEA PĂMÂNTULUI</h3></a>
+								</div>
+				<h2><a href="/legea-pamantului/poi-sal-recunoti-era-cel-mai-dulce-baiat-in-copilarie-astazi-este-rivalul-lui-omer-id36635.html" target="_self">Poți să-l recunoști? Era cel mai dulce băiat, în copilărie, astăzi este rivalul lui Omer!</a></h2>
+			</div>
+		</div>
+
+
+	
+																										
+		<div class="others-item clearfix theme-default">
+			<div class="thumb fl"><a href="/pate-euforic/a-inceput-prin-a-impaturi-un-erveel-in-jumatate-rezultatul-final-poate-fi-aezat-chiar-pe-masa-de-pate-id36641.html" target="_self"><img width="156" height="108" alt="" src="/uploads/modules/layout/custom/64/156x108_3x664ffc45fd9191fcbfaba7ecf15c1731.jpg"></a></div>
+			<div class="desc fr">
+				<div class="clearfix">
+				<a href="/pate-euforic/a-inceput-prin-a-impaturi-un-erveel-in-jumatate-rezultatul-final-poate-fi-aezat-chiar-pe-masa-de-pate-id36641.html" target="_self"><h3 class="fl label">TIPS & TRICKS</h3></a>
+								</div>
+				<h2><a href="/pate-euforic/a-inceput-prin-a-impaturi-un-erveel-in-jumatate-rezultatul-final-poate-fi-aezat-chiar-pe-masa-de-pate-id36641.html" target="_self">A început prin a împături un șervețel în jumătate! Rezultatul final poate fi așezat chiar pe masa de Paște!</a></h2>
+			</div>
+		</div>
+
+
+		</div>
+
+
+</div>		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Lifestyle & Celebrity</div>
+		<a class="more" href="http://euforia.tv/lifestyle/" target="_self">Citește mai mult... &raquo;</a>	</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/lifestyle/sunet-mai-bun-culori-mai-vii-contrast-mai-intens-vezi-filmele-ca-la-cinema-cu-noul-televizor-samsung-suhd-id36643.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F36643%2F142841678052f5dd19.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>LIFESTYLE</p>
+					<h2>
+						<a href="/lifestyle/sunet-mai-bun-culori-mai-vii-contrast-mai-intens-vezi-filmele-ca-la-cinema-cu-noul-televizor-samsung-suhd-id36643.html" target="_self"> Sunet mai bun, culori mai vii, contrast mai intens! Vezi filmele ca la cinema cu noile...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/lifestyle/formaia-abba-se-intoarce-uite-cum-arata-solitii-intro-noua-ipostaza-id36640.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F36640%2F1428400241d7b702ce.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>LIFESTYLE</p>
+					<h2>
+						<a href="/lifestyle/formaia-abba-se-intoarce-uite-cum-arata-solitii-intro-noua-ipostaza-id36640.html" target="_self"> Formația ABBA se întoarce! Uite cum arată soliștii într-o nouă ipostază!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/lifestyle/ana-maria-gheorghe-ne-dezvaluie-obiceiurile-sale-i-amintirile-din-copilarie-la-masa-de-pate-id36638.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F36638%2F1428399134e0dee22e.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>LIFESTYLE</p>
+					<h2>
+						<a href="/lifestyle/ana-maria-gheorghe-ne-dezvaluie-obiceiurile-sale-i-amintirile-din-copilarie-la-masa-de-pate-id36638.html" target="_self"> Ana Maria Gheorghe ne dezvăluie obiceiurile sale și amintirile din copilărie, la masa de Paște!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	<div class="banner-wide"><div style="margin:auto;text-align:center;">
+
+</div></div><div class="desp-20"></div>
+			<div class="auth-blogs clearfix"><div class="auth-item auth-cristina-popa"><div class="auth-id auth-cristina-popa"></div><div class="auth-pic"><a href="/autor/cristina-popa/"><img src="/templates/default/img/autori/auth-cristina-popa.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/fifistie" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="http://fifistie.ro/" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/cristina-popa/">Cristina Popa</a> | Producător TV</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/cristina-popa/">Cristina Popa &raquo; </a><h2>Fifi știe! Vezi ce spui</h2></div></div><div class="auth-story"><h3><a href="/euforisme/de-ce-iubesc-ploaia-i-zilele-de-luni-sunt-cele-mai-frumoase-id36618.html">De ce iubesc ploaia și zilele de luni sunt cele mai frumoase!</a></h3><p class="dataora">Luni, 06 Aprilie 2015</p><p class="story-text">La un moment dat aveam senzatia ca noi astia care iubim ploaia suntem puțini. Și nu-i deloc așa. De ce-o iubesc eu atât de tare? – e mai multă liniște , mai ales dacă plouă mai tare acoperă zgomotul de oras</p></div></div><div class="auth-item auth-andreea-berecleanu"><div class="auth-id auth-andreea-berecleanu"></div><div class="auth-pic"><a href="/autor/andreea-berecleanu/"><img src="/templates/default/img/autori/auth-andreea-berecleanu.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/AndreeaBerecleanu" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="http://www.esteticapremium.ro/" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/andreea-berecleanu/">Andreea Berecleanu</a> | Jurnalist</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/andreea-berecleanu/">Andreea Berecleanu &raquo; </a><h2>Think young and beautiful</h2></div></div><div class="auth-story"><h3><a href="/andreea-berecleanu-i-estetica-premium-recomanda/ozonoterapia-id36622.html">Suferiți de dureri lombare sau ale articulațiilor? Ozonoterapia, noul tratament ce promite să combată disconfortul!</a></h3><p class="dataora">Luni, 06 Aprilie 2015</p><p class="story-text">Medicina evoluează continuu, iar acest lucru nu poate fi decât benefic pentru oricine. Terapia cu ozon sau ozonoterapia este una dintre cele mai utile descoperiri, fiind ideală pentru ameliorarea durerilor</p></div></div><div class="auth-item auth-ela-craciun"><div class="auth-id auth-ela-craciun"></div><div class="auth-pic"><a href="/autor/ela-craciun/"><img src="/templates/default/img/autori/auth-ela-craciun.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/ela.craciun" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="http://www.elacraciun.ro" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/ela-craciun/">Ela Crăciun</a> | Jurnalist</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/ela-craciun/">Ela Crăciun &raquo; </a><h2>Simplu, frumos și bun</h2></div></div><div class="auth-story"><h3><a href="/euforisme/ce-faci-cand-ai-digestia-lenta-alimente-care-ne-ajuta-stomacul-i-colonul-id36376.html">Ce faci când ai digestia lentă? Alimente care ne ajută stomacul și colonul</a></h3><p class="dataora">Marti, 24 Martie 2015</p><p class="story-text">Problemele digestive sunt un loc comun al zilelor noastre. Cauza principală: stresul.
+Ce ne facem atunci când suntem balonați? Sau constipați? Varianta cea mai la îndemână o reprezintă ajustarea dietei.</p></div></div></div><div class="auth-blogs clearfix"><div class="auth-item auth-mihaela-calin"><div class="auth-id auth-mihaela-calin"></div><div class="auth-pic"><a href="/autor/mihaela-calin/"><img src="/templates/default/img/autori/auth-mihaela-calin.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/pages/Mihaela-Calin/269875413049318" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="/autor/mihaela-calin/" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/mihaela-calin/">Mihaela Călin</a> | Jurnalist</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/mihaela-calin/">Mihaela Călin &raquo; </a><h2>Carte pentru duminică</h2></div></div><div class="auth-story"><h3><a href="/euforisme/mihaela-calin-i-40-de-zile-o-carte-pentru-duminica-id36610.html">Mihaela Călin și “40 de zile”: o carte pentru duminică</a></h3><p class="dataora">Duminica, 05 Aprilie 2015</p><p class="story-text">Cartea 40 de zile mi-a prezentat-o chiar autoarea, Chris Simion, in platoul de la Observator. Mi-a povestit atunci ca este un roman care te face sa cobori mult in tine, asa ca o vreme cartea a stat pe noptiera, cuminte, asteptand vremea ei.</p></div></div><div class="auth-item auth-cristina-severin"><div class="auth-id auth-cristina-severin"></div><div class="auth-pic"><a href="/autor/cristina-severin/"><img src="/templates/default/img/autori/auth-cristina-severin.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/Cristina.Severin.Askenasy" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="/autor/cristina-severin/" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/cristina-severin/">Cristina Severin</a> | Jurnalist</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/cristina-severin/">Cristina Severin &raquo; </a><h2>Jurnalul lui Nichi</h2></div></div><div class="auth-story"><h3><a href="/euforisme/jurnalul-lui-nichi-cand-sa-nascut-nichita-una-dintre-primele-griji-ale-tatalui-meu-a-fost-acea-de-ai-insufla-dragostea-pentru-dinamo-id35173.html">"Una dintre primele griji ale tatălui meu a fost aceea de a-i insufla dragostea pentru Dinamo"</a></h3><p class="dataora">Duminica, 15 Martie 2015</p><p class="story-text">Printre primele vorbe pe care le-a spus feciorul meu au  fost celebrele versuri “Cine saleeee, este chineeee” (în traducere: “Cine sareeee, este caineeee!”)</p></div></div><div class="auth-item auth-marga-balan"><div class="auth-id auth-marga-balan"></div><div class="auth-pic"><a href="/autor/marga-balan/"><img src="/templates/default/img/autori/auth-marga-balan.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/scoaladepilates" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="http://scoaladepilates.ro/" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/marga-balan/">Marga Bălan</a> | Creator Școala de Pilates</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/marga-balan/">Marga Bălan &raquo; </a><h2>Live. Love. Pilates</h2></div></div><div class="auth-story"><h3><a href="/euforisme/ce-sunt-asanele-id36381.html">Ce sunt asanele?</a></h3><p class="dataora">Marti, 24 Martie 2015</p><p class="story-text">Ce înseamnă ASANA? Concept cheie din yoga, adus în cultura occidentală și devenit sinonim cu yoga. Tradus din sanscrită literal: arta de a sta nemișcat.</p></div></div></div><div class="auth-blogs clearfix"><div class="auth-item auth-mara-pruna"><div class="auth-id auth-mara-pruna"></div><div class="auth-pic"><a href="/autor/mara-pruna/"><img src="/templates/default/img/autori/auth-mara-pruna.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/mara.pruna" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="http://fashiongrinch.com/" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/mara-pruna/">Mara Prună</a> | Redactor Euforia.tv</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/mara-pruna/">Mara Prună &raquo; </a><h2>Fashion din condei</h2></div></div><div class="auth-story"><h3><a href="/euforisme/cine-este-hedi-slimane-id36193.html">L-a tăiat pe Yves din Saint Laurent și a mutat Parisul în Los Angeles! Cine este Hedi Slimane</a></h3><p class="dataora">Luni, 16 Martie 2015</p><p class="story-text">Hedi Slimane nu este un pustnic, nici vorbă - pe cât de mult se ferește de ziariști, pe atât de extrovert este în prezența muzicienilor și artiștilor! Controversat, Hedi nu oferă scuze sau explicații, taie în carne vie și duce couture-ul în stradă!</p></div></div><div class="auth-item auth-ioana-dinica"><div class="auth-id auth-ioana-dinica"></div><div class="auth-pic"><a href="/autor/ioana-dinica/"><img src="/templates/default/img/autori/auth-ioana-dinica.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/ioana.dinica" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="/autor/ioana-dinica/" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/ioana-dinica/">Ioana Dinică</a> | Day Dreamer</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/ioana-dinica/">Ioana Dinică &raquo; </a><h2>Afterhours</h2></div></div><div class="auth-story"><h3><a href="/euforisme/pe-strada-speranei-nr20-va-intalnii-cu-relaxarea-id36630.html">Pe strada Speranței, nr.20, vă întâlniți cu relaxarea</a></h3><p class="dataora">Luni, 06 Aprilie 2015</p><p class="story-text">Un șlagăr al Corinei Chiriac spune “Să-i amintiți vă rog frumos adresa/Când vă-ntâlniți cu fericirea/ Casa cu plopi strada Speranței la parter”. Nu știu dacă am găsit fericirea pe strada Speranței, însă cu siguranță am descoperit relaxarea completă. Belle Maison Spa este o oază de liniște, răsfăț pentru toate simțurile, într-un oraș prea agitat și aglomerat</p></div></div><div class="auth-item auth-florin-neby"><div class="auth-id auth-florin-neby"></div><div class="auth-pic"><a href="/autor/florin-neby/"><img src="/templates/default/img/autori/auth-florin-neby.png"></a></div><div class="auth_fb"><a href="https://www.facebook.com/florinnebyconcept" target="_blank"><img src="/templates/default/img/autori/link-facebook.png"></a></div><div class="auth_blog"><a href="http://www.neby.ro/" target="_blank"><img src="/templates/default/img/autori/link_blog.png"></a></div><div class="nume_auth"><a href="/autor/florin-neby/">Florin Neby</a> | Antrenor personal de fitness</div><div class="clearfix"><div class="auth-more"><a style="visibility:hidden" href="/autor/florin-neby/">Florin Neby &raquo; </a><h2>FIT not FAT!</h2></div></div><div class="auth-story"><h3><a href="/euforisme/alimente-care-nu-ingraa-id35778.html">Alimente care nu îngrașă</a></h3><p class="dataora">Joi, 26 Martie 2015</p><p class="story-text">Aproape toate alimentele duc la acumularea kilogramelor atunci când sunt consumate în cantităţi mari. Cele foarte sărace în calorii conţin multă apă, însă au şi calităţi nutriţionale. Fructele, legumele, produsele lactate şi lichidele îţi oferă saţietate chiar dacă mănânci mai puţin. În plus, acestea hidratează foarte bine organismul, fiind recomandate mai ales în timpul verii</p></div></div></div>		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Legea pământului</div>
+		<a class="more" href="http://euforia.tv/legea-pamantului/" target="_self">Citește mai mult... &raquo;</a>	</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/legea-pamantului/transformate-intro-frumusee-orientala-vei-avea-o-privire-care-intoarce-capetele-id36636.html" target="_self"><img width="296" height="148" alt="" src="http://img.youtube.com/vi/SF9vDmHcFRY/0.jpg"></a>
+								<div>
+					<p>LEGEA PăMâNTULUI</p>
+					<h2>
+						<a href="/legea-pamantului/transformate-intro-frumusee-orientala-vei-avea-o-privire-care-intoarce-capetele-id36636.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> Transformă-te într-o frumusețe ORIENTALĂ! Vei avea o PRIVIRE care întoarce capetele!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/legea-pamantului/poi-sal-recunoti-era-cel-mai-dulce-baiat-in-copilarie-astazi-este-rivalul-lui-omer-id36635.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F36635%2F1428390574fb6871cc.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>LEGEA PăMâNTULUI</p>
+					<h2>
+						<a href="/legea-pamantului/poi-sal-recunoti-era-cel-mai-dulce-baiat-in-copilarie-astazi-este-rivalul-lui-omer-id36635.html" target="_self"> Poți să-l recunoști? Era cel mai dulce băiat, în copilărie, astăzi este rivalul lui Omer!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/legea-pamantului/rolurile-se-inverseaza-in-primul-episod-leyla-a-fost-salvatoarea-lui-omer-id36627.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36627%2F1428340894919dff76.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>LEGEA PăMâNTULUI</p>
+					<h2>
+						<a href="/legea-pamantului/rolurile-se-inverseaza-in-primul-episod-leyla-a-fost-salvatoarea-lui-omer-id36627.html" target="_self"> Rolurile se inversează! În primul episod din „Legea pământului”, Leyla îl salvează pe...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Paște Euforic</div>
+		<a class="more" href="http://euforia.tv/pate-euforic/" target="_self">Citește mai mult... &raquo;</a>	</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/pate-euforic/pregatetete-de-sarbatoare-cele-mai-utile-sfaturi-pentru-masa-de-pate-id36639.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F36639%2F1428399770029f8c9f.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>PAșTE EUFORIC</p>
+					<h2>
+						<a href="/pate-euforic/pregatetete-de-sarbatoare-cele-mai-utile-sfaturi-pentru-masa-de-pate-id36639.html" target="_self"> Pregătește-te de sărbătoare! Cele mai UTILE sfaturi pentru masa de Paște</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/pate-euforic/clipul-vizualizat-de-o-lume-intreaga-cum-sa-incondeiezi-ouale-ca-in-bucovina-id36625.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36625%2F1428338453f74be9ae.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>PAșTE EUFORIC</p>
+					<h2>
+						<a href="/pate-euforic/clipul-vizualizat-de-o-lume-intreaga-cum-sa-incondeiezi-ouale-ca-in-bucovina-id36625.html" target="_self"> Clipul urmărit de o lume întreagă! Cum să încondeiezi ouăle ca în Bucovina</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/pate-euforic/traditii-si-obiceiuri-in-saptamana-mare-ce-e-bine-sa-faci-si-ce-e-interzis-in-aceasta-perioada-id36616.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36616%2F14282998038a9a8dcb.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>PAșTE EUFORIC</p>
+					<h2>
+						<a href="/pate-euforic/traditii-si-obiceiuri-in-saptamana-mare-ce-e-bine-sa-faci-si-ce-e-interzis-in-aceasta-perioada-id36616.html" target="_self"> Tradiţii şi obiceiuri în Săptămâna Mare! Ce e bine să faci şi ce e INTERZIS în această...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">TIPS & TRICKS </div>
+		<a class="more" href="http://euforia.tv/tips-tricks/" target="_self">Citește mai mult... &raquo;</a>	</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/tips-tricks/a-inceput-prin-a-impaturi-un-erveel-in-jumatate-rezultatul-final-poate-fi-aezat-chiar-pe-masa-de-pate-id36641.html" target="_self"><img width="296" height="148" alt="" src="http://img.youtube.com/vi/AnyuhIicC1M/0.jpg"></a>
+								<div>
+					<p>TIPS & TRICKS</p>
+					<h2>
+						<a href="/tips-tricks/a-inceput-prin-a-impaturi-un-erveel-in-jumatate-rezultatul-final-poate-fi-aezat-chiar-pe-masa-de-pate-id36641.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> A început prin a împături un șervețel în jumătate! Rezultatul final poate fi așezat chiar...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/tips-tricks/video-ingenios-cum-sa-faci-omleta-fara-sa-spargi-coaja-de-ou-id36612.html" target="_self"><img width="296" height="148" alt="" src="http://img.youtube.com/vi/aazP6zvJmiQ/0.jpg"></a>
+								<div>
+					<p>TIPS & TRICKS</p>
+					<h2>
+						<a href="/tips-tricks/video-ingenios-cum-sa-faci-omleta-fara-sa-spargi-coaja-de-ou-id36612.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> VIDEO INGENIOS: Cum să faci OMLETĂ fără să spargi coaja de OU</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/tips-tricks/vor-iei-mai-frumoase-decat-in-magazine-cum-sa-ii-faci-singura-fee-de-perna-in-3-pai-simpli-id36592.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F4%2F36592%2F1428137179dc036985.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>TIPS & TRICKS</p>
+					<h2>
+						<a href="/tips-tricks/vor-iei-mai-frumoase-decat-in-magazine-cum-sa-ii-faci-singura-fee-de-perna-in-3-pai-simpli-id36592.html" target="_self"> Vor ieși mai frumoase decât în magazine! Cum să îți faci SINGURĂ fețe de pernă în 3...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Beauty</div>
+		<a class="more" href="http://euforia.tv/beauty/" target="_self"> Citește mai mult... &raquo;</a>	</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/beauty/cum-sa-ai-buze-perfecte-5-trucuri-geniale-cu-i-despre-ruj-galerie-foto-id36603.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F5%2F36603%2F14282213373e6aa93b.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>BEAUTY</p>
+					<h2>
+						<a href="/beauty/cum-sa-ai-buze-perfecte-5-trucuri-geniale-cu-i-despre-ruj-galerie-foto-id36603.html" target="_self"> Cum să ai buze perfecte – 5 trucuri geniale cu și despre ruj (GALERIE FOTO)</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/beauty/cum-sa-scapi-de-varfurile-despicate-fara-sa-te-tunzi-id36569.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F2%2F36569%2F1427986864632113c1.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>BEAUTY</p>
+					<h2>
+						<a href="/beauty/cum-sa-scapi-de-varfurile-despicate-fara-sa-te-tunzi-id36569.html" target="_self"> Cum să scapi de vârfurile despicate FĂRĂ să te tunzi</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/beauty/nu-trebuie-sa-fii-trendy-ci-sa-arai-bine-cel-mai-important-lucru-de-care-trebuie-sa-ii-cont-cand-te-machiezi-id36559.html" target="_self"><img width="296" height="148" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=UfPwqeDIdJo&width=296&height=148"></a>
+								<div>
+					<p>BEAUTY</p>
+					<h2>
+						<a href="/beauty/nu-trebuie-sa-fii-trendy-ci-sa-arai-bine-cel-mai-important-lucru-de-care-trebuie-sa-ii-cont-cand-te-machiezi-id36559.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> Nu trebuie să fii trendy, ci să arăți bine! Cel mai important lucru de care trebuie să ții...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Andreea Berecleanu și Estetica Premium recomandă...</div>
+		<a class="more" href="http://www.euforia.tv/andreea-berecleanu-i-estetica-premium-recomanda/" target="_blank">Citește mai mult... &raquo;</a>	</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/andreea-berecleanu-i-estetica-premium-recomanda/ozonoterapia-id36622.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36622%2F1428312218efd6f205.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>ANDREEA BERECLEANU șI ESTETICA PREMIUM RECOMANDă...</p>
+					<h2>
+						<a href="/andreea-berecleanu-i-estetica-premium-recomanda/ozonoterapia-id36622.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> Suferiți de dureri lombare sau ale articulațiilor? Ozonoterapia, noul tratament ce promite să...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/andreea-berecleanu-i-estetica-premium-recomanda/eti-nemulumita-de-modul-in-care-arata-sanii-tai-specialitii-au-descoperit-soluia-ideala-id36532.html" target="_self"><img width="296" height="148" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=IhYSFc5j1ZZ&width=296&height=148"></a>
+								<div>
+					<p>ANDREEA BERECLEANU șI ESTETICA PREMIUM RECOMANDă...</p>
+					<h2>
+						<a href="/andreea-berecleanu-i-estetica-premium-recomanda/eti-nemulumita-de-modul-in-care-arata-sanii-tai-specialitii-au-descoperit-soluia-ideala-id36532.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> Ești nemulțumită de modul în care arată sânii tăi? Specialiștii au descoperit soluția...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/andreea-berecleanu-i-estetica-premium-recomanda/bruxismul-cauze-i-remedii-id36528.html" target="_self"><img width="296" height="148" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=TaeO15A9ni1&width=296&height=148"></a>
+								<div>
+					<p>ANDREEA BERECLEANU șI ESTETICA PREMIUM RECOMANDă...</p>
+					<h2>
+						<a href="/andreea-berecleanu-i-estetica-premium-recomanda/bruxismul-cauze-i-remedii-id36528.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> Afecțiuni dentare: Bruxismul, cauze și remedii</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Trends by Euforia</div>
+		<a class="more" href="http://euforia.tv/trends-by-euforia/" target="_self"> Citește mai mult... &raquo;</a>	</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/trends-by-euforia/te-casatoreti-la-sfaritul-anului-alege-o-rochie-de-mireasa-in-tendine-id36642.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F36642%2F1428416061950deeb8.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>TRENDS BY EUFORIA</p>
+					<h2>
+						<a href="/trends-by-euforia/te-casatoreti-la-sfaritul-anului-alege-o-rochie-de-mireasa-in-tendine-id36642.html" target="_self"> Te căsătorești la sfârșitul anului? Alege o rochie de mireasă în tendințe!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/trends-by-euforia/ai-o-petrecere-diseara-dar-vrei-sa-mergi-confortabil-la-birou-aceti-pantofi-ii-modifica-tocurile-dupa-nevoile-tale-id36578.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F3%2F36578%2F142806216100574239.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>TRENDS BY EUFORIA</p>
+					<h2>
+						<a href="/trends-by-euforia/ai-o-petrecere-diseara-dar-vrei-sa-mergi-confortabil-la-birou-aceti-pantofi-ii-modifica-tocurile-dupa-nevoile-tale-id36578.html" target="_self"> Ai o petrecere diseară dar vrei să mergi confortabil la birou? Acești pantofi își modifică...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/trends-by-euforia/video-inspiraional-palarii-memorabile-purtate-de-regina-elisabeta-a-iia-dea-lungul-timpului-id36542.html" target="_self"><img width="296" height="148" alt="" src="http://img.youtube.com/vi/c6My5EJ9Ix8/0.jpg"></a>
+								<div>
+					<p>TRENDS BY EUFORIA</p>
+					<h2>
+						<a href="/trends-by-euforia/video-inspiraional-palarii-memorabile-purtate-de-regina-elisabeta-a-iia-dea-lungul-timpului-id36542.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> VIDEO inspirațional: Pălării memorabile purtate de Regina Elisabeta a II-a de-a lungul timpului</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+	
+		
+		<div class="columns clearfix">
+			<div class="col-c1 fl">
+									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/funny/video-wow-aceti-copii-danseaza-salsa-mai-inflacarat-ca-doi-indragostii-asta-da-pasiune-id36628.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36628%2F14283422937cd60c2c.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">FUNNY</div></div>
+				<h2><a href="/funny/video-wow-aceti-copii-danseaza-salsa-mai-inflacarat-ca-doi-indragostii-asta-da-pasiune-id36628.html" target="_self">VIDEO! Wow! Acești copii dansează SALSA mai înflăcărat ca doi îndrăgostiți! Asta da pasiune!</a></h2>
+								<p>Dansurile sportive se învață din fragedă pruncie. Nu doar pentru că în copilărie îți este mai ușor să memorezi pașii, dar și pentru că ai nevoie de o viață de practică intensă pentru a ajunge profesionist. Acești copii demonstrează, însă, că ei sunt de mult în liga mare!</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/funny/video-acum-60-de-ani-femeile-tiau-sa-puna-barbaii-cu-botul-pe-labe-uite-ce-le-faceau-id36626.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36626%2F1428339527e65671e8.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/funny/video-acum-60-de-ani-femeile-tiau-sa-puna-barbaii-cu-botul-pe-labe-uite-ce-le-faceau-id36626.html" target="_self">VIDEO: Acum 60 de ani, femeile știau să pună bărbații cu botul pe labe! Uite ce le făceau!</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/funny/a-folosit-un-simplu-cuit-pentru-a-realiza-ceva-spectaculos-id36621.html" target="_self"><img width="190" height="131" alt="" src="http://img.youtube.com/vi/oQfeCrU-7LA/0.jpg"></a></div>
+						<h2><a href="/funny/a-folosit-un-simplu-cuit-pentru-a-realiza-ceva-spectaculos-id36621.html" target="_self">A folosit un SIMPLU cuțit pentru a realiza ceva SPECTACULOS!</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/funny/nu-se-poate-opri-din-ras-in-timpul-propriei-nuni-uite-ce-a-determinato-sa-reacioneze-aa-id36615.html" target="_self"><img width="190" height="131" alt="" src="http://img.youtube.com/vi/dV2BfjkP6fU/0.jpg"></a></div>
+						<h2><a href="/funny/nu-se-poate-opri-din-ras-in-timpul-propriei-nuni-uite-ce-a-determinato-sa-reacioneze-aa-id36615.html" target="_self">Nu se poate opri din RÂS în timpul propriei nunți! Uite ce a determinat-o să reacționeze așa!</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/lifestyle/balanele-asculta-de-propria-intuiie-iar-sagetatorii-trebuie-sa-se-gandeasca-inainte-de-a-lua-o-decizie-id36634.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F36634%2F1428389311ff8bf4d1.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">LIFESTYLE</div></div>
+				<h2><a href="/lifestyle/balanele-asculta-de-propria-intuiie-iar-sagetatorii-trebuie-sa-se-gandeasca-inainte-de-a-lua-o-decizie-id36634.html" target="_self">Balanțele ascultă de propria intuiție iar săgetătorii trebuie să se gândească înainte de a lua o decizie!</a></h2>
+								<p>Află ce îți rezervă astăzi astrele!</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/lifestyle/berbecii-trebuie-sa-fie-chibzuii-in-timp-ce-scorpionii-sunt-nevoii-sa-aiba-grija-de-starea-lor-de-sanatate-id36614.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36614%2F14282990262e350eee.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/lifestyle/berbecii-trebuie-sa-fie-chibzuii-in-timp-ce-scorpionii-sunt-nevoii-sa-aiba-grija-de-starea-lor-de-sanatate-id36614.html" target="_self">Berbecii trebuie să fie chibzuiți în timp ce scorpionii sunt nevoiți să aibă grijă de...</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/lifestyle/horoscop-cum-sa-te-faci-remarcata-in-ochii-barbailor-in-funcie-de-zodia-ta-id36595.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F4%2F36595%2F14281487881d328938.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/lifestyle/horoscop-cum-sa-te-faci-remarcata-in-ochii-barbailor-in-funcie-de-zodia-ta-id36595.html" target="_self">HOROSCOP: Cum să te faci remarcată în ochii bărbaților, în funcție de zodie</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/lifestyle/numerologie-afla-ce-spune-data-naterii-despre-tine-id36591.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F4%2F36591%2F14281360353028d4fa.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/lifestyle/numerologie-afla-ce-spune-data-naterii-despre-tine-id36591.html" target="_self">Numerologie: Află ce spune data nașterii despre tine</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/istoria-in-farfurie/descopera-bucatariile-lumii-chef-yumbi-ne-prezinta-gastronomia-congoleza-id36521.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F1%2F36521%2F142786745843d506f1.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">ISTORIA îN FARFURIE</div></div>
+				<h2><a href="/istoria-in-farfurie/descopera-bucatariile-lumii-chef-yumbi-ne-prezinta-gastronomia-congoleza-id36521.html" target="_self">Descoperă bucătăriile lumii! Chef Yumbi ne prezintă gastronomia congoleză</a></h2>
+								<p>"Ceea ce contează pentru mine este plăcerea clienților atunci când gustă, de exemplu, o mâncare din legume crocante", spune chef Yumbi, potrivit Agerpres, care lucrează în bucătăria deschisă larg privirilor din restaurantul său 'Re-Source' din Kinshasa</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/istoria-in-farfurie/painea-i-berea-cele-mai-importante-alimente-din-meniul-egiptenilor-afla-istoria-preparatelor-lor-id36103.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F12%2F36103%2F1426164993e805e448.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/istoria-in-farfurie/painea-i-berea-cele-mai-importante-alimente-din-meniul-egiptenilor-afla-istoria-preparatelor-lor-id36103.html" target="_self">Pâinea și berea, cele mai importante alimente din meniul egiptenilor. Află istoria...</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/istoria-in-farfurie/curata-naturala-cum-o-faceau-maicuele-reeta-secreta-a-dulceii-din-fructe-de-soc-id36060.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F11%2F36060%2F14260626782c92e4e8.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/istoria-in-farfurie/curata-naturala-cum-o-faceau-maicuele-reeta-secreta-a-dulceii-din-fructe-de-soc-id36060.html" target="_self">Curată, naturală, cum o făceau măicuțele! Rețeta SECRETĂ a dulceții din fructe de soc</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/istoria-in-farfurie/aa-obinuiau-sa-o-bea-strabunii-tai-cafeaua-marghiloman-id36059.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F11%2F36059%2F142606193724f79917.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/istoria-in-farfurie/aa-obinuiau-sa-o-bea-strabunii-tai-cafeaua-marghiloman-id36059.html" target="_self">Așa obișnuiau să o bea străbunii tăi! Cafeaua Marghiloman</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/downton-abbey/downton-abbey-devine-din-ce-in-ce-mai-interesant-catigatoarea-a-2-oscaruri-i-3-globuri-de-aur-vrea-sa-joace-in-serial-id36254.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F18%2F36254%2F1426710365be7a34ab.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">DOWNTON ABBEY</div></div>
+				<h2><a href="/downton-abbey/downton-abbey-devine-din-ce-in-ce-mai-interesant-catigatoarea-a-2-oscaruri-i-3-globuri-de-aur-vrea-sa-joace-in-serial-id36254.html" target="_self">Downton Abbey devine din ce în ce mai interesant! Câștigătoarea a 2 Oscaruri și 3 Globuri de Aur vrea să joace în serial!</a></h2>
+								<p>Din ce în ce mai mulți actori cu renume internațional devin dependenți de drama britanică difuzată de Euforia TV lunea, de la 23.00, Downton Abbey. După apariția lui George Clooney într-un episod special, o altă actriță extrem de apreciată și-a exprimat dorința de a avea un rol!</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/downton-abbey/din-intelepciunile-contesei-maggie-smith-celebrul-personaj-al-serialului-downton-abbey-id36178.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F16%2F36178%2F1426515041e779ee83.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/downton-abbey/din-intelepciunile-contesei-maggie-smith-celebrul-personaj-al-serialului-downton-abbey-id36178.html" target="_self">Din înţelepciunile contesei Maggie Smith, celebrul personaj al serialului Downton Abbey</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/downton-abbey/nu-pierde-ultimul-episod-din-downton-abbey-id36162.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F15%2F36162%2F142645342303c88f80.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/downton-abbey/nu-pierde-ultimul-episod-din-downton-abbey-id36162.html" target="_self">Nu pierde ultimul episod din Downton Abbey!</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/downton-abbey/ducesa-kate-in-vizita-la-studiourile-unde-se-filmeaza-serialul-downton-abbey-id36115.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F13%2F36115%2F14262285045ad9b49c.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/downton-abbey/ducesa-kate-in-vizita-la-studiourile-unde-se-filmeaza-serialul-downton-abbey-id36115.html" target="_self">Ducesa Kate, în vizită la studiourile unde se filmează serialul Downton Abbey</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/cuisine/retete/prepara-o-pasca-delicioasa-simplu-i-rapid-id36637.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F36637%2F142839503928a6412e.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">RETETE</div></div>
+				<h2><a href="/cuisine/retete/prepara-o-pasca-delicioasa-simplu-i-rapid-id36637.html" target="_self">Prepară o PASCĂ DELICIOASĂ, simplu și rapid!</a></h2>
+								<p>Citește modul de preparare AICI</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/cuisine/retete/trebuie-so-faci-macar-o-data-in-viaa-prajitura-gemi-instant-id36536.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F1%2F36536%2F1427889236fa04ad3a.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/cuisine/retete/trebuie-so-faci-macar-o-data-in-viaa-prajitura-gemi-instant-id36536.html" target="_self">Trebuie s-o faci măcar o dată în viață! Prăjitura GEM(i) INSTANT!</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/cuisine/retete/gustul-copilariei-tort-de-casa-id36510.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F31%2F36510%2F142781256596a961a6.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/cuisine/retete/gustul-copilariei-tort-de-casa-id36510.html" target="_self">Gustul copilăriei! Tort de casă</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/cuisine/invaa-sa-prepari-o-ciocolata-de-post-absolut-delicioasa-in-doar-5-minute-id36459.html" target="_self"><img width="190" height="131" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=MhMODat2ZJe&width=190&height=131"></a></div>
+						<h2><a href="/cuisine/invaa-sa-prepari-o-ciocolata-de-post-absolut-delicioasa-in-doar-5-minute-id36459.html" target="_self">Învață să prepari o ciocolată DE POST absolut DELICIOASĂ în doar 5 minute!</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/prodanca-si-reghe/anamaria-prodan-ultimul-interviu-inainte-de-plecarea-in-dubai-e-normal-sa-imi-acopar-chipul-este-o-forma-de-respect-id34341.html" target="_self"><img width="280" height="195" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=VcnD3Jq994o&width=280&height=195"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">PRODANCA SI REGHE</div></div>
+				<h2><a href="/prodanca-si-reghe/anamaria-prodan-ultimul-interviu-inainte-de-plecarea-in-dubai-e-normal-sa-imi-acopar-chipul-este-o-forma-de-respect-id34341.html" target="_self">Anamaria Prodan, ultimul interviu înainte de plecarea în Dubai: “E normal să îmi acopăr chipul, este o formă de respect”</a></h2>
+								<p>Cu două zile înainte de plecarea în Dubai, Anamaria Prodan a acordat ultimul interviu în România în cadrul emisiunii de televiziune Agentul VIP.</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/prodanca-si-reghe/metoda-geniala-prin-care-anamaria-prodan-ii-pacalete-mama-la-cumparaturi-id34340.html" target="_self"><img width="190" height="131" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=UnsYxo2jXmB&width=190&height=131"></a></div>
+						<h2><a href="/prodanca-si-reghe/metoda-geniala-prin-care-anamaria-prodan-ii-pacalete-mama-la-cumparaturi-id34340.html" target="_self">Metoda genială prin care Anamaria Prodan își păcălește mama la cumpărături</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/prodanca-si-reghe/wow-e-impresionant-uite-ce-cadou-ia-facut-anamaria-prodan-mamei-sale-id34339.html" target="_self"><img width="190" height="131" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=NNxRMwEcNqx&width=190&height=131"></a></div>
+						<h2><a href="/prodanca-si-reghe/wow-e-impresionant-uite-ce-cadou-ia-facut-anamaria-prodan-mamei-sale-id34339.html" target="_self">WOW! E impresionant! Uite ce cadou i-a făcut Anamaria Prodan mamei sale</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/prodanca-si-reghe/aa-distracie-mai-rar-sarah-are-parte-de-o-petrecere-cu-spuma-id34228.html" target="_self"><img width="190" height="131" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=naFYgLmMTuA&width=190&height=131"></a></div>
+						<h2><a href="/prodanca-si-reghe/aa-distracie-mai-rar-sarah-are-parte-de-o-petrecere-cu-spuma-id34228.html" target="_self">Așa distracție mai rar! Sarah are parte de o petrecere cu spumă</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/sanatate/ai-nevoie-de-ea-bautura-secreta-a-lui-dr-oz-pentru-un-trup-perfect-gata-de-plaja-id36563.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F2%2F36563%2F142798080533bc3fc7.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">SăNăTATE</div></div>
+				<h2><a href="/sanatate/ai-nevoie-de-ea-bautura-secreta-a-lui-dr-oz-pentru-un-trup-perfect-gata-de-plaja-id36563.html" target="_self">Ai nevoie de ea! Băutura secretă a lui Dr. Oz pentru un trup perfect, gata de plajă!</a></h2>
+								<p>În 2 luni se deschide sezonul estival! Vrei să arăți perfect dar întotdeauna e mai ușor de dorit decât de făcut. Dr. Oz are un plan de bătaie însă - băutura lui secretă îți detoxifiază organismul, te energizează și, mai mult, te ajută să slăbești!</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/sanatate/te-lupi-zilnic-cu-digestia-lenta-3-trucuri-ca-so-pui-in-micare-cat-ai-zice-pete-id36483.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F30%2F36483%2F14277180048b0b6289.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/sanatate/te-lupi-zilnic-cu-digestia-lenta-3-trucuri-ca-so-pui-in-micare-cat-ai-zice-pete-id36483.html" target="_self">Te lupți zilnic cu digestia lentă? 3 trucuri ca s-o pui în mișcare cât ai zice pește!</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/sanatate/kilogramele-nu-mai-sunt-o-problema-slabeti-5-kg-pe-saptamana-cu-dieta-magica-a-lui-dr-oz-id36393.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F25%2F36393%2F1427280291b80cde63.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/sanatate/kilogramele-nu-mai-sunt-o-problema-slabeti-5-kg-pe-saptamana-cu-dieta-magica-a-lui-dr-oz-id36393.html" target="_self">Kilogramele nu mai sunt o problemă! SLĂBEȘTI 5 KG pe săptămână cu DIETA MAGICĂ a lui Dr. OZ!</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/sanatate/nu-e-de-joaca-cu-somniferele-cand-trebuie-sa-le-iei-ca-sa-nu-ajungi-dependenta-de-ele-id33382.html" target="_self"><img width="190" height="131" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=d7QV6o3lf0C&width=190&height=131"></a></div>
+						<h2><a href="/sanatate/nu-e-de-joaca-cu-somniferele-cand-trebuie-sa-le-iei-ca-sa-nu-ajungi-dependenta-de-ele-id33382.html" target="_self">Nu e de joacă cu somniferele! Când trebuie să le iei ca să nu ajungi dependentă de ele</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/sanatate/ai-vase-de-sange-vizibile-pe-chip-couri-i-ochi-iritai-uite-cu-ce-afeciune-te-confruni-i-cum-o-poi-trata-id36632.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36632%2F142835148044010338.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">SăNăTATE</div></div>
+				<h2><a href="/sanatate/ai-vase-de-sange-vizibile-pe-chip-couri-i-ochi-iritai-uite-cu-ce-afeciune-te-confruni-i-cum-o-poi-trata-id36632.html" target="_self">Ai vase de sânge vizibile pe chip, coșuri și ochi iritați? Uite cu ce afecțiune te confrunți și cum o poți trata!</a></h2>
+								<p>Tenul tău este roşu şi iritat, ai coșuri, iar vasele de sânge de pe pomeţi, nas şi bărbie sunt dilatate şi evidente. Problemele se amplifică atunci când tenul este expus la ger, la vânt, la efort fizic intens, băi fierbinţi -sună cunoscut?</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/sanatate/curaa-rinichii-i-elimina-calculii-bautura-miraculoasa-de-care-ai-nevoie-id36631.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36631%2F142834903789e7c9fb.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/sanatate/curaa-rinichii-i-elimina-calculii-bautura-miraculoasa-de-care-ai-nevoie-id36631.html" target="_self">Curăță rinichii și elimină calculii! Băutura miraculoasă de care ai nevoie</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/sanatate/ce-se-intampla-in-corpul-tau-atunci-cand-bei-apa-caldua-cu-miere-pe-stomacul-gol-rezultate-imediate-id36601.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F4%2F36601%2F142818032144e7bc06.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/sanatate/ce-se-intampla-in-corpul-tau-atunci-cand-bei-apa-caldua-cu-miere-pe-stomacul-gol-rezultate-imediate-id36601.html" target="_self">Ce se întâmplă în corpul tău atunci când bei apă călduță cu miere pe stomacul gol!...</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/sanatate/mare-atenie-ce-se-intampla-daca-bei-cafea-pe-stomacul-gol-id36593.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F4%2F36593%2F142813774570871fc3.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/sanatate/mare-atenie-ce-se-intampla-daca-bei-cafea-pe-stomacul-gol-id36593.html" target="_self">Mare atenție! Ce se întâmplă dacă bei cafea pe stomacul gol</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/totul-despre-sex/inute-oribile-pe-care-miranda-a-avut-ghinionul-sa-le-poarte-in-sex-and-the-city-id34244.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2014%2F12%2F16%2F34244%2F14187328185427c7b2.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">TOTUL DESPRE SEX</div></div>
+				<h2><a href="/totul-despre-sex/inute-oribile-pe-care-miranda-a-avut-ghinionul-sa-le-poarte-in-sex-and-the-city-id34244.html" target="_self">7 ținute oribile pe care Miranda a avut ghinionul să le poarte în Sex and the City</a></h2>
+								<p>În primele sezoane, Miranda a fost cea mai neinspirată când venea vorba de fashion. Băiețoasă și convinsă că inteligența este mai importantă decât aspectul exterior, roșcata refuza să poarte haine prea sexy sau trendy...</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/totul-despre-sex/sarah-jessica-parker-pe-urmele-lui-carrie-noua-colecie-de-pantofi-a-fost-fotografiata-in-cel-mai-memorabil-loc-din-satc-id32872.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2014%2F10%2F22%2F32872%2F141399035925c98b5a.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/totul-despre-sex/sarah-jessica-parker-pe-urmele-lui-carrie-noua-colecie-de-pantofi-a-fost-fotografiata-in-cel-mai-memorabil-loc-din-satc-id32872.html" target="_self">Sarah Jessica Parker s-a întors în cel mai memorabil loc din SATC pentru o ședință foto......</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/totul-despre-sex/totul-despre-sex-ar-putea-avea-o-continuare-partea-a-treia-a-filmului-este-in-discuie-id32439.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2014%2F10%2F3%2F32439%2F141235734061d9d786.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/totul-despre-sex/totul-despre-sex-ar-putea-avea-o-continuare-partea-a-treia-a-filmului-este-in-discuie-id32439.html" target="_self">"Totul despre sex" ar putea avea o continuare! Partea a treia a filmului este în discuție!</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/totul-despre-sex/carrie-bradshaw-a-uimit-o-lume-intreaga-iata-cele-mai-indragite-inute-pe-care-lea-purtat-in-serial-id32354.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2014%2F9%2F30%2F32354%2F1412101157e19debca.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/totul-despre-sex/carrie-bradshaw-a-uimit-o-lume-intreaga-iata-cele-mai-indragite-inute-pe-care-lea-purtat-in-serial-id32354.html" target="_self">Carrie Bradshaw a uimit o lume întreagă! Iată cele mai îndrăgite ținute pe care le-a purtat...</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-sport">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/medici-in-santa-monica-v-lj-ora-2200/episodul-13-ne-luam-ramas-bun-id31797.html" target="_self"><img width="280" height="195" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2014%2F9%2F10%2F31797%2F1410370693e5892675.jpg&w=280&h=195&c=1"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">MEDICI îN SANTA MONICA V, L-J, ORA 22:00</div></div>
+				<h2><a href="/medici-in-santa-monica-v-lj-ora-2200/episodul-13-ne-luam-ramas-bun-id31797.html" target="_self">Episodul 13 - E timpul să ne luăm rămas bun!</a></h2>
+								<p>Addison și Jake se căsătoresc. Sam și Naomi au parte de o seară de amor la nuntă. După trei luni, Cooper încearcă să se descurce cu viața sa de tată, dar după ce vede că nu mai poate dormi o convinge pe Charlotte să angajeze o dădacă</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/medici-in-santa-monica-v-lj-ora-2200/episodul-12-jake-o-cere-in-casatorie-pe-addison-iar-charlotte-stabilete-numele-tripleilor-id31735.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2014%2F9%2F9%2F31735%2F1410281152423718ab.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/medici-in-santa-monica-v-lj-ora-2200/episodul-12-jake-o-cere-in-casatorie-pe-addison-iar-charlotte-stabilete-numele-tripleilor-id31735.html" target="_self">Episodul 12 - Jake o cere în căsătorie pe Addison, iar Charlotte stabilește numele tripleților</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/medici-in-santa-monica-v-lj-ora-2200/episodul-11-amelia-nu-se-poate-decide-este-sau-nu-este-indragostita-de-james-id31702.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2014%2F9%2F8%2F31702%2F1410194673fe8c9844.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/medici-in-santa-monica-v-lj-ora-2200/episodul-11-amelia-nu-se-poate-decide-este-sau-nu-este-indragostita-de-james-id31702.html" target="_self">Episodul 11- Amelia nu se poate decide! Este sau nu este îndrăgostită de James?</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/medici-in-santa-monica-v-lj-ora-2200/episodul-10-charlotte-este-mamica-de-triplei-id31598.html" target="_self"><img width="190" height="131" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2014%2F9%2F4%2F31598%2F1409831780f45ad443.jpg&w=190&h=131&c=1"></a></div>
+						<h2><a href="/medici-in-santa-monica-v-lj-ora-2200/episodul-10-charlotte-este-mamica-de-triplei-id31598.html" target="_self">Episodul 10 - Charlotte este mămică de tripleți!</a></h2>
+		</div>
+
+		</div>
+	
+</div>					<div class="col-desp"></div>									
+<div class="cas-1-3 hi-muzica">
+																											
+		<div class="big-item clearfix">
+			<div class="big-thumb fl"><a href="/zeia-mirodeniilor/tofu-pe-gratar-id28910.html" target="_self"><img width="280" height="195" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=0FsqqTFlNyP&width=280&height=195"></a></div>
+			<div class="big-brief fr clearfix">
+				<div class="clearfix"><div class="label fl">ZEIȚA MIRODENIILOR</div></div>
+				<h2><a href="/zeia-mirodeniilor/tofu-pe-gratar-id28910.html" target="_self">Tofu pe grătar</a></h2>
+								<p>Zeița mirodeniilor a pregătit cele mai savuroase rețete indiene</p>
+			</div>
+		</div>
+
+
+	
+																											
+				
+				
+		<div class="desp-25"></div><div class="clearfix">
+				<div class="news-item fl">
+			<div><a href="/zeia-mirodeniilor/somon-proaspat-la-gratar-id28909.html" target="_self"><img width="190" height="131" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=IUwqTxVunIj&width=190&height=131"></a></div>
+						<h2><a href="/zeia-mirodeniilor/somon-proaspat-la-gratar-id28909.html" target="_self">Somon proaspăt la grătar</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/zeia-mirodeniilor/sos-delicios-de-mango-id28908.html" target="_self"><img width="190" height="131" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=rBIpA51iv26&width=190&height=131"></a></div>
+						<h2><a href="/zeia-mirodeniilor/sos-delicios-de-mango-id28908.html" target="_self">Sos delicios de mango</a></h2>
+		</div>
+
+		
+																											
+				
+				
+		
+				<div class="news-item fl">
+			<div><a href="/zeia-mirodeniilor/cum-sa-prepari-o-salata-proaspata-de-ridichi-i-castravei-id28907.html" target="_self"><img width="190" height="131" alt="" src="http://ivm.aplay.ro/images_handler.php?guid=nuQWC0va7wK&width=190&height=131"></a></div>
+						<h2><a href="/zeia-mirodeniilor/cum-sa-prepari-o-salata-proaspata-de-ridichi-i-castravei-id28907.html" target="_self">Cum să prepari o salată proaspătă de ridichi și castraveți</a></h2>
+		</div>
+
+		</div>
+	
+</div>												</div>
+			<div class="col-c2 fr">
+				<div class="desp-30"></div>
+
+															
+
+										<div class="desp-c2"></div>
+
+															
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9430696585566190";
+/* Euforia300x600 */
+google_ad_slot = "1330394023";
+google_ad_width = 300;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+										<div class="desp-c2"></div>
+
+															
+
+			
+
+			
+<div style="width:300px;text-align:center;overflow:hidden;">
+<a href="http://euforia.tv/autor/interviurile-euforia//" target="_self">
+	<img width="300" src="/uploads/modules/boxes/70/71.jpg" />
+</a>
+</div>
+	
+	
+
+
+
+
+	
+
+
+										<div class="desp-c2"></div>
+
+															
+<!-- Euforia-HP-Rectangle -->
+<div id='div-gpt-ad-1387278529214-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387278529214-2'); });
+</script>
+</div>
+										<div class="desp-c2"></div>
+
+															
+
+			
+
+			
+<div style="width:300px;text-align:center;overflow:hidden;">
+<a href="http://www.singurcook.ro/" target="_self">
+	<img width="300" src="/uploads/modules/boxes/55/56.jpg" />
+</a>
+</div>
+	
+	
+
+
+
+
+	
+
+
+										<div class="desp-c2"></div>
+
+															
+
+			
+			
+
+
+	<div class="caseta_autor">
+					<a href="http://euforia.tv/autor/euforimetru//"><img width="300" alt="" src="/uploads/modules/boxes/57/58.jpg" /></a>
+					
+		
+	</div>
+
+	
+	
+	
+
+
+										<div class="desp-c2"></div>
+
+															
+<!-- Euforia-HP-Rectangle1 -->
+<div id='div-gpt-ad-1387278529214-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387278529214-3'); });
+</script>
+</div>
+										<div class="desp-c2"></div>
+
+															<div class="cas-program-c2">
+	<h3 class="c2-cas-title">Program TV</h3>
+
+	<ul class="clearfix">
+			<li class="p-euf __program_tv_box_channel_key act"><a href="javascript:void(0);" onclick="$('.__program_tv_box_channel_key').removeClass('act');$('.p-euf').addClass('act');$('.__program_tv_box_channel').hide();$('.__program_tv_box_channel_euf').show();"></a></li>
+			<li class="p-a1 __program_tv_box_channel_key"><a href="javascript:void(0);" onclick="$('.__program_tv_box_channel_key').removeClass('act');$('.p-a1').addClass('act');$('.__program_tv_box_channel').hide();$('.__program_tv_box_channel_a1').show();"></a></li>
+			<li class="p-a2 __program_tv_box_channel_key"><a href="javascript:void(0);" onclick="$('.__program_tv_box_channel_key').removeClass('act');$('.p-a2').addClass('act');$('.__program_tv_box_channel').hide();$('.__program_tv_box_channel_a2').show();"></a></li>
+			<li class="p-a3 __program_tv_box_channel_key"><a href="javascript:void(0);" onclick="$('.__program_tv_box_channel_key').removeClass('act');$('.p-a3').addClass('act');$('.__program_tv_box_channel').hide();$('.__program_tv_box_channel_a3').show();"></a></li>
+			<li class="p-gsp __program_tv_box_channel_key"><a href="javascript:void(0);" onclick="$('.__program_tv_box_channel_key').removeClass('act');$('.p-gsp').addClass('act');$('.__program_tv_box_channel').hide();$('.__program_tv_box_channel_gsp').show();"></a></li>
+		</ul>
+
+		<div class="__program_tv_box_channel __program_tv_box_channel_euf">
+		<p class="p-post">Euforia TV</p>
+
+		<div class="p-listing">
+							<p><span class="acum">acum</span> <a href="javascript:void(0);" title="Film serial: Legea pamantului">Film serial: Legea pamantului</a></p>
+											<p><span>18:00</span> <a href="javascript:void(0);" title="Film serial: Un secret scandalos">Film serial: Un secret...</a></p>
+											<p><span>18:55</span> <a href="javascript:void(0);" title="Estetica premium">Estetica premium</a></p>
+											<p><span>20:00</span> <a href="javascript:void(0);" title="Film serial: Legea pamantului">Film serial: Legea pamantului</a></p>
+											<p><span>21:00</span> <a href="javascript:void(0);" title="Film serial: Private Practice: medici în Santa Monica">Film serial: Private...</a></p>
+				<p class="p-tot"><a href="/program-tv/" target="_blank">vezi programul complet &raquo;</a></p>				</div>
+
+	</div>
+		<div class="__program_tv_box_channel __program_tv_box_channel_a1" style="display:none;">
+		<p class="p-post">Antena 1</p>
+
+		<div class="p-listing">
+							<p><span class="acum">acum</span> <a href="javascript:void(0);" title="Acces Direct">Acces Direct</a></p>
+											<p><span>19:00</span> <a href="javascript:void(0);" title="Observator 19">Observator 19</a></p>
+											<p><span>20:00</span> <a href="javascript:void(0);" title="Observator Special">Observator Special</a></p>
+											<p><span>20:30</span> <a href="javascript:void(0);" title="Hell's Kitchen: Iadul bucatarilor">Hell's Kitchen: Iadul...</a></p>
+											<p><span>22:30</span> <a href="javascript:void(0);" title="Film: Totul despre baieti">Film: Totul despre baieti</a></p>
+				<p class="p-tot"><a href="http://a1.ro/tv/program-tv/" target="_blank">vezi programul complet &raquo;</a></p>				</div>
+
+	</div>
+		<div class="__program_tv_box_channel __program_tv_box_channel_a2" style="display:none;">
+		<p class="p-post">AntenaStars</p>
+
+		<div class="p-listing">
+							<p><span class="acum">acum</span> <a href="javascript:void(0);" title="Agentul VIP">Agentul VIP</a></p>
+											<p><span>18:55</span> <a href="javascript:void(0);" title="Star News">Star News</a></p>
+											<p><span>19:45</span> <a href="javascript:void(0);" title="Rai da buni">Rai da buni</a></p>
+											<p><span>21:45</span> <a href="javascript:void(0);" title="Star News">Star News</a></p>
+											<p><span>22:00</span> <a href="javascript:void(0);" title="Agentul VIP">Agentul VIP</a></p>
+				<p class="p-tot"><a href="http://antenastars.ro/program-tv/" target="_self">vezi programul complet &raquo;</a></p>				</div>
+
+	</div>
+		<div class="__program_tv_box_channel __program_tv_box_channel_a3" style="display:none;">
+		<p class="p-post">Antena 3</p>
+
+		<div class="p-listing">
+							<p><span class="acum">acum</span> <a href="javascript:void(0);" title="100 de minute">100 de minute</a></p>
+											<p><span>18:40</span> <a href="javascript:void(0);" title="Deziluzia optica">Deziluzia optica</a></p>
+											<p><span>18:45</span> <a href="javascript:void(0);" title="La ordinea zilei">La ordinea zilei</a></p>
+											<p><span>20:30</span> <a href="javascript:void(0);" title="Subiectiv">Subiectiv</a></p>
+											<p><span>21:30</span> <a href="javascript:void(0);" title="Sinteza zilei">Sinteza zilei</a></p>
+				<p class="p-tot"><a href="http://www.antena3.ro/program-tv-antena3" target="_blank">vezi programul complet &raquo;</a></p>				</div>
+
+	</div>
+		<div class="__program_tv_box_channel __program_tv_box_channel_gsp" style="display:none;">
+		<p class="p-post">ZU TV</p>
+
+		<div class="p-listing">
+							<p><span class="acum">acum</span> <a href="javascript:void(0);" title="ZU Music Mix">ZU Music Mix</a></p>
+											<p><span>17:55</span> <a href="javascript:void(0);" title="Omul strazii">Omul strazii</a></p>
+											<p><span>18:00</span> <a href="javascript:void(0);" title="ZU Trends">ZU Trends</a></p>
+											<p><span>18:05</span> <a href="javascript:void(0);" title="ZU Music Mix">ZU Music Mix</a></p>
+											<p><span>18:55</span> <a href="javascript:void(0);" title="Tanar si nedumerit">Tanar si nedumerit</a></p>
+				<p class="p-tot"><a href="http://zutv.ro/program-tv/" target="_blank">vezi programul complet &raquo;</a></p>				</div>
+
+	</div>
+	
+
+</div>										<div class="desp-c2"></div>
+
+															
+
+			
+			
+
+
+	<div class="cas-minisite">
+		<h3 class="c2-cas-title nomarg"></h3>
+		<div class="cas-url"><p class="url"><span>a1.ro</span></p><hr /></div>
+
+		
+		<div class="mid-item clearfix">
+			<div class="mid thumb fl"><a href="http://nextstar.a1.ro/stiri/duckadam-vine-la-next-star-sai-faca-un-cadou-special-unui-baietel-sarman-care-are-grija-de-tatal-bolnav-de-epilepsie-id1287.html 
+" target="_blank"><img width="112" height="75" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fa1.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F391684%2F330x231_14284167176307a5ed.jpg&w=112&h=75&c=1"></a></div>			<div class="mid-desc fr"><a href="http://nextstar.a1.ro/stiri/duckadam-vine-la-next-star-sai-faca-un-cadou-special-unui-baietel-sarman-care-are-grija-de-tatal-bolnav-de-epilepsie-id1287.html 
+" target="_blank">Duckadam vine la “Next Star”, să-i facă un cadou special unui băiețel sărman, care are...</a></div>
+		</div>
+
+			</div>
+
+	
+	
+	
+
+
+										<div class="desp-c2"></div>
+
+															
+
+			
+			
+
+
+	<div class="cas-minisite">
+		<h3 class="c2-cas-title nomarg">Gsp.RO</h3>
+		<div class="cas-url"><p class="url"><span>gsp.ro</span></p><hr /></div>
+
+		
+		<div class="mid-item clearfix">
+			<div class="mid thumb fl"><a href="http://www.gsp.ro/sporturi/tenis/simona-halep-r-spuns-oficial-dup-ce-a-fost-criticat-pentru-refuzul-de-a-juca-la-fed-cup-dar-acolo-ce-scrie-447583.html
+      " target="_blank"><img width="112" height="75" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fwww9.gsp.ro%2F%2Fusr%2Fthumbs%2Fthumb_100_x_100%2F2015%2F04%2F07%2F657958-simona-halep.jpg&w=112&h=75&c=1"></a></div>			<div class="mid-desc fr"><a href="http://www.gsp.ro/sporturi/tenis/simona-halep-r-spuns-oficial-dup-ce-a-fost-criticat-pentru-refuzul-de-a-juca-la-fed-cup-dar-acolo-ce-scrie-447583.html
+      " target="_blank">Simona Halep, răspuns oficial după ce a fost criticată pentru refuzul de a juca la Fed Cup:...</a></div>
+		</div>
+
+			</div>
+
+	
+	
+	
+
+
+										<div class="desp-c2"></div>
+
+															
+
+			
+			
+
+
+	<div class="cas-minisite">
+		<h3 class="c2-cas-title nomarg">Spynews</h3>
+		<div class="cas-url"><p class="url"><span>spynews.ro</span></p><hr /></div>
+
+		
+		<div class="mid-item clearfix">
+			<div class="mid thumb fl"><a href="http://spynews.ro/actualitate/cum-sa-eviti-ca-ridurile-de-expresie-sa-se-transforme-in-riduri-de-impresie-incearca-aceasta-masca-miraculoasa-64336.html 
+" target="_blank"><img width="112" height="75" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fspynews.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F64336%2F330x231_masca.jpg&w=112&h=75&c=1"></a></div>			<div class="mid-desc fr"><a href="http://spynews.ro/actualitate/cum-sa-eviti-ca-ridurile-de-expresie-sa-se-transforme-in-riduri-de-impresie-incearca-aceasta-masca-miraculoasa-64336.html 
+" target="_blank">Cum să eviţi ca ridurile de expresie să se transforme în riduri de... impresie! Încearcă...</a></div>
+		</div>
+
+			</div>
+
+	
+	
+	
+
+
+										<div class="desp-c2"></div>
+
+															
+
+			
+			
+
+
+	<div class="cas-minisite">
+		<h3 class="c2-cas-title nomarg">Observator.TV</h3>
+		<div class="cas-url"><p class="url"><span>observator.tv</span></p><hr /></div>
+
+		
+		<div class="mid-item clearfix">
+			<div class="mid thumb fl"><a href="http://observator.tv/inedit/luna-aprilie-a-venit-cu-suprize-mari-cum-stai-cu-sanatatea-in-functie-de-zodie-149640.html 
+" target="_blank"><img width="112" height="75" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fobservator.tv%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F149640%252F142841663287e8ed88.jpg%26w%3D330%26h%3D231%26c%3D1&w=112&h=75&c=1"></a></div>			<div class="mid-desc fr"><a href="http://observator.tv/inedit/luna-aprilie-a-venit-cu-suprize-mari-cum-stai-cu-sanatatea-in-functie-de-zodie-149640.html 
+" target="_blank">Luna APRILIE a venit cu suprize mari! Cum stai cu sănătatea, în funcţie de ZODIE
+</a></div>
+		</div>
+
+			</div>
+
+	
+	
+	
+
+
+										<div class="desp-c2"></div>
+
+															
+
+			
+			
+
+
+	<div class="cas-minisite">
+		<h3 class="c2-cas-title nomarg">Neatza cu Razvan si Dani</h3>
+		<div class="cas-url"><p class="url"><span></span></p><hr /></div>
+
+			</div>
+
+	
+	<div class="desp-c2"></div>
+
+			
+
+
+	<div class="cas-minisite">
+		<h3 class="c2-cas-title nomarg">Acces direct</h3>
+		<div class="cas-url"><p class="url"><span>accesdirect.a1.ro</span></p><hr /></div>
+
+		
+		<div class="mid-item clearfix">
+			<div class="mid thumb fl"><a href="http://accesdirect.a1.ro/special/Andreea-Marin-lupt-pentru-Lilia-condamnat-la-o-via_19301.html
+				   " target="_blank"><img width="112" height="75" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%3A%2F%2Fivm.aplay.ro%2Fthumbs%2Fantena1%2F2015%2F04%2F06%2FdVfgPzzw9Xk_4L.jpg%26w%3D330%26h%3D231%26c%3D1&w=112&h=75&c=1"></a></div>			<div class="mid-desc fr"><a href="http://accesdirect.a1.ro/special/Andreea-Marin-lupt-pentru-Lilia-condamnat-la-o-via_19301.html
+				   " target="_blank">Andreea Marin luptă pentru Lilia, condamnată la o viață alături de un cadru cu rotile
+				   </a></div>
+		</div>
+
+			</div>
+
+	
+	<div class="desp-c2"></div>
+
+			
+
+
+	<div class="cas-minisite">
+		<h3 class="c2-cas-title nomarg">Un show pacatos</h3>
+		<div class="cas-url"><p class="url"><span>unshowpacatos.a1.ro</span></p><hr /></div>
+
+		
+		<div class="mid-item clearfix">
+			<div class="mid thumb fl"><a href="http://unshowpacatos.a1.ro/monden/Pepe-a-Feti-a-noastr-se-va-numi-Rosaa_10573.html
+				   " target="_blank"><img width="112" height="75" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%3A%2F%2Fivm.aplay.ro%2Fthumbs%2Fantena1%2F2015%2F04%2F03%2FKzrhp2XD337_2L.jpg%26w%3D330%26h%3D231%26c%3D1&w=112&h=75&c=1"></a></div>			<div class="mid-desc fr"><a href="http://unshowpacatos.a1.ro/monden/Pepe-a-Feti-a-noastr-se-va-numi-Rosaa_10573.html
+				   " target="_blank">Pepe: ”Fetița noastră se va numi Rosa”
+				   </a></div>
+		</div>
+
+			</div>
+
+	
+	
+	
+
+
+										<div class="desp-c2"></div>
+
+															
+
+			
+			
+
+
+	<div class="cas-minisite">
+		<h3 class="c2-cas-title nomarg">Ring</h3>
+		<div class="cas-url"><p class="url"><span>ziarulring.ro</span></p><hr /></div>
+
+		
+		<div class="mid-item clearfix">
+			<div class="mid thumb fl"><a href="http://www.ziarulring.ro/stiri/monden/256680/2015/Cum-se-pregatesc-VEDETELE-pentru-Sarbatorile-Pascale?utm_source=euforia.tv&utm_campaign=IntactMG&utm_medium=web
+		" target="_blank"><img width="112" height="75" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fwww.ziarulring.ro%2Fimagini%2F2015-04%2F108045%2Fvete_m-crop-300x150.jpg&w=112&h=75&c=1"></a></div>			<div class="mid-desc fr"><a href="http://www.ziarulring.ro/stiri/monden/256680/2015/Cum-se-pregatesc-VEDETELE-pentru-Sarbatorile-Pascale?utm_source=euforia.tv&utm_campaign=IntactMG&utm_medium=web
+		" target="_blank">Cum se pregătesc VEDETELE pentru Sărbătorile Pascale
+		</a></div>
+		</div>
+
+			</div>
+
+	
+	
+	
+
+
+										
+
+				
+
+			</div>
+		</div>
+		<div class="all-desp"></div>
+
+		
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Hobby</div>
+			</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/funny/video-wow-aceti-copii-danseaza-salsa-mai-inflacarat-ca-doi-indragostii-asta-da-pasiune-id36628.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36628%2F14283422937cd60c2c.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>FUNNY</p>
+					<h2>
+						<a href="/funny/video-wow-aceti-copii-danseaza-salsa-mai-inflacarat-ca-doi-indragostii-asta-da-pasiune-id36628.html" target="_self"> VIDEO! Wow! Acești copii dansează SALSA mai înflăcărat ca doi îndrăgostiți! Asta da pasiune!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/funny/video-acum-60-de-ani-femeile-tiau-sa-puna-barbaii-cu-botul-pe-labe-uite-ce-le-faceau-id36626.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36626%2F1428339527e65671e8.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>FUNNY</p>
+					<h2>
+						<a href="/funny/video-acum-60-de-ani-femeile-tiau-sa-puna-barbaii-cu-botul-pe-labe-uite-ce-le-faceau-id36626.html" target="_self"> VIDEO: Acum 60 de ani, femeile știau să pună bărbații cu botul pe labe! Uite ce le făceau!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/funny/a-folosit-un-simplu-cuit-pentru-a-realiza-ceva-spectaculos-id36621.html" target="_self"><img width="296" height="148" alt="" src="http://img.youtube.com/vi/oQfeCrU-7LA/0.jpg"></a>
+								<div>
+					<p>FUNNY</p>
+					<h2>
+						<a href="/funny/a-folosit-un-simplu-cuit-pentru-a-realiza-ceva-spectaculos-id36621.html" target="_self"><img alt="" src="/templates/default/img/icon-muz.jpg"> A folosit un SIMPLU cuțit pentru a realiza ceva SPECTACULOS!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Relație</div>
+			</div>
+	<div class="desp-20"></div>
+
+	
+																										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/relatie/semne-ca-nu-mai-poi-amana-inevitabilul-trebuie-sa-te-despari-de-el-id36633.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F36633%2F1428353187e47a0136.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>RELAţIE</p>
+					<h2>
+						<a href="/relatie/semne-ca-nu-mai-poi-amana-inevitabilul-trebuie-sa-te-despari-de-el-id36633.html" target="_self"> 8 semne că nu mai poți amâna inevitabilul: trebuie să te desparți de el!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/relatie/practici-sexuale-de-neimaginat-cum-intreineau-relaii-intime-oamenii-din-evul-mediu-id36611.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F5%2F36611%2F1428249772d50f8b2c.jpeg&w=296&h=148&c=1"></a>
+								<div>
+					<p>RELAţIE</p>
+					<h2>
+						<a href="/relatie/practici-sexuale-de-neimaginat-cum-intreineau-relaii-intime-oamenii-din-evul-mediu-id36611.html" target="_self"> Practici sexuale de neimaginat! Cum întrețineau relații intime oamenii din Evul Mediu</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/relatie/face-ravagii-in-thailanda-tot-ce-trebuie-sa-tii-despre-dry-sex-id36600.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F4%2F36600%2F1428174513a8d4f5c2.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>RELAţIE</p>
+					<h2>
+						<a href="/relatie/face-ravagii-in-thailanda-tot-ce-trebuie-sa-tii-despre-dry-sex-id36600.html" target="_self"> Face ravagii în Thailanda! Tot ce trebuie să știi despre DRY SEX</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+																										
+				
+				
+		<div class="desp-25"></div>		<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="/relatie/5-lucruri-ciudate-despre-sex-pe-care-nu-le-tiai-pana-acum-id36550.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F1%2F36550%2F1427917437c9812d4a.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>RELAţIE</p>
+					<h2>
+						<a href="/relatie/5-lucruri-ciudate-despre-sex-pe-care-nu-le-tiai-pana-acum-id36550.html" target="_self"> 5 lucruri ciudate despre sex pe care nu le știai până acum</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/relatie/5-gesturi-prin-care-el-ii-spune-mai-mult-decat-te-iubesc-id36494.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F30%2F36494%2F14277447116874c08f.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>RELAţIE</p>
+					<h2>
+						<a href="/relatie/5-gesturi-prin-care-el-ii-spune-mai-mult-decat-te-iubesc-id36494.html" target="_self"> 5 gesturi prin care el îți spune mai mult decât “Te iubesc”</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+																										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="/relatie/o-data-pe-zi-sau-o-data-pe-luna-de-cate-ori-trebuie-sa-faci-sex-ca-sa-ramai-insarcinata-id36451.html" target="_self"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Feuforia.tv%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F3%2F28%2F36451%2F1427530372663589b0.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p>RELAţIE</p>
+					<h2>
+						<a href="/relatie/o-data-pe-zi-sau-o-data-pe-luna-de-cate-ori-trebuie-sa-faci-sex-ca-sa-ramai-insarcinata-id36451.html" target="_self"> O dată pe zi sau o dată pe lună? De câte ori trebuie să faci sex ca să rămâi însărcinată?</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">A1.ro</div>
+			</div>
+	<div class="desp-20"></div>
+
+	
+										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://a1.ro/lifestyle/health/cum-sa-slabesti-12-kilograme-intro-singura-luna-cu-ajutorul-unei-bauturi-simple-secretul-care-a-dat-rezultate-pentru-mii-de-oameni-id391431.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fa1.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F391431%2F300x250_1428300017c806f4a5.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://a1.ro/lifestyle/health/cum-sa-slabesti-12-kilograme-intro-singura-luna-cu-ajutorul-unei-bauturi-simple-secretul-care-a-dat-rezultate-pentru-mii-de-oameni-id391431.html" target="_blank"> Cum să slăbeşti 12 kilograme într-o singură lună, cu ajutorul unei băuturi simple!...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://a1.ro/news/inedit/iti-sfasie-inima-a-asteptat-cinci-ani-ca-sa-fie-adoptat-iar-minunea-sa-intamplat-imediat-dupa-asta-gestul-impresionant-ce-te-va-cutremura-id391446.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fa1.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F391446%2F300x250_14283078995aab5d58.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://a1.ro/news/inedit/iti-sfasie-inima-a-asteptat-cinci-ani-ca-sa-fie-adoptat-iar-minunea-sa-intamplat-imediat-dupa-asta-gestul-impresionant-ce-te-va-cutremura-id391446.html" target="_blank"> Îţi sfâşie inima! A aşteptat CINCI ANI ca să fie adoptat, iar "minunea" s-a întâmplat...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://a1.ro/news/inedit/i-tu-tii-telefonul-asa-atunci-uite-ce-risti-sa-patesti-id391450.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fa1.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F6%2F391450%2F300x250_1428307658124952dd.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://a1.ro/news/inedit/i-tu-tii-telefonul-asa-atunci-uite-ce-risti-sa-patesti-id391450.html" target="_blank"> Și tu ții telefonul așa? Atunci UITE ce riști să pățești!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+										
+				
+				
+		<div class="desp-25"></div>		<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://a1.ro/lifestyle/health/milioane-de-femei-folosesc-acest-produs-de-curaat-fara-sa-stie-ce-efecte-au-asupra-copiilor-o-sa-le-arunci-imediat-daca-afli-id391285.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fa1.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F4%2F391285%2F300x250_1428150187bc84fcd8.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://a1.ro/lifestyle/health/milioane-de-femei-folosesc-acest-produs-de-curaat-fara-sa-stie-ce-efecte-au-asupra-copiilor-o-sa-le-arunci-imediat-daca-afli-id391285.html" target="_blank"> MILIOANE de femei folosesc acest produs de CURĂȚAT, fără să știe ce efecte au asupra...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://a1.ro/news/inedit/aparitie-dumnezeiasca-medicii-au-privit-radiografia-si-au-vazut-un-semn-divin-e-clar-o-minune-nu-am-mai-vazut-asa-ceva-id391282.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fa1.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F4%2F391282%2F300x250_1428146660ac0fa477.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://a1.ro/news/inedit/aparitie-dumnezeiasca-medicii-au-privit-radiografia-si-au-vazut-un-semn-divin-e-clar-o-minune-nu-am-mai-vazut-asa-ceva-id391282.html" target="_blank"> Apariție DUMNEZEIASCĂ! Medicii au privit radiografia și au văzut un semn DIVIN! „E clar o...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://a1.ro/timp-liber/funny/fabulos-uite-ce-cred-romanii-despre-creier-e-undeva-prin-burta-pe-acolo-razi-cu-lacrimi-video-id391283.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.youtube.com%2Fvi%2FI9rw8T3fAc8%2F0.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://a1.ro/timp-liber/funny/fabulos-uite-ce-cred-romanii-despre-creier-e-undeva-prin-burta-pe-acolo-razi-cu-lacrimi-video-id391283.html" target="_blank"> FABULOS! Uite ce cred românii despre CREIER! „E undeva prin burtă, pe acolo...”! Râzi cu...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">ZU TV</div>
+		<a class="more" href="http://zutv.ro" target="_blank">Vezi mai multe &raquo;</a>	</div>
+	<div class="desp-20"></div>
+
+	
+										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://zutv.ro/muzica/videoclip-forza-youtube-vloggers-feat-marius-moga-o-facem-pentru-voi-id10912.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fzutv.ro%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F10912%252F14284142814e01f4d7.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://zutv.ro/muzica/videoclip-forza-youtube-vloggers-feat-marius-moga-o-facem-pentru-voi-id10912.html" target="_blank"> VIDEOCLIP FORZĂ | YouTube Vloggers feat. Marius Moga – O facem pentru voi</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://zutv.ro/news/top-4-cele-mai-cool-stiri-din-ultimele-24-de-ore-id10911.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fzutv.ro%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F10911%252F1428413842cf0472eb.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://zutv.ro/news/top-4-cele-mai-cool-stiri-din-ultimele-24-de-ore-id10911.html" target="_blank"> TOP 4 cele mai COOL știri din ultimele 24 de ore!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://zutv.ro/news/nicole-scherzinger-e-super-hot-cand-face-yoga-id10910.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fzutv.ro%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F10910%252F142841203954206965.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://zutv.ro/news/nicole-scherzinger-e-super-hot-cand-face-yoga-id10910.html" target="_blank"> Nicole Scherzinger e super HOT când face yoga!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">SpyNews</div>
+			</div>
+	<div class="desp-20"></div>
+
+	
+										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://spynews.ro/actualitate/cum-sa-eviti-ca-ridurile-de-expresie-sa-se-transforme-in-riduri-de-impresie-incearca-aceasta-masca-miraculoasa-64336.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fspynews.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F64336%2F330x231_masca.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://spynews.ro/actualitate/cum-sa-eviti-ca-ridurile-de-expresie-sa-se-transforme-in-riduri-de-impresie-incearca-aceasta-masca-miraculoasa-64336.html" target="_blank"> Cum să eviţi ca ridurile de expresie să se transforme în riduri de... impresie! Încearcă...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://spynews.ro/monden/miss-bumbum-a-revoltat-o-lume-intreaga-sia-pictato-pe-trupul-gol-pe-fecioara-maria-e-atat-de-gresit-64333.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fspynews.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F64333%2F330x231_indianara-carvalho3.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://spynews.ro/monden/miss-bumbum-a-revoltat-o-lume-intreaga-sia-pictato-pe-trupul-gol-pe-fecioara-maria-e-atat-de-gresit-64333.html" target="_blank"> Miss Bum-Bum a revoltat o lume întreagă! Şi-a pictat-o pe trupul gol pe Fecioara Maria: "E...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://spynews.ro/actualitate/umezesti-cu-saliva-dermatograful-iar-apoi-il-aplici-pe-interiorul-pleoapei-la-ce-riscuri-te-expui-64331.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fspynews.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F64331%2F330x231_eyeliner.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://spynews.ro/actualitate/umezesti-cu-saliva-dermatograful-iar-apoi-il-aplici-pe-interiorul-pleoapei-la-ce-riscuri-te-expui-64331.html" target="_blank"> VIDEO / Umezeşti cu salivă dermatograful, iar apoi îl aplici pe interiorul pleoapei? La ce...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+										
+				
+				
+		<div class="desp-25"></div>		<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://spynews.ro/actualitate/inedit-si-rapid-cinci-decoratiuni-de-paste-pe-care-le-faci-in-10-minute-64332.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fspynews.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F64332%2F330x231_decoratiunidepasteghirlandacuiepurasidinhartie.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://spynews.ro/actualitate/inedit-si-rapid-cinci-decoratiuni-de-paste-pe-care-le-faci-in-10-minute-64332.html" target="_blank"> INEDIT ŞI RAPID! Cinci decoraţiuni de Paşte pe care le faci în 10 minute</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://spynews.ro/monden/nu-poti-sa-ratezi-asa-ceva-in-ce-hal-sia-pocit-alex-velea-baietelul-64329.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fspynews.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F64329%2F330x231_alex-velea1.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://spynews.ro/monden/nu-poti-sa-ratezi-asa-ceva-in-ce-hal-sia-pocit-alex-velea-baietelul-64329.html" target="_blank"> Nu poţi să ratezi aşa ceva! În ce hal şi-a pocit Alex Velea băieţelul!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://spynews.ro/monden/am-glumit-si-leam-pocit-pepe-are-chipul-desfigurat-si-e-strapuns-de-andrele-64327.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fspynews.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F64327%2F330x231_pepe2.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://spynews.ro/monden/am-glumit-si-leam-pocit-pepe-are-chipul-desfigurat-si-e-strapuns-de-andrele-64327.html" target="_blank"> AM GLUMIT ŞI LE-AM POCIT / Pepe are chipul desfigurat şi e străpuns de andrele</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">Observator.TV</div>
+			</div>
+	<div class="desp-20"></div>
+
+	
+										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://observator.tv/inedit/luna-aprilie-a-venit-cu-suprize-mari-cum-stai-cu-sanatatea-in-functie-de-zodie-149640.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fobservator.tv%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F149640%252F142841663287e8ed88.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://observator.tv/inedit/luna-aprilie-a-venit-cu-suprize-mari-cum-stai-cu-sanatatea-in-functie-de-zodie-149640.html" target="_blank"> Luna APRILIE a venit cu suprize mari! Cum stai cu sănătatea, în funcţie de ZODIE</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://observator.tv/social/coloane-de-11-kilometri-la-iesirea-din-tara-la-nadlac-traficul-a-fost-deviat-149639.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fobservator.tv%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F149639%252F1428416420f7bb82cd.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://observator.tv/social/coloane-de-11-kilometri-la-iesirea-din-tara-la-nadlac-traficul-a-fost-deviat-149639.html" target="_blank"> Coloane de 11 kilometri la ieşirea din ţară, la Nădlac. Traficul a fost deviat</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://observator.tv/social/cioccioc-vedetele-vin-la-ua-ta-149638.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.aplay.ro%252Fthumbs%252Fantena1%252F2015%252F04%252F07%252FHYnWyPq7NWA_2O.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://observator.tv/social/cioccioc-vedetele-vin-la-ua-ta-149638.html" target="_blank"> Cioc-cioc, vedetele vin la ușa ta</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+										
+				
+				
+		<div class="desp-25"></div>		<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://observator.tv/inedit/iti-va-parea-rau-ca-nu-ai-incercat-pana-acum-ce-se-intampla-cand-bagi-o-ceapa-in-cuptorul-cu-microunde-149632.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.youtube.com%2Fvi%2FSWdVeP-2-wk%2F0.jpg&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://observator.tv/inedit/iti-va-parea-rau-ca-nu-ai-incercat-pana-acum-ce-se-intampla-cand-bagi-o-ceapa-in-cuptorul-cu-microunde-149632.html" target="_blank"> Îţi va părea rău că nu ai încercat până acum! Ce se întâmplă când bagi o ceapă în...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://observator.tv/extern/dansul-la-metroul-din-new-york-a-fost-interzis-149633.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.aplay.ro%252Fthumbs%252Fantena1%252F2015%252F04%252F07%252F5tXJUzspAHK_2O.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://observator.tv/extern/dansul-la-metroul-din-new-york-a-fost-interzis-149633.html" target="_blank"> Dansul la metroul din New York a fost interzis</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://observator.tv/extern/cainele-vanzator-de-meserie-149634.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.aplay.ro%252Fthumbs%252Fantena1%252F2015%252F04%252F07%252FUbGExIs6vos_2O.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://observator.tv/extern/cainele-vanzator-de-meserie-149634.html" target="_blank"> Câinele, vânzător de meserie</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+<div class="cas-all cas-muzica">
+
+	<div class="clearfix">
+		<div class="label fl">AntenaStars.ro</div>
+			</div>
+	<div class="desp-20"></div>
+
+	
+										
+				
+				
+				<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://antenastars.ro/star-news/cum-sa-eviti-ca-ridurile-de-expresie-sa-se-transforme-in-riduri-de-impresie-incearca-aceasta-masca-miraculoasa-id20554.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fantenastars.ro%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F20554%252F14284166152534df9e.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://antenastars.ro/star-news/cum-sa-eviti-ca-ridurile-de-expresie-sa-se-transforme-in-riduri-de-impresie-incearca-aceasta-masca-miraculoasa-id20554.html" target="_blank"> Cum să eviţi ca ridurile de expresie să se transforme în riduri de... impresie! Încearcă...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://antenastars.ro/star-news/inedit-si-rapid-cinci-decoratiuni-de-paste-pe-care-le-faci-in-10-minute-id20553.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fantenastars.ro%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F20553%252F142841497166bfbe21.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://antenastars.ro/star-news/inedit-si-rapid-cinci-decoratiuni-de-paste-pe-care-le-faci-in-10-minute-id20553.html" target="_blank"> INEDIT ŞI RAPID! Cinci decoraţiuni de Paşte pe care le faci în 10 minute</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://antenastars.ro/necenzurat/elena-ploiesteanu-a-facut-publica-dovada-uite-ce-ia-facut-amanta-lui-nelu-ploiesteanu-id20552.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.aplay.ro%252Fthumbs%252Fantenastars%252F2015%252F04%252F07%252FEKpZZzDRFij_2O.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://antenastars.ro/necenzurat/elena-ploiesteanu-a-facut-publica-dovada-uite-ce-ia-facut-amanta-lui-nelu-ploiesteanu-id20552.html" target="_blank"> Elena Ploieşteanu a făcut publică dovada! Uite ce i-a făcut amanta lui Nelu Ploieşteanu!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+										
+				
+				
+		<div class="desp-25"></div>		<div class="clearfix">
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://antenastars.ro/necenzurat/mihai-mitoseru-si-noemi-se-pregatesc-sa-devina-parinti-id20551.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.aplay.ro%252Fthumbs%252Fantenastars%252F2015%252F04%252F07%252FGfrC1AXPZ4j_2O.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://antenastars.ro/necenzurat/mihai-mitoseru-si-noemi-se-pregatesc-sa-devina-parinti-id20551.html" target="_blank"> Mihai Mitoşeru şi Noemi se pregătesc să devină părinţi!</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://antenastars.ro/necenzurat/mihai-mitoseru-declaratie-surprinzatoare-in-viata-mea-guta-a-aparut-cand-eram-foarte-mic-id20550.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.aplay.ro%252Fthumbs%252Fantenastars%252F2015%252F04%252F07%252FE3Xrrr64dEf_2O.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://antenastars.ro/necenzurat/mihai-mitoseru-declaratie-surprinzatoare-in-viata-mea-guta-a-aparut-cand-eram-foarte-mic-id20550.html" target="_blank"> Mihai Mitoşeru, declaraţie surprinzătoare: "În viaţa mea, Guţă a apărut când eram foarte...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+										
+				
+				
+				
+						<div class="item">
+			<div class="item-inner">
+								<a href="http://antenastars.ro/star-magazin/a-fost-mutilata-de-iubit-cu-copilul-de-fata-adina-halas-impresionata-pana-la-lacrimi-daca-vi-sa-intamplat-o-data-9999-se-va-intampla-si-a-doua-oara-id20548.html" target="_blank"><img width="296" height="148" alt="" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fantenastars.ro%252Fuploads%252Fmodules%252Fnews%252F0%252F2015%252F4%252F7%252F20548%252F142840449011b5e28c.jpg%26w%3D330%26h%3D231%26c%3D1&w=296&h=148&c=1"></a>
+								<div>
+					<p></p>
+					<h2>
+						<a href="http://antenastars.ro/star-magazin/a-fost-mutilata-de-iubit-cu-copilul-de-fata-adina-halas-impresionata-pana-la-lacrimi-daca-vi-sa-intamplat-o-data-9999-se-va-intampla-si-a-doua-oara-id20548.html" target="_blank"> A fost mutilată de iubit cu copilul de faţă! Adina Halas, impresionată până la lacrimi:...</a>
+											</h2>
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	
+
+</div>
+
+
+
+		<div class="desp-20"></div>
+	
+	
+	
+	
+			
+
+
+<div id="wrapper" style="height:400px;overflow:hidden;">
+	<div id="new-opening">
+
+		<div id="carousel1428347757" class="carousel">
+
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/legea-pamantului/legea-pamantului-noul-serial-turcesc-difuzat-de-euforia-tv-incepand-cu-6-aprilie-id36243.htmlhttp://euforia.tv/legea-pamantului/rolurile-se-inverseaza-in-primul-episod-leyla-a-fost-salvatoarea-lui-omer-id36627.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#LEGEAPAMANTULUI</div></div>
+					<h2><a href="/legea-pamantului/legea-pamantului-noul-serial-turcesc-difuzat-de-euforia-tv-incepand-cu-6-aprilie-id36243.htmlhttp://euforia.tv/legea-pamantului/rolurile-se-inverseaza-in-primul-episod-leyla-a-fost-salvatoarea-lui-omer-id36627.html" target="_self">Rolurile se inversează! În primul episod, Leyla îl salvează pe Omer!</a></h2>
+					<p>Ai ratat premiera? Nu-i nimic! Află aici cum s-au cunoscut Omer și Leyla</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_11xb44aee02d6b45cdbc25c4dd55ba2f5dd.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/legea-pamantului/intre-traditie-si-modernitate-cum-intregeste-vestimentatia-imaginea-personajelor-din-legea-pamantului-id36439.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#LEGEAPAMANTULUI</div></div>
+					<h2><a href="http://euforia.tv/legea-pamantului/intre-traditie-si-modernitate-cum-intregeste-vestimentatia-imaginea-personajelor-din-legea-pamantului-id36439.html" target="_self">Între tradiţie şi modernitate! Cum întregeşte vestimentaţia imaginea personajelor din serial</a></h2>
+					<p>Dicle și Kureysa nu ar putea fi mai diferite de Leyla! Află ce preferă fiecare în materie de vestimentație!</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_1xb22df3cfb7aac3fc76dd9f13b4720344.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/interviurile-euforia/cu-bicicleta-din-romania-in-indonezia-afla-povestea-alinei-ene-tanara-care-a-traversat-13-ari-pentru-a-studia-id36356.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#INTERVIURILEEUFORIA</div></div>
+					<h2><a href="/interviurile-euforia/cu-bicicleta-din-romania-in-indonezia-afla-povestea-alinei-ene-tanara-care-a-traversat-13-ari-pentru-a-studia-id36356.html" target="_self">Cu bicicleta, din România în Indonezia! Alina Ene a traversat 13 țări pentru a... studia!</a></h2>
+					<p>A prins-o atât de tare microbul încât a plecat până în Indonezia pedalând. De ce Indonezia? Pentru că acolo o aştepta o bursă de studiu</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_2xf697f0ffa0e279fa8176d01ff73325e6.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/andreea-berecleanu-i-estetica-premium-recomanda/invaa-sa-te-iubeti-aa-cum-eti-terapia-prin-hipnoza-te-ajuta-sa-te-placi-pe-tine-insai-id36470.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#ESTETICAPREMIUM</div></div>
+					<h2><a href="http://euforia.tv/andreea-berecleanu-i-estetica-premium-recomanda/invaa-sa-te-iubeti-aa-cum-eti-terapia-prin-hipnoza-te-ajuta-sa-te-placi-pe-tine-insai-id36470.html" target="_self">Învață să te iubești așa cum ești! Terapia prin hipnoză te ajută să te placi pe tine însăți!</a></h2>
+					<p>Orice femeie are nevoie să își reamintească cât de frumoasă este din când în când...</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_12x3de5b00063a1d4183494639b2d1675a3.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/euforisme/lasai-femeile-sa-se-opereze-id36529.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#FIFISTIE</div></div>
+					<h2><a href="http://euforia.tv/euforisme/lasai-femeile-sa-se-opereze-id36529.html" target="_self">Lăsați femeile să se opereze!</a></h2>
+					<p>Domnii sunt ca vinul. La femei e mai complicat. Fără să intervină cu creme minune sau operații, femeile consideră că își pierd din frumusețe </p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_7xc73a8cffc91d7aee86b175f0560b52dc.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/euforisme/despre-iubirea-din-noi-de-la-rumi-la-elif-safak-id36449.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#CARTEAPENTRUDUMINICA</div></div>
+					<h2><a href="http://euforia.tv/euforisme/despre-iubirea-din-noi-de-la-rumi-la-elif-safak-id36449.html" target="_self">Despre iubirea din noi – de la Rumi la Elif Şafak</a></h2>
+					<p>De puţine ori mi s-a întâmplat ca o carte să îmi dea o stare atât de bună ca Cele patruzeci de legi ale iubirii, de Elif Şafak. Fără nicio strădanie, autoarea reuşeşte să te poarte prin cele mai profunde învăţături ale cultului...</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_4xd2f6f602dfdb630031c74cd4151e5471.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/euforisme/ce-sunt-asanele-id36381.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#LIVELOVEPILATES</div></div>
+					<h2><a href="http://euforia.tv/euforisme/ce-sunt-asanele-id36381.html" target="_self">Ce sunt asanele?</a></h2>
+					<p>Ați auzit vreodată de duduk? E instrumentul tradițional armenesc. Dacă sunteți fan Gladiatorul cu Russell Crowe și știți coloana sonoră...atunci, acela e duduk.Pe muzica lui se pot practica perfect asanele yoga</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_6x5d748b27e0cc2438b983e370c8009d92.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="http://euforia.tv/euforisme/horoscopul-sanataii-in-2015-in-funcie-de-zodie-id34520.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#ELACRACIUN</div></div>
+					<h2><a href="http://euforia.tv/euforisme/horoscopul-sanataii-in-2015-in-funcie-de-zodie-id34520.html" target="_self">Horoscopul sănătății în 2015 </a></h2>
+					<p>Cristina Demetrescu deține meșteșugul astrelor și ne creionează impecabil fiecare zodie în parte, din punct de vedere al sănătății. Sănătoși să fim că restul vine de la sine!</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_7xe492e5d2cba10b8c22a44123f66a1bf7.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/euforisme/hamurile-margai-sau-cum-am-descoperit-ca-sportul-poate-fi-fun-id36374.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#AFTERHOURS</div></div>
+					<h2><a href="/euforisme/hamurile-margai-sau-cum-am-descoperit-ca-sportul-poate-fi-fun-id36374.html" target="_self">Hamurile Margăi sau cum am descoperit că sportul poate fi fun</a></h2>
+					<p>N-am fost niciodată o persoană căreia să îi placă să facă mișcare. O recunosc deschis. Am fost mereu conștientă de beneficiile sportului asupra minții și corpului, dar mereu mi-am găsit scuze – până am găsit-o pe Marga Bălan</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_11xba13310a82b42792d68c9afa419a9955.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/euforisme/alimente-care-nu-ingraa-id35778.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#FITNOTFAT</div></div>
+					<h2><a href="/euforisme/alimente-care-nu-ingraa-id35778.html" target="_self">Alimente care nu îngrașă</a></h2>
+					<p>Alimentele cu un conţinut ridicat de apă conţin minerale, vitamine, antioxidanţi şi fibre, previn oboseala, accelerează detoxifierea şi reduc retenţia de apă. Uite ce îți recomandă Florin Neby:</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_10xb09638254c7d18005c3fa50c7f32bd6a.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/euforisme/cine-este-hedi-slimane-id36193.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#FASHIONDINCONDEI</div></div>
+					<h2><a href="/euforisme/cine-este-hedi-slimane-id36193.html" target="_self">L-a tăiat pe Yves din Saint Laurent și a mutat Parisul în Los Angeles! Cine este Hedi Slimane</a></h2>
+					<p>Controversat, Hedi nu oferă scuze sau explicații, taie în carne vie și duce couture-ul în stradă!</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_4x42edb98d8bb02e7cd7bf44411ae8c2b7.jpg" alt="" />
+			</div>
+		
+																										
+			<div>
+				<div class="big-brief hi-news fr clearfix">
+					<a href="/euforimetru/chris-simion-vs-euforimetru-id35777.html" target="_self" class="top-link"></a>
+					<div class="clearfix"><div class="label fl">#COMPLEXĂ</div></div>
+					<h2><a href="/euforimetru/chris-simion-vs-euforimetru-id35777.html" target="_self">Chris Simion vs. Euforimetru</a></h2>
+					<p>În teatru, Chris Simion este cunoscută ca un regizor de avangardă. Spectacolele ei reprezintă provocări atât pentru actorii cu care lucrează, cât şi pentru spectatorii care îi prizează poveştile. Autoarea unui bestseller ne răspunde...</p>
+				</div>
+								<img src="/uploads/modules/layout/custom/3/960x400_2x66986cf86a29801e58979a6337cacaca.jpg" alt="" />
+			</div>
+		
+
+		</div>
+
+
+		<div id="pager1428347757" class="pager clearfix push-bullets"></div>
+		<i id="prev_button1428347757" class="prev_button fa fa-chevron-left" style="cursor:pointer;"></i>
+		<i id="next_button1428347757" class="next_button fa fa-chevron-right" style="cursor:pointer;"></i>
+	</div>
+</div>
+
+
+
+
+<script type="text/javascript">
+    $(function(){
+
+    	$('#carousel1428347757').carouFredSel({
+    		responsive: true,
+    		items: {
+    			visible: 1,
+    			width: 960,
+    			height: 400,
+    		},
+    		scroll: {
+    			duration: 500,
+    			timeoutDuration: 5000,
+    			fx: 'uncover-fade',
+    			//easing      : "easeOutBounce",
+    			pauseOnHover    : true,
+    		},
+
+			pagination : {
+				container   : "#pager1428347757",
+				keys        : true,
+				//easing      : "easeOutBounce",
+				duration    : 500
+			},
+
+			prev : {
+				button : "#prev_button1428347757",
+				//easing      : "easeOutBounce",
+				duration    : 500
+			},
+			next : {
+				button : "#next_button1428347757",
+				//easing      : "easeOutBounce",
+				duration    : 500
+			},
+
+			swipe:{
+				onTouch : true,
+				onMouse:true,
+			}
+
+
+    	});
+    });
+</script>		<div class="desp-20"></div>
+	
+	
+	
+	
+</div>
+
+
+
+
+
+<div id="footer">
+	<ul class="clearfix">
+				<li><a id="menus-d7607304c8de1b93e0c50fc21fdc247a" href="http://a1.ro/termeni-si-conditii.html" target="_self">Termeni si conditii</a></li>
+		<li>&bull;</li>					<li><a id="menus-d7607304c8de1b93e0c50fc21fdc247a" href="http://static.a1.ro/Cod-Deontologic.pdf" target="_self">Cod deontologic</a></li>
+		<li>&bull;</li>					<li><a id="menus-d7607304c8de1b93e0c50fc21fdc247a" href="http://static.a1.ro/Antena-Group-Date-Companie.pdf" target="_self">Antena Group - Date Companie</a></li>
+					</ul>
+	<div>Acest site este creat si administrat de Digital Antena Group. Toate drepturile rezervate.</div>
+</div>
+
+<div id="wy-popup" class="sharepopup" style="display:none;"></div>
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-34373176-1']);
+	_gaq.push(['_setDomainName', 'euforia.tv']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<div style="text-align:center;">
+	<!-- TRAFIC.RO - Mutare site: 9c8b2d84f0e8009900 -->
+	<!-- BEGIN trafic.ro code v2.0 -->
+	<script>t_rid="euforiatv";</script>
+	<script src="http://storage.trafic.ro/js/trafic.js"></script>
+	<noscript>
+	<a href="http://www.trafic.ro/top/?rid=euforiatv"> <img src="http://log.trafic.ro/cgi-bin/pl.dll?rid=euforiatv" border=0 alt="trafic ranking"></a>
+	</noscript>
+
+	<!-- END trafic.ro code v2.0 -->
+</div>
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script src="/templates/default/js/3dslider/jquery.refineslide.js"></script>
+<script src="/templates/default/js/3dslider/init.js"></script>
+
+<div id="fb-root"></div>
+
+
+<script>
+var myfb_user_state = 0;
+
+
+(function(){
+	var e = document.createElement('script'); e.async = true;
+	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+	document.getElementById('fb-root').appendChild(e);
+}());
+
+function getMeOut() {
+	window.location = "http://club.euforia.tv/login/?logout=1&redirect_uri=" + window.location;
+}
+
+function getMeIn(){
+	window.location = "http://club.euforia.tv/login/?redirect_uri=" + window.location;
+}
+
+
+</script>
+
+
+
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId: '119428494888328',
+          cookie: true,
+          xfbml: true,
+          oauth: true
+        });
+        FB.Event.subscribe('auth.login', function(response) {
+			//getMeIn();
+        });
+
+      };
+</script>
+
+
+<script type="text/javascript">
+	window._ttf = window._ttf || [];
+	_ttf.push({
+		pid: 22722
+		,format: 'inread'
+		,slot: '.submenu'
+		,lang: 'ro'
+		,minSlot: 0
+		,BTF: false
+		,css: 'padding-bottom: 10px; margin: auto;'
+		,size: {w:960}
+    });
+	(function(d){
+		var js, s = d.getElementsByTagName('script')[0];
+		js = d.createElement('script'); js.async = true;
+		js.src = "http://cdn.teads.tv/js/all-v1.js";
+		s.parentNode.insertBefore(js, s);
+	})(window.document);
+</script>
+
+<script type="text/javascript">  (function() {
+	var scr = document.createElement('script');
+	scr.type = 'text/javascript'; scr.async = true;
+	scr.src = '/js/spring.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(scr, s);
+	})();
+</script>
+
+<script src="http://contestapp.a1.ro/img.concursuri.js"></script>
+<script>concursimg({site:'euforia'})</script>
+
+
+<script src="http://ivm.aplay.ro/js/ova/fadead.min.js"></script>
+<script src="//tags.crwdcntrl.net/c/5691/cc_af.js"></script>
+<img src="//eu-gmtdmp.gd1.mookie1.com/tagr/v1/learn?acid=52&inst=EU&tagid=1990105037&src.rand=1428418381&src.id=euforiatv"/>
+</body>
+</html>
+
+
+
+
+

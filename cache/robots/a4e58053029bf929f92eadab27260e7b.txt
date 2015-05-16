@@ -1,0 +1,6 @@
+1428422556
+http://mucha-nie-siada.przegladsportowy.pl
+http://mucha-nie-siada.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

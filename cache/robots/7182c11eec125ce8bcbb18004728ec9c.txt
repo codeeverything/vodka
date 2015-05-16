@@ -1,0 +1,7 @@
+1427735530
+http://games.qq.com
+http://games.qq.com/robots.txt
+User-agent: *
+Disallow:  
+Sitemap: http://www.qq.com/sitemap_index.xml
+Sitemap: http://games.qq.com/topic_sitemap.xml

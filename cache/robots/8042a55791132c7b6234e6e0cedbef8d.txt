@@ -1,0 +1,14 @@
+1427735224
+http://www.gdcchina.cn
+http://www.gdcchina.cn/robots.txt
+1427735212
+http://www.gdcchina.cn/
+http://www.gdcchina.cn/robots.txt
+User-agent: *
+
+Sitemap: http://www.gdcchina.cn/sitemap.xml.gz
+
+Disallow: /events/igf-china-2010-entry-success
+Disallow: /events/igf-china-2010-success
+Disallow: /thank-feedback
+Disallow: /newsletters/thank-subscribe

@@ -1,0 +1,12 @@
+1427701303
+http://status.twitter.com
+http://status.twitter.com/robots.txt
+Sitemap: http://twitterstatus.tumblr.com/sitemap1.xml
+Sitemap: http://twitterstatus.tumblr.com/sitemap2.xml
+
+User-agent: *
+Disallow: /private
+Disallow: /random
+Disallow: /day
+Crawl-delay: 1
+

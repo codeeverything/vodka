@@ -1,0 +1,43 @@
+1427818408
+http://alpha.fortnite.com/#!/personal-info
+http://alpha.fortnite.com/robots.txt
+1427803952
+http://alpha.fortnite.com/#!/personal-info
+http://alpha.fortnite.com/robots.txt
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register for an Epic Games account</title>
+    <link rel="stylesheet" href="/assets/account-68f9d5c5a62e103b6df8df6024cfbf0e.css"/>
+    <link rel="icon" type="image/png" href="/assets/favicon-b5c44a7abafeaa00d308c60ae277bed4.ico"/>
+
+    
+    <meta name="layout" content="flat_page"/>
+    
+
+</head>
+<body class="">
+    
+
+    <script src="/assets/jqueryBundle-a4cb4b85d4b95e0ef93d91e5f8cc8542.js" type="text/javascript" ></script>
+                       
+
+<script src="https://accounts.fortnite.com/widget/widgetJS.js"></script>
+<script>
+    com.epicgames.account.web.load(function() {
+        com.epicgames.account.web.widgets.setRemoveCloseBtn(true);
+        com.epicgames.account.web.widgets.__setAuthorizeRedirParams(
+{"client_id":"cd2b7c19c9734a2ab98dc251868d7724","state":"/dashboard"}
+);
+        com.epicgames.account.web.widgets.__register();
+    });
+</script>
+
+
+    
+</body>
+</html>

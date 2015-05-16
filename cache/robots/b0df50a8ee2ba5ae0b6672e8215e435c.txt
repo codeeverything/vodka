@@ -1,0 +1,20 @@
+1428419075
+http://www.falmouthpacket.co.uk
+http://www.falmouthpacket.co.uk/robots.txt
+1428243949
+http://www.falmouthpacket.co.uk
+http://www.falmouthpacket.co.uk/robots.txt
+Sitemap: www.falmouthpacket.co.uk/sitemap.xml
+User-agent: *
+Disallow: /__siren/
+Disallow: 
+
+User-agent: Googlebot-News
+Disallow: /advertise/
+Disallow: /advertising/
+Disallow: /li/
+Disallow: /mart/
+Disallow: /trade_directory/
+Disallow: /dating/
+Disallow: /homes/
+Disallow: /jobs/

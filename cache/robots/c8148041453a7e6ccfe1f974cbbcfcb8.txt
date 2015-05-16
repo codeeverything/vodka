@@ -1,0 +1,7 @@
+1428417765
+http://www.ukpowernetworks.co.uk
+http://www.ukpowernetworks.co.uk/robots.txt
+User-agent: *
+Disallow: /wcmqs/
+Disallow: /tncwifi/
+Disallow: /faq/

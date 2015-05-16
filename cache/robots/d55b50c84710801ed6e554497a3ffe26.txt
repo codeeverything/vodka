@@ -1,0 +1,14 @@
+1427819462
+http://support.xbox.com/
+http://support.xbox.com/robots.txt
+1427805435
+http://support.xbox.com/
+http://support.xbox.com/robots.txt
+User-agent: *
+Disallow: /error
+Disallow: /*Search?q*
+Disallow: /*results?k*
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /*/contact-us?isChatCallAvailable=false
+Sitemap: http://support.xbox.com/sitemap.xml

@@ -1,0 +1,8 @@
+1428417425
+http://mags.timesgroup.com/topgear.html
+http://mags.timesgroup.com/robots.txt
+User-Agent: *
+Disallow: /magazines/admin
+Allow: /magazines
+
+Sitemap: http://mags.timesgroup.com/sitemap.xml

@@ -1,0 +1,6 @@
+1428245024
+http://wall-air-conditioners-review.toptenreviews.com
+http://wall-air-conditioners-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

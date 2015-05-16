@@ -1,0 +1,5 @@
+1428418405
+http://www.intactmediaacademy.ro
+http://www.intactmediaacademy.ro/robots.txt
+User-agent: *
+Disallow: /wp-admin/

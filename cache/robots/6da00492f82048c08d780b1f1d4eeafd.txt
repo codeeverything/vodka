@@ -1,0 +1,82 @@
+1428242268
+https://www.academia.edu
+https://www.academia.edu/robots.txt
+1428242259
+https://www.academia.edu/login
+https://www.academia.edu/robots.txt
+1428242254
+https://www.academia.edu/signup
+https://www.academia.edu/robots.txt
+# If you run a search engine and would like to index Academia.edu, please email support@academia.edu.
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckbot
+Allow: /
+
+User-agent: baiduspider
+Allow: /
+
+User-agent: seznambot
+Allow: /
+
+User-agent: naverbot
+Allow: /
+
+User-agent: teoma
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: ScoutJet
+Allow: /
+
+User-agent: GurujiBot
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+User-agent: Solbot
+Allow: /
+
+User-agent: FAST
+Allow: /
+
+User-agent: VoilaBot
+Allow: /
+
+User-agent: daumoa
+Allow: /
+
+User-agent: ArchitextSpider
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: SocSciBot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: coccoc
+Allow: /
+
+User-agent: *
+Disallow: /
+
+Sitemap: http://sitemap.academia.edu/index.xml.gz
+Sitemap: http://sitemap.academia.edu/recent_index.xml.gz

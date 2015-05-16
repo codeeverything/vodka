@@ -1,0 +1,9 @@
+1428419146
+http://www.windsorexpress.co.uk
+http://www.windsorexpress.co.uk/robots.txt
+1428243991
+http://www.windsorexpress.co.uk
+http://www.windsorexpress.co.uk/robots.txt
+User-agent: * 
+Allow: /
+Disallow: /News/Areas/Ascot/Benefits-cheat-claimed-12k-despite-money-in-the-bank-31052012.htm

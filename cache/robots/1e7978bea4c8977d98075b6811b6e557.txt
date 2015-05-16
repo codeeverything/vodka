@@ -1,0 +1,10 @@
+1427627422
+https://ecustomeropinions.com/survey/survey.php?sid=264941693
+https://ecustomeropinions.com/robots.txt
+User-agent: *
+Disallow: /popup/
+Disallow: /survey/
+Disallow: /s/
+Disallow: /test/
+Disallow: /public/
+Disallow: /unsubscribe/

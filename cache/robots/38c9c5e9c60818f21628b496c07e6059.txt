@@ -1,0 +1,6 @@
+1428242491
+http://ebook-reader-review.toptenreviews.com
+http://ebook-reader-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

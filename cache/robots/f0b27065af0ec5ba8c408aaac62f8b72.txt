@@ -1,0 +1,257 @@
+1428418613
+http://www.bbcmagazinesadvertising.com
+http://www.bbcmagazinesadvertising.com/robots.txt
+1428416938
+http://www.bbcmagazinesadvertising.com/Magazines/topgear.com.html
+http://www.bbcmagazinesadvertising.com/robots.txt
+1428243019
+http://www.bbcmagazinesadvertising.com/Magazines/topgear.com.html
+http://www.bbcmagazinesadvertising.com/robots.txt
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Advertising | Immediate Media Co – The Special Interest Content and Platform Company</title>
+<meta name="description" content="Immediate Media Co is the award-winning special interest content and platform company. It is one of the biggest consumer media businesses in the UK and the third largest magazine publisher.">
+<!-- CSS Code -->
+
+<link rel="stylesheet" href="http://www.immediate.co.uk/wp-content/themes/immediate/bootstrap/css/bootstrap.css">
+<link rel="stylesheet" href="http://www.immediate.co.uk/wp-content/themes/immediate/css/flexslider.css">
+<link rel="stylesheet" href="http://www.immediate.co.uk/wp-content/themes/immediate/css/immediate-media.css">
+
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+
+<!-- JS Code -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!--<script src="http://www.immediate.co.uk/wp-content/themes/immediate/js/libs/jquery-1.6.1.min.js"></script>-->
+<script src="http://www.immediate.co.uk/wp-content/themes/immediate/js/script.js"></script>
+<script src="http://www.immediate.co.uk/wp-content/themes/immediate/js/libs/jquery.isotope.min.js"></script>
+<!-- <script src="http://www.immediate.co.uk/wp-content/themes/immediate/js/libs/modernizr-2.6.2-respond-1.1.0.min.js"></script> -->
+<script src="http://www.immediate.co.uk/wp-content/themes/immediate/js/libs/modernizr.custom.06986.js"></script>
+<script type='text/javascript' src="http://www.immediate.co.uk/wp-content/themes/immediate/js/libs/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="http://fast.fonts.com/jsapi/6b2bb3a2-00c5-4710-91fa-c1fd159088d0.js"></script>
+
+
+</head>
+
+<body>
+  <div class="mainwrapper">
+  	<header id="mainheader" class="">
+  		<div class="container">
+        <a href="/">
+          <!--[if lte IE 8]><img src="http://www.immediate.co.uk/wp-content/themes/immediate/images/logotype.png" alt="Intermediate Media" id="logo"/><![endif]-->
+          <!--[if gt IE 8]><img src="http://www.immediate.co.uk/wp-content/themes/immediate/images/logotype.svg" alt="Intermediate Media" id="logo"/><![endif]-->
+          <!--[if !IE]> --><img src="http://www.immediate.co.uk/wp-content/themes/immediate/images/logotype.svg" alt="Intermediate Media" id="logo"/><!-- <![endif]-->
+        </a>     
+        <img src="http://www.immediate.co.uk/wp-content/themes/immediate/images/mobile-nav-trigger.png" id="mobilenavtrigger" />
+        <nav>
+          <a href="http://www.immediate.co.uk/story/" class="story" data-target="story-screen">Story <span class="im-icon">></span> </a>
+          <a href="http://www.immediate.co.uk/brands/" class="brands" data-target="brands-screen">Brands <span class="im-icon">></span> </a>
+          <a href="http://www.immediate.co.uk/advertising/" class="advertising" data-target="advertising-screen">Advertising <span class="im-icon">></span> </a>
+          <a href="http://www.immediate.co.uk/ourpeople/" class="people" data-target="people-screen">People <span class="im-icon">></span> </a>
+          <a href="http://www.immediate.co.uk/company-news/" class="news" data-target="news-screen">News <span class="im-icon">></span> </a>
+          <ul>
+            <li class="subnav-trigger">More <span class="im-icon">V</span> </li>
+            <li class="subnav">
+              <ul>
+                <li><a href="http://www.immediate.co.uk/contract-and-content/" class="more">Contract & Content</a></li>
+               
+                <li><a href="https://careers-immediatemedia.icims.com/" class="more" target="_blank">Jobs</a></li>
+                <li><a href="http://www.immediate.co.uk/licensing-and-syndication/" class="more">Licensing &amp; Syndication</a></li>
+                <li><a href="http://www.immediate.co.uk/publishing-platforms/" class="more">Publishing platforms</a></li>
+                <li><a href="http://www.buysubscriptions.com" target="_blank" class="more">Subscriptions</a></li>
+             </ul>
+            </li>
+          </ul>
+        </nav>        
+  		</div>
+  	</header>
+  	
+  	
+
+
+
+<div id="story-screen" class="content-screen">
+	<header class="pageheader">
+        <div class="container">
+            <div class="row-fluid">
+              <h1 class="span5"><a href="http://www.immediate.co.uk/advertising/">Advertising</a></h1>
+              <nav class="span7">
+                <a href="http://www.immediate.co.uk/advertising/case-studies/"  ><span class="im-icon">></span><span class="sub-nav-link">Case Studies</span></a><a href="http://www.immediate.co.uk/advertising/creative-gallery/"  ><span class="im-icon">></span><span class="sub-nav-link">Creative Gallery</span></a><a href="http://www.immediate.co.uk/advertising/insight/"  ><span class="im-icon">></span><span class="sub-nav-link">Insight</span></a>
+              </nav>            </div>
+        </div>
+      </header>
+			
+      <div class="content-hero" style="background-image: url(http://www.immediate.co.uk/wp-content/uploads/2013/05/Hero_Advertising-.jpg)">
+  		<div class="container">
+  			<div class="herotext">
+  				25 MILLION <br />ENGAGED PEOPLE <br />  			</div>
+  		</div>
+      </div>
+    <div class="content-intro container">
+    	<div style="border-left: 1px solid #888; padding-left: 20px; margin-left: 10px; float: right; margin-bottom: 20px; width: 290px;"><a title="Generation Wealth" href="http://www.immediate.co.uk/advertising/insight/generation-wealth/"><img class="alignnone size-medium wp-image-5635" alt="Generation Wealth" src="http://www.immediate.co.uk/wp-content/uploads/2014/03/GW_Logo_White-01-300x213.jpg" width="300" height="213" /></a></p>
+<p><a title="Generation Wealth" href="http://www.immediate.co.uk/advertising/insight/generation-wealth/"><strong>Click to meet Generation Wealth.</strong></a></p>
+<p><a title="Generation Wealth" href="http://www.immediate.co.uk/advertising/insight/generation-wealth/"><span style="color: #333333;">Immediate Media Co has partnered with Enders Analysis and YouGov to understand who are Generation Wealth, why they matter, and how advertisers and marketers can engage with them to maximise brand success.</span></a></p>
+</div>
+<div>
+<p><span style="color: #333333;">We are behind some of the UK’s leading special interest titles, reaching over 25 million people per month across our portfolio. We ensure advertisers gain unparalleled access to highly educated and mature ‘AB’ audiences. Our titles also enjoy a loyal and engaged readership, resulting in market-leading subscription levels.</span></p>
+<p><span style="color: #333333;">We are investing in new platforms, services and skills to move our brands forward. Furthermore we are opening up new opportunities for our readers to engage and interact with the content they love. This brings us closer to the purchase decision and brings us fresh insights into the spending habits and behaviour of our audiences.  </span></p>
+<p><span style="color: #333333;">Through the combination of inspiring content and dynamic platforms, we are maximising the opportunities for advertisers to understand and reach their target markets.</span></p>
+</div>
+    </div>
+    	<section class="content-section image-bg advertising-casestudy" style="background-image: url(http://www.immediate.co.uk/wp-content/uploads/2013/05/Divider_Advertising_Case_Studies.jpg)">
+		<div class="container">
+			<header class="row-fluid">
+				<a href="http://www.immediate.co.uk/advertising/case-studies/" >
+					<h1 class="span3">Case Studies <span class="im-icon">></span></h1>		
+					<h2 class="span9">Working closely with our partners, we build customised campaigns and solutions across our portfolio.</h2>
+				</a>
+			</header>
+			<div class="column-text">
+							</div>
+		</div>
+	</section>
+	<section class="content-section advertising-brands">
+		<div class="container">
+			<header class="row-fluid">
+				<a href="http://www.immediate.co.uk/brands/" >
+					<h1 class="span3">Brands <span class="im-icon">></span></h1>
+					<h2 class="span9">Our special interest brands inspire people to engage actively in the pursuits they love.</h2>
+				</a>	
+			</header>		
+		</div>		
+	</section>
+
+	 	<section class="content-section single-bar image-bg advertising-insight" style="background-image: url(http://www.immediate.co.uk/wp-content/uploads/2013/05/Divider_Advertising_Insight.jpg)">
+		<div class="container">
+			<header class="row-fluid">
+				<a href="http://www.immediate.co.uk/advertising/insight/" >
+					<h1 class="span3">Insight <span class="im-icon">></span></h1>
+					<h2 class="span9">Close collaboration is how we maximise results, with services to advertisers and clients that give them deeper insights.</h2>
+				</a>
+			</header>		
+		</div>		
+	</section>
+	<section class="content-section header-and-text image-bg advertising-creativegallery">
+		<div class="container">
+			<header class="row-fluid">
+				<a href="http://www.immediate.co.uk/advertising/creative-gallery/" >
+					<h1 class="span3">Creative Gallery <span class="im-icon">></span></h1>
+					<h2 class="span9">Communicate and engage with our audiences across our portfolio of specialist interest brands using a comprehensive suite of options.</h2>
+				</a>
+			</header>			
+		</div>
+	</section>
+	
+	
+</div>
+
+
+  	<footer id="mainfooter">
+  		<nav>
+	  		<div class="container">
+		  		<div class="row-fluid">
+		  			<div class="span2 footer-col">
+		  				<a href="/"><!--[if lte IE 8]><img src="http://www.immediate.co.uk/wp-content/themes/immediate/images/logotype.png" alt="Intermediate Media" id="logo"/><![endif]-->
+				          <!--[if gt IE 8]><img src="http://www.immediate.co.uk/wp-content/themes/immediate/images/logotype.svg" alt="Intermediate Media" id="logo"/><![endif]-->
+				          <!--[if !IE]> --><img src="http://www.immediate.co.uk/wp-content/themes/immediate/images/logotype.svg" alt="Intermediate Media" id="logo"/><!-- <![endif]-->
+      					</a> 
+		  			</div>
+		  			<div class="span10">
+		  				<div>
+			  				<div class="span2">
+				  				<a href="/"><h4>Home</h4></a>
+				  				<a href="http://www.immediate.co.uk/story/"><h4>Story</h4></a>
+				  				<ul>
+				  					<li><a href="http://www.immediate.co.uk/story/#vision">Vision</a></li>
+				  					<li><a href="http://www.immediate.co.uk/story/#team">Team</a></li>
+				  					<li><a href="http://www.immediate.co.uk/story/#csr">CSR</a></li>
+				  				</ul>
+				  			</div>
+				  			<div class="span2">
+				  				<a href="http://www.immediate.co.uk/brands/"><h4>Brands</h4></a>
+				  				<ul>
+				  					<li><a href="http://www.immediate.co.uk/brands/">All Brands</a></li>
+				  					<li><a href="http://www.immediate.co.uk/brands/?show=az">A-Z Listing</a></li>
+				  				</ul>
+				  				<a href="http://www.immediate.co.uk/advertising/"><h4>Advertising</h4></a>
+	              <ul>
+	                <li><a href="http://www.immediate.co.uk/advertising/case-studies/">Case Studies</a></li><li><a href="http://www.immediate.co.uk/advertising/creative-gallery/">Creative Gallery</a></li><li><a href="http://www.immediate.co.uk/advertising/insight/">Insight</a></li>
+	              </ul>				  			</div>
+				  			<div class="span2">				  				
+				  				<a href="http://www.immediate.co.uk/ourpeople/"><h4>Our People</h4></a>
+	              <ul>
+	                <li><a href="http://www.immediate.co.uk/ourpeople/find-people/">Find People</a></li><li><a href="http://www.immediate.co.uk/ourpeople/jobs/">Jobs</a></li><li><a href="http://www.immediate.co.uk/ourpeople/careers-development/">Careers & Development</a></li>
+	              </ul>				  				<a href="http://www.immediate.co.uk/company-news/"><h4>News</h4></a>
+				  				<ul>
+				  					<li><a href="http://www.immediate.co.uk/news/brand/">Brand News</a></li>
+				  					<li><a href="http://www.immediate.co.uk/blog/">Blog</a></li>
+				  					<li><a href="http://www.immediate.co.uk/news/corporate/">Corporate News</a></li>
+				  					<li><a href="http://www.immediate.co.uk/company-news/awards/">Awards</a></li>
+				  				</ul>
+				  			</div>
+				  			<div class="span2">
+				  				<a href="http://www.immediate.co.uk/contract-and-content/"><h4>Contract & Content</h4></a>
+	              <ul>
+	                <li><a href="http://www.immediate.co.uk/contract-and-content/clients/">Clients</a></li><li><a href="http://www.immediate.co.uk/contract-and-content/team/">Team</a></li><li><a href="http://www.immediate.co.uk/contract-and-content/blog/">Blog</a></li>
+	              </ul>				  	
+				  				
+				  			</div>
+				  			<div class="span2">
+								<a href="http://www.immediate.co.uk/publishing-platforms/"><h4>Publishing Platforms</h4></a>
+	              <ul>
+	                <li><a href="http://www.immediate.co.uk/publishing-platforms/online/">Online</a></li><li><a href="http://www.immediate.co.uk/publishing-platforms/mobile/">Mobile</a></li>
+	              </ul>		
+				  				<a href="http://www.immediate.co.uk/licensing-and-syndication/"><h4>Licensing &amp; Syndication</h4></a>
+				  				<a href="http://www.immediate.co.uk/contact/"><h4>Contact</h4></a>
+				  				<ul class="terms-list">
+				  					<li><a href="http://www.immediate.co.uk/privacy-policy/">Privacy</a></li>
+				  					<li><a href="http://www.immediate.co.uk/terms-and-conditions/">Terms &amp; Conditions</a></li>
+				  					<li><a href="http://www.immediate.co.uk/advertising-terms/">Advertising Terms</a></li>
+				  				</ul>
+
+				  			</div>
+				  			<div class="span2">
+					  			<div class="follow-links">
+									<div class="follow-title">Follow Us</div>
+									<a href="http://www.facebook.com/immediatemedia/"><span class="im-icon">f </span><span class="social-label">Facebook</span></a>
+									<a href="http://www.twitter.com/immediate_media/"><span class="im-icon">t </span><span class="social-label">Twitter</span></a>
+									<a href="http://www.linkedin.com/company/immediate-media-co-/"><span class="im-icon">i </span><span class="social-label">LinkedIn</span></a>
+								</div>	
+								<ul class="terms-list policies">
+				  					<li><a href="http://www.immediate.co.uk/cookies-policy/">Cookies Policy</a></li>
+				  					<li><a href="http://www.immediate.co.uk/code-of-conduct/">Code of Business Conduct</a></li>
+				  					<li><a href="http://www.immediate.co.uk/safeguarding-policy/">Safeguarding Policy</a></li>
+				  					<li><a href="http://www.immediate.co.uk/immediate-media-company-responsible-forest-products-purchasing-policy/">Responsible Forest Products</a></li>
+				  					<li><a href="http://www.immediate.co.uk/ethical-policy/">Ethical Policy</a></li>
+				  				</ul>							
+							
+				  			</div>
+						</div>	
+		  			</div>	
+		  			
+		  		</div>
+	  		</div>
+  		</nav>
+  	
+  	</footer>
+  </div>
+<div id="imPolicycookiemessage">  
+	<div class="imPolicycookieinner">We use cookies to improve your experience of our website. Cookies perform functions like recognising you each time you visit and delivering advertising messages that are relevant to you. Read more <a href="http://www.immediate.co.uk/cookies-policy/" target="_blank">here</a>	
+	</div>
+	<div class="overlayPolicycookieinner"></div>  
+</div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38093099-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+1428159033
+http://engineering.illinois.edu
+http://engineering.illinois.edu/robots.txt
+1427891704
+http://engineering.illinois.edu/news
+http://engineering.illinois.edu/robots.txt
+1427891120
+http://engineering.illinois.edu
+http://engineering.illinois.edu/robots.txt
+User-agent: *
+
+Disallow: /style-guide/templates/
+Disallow: /menus
+Disallow: /archive

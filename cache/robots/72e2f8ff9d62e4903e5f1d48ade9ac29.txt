@@ -1,0 +1,14 @@
+1427958452
+http://iaoc.ietf.org/subpoenas.html
+http://iaoc.ietf.org/robots.txt
+1427891241
+http://iaoc.ietf.org
+http://iaoc.ietf.org/robots.txt
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+
+User-agent: googlebot
+Disallow: *.csi

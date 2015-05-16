@@ -1,0 +1,14 @@
+1427735456
+http://www.fpwap.com
+http://www.fpwap.com/robots.txt
+User-Agent: *
+
+Disallow: /d/
+Disallow: /e/class/
+Disallow: /e/config/
+Disallow: /e/data/
+Disallow: /e/enews/
+Disallow: /e/update/
+Disallow: /e/pl/
+Disallow: /e/member/
+Disallow: /tech/

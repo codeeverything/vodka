@@ -1,0 +1,6 @@
+1428244887
+http://serger-sewing-machine-review.toptenreviews.com
+http://serger-sewing-machine-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

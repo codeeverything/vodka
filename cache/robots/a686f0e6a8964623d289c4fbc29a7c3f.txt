@@ -1,0 +1,6 @@
+1428422607
+http://w-delegacji.przegladsportowy.pl
+http://w-delegacji.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

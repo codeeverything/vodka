@@ -1,0 +1,39 @@
+1428419226
+http://www.halfordscareers.com
+http://www.halfordscareers.com/robots.txt
+1428242424
+http://www.halfordscareers.com
+http://www.halfordscareers.com/robots.txt
+# __PUBLIC_IP_ADDR__  - Internet facing IP Address or Domain name.
+User-agent: *
+Disallow: /webapp/wcs/stores/servlet/OrderItemAdd
+Disallow: /webapp/wcs/stores/servlet/OrderItemDisplay
+Disallow: /webapp/wcs/stores/servlet/OrderCalculate
+Disallow: /webapp/wcs/stores/servlet/QuickOrderCmd
+Disallow: /webapp/wcs/stores/servlet/LogonForm
+Disallow: /webapp/wcs/stores/servlet/OrderHistory
+Disallow: /webapp/wcs/stores/servlet/SalmonBuiltByView
+Disallow: /webapp/wcs/stores/servlet/productvariations
+Disallow: /webapp/wcs/stores/servlet/ProductVariationsDisplay
+Disallow: /webapp/wcs/stores/servlet/ThirdPartyDisplay
+Disallow: *jspStoreDir*
+Disallow: *CarSelectorCatalogId*
+Disallow: *PRODHOME_ESPOTCAROUSEL*
+Disallow: *AdultBikeGuidedSalesCmd*
+Disallow: *KidsBikeGuidedSalesCmd*
+Disallow: *CarSatNavGuidedSalesCmd*
+Disallow: *CdAudioGuidedSalesCmd*
+Disallow: *CarSeatdisplay*
+Disallow: *HalfordsProductDetailsLiteView*
+Disallow: *CdAudioEssentialItemsSelector*
+Disallow: *SearchCmdMobile*
+Disallow: *SearchCmd*
+Disallow: *VehicleProductGuidedSalesCmd*
+Disallow: *BulbsProductGuidedSalesCmd*
+Disallow: *EngineOilsProductGuidedSalesCmd*
+Disallow: *VehicleProductGuidedSalesMobileCmd*
+Disallow: *Bulbs ProductGuidedSalesMobileCmd*
+Disallow: *EngileOIlsProductGuidedSalesMobileCmd*
+
+Sitemap: http://www.halfords.com/sitemap.xml.gz
+Sitemap: http://www.halfords.com/sitemap-mobile.gz

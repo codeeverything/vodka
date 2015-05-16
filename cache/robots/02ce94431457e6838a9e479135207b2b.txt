@@ -1,0 +1,26 @@
+1427823581
+http://eusecwest.com
+http://eusecwest.com/robots.txt
+1427821714
+http://eusecwest.com/speakers.html#PhlashDance
+http://eusecwest.com/robots.txt
+1427821709
+http://eusecwest.com
+http://eusecwest.com/robots.txt
+1427818419
+http://eusecwest.com/speakers.html#PhlashDance
+http://eusecwest.com/robots.txt
+1427818414
+http://eusecwest.com/
+http://eusecwest.com/robots.txt
+1427806043
+http://eusecwest.com//
+http://eusecwest.com/robots.txt
+1427803965
+http://eusecwest.com/speakers.html#PhlashDance
+http://eusecwest.com/robots.txt
+1427803959
+http://eusecwest.com/
+http://eusecwest.com/robots.txt
+User-agent: *
+Disallow: /register/

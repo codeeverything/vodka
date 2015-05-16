@@ -1,0 +1,35 @@
+1428496485
+http://www.hgtv.ca
+http://www.hgtv.ca/robots.txt
+1428496201
+http://www.hgtv.ca
+http://www.hgtv.ca/robots.txt
+1428422172
+http://www.hgtv.ca/blog/Default.aspx
+http://www.hgtv.ca/robots.txt
+1428417834
+http://www.hgtv.ca/video/#video
+http://www.hgtv.ca/robots.txt
+1428417828
+http://www.hgtv.ca/video
+http://www.hgtv.ca/robots.txt
+1428416427
+http://www.hgtv.ca
+http://www.hgtv.ca/robots.txt
+1428414341
+http://www.hgtv.ca
+http://www.hgtv.ca/robots.txt
+1428241891
+http://www.hgtv.ca
+http://www.hgtv.ca/robots.txt
+1428240781
+http://www.hgtv.ca
+http://www.hgtv.ca/robots.txt
+User-agent: *
+Disallow: /search/*
+Disallow: /shows/photos.aspx?nav=*
+Disallow: /photos/default.aspx?nav=*
+Disallow: /photos/?nav=*
+Disallow: /*_escaped_fragment_ 
+
+SITEMAP: http://a27643.hostedsitemaps.com/3861773/sitemap.xml.gz

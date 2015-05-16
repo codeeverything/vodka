@@ -1,0 +1,21 @@
+1428422273
+http://tematy.newsweek.pl
+http://tematy.newsweek.pl/robots.txt
+1428419640
+http://tematy.newsweek.pl
+http://tematy.newsweek.pl/robots.txt
+1428419457
+http://tematy.newsweek.pl/sytuacja-na-ukrainie,temat,2314.html
+http://tematy.newsweek.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/
+Disallow: /oferta
+Disallow: /pomoc

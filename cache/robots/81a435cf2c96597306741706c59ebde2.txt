@@ -1,0 +1,16 @@
+1428419421
+http://www.bbcgoodfoodshowwinter.com/ezone
+http://www.bbcgoodfoodshowwinter.com/robots.txt
+1428417329
+http://www.bbcgoodfoodshowwinter.com
+http://www.bbcgoodfoodshowwinter.com/robots.txt
+1428242525
+http://www.bbcgoodfoodshowwinter.com/ezone
+http://www.bbcgoodfoodshowwinter.com/robots.txt
+1428241308
+http://www.bbcgoodfoodshowwinter.com
+http://www.bbcgoodfoodshowwinter.com/robots.txt
+User-agent: *
+Disallow: /SHeight=
+Disallow: /index.asp
+Disallow: /viewHiRes=

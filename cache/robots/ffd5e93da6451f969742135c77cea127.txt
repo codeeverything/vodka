@@ -1,0 +1,11 @@
+1427629654
+http://ichef.bbci.co.uk/wwfeatures/624_351/images/live/p0/2l/rx/p02lrx3q.jpg
+http://ichef.bbci.co.uk/robots.txt
+1427629392
+http://ichef.bbci.co.uk/wwfeatures/624_351/images/live/p0/2j/ny/p02jny4m.jpg
+http://ichef.bbci.co.uk/robots.txt
+# Version 3.1.7
+# ichef.bbci
+
+User-agent: Googlebot-Image
+Disallow: /news/*/media/images/80230000/jpg/_80230430_img_2454.jpg

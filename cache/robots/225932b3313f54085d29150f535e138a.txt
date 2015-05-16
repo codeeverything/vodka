@@ -1,0 +1,14 @@
+1428417937
+http://globaltelevision.tumblr.com
+http://globaltelevision.tumblr.com/robots.txt
+1428243697
+http://globaltelevision.tumblr.com
+http://globaltelevision.tumblr.com/robots.txt
+Sitemap: http://globaltelevision.tumblr.com/sitemap1.xml
+
+User-agent: *
+Disallow: /private
+Disallow: /random
+Disallow: /day
+Crawl-delay: 1
+

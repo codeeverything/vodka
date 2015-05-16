@@ -1,0 +1,8 @@
+1427819305
+https://amplitude.com/home
+https://amplitude.com/robots.txt
+1427805295
+https://amplitude.com/home
+https://amplitude.com/robots.txt
+User-agent: *
+Allow: /

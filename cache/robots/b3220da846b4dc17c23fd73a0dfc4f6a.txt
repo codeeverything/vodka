@@ -1,0 +1,45 @@
+1427735131
+http://www.interop.com
+http://www.interop.com/robots.txt
+1427734404
+http://www.interop.com
+http://www.interop.com/robots.txt
+1427717805
+http://www.interop.com
+http://www.interop.com/robots.txt
+1427717487
+http://www.interop.com
+http://www.interop.com/robots.txt
+1427701348
+http://www.interop.com
+http://www.interop.com/robots.txt
+User-agent: *
+Disallow: /collateral/
+Disallow: /lasvegas/exhibition/index.php
+Disallow: /lasvegas/2008/application-delivery.php
+Disallow: /lasvegas/2008/data-center.php
+Disallow: /lasvegas/2008/enterprise-20.php
+Disallow: /lasvegas/2008/green-it.php
+Disallow: /lasvegas/2008/it-service-management.php
+Disallow: /lasvegas/2008/security.php
+Disallow: /lasvegas/2008/networking-and-services.php
+Disallow: /lasvegas/2008/offshoring.php
+Disallow: /lasvegas/2008/open-source.php	
+Disallow: /lasvegas/2008/physical-security.php
+Disallow: /lasvegas/2008/saas-and-cloud-computing.php
+Disallow: /lasvegas/2008/soa.php
+Disallow: /lasvegas/2008/storage.php
+Disallow: /lasvegas/2008/unified-communications.php
+Disallow: /lasvegas/2008/virtualization.php
+Disallow: /lasvegas/2008/voip.php
+Disallow: /lasvegas/2008/wireless-and-mobility.php
+Disallow: /lasvegas/2008/cio-bootcamp.php
+Disallow: /lasvegas/2008/nac.php
+Disallow: /lasvegas/2008/workshops.php
+Disallow: /lasvegas/2008/cisco/
+Disallow: /lasvegas/2008/ethernet-alliance/
+Disallow: /lasvegas/2008/intel/intel_passport.pdf
+Disallow: /lasvegas/2008/lifesize/
+Disallow: /lasvegas/2008/microsoft/
+Disallow: /lasvegas/2008/xroads/
+Disallow: /lasvegas/2008/vmware/

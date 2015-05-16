@@ -1,0 +1,117 @@
+1428416779
+http://loveBlighty.co.uk
+http://loveBlighty.co.uk/robots.txt
+1428414463
+http://loveBlighty.co.uk
+http://loveBlighty.co.uk/robots.txt
+1428240872
+http://loveBlighty.co.uk
+http://loveBlighty.co.uk/robots.txt
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:uktv="http://uktv.co.uk" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/">
+	<head>
+		<title>Best in Britain: Blighty TV</title>
+		<meta name="description" content="Blighty unashamedly celebrates all that is great, unique and inspirational about Britain today. Packed with programmes that explore the complexity, irony, contradictory and definitely quirky traits of modern Britain, Blighty revels in what makes the country brilliant." />
+		<meta name="keywords" content="Blighty, Blighty TV, Blighty channel" />
+		<link href="http://uktv.co.uk/favicons/blighty.ico" rel="shortcut icon" />
+		<link rel="stylesheet" type="text/css" href="/css/shared/tools.css" />
+		<link rel="stylesheet" type="text/css" href="/css/shared/layout.css" />	
+		<link rel="stylesheet" type="text/css" href="/css/shared/sitewide.css" />
+		<link rel="stylesheet" type="text/css" href="/css/blighty/layout.css" />
+		<link rel="stylesheet" type="text/css" href="/css/blighty/homepage.css" />
+		<style type="text/css">
+			div.main-content { width: 100%; }
+			#logo { margin: 120px auto 40px auto; width: 700px; text-align: center; }
+			#message { margin: 40px auto 80px auto; width: 720px; text-align: center; }
+			@font-face {
+				font-family: 'vag_reg';
+				src: url('/fonts/vagrundschriftd.eot');
+				src: url('/fonts/vagrundschriftd.eot?#iefix') format('embedded-opentype'),
+					 url('/fonts/vagrundschriftd.woff') format('woff'),
+					 url('/fonts/vagrundschriftd.ttf') format('truetype'),
+					 url('/fonts/vagrundschriftd.svg#vag_rundschrift_dregular') format('svg');
+				font-weight: normal;
+				font-style: normal;
+			}
+			#message p { font-family: "vag_reg", "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif; font-size: 24px; }
+		</style>
+	</head>
+	<body>	
+		<div class="page">
+			<div class="pageWrap">
+				<div class="content-wrapper">
+					<div class="content-inner clearfix">
+						<div class="main-content clearfix">
+							<div id="logo">
+								<p><img src="/images/blighty/blighty-brand.gif" width="214" height="214" border="0" alt="Blighty" title="Blighty" /></p>
+							</div>
+							<div id="message">
+								<p>It's been a blast!</p>
+								<p>But unfortunately, Blighty has now closed down.</p>
+								<p>If you would like to watch incredible wildlife, history and other factual programming like the ones we were so proud to show, please head over to <a href="http://edentv.co.uk/" target="_blank">Eden</a> (Sky 532 &amp; Virgin 208) or <a href="http://yesterdaytv.co.uk/" target="_blank">Yesterday</a> (Freeview 19, Sky 537 &amp; Virgin 203).</p>
+								<p>Thanks</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> 
+			<div id="sitewide-header">
+				<div class="row clearfix">
+					<ul class="channels">
+						<li><a href="http://watchchannel.co.uk">Watch</a></li>				
+						<li><a href="http://goldtv.co.uk">Gold</a></li>
+						<li><a href="http://alibitv.co.uk">Alibi</a></li>			
+						<li><a href="http://joindave.co.uk ">Dave</a></li>
+						<li><a href="http://dramachannel.tv">Drama</a></li>
+						<li><a href="http://edentv.co.uk">Eden</a></li>
+						<li><a href="http://yesterdaytv.co.uk">Yesterday</a></li>
+						<li><a href="http://lovehome.co.uk">Home</a></li>
+						<li><a href="http://goodfoodchannel.co.uk">Good Food</a></li>
+						<li><a href="http://reallytv.co.uk">Really</a></li>
+						<li class="last"><a href="http://network.uktv.co.uk/article/cookie-notice/"><strong>Cookie Notice</strong></a></li>
+					</ul>
+					<ul class="imagined-by">
+						<li>Imagined by</li>
+						<li><a class="uktv-imagined-by" href="http://uktv.co.uk/" title="UKTV">UKTV</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="sitewide-footer">
+			<div class="clearfix row">
+				<div class="uktv-brand">
+	      			<div id="flashPanel" class="flash-panel">  
+						<div id="flashContentSmall">
+							<div class="bottomFooterNetworkLogos">
+								<ul class="networkBrand">
+									<li><a href="http://uktv.co.uk" title="UKTV"><img class="cloudcarousel" src="http://uktv.co.uk/images/uktv-brand-footer.png" alt="UKTV"></a></li>
+								</ul>
+								<ul class="networkLogos">
+									<li><a href="http://watchchannel.co.uk" title="Watch"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/watch.png" alt="Watch" /><span>Watch</span></a></li>
+									<li><a href="http://goldtv.co.uk" title="Gold"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/gold.png" alt="Gold" /><span>GOLD</span></a></li>
+									<li><a href="http://alibitv.co.uk" title="Alibi"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/alibi.png" alt="Alibi" /><span>Alibi</span></a></li>
+									<li><a href="http://joindave.co.uk" title="Dave"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/dave.png" alt="Dave" /><span>Dave</span></a></li>
+									<li><a href="http://dramachannel.tv" title="Drama"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/drama.png" alt="Drama" /><span>Drama</span></a></li>
+									<li><a href="http://edentv.co.uk" title="Eden"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/eden.png" alt="Eden" /><span>Eden</span></a></li>
+									<li><a href="http://yesterdaytv.co.uk" title="Yesterday"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/yesterday.png" alt="Yesterday" /><span>Yesterday</span></a></li>
+									<li><a href="http://lovehome.co.uk" title="Home"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/home.png" alt="Home" /><span>Home</span></a></li>
+									<li><a href="http://goodfoodchannel.co.uk" title="Good Food"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/goodfood.png" alt="Food" /><span>Good Food</span></a></li>
+									<li><a href="http://reallytv.co.uk" title="Really"><img class="cloudcarousel" src="http://uktv.co.uk/images/networkLogos/logos_sm/pngs/really.png" alt="Really" /><span>Really</span></a></li>
+								</ul>		
+							</div>
+						</div>	
+					</div>
+		      	</div>
+			</div>
+			<div class="info-links">
+				<ul class="ib-fix">
+					<li><a href="http://network.uktv.co.uk/article/terms-and-conditions/">Terms &amp; Conditions</a></li>
+					<li><a href="http://network.uktv.co.uk/article/privacy-policy/">Privacy Policy</a></li>
+					<li><a href="http://network.uktv.co.uk/article/cookie-notice/" title="Our sites use cookies, including third party cookies, to improve your user experience. By browsing this site you consent to our use of cookies as described in our Cookie Notice which also describes how to manage cookie settings.">Cookie Notice</a></li>
+					<li><a href="http://corporate.uktv.co.uk/about-uktv/article/contact-us/">Contact us</a></li>
+					<li class="last"><a href="http://network.uktv.co.uk/article/help/">Help</a></li>
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>

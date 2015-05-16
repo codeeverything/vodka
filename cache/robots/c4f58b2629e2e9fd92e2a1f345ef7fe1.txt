@@ -1,0 +1,33 @@
+1428419884
+http://www.finanz.ru
+http://www.finanz.ru/robots.txt
+User-agent: *
+Disallow: /export/
+Disallow: /Export/
+Disallow: /ajax/
+Disallow: /Ajax/
+Disallow: /admin/
+Disallow: /Admin/
+Disallow: /moy-portfel/
+Disallow: /Moy-portfel/
+Disallow: /Content/Scripts/link
+Disallow: /content/scripts/link
+Disallow: /Content/Html
+Disallow: /content/html
+Sitemap: http://www.finanz.ru/sitemap/sitemap.xml
+
+User-agent: Yandex
+Disallow: /export/
+Disallow: /Export/
+Disallow: /ajax/
+Disallow: /Ajax/
+Disallow: /admin/
+Disallow: /Admin/
+Disallow: /moy-portfel/
+Disallow: /Moy-portfel/
+Disallow: /Content/Scripts/link
+Disallow: /content/scripts/link
+Disallow: /Content/Html
+Disallow: /content/html
+Host: www.finanz.ru
+Sitemap: http://www.finanz.ru/sitemap/sitemap.xml

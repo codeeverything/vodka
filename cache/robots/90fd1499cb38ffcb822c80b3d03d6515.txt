@@ -1,0 +1,15 @@
+1428243801
+http://www.esrc.ac.uk
+http://www.esrc.ac.uk/robots.txt
+1428241053
+http://www.esrc.ac.uk
+http://www.esrc.ac.uk/robots.txt
+User-Agent: *
+Disallow: /error303.aspx
+Disallow: /error404.aspx
+Disallow: /error500.aspx
+Disallow: /search/search-page.aspx
+Disallow: /search/rss.aspx
+
+User-Agent: AhrefsBot
+Disallow: / 

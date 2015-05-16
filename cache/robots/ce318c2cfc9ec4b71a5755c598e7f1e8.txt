@@ -1,0 +1,31 @@
+1428479624
+https://us.nakedwines.com/sweet-spot
+https://us.nakedwines.com/robots.txt
+1428479610
+https://us.nakedwines.com/sweetspot
+https://us.nakedwines.com/robots.txt
+1428419022
+https://us.nakedwines.com
+https://us.nakedwines.com/robots.txt
+1428243871
+https://us.nakedwines.com
+https://us.nakedwines.com/robots.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User-agent: *
+Disallow: /search.htm
+Disallow: /account/
+Sitemap: http://us.nakedwines.com/sitemap.xml<!-- included content: 38288 /content/assets/robots.txt -->
+

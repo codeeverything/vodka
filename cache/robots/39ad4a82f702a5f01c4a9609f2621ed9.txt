@@ -1,0 +1,6 @@
+1428420122
+http://contests.showcase.ca/outlandercontest
+http://contests.showcase.ca/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

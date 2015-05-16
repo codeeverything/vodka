@@ -1,0 +1,24 @@
+1427822698
+https://wordpress.org
+https://wordpress.org/robots.txt
+1427821556
+https://wordpress.org
+https://wordpress.org/robots.txt
+1427818248
+https://wordpress.org/
+https://wordpress.org/robots.txt
+1427805159
+https://wordpress.org/
+https://wordpress.org/robots.txt
+1427803783
+https://wordpress.org/
+https://wordpress.org/robots.txt
+User-agent: *
+Disallow: /search
+Disallow: /support/search.php
+Disallow: /extend/plugins/search.php
+Disallow: /plugins/search.php
+Disallow: /extend/themes/search.php
+Disallow: /themes/search.php
+Disallow: /support/rss
+Disallow: /archive/

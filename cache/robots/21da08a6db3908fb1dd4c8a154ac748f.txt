@@ -1,0 +1,19 @@
+1428422153
+http://www.aboutads.info/principles
+http://www.aboutads.info/robots.txt
+1428422145
+http://www.aboutads.info
+http://www.aboutads.info/robots.txt
+1428418736
+http://www.aboutads.info/PMC
+http://www.aboutads.info/robots.txt
+1428417776
+http://www.aboutads.info/choices
+http://www.aboutads.info/robots.txt
+1428244484
+http://www.aboutads.info/PMC
+http://www.aboutads.info/robots.txt
+User-agent: *
+Disallow: /User-agent: *
+Disallow: /User-agent: *
+Disallow: /

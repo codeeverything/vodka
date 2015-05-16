@@ -1,0 +1,6 @@
+1428244636
+http://edgers-review.toptenreviews.com
+http://edgers-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

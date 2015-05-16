@@ -1,0 +1,26 @@
+1428418887
+http://www.cogeco.ca
+http://www.cogeco.ca/robots.txt
+1428242704
+http://www.cogeco.ca
+http://www.cogeco.ca/robots.txt
+User-agent: *
+
+Sitemap: http://www.cogeco.ca/sitemap.xml
+
+Disallow: /web/resources/css
+Disallow: /web/resources/error
+Disallow: /web/resources/external
+Disallow: /web/resources/font
+Disallow: /web/resources/images
+Disallow: /web/resources/include
+Disallow: /web/resources/js
+Disallow: /web/resources/swf
+Disallow: /web/resources/xml
+Disallow: /cable/vsd
+Disallow: /cable/vod
+Disallow: /cable/on/en/customersupport
+Disallow: /cable/qc/en/customersupport
+Disallow: /cable/qc/fr/supportenligne
+Disallow: /cable/on/fr/supportenligne
+Disallow: /ecard

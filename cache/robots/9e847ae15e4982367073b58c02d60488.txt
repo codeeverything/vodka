@@ -1,0 +1,6 @@
+1427735416
+http://www.youba.com
+http://www.youba.com/robots.txt
+User-agent: *
+Disallow:/admin/
+Allow: /

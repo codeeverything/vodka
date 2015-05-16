@@ -1,0 +1,6 @@
+1428244532
+http://corkscrews-review.toptenreviews.com
+http://corkscrews-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

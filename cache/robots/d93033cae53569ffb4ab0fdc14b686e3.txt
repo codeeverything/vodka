@@ -1,0 +1,37 @@
+1427821655
+http://www.openstreetmap.org
+http://www.openstreetmap.org/robots.txt
+1427820681
+http://www.openstreetmap.org/copyright
+http://www.openstreetmap.org/robots.txt
+1427818345
+http://www.openstreetmap.org/
+http://www.openstreetmap.org/robots.txt
+1427818154
+http://www.openstreetmap.org/copyright
+http://www.openstreetmap.org/robots.txt
+1427803888
+http://www.openstreetmap.org/
+http://www.openstreetmap.org/robots.txt
+1427803522
+http://www.openstreetmap.org/copyright
+http://www.openstreetmap.org/robots.txt
+Sitemap: http://www.openstreetmap.org/sitemap.xml.gz
+
+User-agent: *
+Disallow: /user/*/traces/
+Allow: /user/
+Disallow: /traces/tag/
+Disallow: /traces/page/
+Disallow: /api/
+Disallow: /edit
+Disallow: /browse
+Disallow: /login
+Disallow: /geocoder
+Disallow: /history
+Disallow: /message
+Disallow: /trace/
+Disallow: /*lat=
+Disallow: /*node=
+Disallow: /*way=
+Disallow: /*relation=

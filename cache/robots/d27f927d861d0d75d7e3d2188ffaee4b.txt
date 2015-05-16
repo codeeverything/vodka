@@ -1,0 +1,6 @@
+1428244847
+http://foot-massagers-review.toptenreviews.com
+http://foot-massagers-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

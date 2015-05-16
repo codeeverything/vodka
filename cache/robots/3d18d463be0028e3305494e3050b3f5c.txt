@@ -1,0 +1,11 @@
+1427802316
+http://ldxy.sjwyx.com
+http://ldxy.sjwyx.com/robots.txt
+1427802242
+http://ldxy.sjwyx.com
+http://ldxy.sjwyx.com/robots.txt
+User-agent: * 
+Disallow: /*?*
+Disallow: *.aspx*
+Disallow: *.js*
+

@@ -1,0 +1,7 @@
+1427891884
+http://www.cbssports.com
+http://www.cbssports.com/robots.txt
+User-agent: *
+Disallow: /info/search
+Disallow: /data/*
+Disallow: /partners

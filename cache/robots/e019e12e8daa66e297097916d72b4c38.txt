@@ -1,0 +1,13 @@
+1427891791
+http://www.actstudent.org
+http://www.actstudent.org/robots.txt
+# go away
+#ACTstudent Web Site No-Robots File
+User-agent: *
+
+Disallow: /account/
+Disallow: /sampletest/english/
+Disallow: /sampletest/math/
+Disallow: /sampletest/reading/
+Disallow: /sampletest/science/
+Disallow: /tour/

@@ -1,0 +1,16 @@
+1428420692
+http://koktajl.fakt.pl
+http://koktajl.fakt.pl/robots.txt
+1428417490
+http://koktajl.fakt.pl
+http://koktajl.fakt.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/

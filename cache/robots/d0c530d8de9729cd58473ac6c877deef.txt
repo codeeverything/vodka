@@ -1,0 +1,20 @@
+1428159129
+http://connect.internetsociety.org
+http://connect.internetsociety.org/robots.txt
+1427891220
+http://connect.internetsociety.org
+http://connect.internetsociety.org/robots.txt
+User-Agent: *
+Allow: /HigherLogic/System/DownloadDocument.ashx
+Allow: /HigherLogic/System/DownloadDocumentFile.ashx
+Disallow: /ScriptResource.axd  
+Disallow: /WebResource.axd 
+Disallow: /*.axd$
+Disallow: /*/SearchLibrary
+Disallow: /*/PrintMessage
+Disallow: /HigherLogic/
+Disallow: /*/RSS
+Disallow: /*postreply*
+Disallow: /*postamessage*
+Disallow: /*postmessage*
+Disallow: /*forwardmessages*

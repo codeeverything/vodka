@@ -1,0 +1,5 @@
+1428417253
+http://www.mariobatali.com
+http://www.mariobatali.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/

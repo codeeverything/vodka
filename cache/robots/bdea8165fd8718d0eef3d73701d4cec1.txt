@@ -1,0 +1,6 @@
+1428242496
+http://merchant-account-services-review.toptenreviews.com
+http://merchant-account-services-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

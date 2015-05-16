@@ -1,0 +1,140 @@
+1427823537
+http://infinitybladegame.com
+http://infinitybladegame.com/robots.txt
+1427822992
+http://infinitybladegame.com/faq
+http://infinitybladegame.com/robots.txt
+1427822910
+http://infinitybladegame.com/infinityblade1/faq
+http://infinitybladegame.com/robots.txt
+1427821673
+http://infinitybladegame.com/infinityblade2
+http://infinitybladegame.com/robots.txt
+1427819462
+http://infinitybladegame.com/faq
+http://infinitybladegame.com/robots.txt
+1427818367
+http://infinitybladegame.com/infinityblade2/
+http://infinitybladegame.com/robots.txt
+1427805985
+http://infinitybladegame.com//
+http://infinitybladegame.com/robots.txt
+1427805435
+http://infinitybladegame.com/faq
+http://infinitybladegame.com/robots.txt
+1427805231
+http://infinitybladegame.com/infinityblade2/
+http://infinitybladegame.com/robots.txt
+1427803914
+http://infinitybladegame.com/infinityblade2/
+http://infinitybladegame.com/robots.txt
+<!DOCTYPE html>
+<!--[if IE 9]>     <html class="ie ie9 lte9"> <![endif]-->
+<!--[if !IE]><!--> <html>             <!--<![endif]-->
+
+	<head>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="description" content="Home of ChAIR's blockbuster video game series for iPhone, iPad, and iPod Touch, and bestselling Infinity Blade novels. Infinity Blade III available now!">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<title>Official Infinity Blade Website</title>
+
+		<meta name="fragment" content="!">
+		<meta property="og:title" content="Official Infinity Blade Website">
+		<meta property="og:description" content="Home of ChAIR's blockbuster video game series for iPhone, iPad, and iPod Touch, and bestselling Infinity Blade novels. Infinity Blade III available now!">
+		<meta property="og:site_name" content="Official Infinity Blade Website">
+		<meta property="og:image" content="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/facebook.png">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="http://infinityblade.com">
+
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-icon-144x144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-icon-114x114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-icon-72x72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-icon-precomposed.png">
+
+		<link href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-startup-image-320x460.jpg" media="(device-width: 320px)" rel="apple-touch-startup-image">
+		<link href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-startup-image-640x920.jpg" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+		<link href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-startup-image-640x1096.jpg" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+		<link href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-startup-image-768x1004.jpg" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" rel="apple-touch-startup-image" />
+		<link href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-startup-image-1024x748.jpg" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)" rel="apple-touch-startup-image" />
+		<link href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-startup-image-1536x2008.jpg" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+		<link href="http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/images/meta/apple-touch-startup-image-2048x1496.jpg" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+
+		<meta name="apple-mobile-web-app-title" content="Infinity Blade Website">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
+
+
+		
+		
+		<link rel="stylesheet" href="/styles/main.css">
+		
+		<!--[if IE 6]>
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+			<script type="text/javascript" src="/scripts/libs/jquery.notsupportedblocker.js"></script> 
+		<![endif]-->
+		<!--[if IE 7]>
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+			<script type="text/javascript" src="/scripts/libs/jquery.notsupportedblocker.js"></script> 
+		<![endif]-->
+		<!--[if IE 8]>
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+			<script type="text/javascript" src="/scripts/libs/jquery.notsupportedblocker.js"></script> 
+		<![endif]-->
+
+	</head>
+	<body>
+		<div id="image-lightbox">
+			<a class="bttnClose">&nbsp;</a>
+			<div class="inner"></div>
+			<div class="bkg">&nbsp;</div>
+		</div>
+		<div id="modals"></div>
+		<div id="notifications"></div>
+		<div id="quick-nav"></div>
+		<div id="wrapper">
+			<header></header>
+			<div id="container">
+				<div id="main">
+					    <div class="article-panel loader light homepage">
+        					<div id="loader"></div>
+        					<div id="rotater"></div>
+    					</div>
+				</div>
+			</div>        	
+			<footer></footer>
+		</div>
+		<div id="search"></div>
+
+		
+		<script>
+		window.CDN = "http://bf0982ad6cf1e32ac2bd-590fac75f7707ea7c8032b1b193445ca.r46.cf1.rackcdn.com/";
+		if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) { window.CDN = "/"; }
+		if ((/iPhone|iPod|Android|BlackBerry|Opera Mini|IEMobile/).test( navigator.userAgent || navigator.vendor || window.opera )) {
+			document.write('<script src="/scripts/mobile.js"><\/script>');
+		} else {
+			document.write('<script src="/scripts/desktop.js"><\/script>');
+		}
+		</script>
+		
+		
+
+		<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-11251639-12']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		</script>    
+
+	</body>
+</html>

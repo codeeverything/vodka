@@ -1,0 +1,5 @@
+1428418458
+http://www.fanatik.ro/socant-vedeta-antenei-la-un-pas-de-moarte-accident-incredibil-443148
+http://www.fanatik.ro/robots.txt
+User-agent: *
+Disallow: 

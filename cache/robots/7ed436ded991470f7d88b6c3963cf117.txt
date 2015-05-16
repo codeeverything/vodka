@@ -1,0 +1,93 @@
+1427632224
+https://helpx.adobe.com/support.html?promoid=KLXMW
+https://helpx.adobe.com/robots.txt
+#
+# This file is used to allow crawlers to index our site.
+#
+# List of all web robots: http://www.robotstxt.org/wc/active/html/index.html
+#
+# Check robots.txt at:
+# http://www.searchengineworld.com/cgi-bin/robotcheck.cgi
+#
+
+# Details about Googlebot available at: http://www.google.com/bot.html
+# The Google search engine can see everything
+User-agent: Googlebot
+Disallow: /*/helpmap*
+Disallow: /*/photoshop-elements-editor/
+Disallow: /*/premiere-elements-editor/
+Disallow: /*/photoshop-elements/mac-app-store/
+Disallow: /*/premiere-elements/mac-app-store/
+Disallow: /*/elements-organizer/mac-app-store/
+Disallow: /*/urlpointers
+Disallow: /*/x-productkb/global/phone-support-orders.html
+Disallow: /contact/products/
+Disallow: /content/dam/*.doc$
+Disallow: /content/dam/*.docx$
+Disallow: /content/dam/*.pdf$
+Disallow: /content/dam/*.rtf$
+Disallow: /content/dam/*.xls$
+Disallow: /content/dam/*.xlsx$
+Allow: /content/dam/*.jpg$
+Allow: /content/dam/*.png$
+Disallow: /content/help/
+Disallow: /entp/
+Disallow: /etc/
+Disallow: /iframes/
+Disallow: /qe/
+Disallow: /search/searchtips.html
+Disallow: /tutorials-search.html*
+
+# All other robots will be restricted from accessing the following directories
+User-agent: *
+Disallow: /*/helpmap*
+Disallow: /*/photoshop-elements-editor/
+Disallow: /*/premiere-elements-editor/
+Disallow: /*/photoshop-elements/mac-app-store/
+Disallow: /*/premiere-elements/mac-app-store/
+Disallow: /*/elements-organizer/mac-app-store/
+Disallow: /*/urlpointers
+Disallow: /*/x-productkb/global/phone-support-orders.html
+Disallow: /contact/products/
+Disallow: /content/dam/*.doc$
+Disallow: /content/dam/*.docx$
+Disallow: /content/dam/*.pdf$
+Disallow: /content/dam/*.rtf$
+Disallow: /content/dam/*.xls$
+Disallow: /content/dam/*.xlsx$
+Allow: /content/dam/*.jpg$
+Allow: /content/dam/*.png$
+Disallow: /content/help/
+Disallow: /entp/
+Disallow: /etc/
+Disallow: /iframes/
+Disallow: /qe/
+Disallow: /search/searchtips.html
+Disallow: /tutorials-search.html*
+
+# Allow our GSA to crawl all directories except for /en_US/ssi
+User-agent: gsa-crawler-www
+Disallow: /*/helpmap*
+Disallow: /*/photoshop-elements-editor/
+Disallow: /*/premiere-elements-editor/
+Disallow: /*/photoshop-elements/mac-app-store/
+Disallow: /*/premiere-elements/mac-app-store/
+Disallow: /*/elements-organizer/mac-app-store/
+Disallow: /*/urlpointers
+Disallow: /*/x-productkb/global/phone-support-orders.html
+Disallow: /contact/products/
+Disallow: /content/dam/*.doc$
+Disallow: /content/dam/*.docx$
+Disallow: /content/dam/*.pdf$
+Disallow: /content/dam/*.rtf$
+Disallow: /content/dam/*.xls$
+Disallow: /content/dam/*.xlsx$
+Allow: /content/dam/*.jpg$
+Allow: /content/dam/*.png$
+Disallow: /content/help/
+Disallow: /entp/
+Disallow: /etc/
+Disallow: /iframes/
+Disallow: /qe/
+Disallow: /search/searchtips.html
+Disallow: /tutorials-search.html*

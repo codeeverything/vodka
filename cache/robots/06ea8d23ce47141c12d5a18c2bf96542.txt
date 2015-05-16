@@ -1,0 +1,8 @@
+1427891556
+http://wexnermedical.osu.edu
+http://wexnermedical.osu.edu/robots.txt
+User-agent: *
+Disallow: /request-an-appointment/
+Sitemap: sitemap1.xml
+Sitemap: sitemap-medicalcenter.xml
+Sitemap: http://cancer.osu.edu/sitemap-cancer.xml

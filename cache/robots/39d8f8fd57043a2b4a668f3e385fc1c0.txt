@@ -1,0 +1,8 @@
+1427735340
+http://feeds.feedburner.com/GamasutraFeatureArticles
+http://feeds.feedburner.com/robots.txt
+1427734476
+http://feeds.feedburner.com/GamasutraFeatureArticles
+http://feeds.feedburner.com/robots.txt
+User-agent: *
+Disallow: /~a/

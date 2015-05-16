@@ -1,0 +1,15 @@
+1428419327
+http://whatsnext.onet.pl/#utm_campaign=ThematicBlocks&utm_source=KS&utm_medium=Without&utm_content=Item1_198x253&utm_term=Nie+przegap
+http://whatsnext.onet.pl/robots.txt
+1428419327
+http://whatsnext.onet.pl
+http://whatsnext.onet.pl/robots.txt
+1428419307
+http://whatsnext.onet.pl/#utm_campaign=MainTopic&utm_source=KS&utm_medium=SubItem&utm_content=OverallItem4&utm_term=Galaxy+S6+-+to+trzeba+wiedzie%c4%87+o+nowym+smartfonie!
+http://whatsnext.onet.pl/robots.txt
+User-agent: *
+Disallow: /*zglos-naruszenie.html
+Disallow: /*odpowiedz.html 
+Disallow: /*komentuj.htm
+Disallow: /*?fb_*
+Disallow: /szukaj/*

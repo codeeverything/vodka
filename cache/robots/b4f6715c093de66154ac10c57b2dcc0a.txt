@@ -1,0 +1,6 @@
+1428422485
+http://dragiempoglowie.przegladsportowy.pl
+http://dragiempoglowie.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

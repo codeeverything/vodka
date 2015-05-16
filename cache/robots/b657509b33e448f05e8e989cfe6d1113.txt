@@ -1,0 +1,6 @@
+1428244731
+http://elliptical-machines-review.toptenreviews.com
+http://elliptical-machines-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

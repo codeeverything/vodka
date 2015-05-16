@@ -1,0 +1,7 @@
+1428236918
+https://games.yahoo.com
+https://games.yahoo.com/robots.txt
+User-agent: *
+Disallow:
+Sitemap: https://games.yahoo.com/sitemap.xml
+

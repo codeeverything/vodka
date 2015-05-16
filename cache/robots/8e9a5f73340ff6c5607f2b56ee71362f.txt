@@ -1,0 +1,6 @@
+1428244875
+http://garbage-disposals-review.toptenreviews.com
+http://garbage-disposals-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

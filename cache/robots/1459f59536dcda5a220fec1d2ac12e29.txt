@@ -1,0 +1,31 @@
+1428419012
+http://www.nakedwines.com
+http://www.nakedwines.com/robots.txt
+1428417213
+http://www.nakedwines.com/bbcwinepage2012
+http://www.nakedwines.com/robots.txt
+1428243867
+http://www.nakedwines.com
+http://www.nakedwines.com/robots.txt
+1428241822
+http://www.nakedwines.com/bbcwinepage2012
+http://www.nakedwines.com/robots.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User-agent: *
+Disallow: /search.htm
+Disallow: /account/
+Sitemap: http://us.nakedwines.com/sitemap.xml<!-- included content: 38288 /content/assets/robots.txt -->
+

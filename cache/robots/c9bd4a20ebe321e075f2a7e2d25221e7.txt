@@ -1,0 +1,13 @@
+1428419119
+http://www.nwemail.co.uk
+http://www.nwemail.co.uk/robots.txt
+1428243949
+http://www.nwemail.co.uk
+http://www.nwemail.co.uk/robots.txt
+##ACAP version=1.0
+
+User-agent: *
+Disallow:
+
+ACAP-crawler: *
+# User-agent: *

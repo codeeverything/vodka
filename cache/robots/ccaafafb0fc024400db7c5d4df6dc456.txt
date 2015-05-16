@@ -1,0 +1,6 @@
+1428244658
+http://electric-fireplace-review.toptenreviews.com
+http://electric-fireplace-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

@@ -1,0 +1,18 @@
+1427735164
+http://www.gamesgames.com
+http://www.gamesgames.com/robots.txt
+1427734434
+http://www.gamesgames.com
+http://www.gamesgames.com/robots.txt
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /search.html
+Disallow: /user/
+Disallow: /?
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:

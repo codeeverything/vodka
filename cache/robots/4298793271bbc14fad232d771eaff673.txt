@@ -1,0 +1,8 @@
+1427800518
+http://www.anruan.com
+http://www.anruan.com/robots.txt
+User-agent: *
+Disallow: /cnum.php
+Disallow: /search.php
+Disallow: /tags/
+Disallow: /newstags/

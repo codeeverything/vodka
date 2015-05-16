@@ -1,0 +1,17 @@
+1427735340
+http://reports.informationweek.com/search
+http://reports.informationweek.com/robots.txt
+1427735189
+http://reports.informationweek.com
+http://reports.informationweek.com/robots.txt
+1427734428
+http://reports.informationweek.com
+http://reports.informationweek.com/robots.txt
+User-agent: *
+Disallow: /assetimages
+Disallow: /author
+Disallow: /cache
+Disallow: /crons
+Disallow: /temp
+Disallow: /uploads
+Disallow: /phpcsvutils

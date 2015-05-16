@@ -1,0 +1,6 @@
+1428245033
+http://water-heaters-review.toptenreviews.com
+http://water-heaters-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

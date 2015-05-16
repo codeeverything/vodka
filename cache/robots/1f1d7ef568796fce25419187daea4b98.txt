@@ -1,0 +1,5 @@
+1428234979
+http://www.chameleonjohn.com
+http://www.chameleonjohn.com/robots.txt
+User-agent: *
+Disallow: /goto

@@ -1,0 +1,19 @@
+1428422841
+http://www.bbcwpressroom.com/bbc-america/contact
+http://www.bbcwpressroom.com/robots.txt
+1428422839
+http://www.bbcwpressroom.com/bbc-america/overview
+http://www.bbcwpressroom.com/robots.txt
+1428420961
+http://www.bbcwpressroom.com/bbc-america
+http://www.bbcwpressroom.com/robots.txt
+User-agent: *
+Disallow:
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /content/plugins
+Disallow: /content/cache
+Disallow: /content/themes
+Disallow: /trackback
+Disallow: /comments

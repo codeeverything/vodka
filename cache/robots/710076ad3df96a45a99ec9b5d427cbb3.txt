@@ -1,0 +1,20 @@
+1428419116
+http://www.stalbansreview.co.uk
+http://www.stalbansreview.co.uk/robots.txt
+1428243986
+http://www.stalbansreview.co.uk
+http://www.stalbansreview.co.uk/robots.txt
+Sitemap: www.stalbansreview.co.uk/sitemap.xml
+User-agent: *
+Disallow: /__siren/
+Disallow: 
+
+User-agent: Googlebot-News
+Disallow: /advertise/
+Disallow: /advertising/
+Disallow: /li/
+Disallow: /mart/
+Disallow: /trade_directory/
+Disallow: /dating/
+Disallow: /homes/
+Disallow: /jobs/

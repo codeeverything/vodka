@@ -1,0 +1,6 @@
+1428244557
+http://selfie-sticks-review.toptenreviews.com
+http://selfie-sticks-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

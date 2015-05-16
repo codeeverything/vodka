@@ -1,0 +1,10 @@
+1428159059
+http://www.cryptzone.com
+http://www.cryptzone.com/robots.txt
+1427891156
+http://www.cryptzone.com
+http://www.cryptzone.com/robots.txt
+# Don't allow web crawlers to index Craft
+User-agent: *
+Disallow: /craft/
+Disallow: /downloadcenter/

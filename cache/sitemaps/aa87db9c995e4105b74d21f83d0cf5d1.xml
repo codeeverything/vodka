@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url><loc>http://plymouth.comptown.uk/</loc></url>
+<url><loc>http://plymouth.comptown.uk/auth/forgottenpassword/</loc></url>
+<url><loc>http://plymouth.comptown.uk/auth/login/</loc></url>
+<url><loc>http://plymouth.comptown.uk/auth/register/</loc></url>
+<url><loc>http://plymouth.comptown.uk/terms-and-conditions/</loc></url>
+<url><loc>http://plymouth.comptown.uk/privacy-policy/</loc></url>
+<url><loc>http://plymouth.comptown.uk/comptown-cookies/</loc></url>
+<url><loc>http://plymouth.comptown.uk/anti-spam/</loc></url>
+<url><loc>http://plymouth.comptown.uk/about-us/</loc></url>
+<url><loc>http://plymouth.comptown.uk/about-us/contact/</loc></url>
+<url><loc>http://plymouth.comptown.uk/winners-comments/</loc></url>
+<url><loc>http://plymouth.comptown.uk/category/holidays/</loc></url>
+<url><loc>http://plymouth.comptown.uk/category/tech/</loc></url>
+<url><loc>http://plymouth.comptown.uk/category/home/</loc></url>
+<url><loc>http://plymouth.comptown.uk/category/lifestyle/</loc></url>
+<url><loc>http://plymouth.comptown.uk/category/motors/</loc></url>
+<url>
+                    <loc>http://plymouth.comptown.uk/competition/win-yourself-a-week-in-new-york/1/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/fedakcorp/images/1416480451_New-York-skyline-430x270.png</image:loc>
+                      <image:title>Win yourself a week in New York</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-one-months-free-fuel/2/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/comptown/images/1406207653_P-7dfa9a34-c3e7-4dc5-9261-73e090d82497.thumb.jpg</image:loc>
+                      <image:title>One months FREE fuel</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/luxury-dinner-for-two/3/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/comptown/images/1406207511_red-wine-at-a-christmas-dinner-300x200.jpg</image:loc>
+                      <image:title>Luxury Dinner For Two</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-a-new-nutribullet/4/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/mediabowl/images/1417004929_nutribullet.jpg</image:loc>
+                      <image:title>Win a Nutribullet</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/free-power-for-a-whole-year/5/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/comptown/images/1411479673_lp-bg-relax.png</image:loc>
+                      <image:title>Free power for a whole year</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-a-nespresso-coffee-machine/7/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/mediabowl/images/1421166995_Delonghi Nespresso Pixie coffee machine (1).jpg</image:loc>
+                      <image:title>Win a Nespresso Coffee Machine</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/five-star-spa-hotel-stay/8/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/mediabowl/images/1417001620_spa.jpg</image:loc>
+                      <image:title>5* overnight spa hotel stay</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-150-pound-amazon-voucher/9/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/comptown/images/1406637205_amazon-vouchers.jpg</image:loc>
+                      <image:title>£150 Amazon Vouchers</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-an-iphone-6/11/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/mediabowl/images/1417004449_iphone6.jpg</image:loc>
+                      <image:title>Win an Iphone 6</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-2000-cash/12/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/mediabowl/images/1421058836_moneyprize.jpg</image:loc>
+                      <image:title>Win £2000 Cash</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-a-garden-makeover-worth-2000/13/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/mediabowl/images/1421061304_gardenthumb.jpg</image:loc>
+                      <image:title>Win a garden makeover worth £2,000</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-an-eating-challenge/14/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/mediabowl/images/1424773322_eatingchallenge.jpg</image:loc>
+                      <image:title>Win an Eating Challenge</image:title>
+                    </image:image>
+                    </url><url>
+                    <loc>http://plymouth.comptown.uk/competition/win-a-50-amazon-voucher/16/</loc>
+                    <image:image>
+                      <image:loc>http://cdn1.sharebowl.co.uk/mediabowl/images/1422010579_1417004646_amazon50.jpg</image:loc>
+                      <image:title>Win a £50 Amazon voucher</image:title>
+                    </image:image>
+                    </url></urlset>

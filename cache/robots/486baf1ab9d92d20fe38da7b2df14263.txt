@@ -1,0 +1,14 @@
+1428418898
+http://www.1914.org
+http://www.1914.org/robots.txt
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /events-calendar/page/*
+Disallow: /events-calendar/?keywords=*
+Disallow: /events-calendar/
+Allow: /events-calendar/?id=*
+Disallow: /partners-list/
+Disallow: /?
+Disallow: /wp-admin/
+Disallow: /wp-includes/

@@ -1,0 +1,10 @@
+1428243951
+http://www.cumberlandnews.co.uk
+http://www.cumberlandnews.co.uk/robots.txt
+##ACAP version=1.0
+
+User-agent: *
+Disallow:
+
+ACAP-crawler: *
+# User-agent: *

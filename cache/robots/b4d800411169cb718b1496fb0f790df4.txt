@@ -1,0 +1,6 @@
+1428421578
+http://www.glastonburyfestivals.co.uk
+http://www.glastonburyfestivals.co.uk/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

@@ -1,0 +1,7 @@
+1428322672
+http://cg-17.wmo.int
+http://cg-17.wmo.int/robots.txt
+User-agent: *
+Disallow: /feeds
+Disallow: /*/_/
+Sitemap: http://cg-17.wmo.int:80/system/feeds/sitemap

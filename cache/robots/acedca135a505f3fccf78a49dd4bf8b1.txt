@@ -1,0 +1,6 @@
+1428244411
+http://spring-mattresses-review.toptenreviews.com
+http://spring-mattresses-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

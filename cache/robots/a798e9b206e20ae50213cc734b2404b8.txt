@@ -1,0 +1,13 @@
+1428420207
+http://koszykowka.przegladsportowy.pl/Koszykowka,kategoria,280.html
+http://koszykowka.przegladsportowy.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/

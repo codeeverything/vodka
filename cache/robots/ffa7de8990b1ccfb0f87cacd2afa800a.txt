@@ -1,0 +1,9 @@
+1427910775
+http://AmeriFlux.lbl.gov
+http://AmeriFlux.lbl.gov/robots.txt
+1427910555
+http://AmeriFlux.lbl.gov
+http://AmeriFlux.lbl.gov/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Sitemap: http://ameriflux.lbl.gov/sitemap.xml

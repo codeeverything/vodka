@@ -1,0 +1,14 @@
+1427735771
+http://nslm.topzj.com
+http://nslm.topzj.com/robots.txt
+User-agent: *
+Allow: /
+Disallow: /gonglue/
+Disallow: /yys/
+Disallow: /main
+Disallow: /news_list
+Disallow: /paihangbang_list
+Disallow: /yys_map
+Disallow: /webgame_map
+Disallow: /gonglue_list
+Sitemap:http://www.topzj.com/sitemap.xml

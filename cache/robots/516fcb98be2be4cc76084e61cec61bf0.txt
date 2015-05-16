@@ -1,0 +1,317 @@
+1427891255
+http://www.ieee-acm-ton.org
+http://www.ieee-acm-ton.org/robots.txt
+1427890813
+http://www.ieee-acm-ton.org
+http://www.ieee-acm-ton.org/robots.txt
+1427829172
+http://www.ieee-acm-ton.org
+http://www.ieee-acm-ton.org/robots.txt
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>IEEE/ACM Transactions on Networking</title>
+	<!--base href="http://www.ieee-acm-ton.org" /-->
+	<style type="text/css">
+
+		body {
+		margin: 0;
+		padding-left: 200px;    /* LC fullwidth */
+		padding-right: 190px;   /* RC fullwidth + CC padding */
+		min-width: 240px;       /* LC fullwidth + CC padding */
+		max-width: px;       /* LC fullwidth + CC padding */
+		font: 70% "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
+		}
+
+		h1, h2, h3, h4, h5, h6 {
+		color: Black;
+		background-color: transparent;
+		font-family: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
+		font-weight: normal;
+		margin: 0 0 0.25em 0;
+		/*border-bottom: 1px solid #8c1e26;*/
+		}
+
+		h1 a,
+		h2 a,
+		h3 a,
+		h4 a,
+		h5 a,
+		h6 a {
+		color: Black ! important;
+		text-decoration: none;
+		}
+
+		h1 {
+		font-size: 110%;
+		font-weight: bold;
+		}
+
+		h2 {
+		font-size: 100%;
+		font-weight: bold;
+		}
+
+		h3 {
+		font-size: 90%;
+		border-bottom: none;
+		font-weight: bold;
+		}
+
+		h4 {
+		font-size: 80%;
+		border-bottom: none;
+		font-weight: bold;
+		}
+
+		h5 {
+		font-size: 75%;
+		border-bottom: none;
+		font-weight: bold;
+		}
+
+		h6 {
+		font-size: 70%;
+		border-bottom: none;
+		font-weight: bold;
+		}
+
+		ol, ul {
+		padding: 0em; margin: 1.5em;
+		}
+
+		li {
+		padding: 0em; margin: .5em;
+		}
+
+		#header, #footer {
+		height: 150px;
+		margin-left: -200px;    /* LC fullwidth */
+		margin-right: -190px;   /* RC fullwidth + CC padding */
+		}
+
+		.column {
+		position: relative;
+		float: left;
+		}
+
+		#center {
+		padding: 0px 20px;
+		width: 100%;
+		}
+
+		#left {
+		width: 180px;           /* LC width */
+		padding: 0px 10px 0px 30px;        /* LC padding */
+		right: 240px;           /* LC fullwidth + CC padding */
+		margin-left: -100%;
+		}
+
+		#right {
+		width: 130px;           /* RC width */
+		padding: 0 10px;        /* RC padding */
+		margin-right: -100%;
+		}
+
+		#footer {
+		clear: both;
+		}
+
+		/*** IE Fix ***/
+		* html #left {
+		left: 150px;            /* RC fullwidth */
+		}
+
+		body {
+		background: #FFF;
+		}
+
+		#header, #footer {
+		font-size: 60%;
+		text-align: center;
+		padding: 0.3em 0;
+		background: #FFF;
+		}
+
+		#left {
+		background: #FFF;
+		}
+
+		#center {
+		background: #FFF;
+		}
+
+		#right {
+		background: #FFF;
+		}
+
+		.column {
+		padding-top: 1em;
+		text-align: justify;
+		}
+
+	</style>
+</head>
+
+<body>
+
+	<div id="header">
+		<br/>
+		<img src="obj/net.gif" alt="ToN logo"/>
+		<br />
+	</div>
+
+	<div id="center" class="column">
+
+<p>The <i>IEEE/ACM Transactions on Networking</i> is an archival, bimonthly
+journal  co-sponsored by the <a href="http://www.comsoc.org">IEEE
+Communications Society</a>, the <a href="http://www.computer.org/">IEEE
+Computer Society</a>, and the <a href="http://info.acm.org/">ACM</a> with
+its <a href="http://www.acm.org/sigcomm/">Special Interest Group on Data
+Communications (SIGCOMM)</a>.</p>
+
+<h1><a name="scope">Scope of the Journal</a></h1>
+
+<p>The <i>IEEE/ACM Transactions on Networking</i> is committed to the timely
+publication of high-quality papers that advance the state of the art in
+communication network research.  The journal publishes theoretical research
+presenting new techniques, concepts, or analyses and applied contributions
+reporting on experiences and experiments with actual systems.</p>
+
+<ul>
+
+<li><b>High level objective:</b> to publish high-quality original research
+results derived from theoretical or experimental exploration of the area of
+communication/computer networking, covering all sorts of information transport
+networks over all sorts of physical layer technologies, both wireline (all
+kinds of guided media: e.g., copper, optical) and wireless (e.g.,
+radio-frequency, acoustic, underwater, infra-red), or hybrids of these.  The
+journal welcomes applied contributions reporting on novel experiences and
+experiments with actual systems.</li>
+
+<li><b>Network types:</b> Chip-scale to global telecom to interplanetary,
+networks-on-chip, high-speed intra-system interconnection networks, backbone
+and access telecom networks, logical and overlay networks, cellular mobile
+telecom networks, wireless local area networks, ad hoc and mesh wireless
+networks, intervehicular networks, delay/disruption-tolerant networks,
+etc.</li>
+
+<li><b>Networking aspects:</b> architecture and design (including algorithms
+for network resource allocation, traffic engineering, modeling, and performance
+analysis), protocols (including formal methods for the verification, testing,
+and conversion of communication protocols), network software (including
+software architecture and applications such as directory services, call
+processing, and signaling), network hardware (including novel hardware
+architectures, network devices, and their usage), operations and management
+(including network planning, evolution, reliability, and survivability),
+measurements (including insights gained from operational networks and network
+tomography), and security (including network intrusion detection and control of
+the spread of malicious software).</li>
+
+<li><b>Application domains:</b> telephony (circuit and packet, voice and
+video), all applications traditionally associated with world-wide packet
+networks (file transfer, email, World Wide Web, streaming video, etc.), storage
+and data centers, peer-to-peer file sharing, online social networks,
+cyber-physical systems (including distributed sensing, function computation
+over networks, and control over networks), etc.</li>
+
+<li><b>Interfaces with networks in other domains:</b> including information
+dissemination and related distributed systems aspects of social networks and
+biologically or nature-inspired techniques for communication networks,
+etc.</li>
+
+</ul>
+
+<p>Please note that the IEEE/ACM Transactions on Networking does not publish
+survey or tutorial manuscripts.  Manuscripts whose primary contribution is to
+review and classify the state of the art should instead be directed to one of
+the many venues dedicated to such topics, e.g., the <a
+href="http://www.comsoc.org/cst">IEEE Communications Surveys and
+Tutorials</a>.</p>
+
+<h1><a name="recent">Recently Accepted Papers</a></h1>
+
+<p>Papers accepted but not yet published may be found on <a
+href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359146">ToN's IEEE Xplore page</a>.</p>
+
+<h1><a name="published">Published Issues</a></h1>
+
+<p><a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=90">Current Issue</a></p>
+
+<ul>
+  <li><a href="http://portal.acm.org/browse_dl.cfm?linked=1&amp;part=transaction&amp;idx=J771&amp;coll=portal&amp;dl=ACM"> From the ACM Digital Library </a>
+ <br/> (Anyone can browse articles. Requires subscription to view articles. Issues: 1993-present)</li>
+  <li><a href="http://dl.comsoc.org/"> From the IEEE Communications Society Digital Library </a>
+ <br/> (Requires subscription to view articles.)</li>
+</ul>
+
+<h1><a name="subscriptions">Subscriptions</a></h1>
+
+Subscriptions to the <i>IEEE/ACM Transactions on Networking</i> can be obtained
+by contacting either <a href="http://www.ieee.org/">IEEE</a> or <a
+href="http://acm.org/">ACM</a> service departments:
+
+<p>IEEE Operations Center <br/>
+445 Hoes Lane <br/>
+PO Box 1331 <br/>
+Piscataway, NJ 08855-1331 <br/>
+732-981-0060</p>
+
+<p>ACM Member Services <br/>
+PO Box 12115 <br/>
+Church St. Station <br/>
+NY NY 10249 <br/>
+212-869-7440 <br/>
+acmhelp@acm.org</p>
+
+<p>The journal is available in print and on-line versions.  Please contact the
+sponsoring societies for more information regarding subscription rates.</p>
+
+	</div>
+
+	<div id="left" class="column">
+		<p><a href="index.html">Home</a><br/>
+			&nbsp;&nbsp;<a href="index.html#scope">Scope</a><br/>
+			&nbsp;&nbsp;<a href="index.html#recent">Accepted Papers</a><br/>
+			&nbsp;&nbsp;<a href="index.html#published">Published Issues</a><br/>
+			&nbsp;&nbsp;<a href="index.html#subscriptions">Subscriptions</a></p>
+		<p><a href="people.html">People</a><br/>
+			&nbsp;&nbsp;<a href="people.html#eic">Editor-in-Chief</a><br/>
+			&nbsp;&nbsp;<a href="people.html#eal">Editors-at-Large</a><br/>
+			&nbsp;&nbsp;<a href="people.html#editors">Editors</a><br/>
+			&nbsp;&nbsp;<a href="people.html#coi">Conflicts-of-Interest</a><br/>
+			&nbsp;&nbsp;<a href="people.html#steering">Steering Committee</a></p>
+		<p><a href="submissions.html">Submissions</a><br/>
+			&nbsp;&nbsp;<a href="submissions.html#format">Format</a><br/>
+			&nbsp;&nbsp;<a href="submissions.html#organization">Organization</a><br/>
+			&nbsp;&nbsp;<a href="submissions.html#priorconc">Prior&frasl;Concurrent Papers</a><br/>
+			&nbsp;&nbsp;<a href="submissions.html#copyright">Copyright Information</a><br/>
+			&nbsp;&nbsp;<a href="submissions.html#publication">Publication</a><br/>
+			&nbsp;&nbsp;<a href="submissions.html#submission">Electronic Submission</a><br/>
+			&nbsp;&nbsp;<a href="submissions.html#timeline">Submission Timeline</a><br/>
+			&nbsp;&nbsp;<a href="submissions.html#accepted">Accepted Papers</a></p>
+		<p><a href="archive.html">Archive</a></p>
+	</div>
+
+	<div id="right" class="column">
+	</div>
+
+	<div id="footer">
+
+
+		<img src="obj/ieee_mb_blue.gif" alt="IEEE logo"/>
+		<img src="obj/acm_1s_grad_pos.gif" alt="ACM Logo"/>
+		<br/><br/>
+		<p>Please send questions or comments regarding the website to the editorial assistant: ieeeton at ifp dot illinois dot edu</p>
+<p>Website last modified 2015-03-03 </p>
+<br/>
+<a href="http://validator.w3.org/check?uri=referer"><img
+src="http://www.w3.org/Icons/valid-xhtml10-blue"
+alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+<br/>
+<br/>
+	</div>
+</body>
+</html>
+

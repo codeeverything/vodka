@@ -1,0 +1,18 @@
+1428234489
+http://andrewartajos.wordpress.com
+http://andrewartajos.wordpress.com/robots.txt
+1427958167
+http://andrewartajos.wordpress.com
+http://andrewartajos.wordpress.com/robots.txt
+1427890751
+http://andrewartajos.wordpress.com
+http://andrewartajos.wordpress.com/robots.txt
+1427824626
+http://andrewartajos.wordpress.com
+http://andrewartajos.wordpress.com/robots.txt
+1427824403
+http://andrewartajos.wordpress.com
+http://andrewartajos.wordpress.com/robots.txt
+# This file was generated on Sun, 22 Mar 2015 19:00:04 +0000
+User-agent: *
+Disallow: /

@@ -1,0 +1,87 @@
+1428244158
+http://www.citymetric.com/topic/london
+http://www.citymetric.com/robots.txt
+1428244153
+http://www.citymetric.com/topic/metros
+http://www.citymetric.com/robots.txt
+1428244153
+http://www.citymetric.com/topic/maps
+http://www.citymetric.com/robots.txt
+1428244153
+http://www.citymetric.com/transport/if-londons-cable-car-were-bus-route-itd-londons-407th-busiest-876
+http://www.citymetric.com/robots.txt
+1428244145
+http://www.citymetric.com/topic/charts
+http://www.citymetric.com/robots.txt
+1428244145
+http://www.citymetric.com
+http://www.citymetric.com/robots.txt
+1428242247
+http://www.citymetric.com/cable-cars-are-taking-latin-america-storm
+http://www.citymetric.com/robots.txt
+1428242243
+http://www.citymetric.com
+http://www.citymetric.com/robots.txt
+1428241178
+http://www.citymetric.com/skylines/10-things-which-prove-londons-green-belt-terrible-idea-773
+http://www.citymetric.com/robots.txt
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/wc/robots.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/

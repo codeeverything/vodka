@@ -1,0 +1,28 @@
+1428159049
+http://www.jedsoft.org/aboutme.html
+http://www.jedsoft.org/robots.txt
+1427958416
+http://www.jedsoft.org/jed
+http://www.jedsoft.org/robots.txt
+1427910794
+http://www.jedsoft.org
+http://www.jedsoft.org/robots.txt
+1427910602
+http://www.jedsoft.org
+http://www.jedsoft.org/robots.txt
+1427891765
+http://www.jedsoft.org/jed/madewithjed.html
+http://www.jedsoft.org/robots.txt
+1427891754
+http://www.jedsoft.org
+http://www.jedsoft.org/robots.txt
+1427891142
+http://www.jedsoft.org/aboutme.html
+http://www.jedsoft.org/robots.txt
+1427890853
+http://www.jedsoft.org/jed
+http://www.jedsoft.org/robots.txt
+Disallow: /cygwin/binaries/
+Disallow: /releases/
+Disallow: /snapshots/
+Disallow: /git/

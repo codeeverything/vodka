@@ -1,0 +1,46 @@
+1427800698
+http://wp.crsky.com
+http://wp.crsky.com/robots.txt
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>非凡软件站_404</title>
+<meta http-equiv="refresh" content="3;URL=http://www.crsky.com">
+</head>
+<style>
+body{ background: url(http://www.crsky.com/theme/images/bg6a.png) repeat-x #f6faff; margin:0; padding:0; font: 12px/1.6 "Segoe UI",Tahoma,Arial;
+    word-wrap: break-word;}
+.mid{ width:950px; margin:0 auto}
+.logo{ background:url(http://www.crsky.com/theme/images/404.png) no-repeat 238px 48px; }
+.logo img{ margin-top:109px}
+.list{ margin:50px 0}
+.fooder{ margin: 40px auto 0;} 
+ul{ margin:0 auto;list-style:none;padding:0; border-top:1px solid #d5d8dc; padding-left:278px; padding-top:10px;}
+li{ list-style:none; margin:0; padding:0; float:left;}
+ul li a{ margin:0 10px; color:#333333; text-decoration:none; font-size:14px;}
+ul li a:hover{ text-decoration:underline}
+.list p{ color:#666; font-size:14px; font-family:"微软雅黑";}
+</style>
+<body>
+	<div class="mid">
+		<div class="logo"><img src="http://www.crsky.com/theme/images/crsky_logo2.png"></div>
+		<div class="list">
+			<p style="font-size:18px; color:#0964a3;">您打开的页面不存在......</p>
+			<p>HTTP错误404 ：您正在访问的页面可能已经删除、更名或暂时不可用。</p>
+			<p>如果你是从本站链接到达此页，请与管理员联系(QQ:9190104)，通知他们链接有误，以便及时更正。</p>
+			<p>如果你是从其他网站到达此页，可以点击返回首页，输入相关的关键字以便找到您所要的软件或相关内容。</p>
+			<p>您现在可以 <a href="http://www.crsky.com/default.html">返回首页</a></p>
+		</div>
+		<div class="fooder">
+			<ul>
+				<li><a href="http://bbs.crsky.com" target="_blank">非凡论坛</a> |</li>
+				<li><a href="http://www.downg.com" target="_blank">绿色软件</a> |</li>
+				<li><a href="http://shop.crsky.com" target="_blank">软件商城</a> |</li>
+				<li><a href="http://u.crsky.com" target="_blank">软件发布</a> |</li>
+				<div  style="clear: both" target="_blank"></div>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

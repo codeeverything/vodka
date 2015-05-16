@@ -1,0 +1,15 @@
+1427802371
+http://www.chinaz.com
+http://www.chinaz.com/robots.txt
+1427800469
+http://www.chinaz.com
+http://www.chinaz.com/robots.txt
+1427736713
+http://www.chinaz.com
+http://www.chinaz.com/robots.txt
+User-agent: *
+Disallow: 
+Disallow: /plus/
+Disallow: /Webbiz/
+Disallow: /News/
+Disallow: /Design/

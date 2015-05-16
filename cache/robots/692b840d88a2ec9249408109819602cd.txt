@@ -1,0 +1,5 @@
+1428244511
+http://www.avactis.com
+http://www.avactis.com/robots.txt
+User-agent: *
+Disallow: /avactis_live_stores.php

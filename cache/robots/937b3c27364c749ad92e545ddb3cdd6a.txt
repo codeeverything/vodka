@@ -1,0 +1,5 @@
+1428234730
+http://proflikesubstance.scientopia.org
+http://proflikesubstance.scientopia.org/robots.txt
+User-agent: *
+Disallow: /wp-admin/

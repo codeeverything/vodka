@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_news.xml</loc>
+    <lastmod>2014-10-06T13:17:21+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_game.xml</loc>
+    <lastmod>2014-10-06T21:46:12+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_article.xml</loc>
+    <lastmod>2014-09-23T12:00:00+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_video.xml</loc>
+    <lastmod>2014-10-02T13:29:00+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_video_list.xml</loc>
+    <lastmod>2014-10-02T13:29:00+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_demo.xml</loc>
+    <lastmod>2014-03-27T18:00:00+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_patch.xml</loc>
+    <lastmod>2014-03-27T12:00:00+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_software.xml</loc>
+    <lastmod>2014-04-10T14:40:11+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_cheat.xml</loc>
+    <lastmod>2014-05-07T00:00:00+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_cheat_list.xml</loc>
+    <lastmod>2014-05-07T00:00:00+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_screenshot.xml</loc>
+    <lastmod>2014-10-07T04:26:56+03:00</lastmod>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_static.xml</loc>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_game_news.xml</loc>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_news_static.xml</loc>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_games_static.xml</loc>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_dates.xml</loc>
+</sitemap>
+<sitemap>
+    <loc>http://www.ag.ru/sitemap_review_static.xml</loc>
+</sitemap>
+</sitemapindex>

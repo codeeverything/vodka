@@ -1,0 +1,205 @@
+1428418926
+http://www.quadro.net
+http://www.quadro.net/robots.txt
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Page Not Found | Quadro Communications</title>
+        <meta name="description" content="" />
+    	<meta name="keywords" content="" />
+        <meta name="viewport" content="width=device-width">
+       	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+		<link rel="stylesheet" type="text/css" media="screen" href="http://www.quadro.net/css/font.css?1.0" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.quadro.net/css/normalize.css?1.0" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.quadro.net/css/main.css?1.4" />        <script src="http://www.quadro.net/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="http://www.quadro.net/js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <script type="text/javascript">
+$(document).ready(function() {	
+	var overlay = $('<div id="overlay" style="height: ' + $(document).height() + 'px; width: 100%; display: block;"> </div>');
+	if($("#overlay").length == 0) {
+		overlay.fadeIn(200,function() {$(this).css({opacity: 0.0, background: '#000'}).animate({opacity:.80})}).appendTo(document.body).bind('click',function(){
+		});
+	}
+	// pop window close
+	$("div.pop a.close").click(function () {
+		$(this).parent("div").fadeOut(200);
+		$("div#overlay").fadeOut(200,function() {
+			$("#overlay").remove();
+		});
+		return false;
+	});
+	$("#overlay").click(function () {
+		$("div.pop").fadeOut(200);
+		$("div#overlay").fadeOut(200,function() {
+			$("#overlay").remove();
+		});
+		return false;
+	});
+	
+});
+</script>
+<div class="pop">
+    <a class="close" href="#">Close</a>
+    <img src="/css/images/logo.png" />
+    <h2>Welcome to Quadro Communications</h2>
+    <p>Please Choose Your Community</p>
+    <ul><li><a id="13" href="#">&gt; Bryanston</a></li><li><a id="1" href="#">&gt; Kirkton</a></li><li><a id="3" href="#">&gt; Granton</a></li><li><a id="4" href="#">&gt; Sebringville</a></li><li><a id="2" href="#">&gt; Uniondale</a></li><li><a id="5" href="#">&gt; Mitchell</a></li><li><a id="6" href="#">&gt; Lucan</a></li><li><a id="7" href="#">&gt; Dublin</a></li><li><a id="8" href="#">&gt; St. Columban</a></li><li><a id="9" href="#">&gt; Avon West - Stratford</a></li><li><a id="10" href="#">&gt; Wright Business Park</a></li></ul></div>        <div class="wrapper">
+            <!-- floating menu -->
+            <div class="menu">
+    <ul class="topmenu">
+        <li class="community">
+           <a id="communityChoice" class="community text" href="#">Choose Your Community<span></span></a><ul class="subnav"><li class="bottom"><a id="13" href="#">&gt; Bryanston</a></li><li class="bottom"><a id="1" href="#">&gt; Kirkton</a></li><li class="bottom"><a id="3" href="#">&gt; Granton</a></li><li class="bottom"><a id="4" href="#">&gt; Sebringville</a></li><li class="bottom"><a id="2" href="#">&gt; Uniondale</a></li><li class="bottom"><a id="5" href="#">&gt; Mitchell</a></li><li class="bottom"><a id="6" href="#">&gt; Lucan</a></li><li class="bottom"><a id="7" href="#">&gt; Dublin</a></li><li class="bottom"><a id="8" href="#">&gt; St. Columban</a></li><li class="bottom"><a id="9" href="#">&gt; Avon West - Stratford</a></li><li class="bottom"><a id="10" href="#">&gt; Wright Business Park</a></li></ul>        </li>
+        <li class="padding_left">
+            <a rel='popup standard 1024 768 outbound' class="onlinebills text" href="https://quadro.onlineportal.ca/">Online Bills</a>        </li>
+        <li class="padding_left">
+            <a rel='popup standard 1024 768 outbound' class="webmail text" href="https://webmail.quadro.net/">Web Mail</a>        </li>
+        <li class="sidemenuholder">
+            <ul class="sidemenu"><li class="right"><a class="home" href="http://www.quadro.net/">Home</a></li><li class="right left"><a class="about" href="http://www.quadro.net/about-quadro">About Quadro</a></li><li class=" left"><a class="contact" href="http://www.quadro.net/contact-us">Contact Us</a></li></ul>        </li>
+    </ul>
+</div>
+<header class="container">
+    <h1>
+        <a class="logo" href="http://www.quadro.net/">Quadro Communications - Since 1924</a>
+    </h1>
+    <ul class="community_search_container">
+    	<li class="community_portal">
+        	<a class="" href="http://www.quadro.net/community-portal">Community Portal</a>            
+            
+        </li>
+        <li>
+        				<form id="search" method="get" action="http://www.quadro.net/search">
+				<fieldset>
+					<input class="text" type="text" name="search" value="Search" />
+					<input class="submit" type="submit" value="Submit" />
+				</fieldset>
+			</form>
+        </li>
+    </ul>
+    
+    
+    
+    <nav>
+        <span class="nav_left"></span><ul class="nav"><li class="pipe"><a class="" href="http://www.quadro.net/mobility">Mobility</a></li><li class="pipe"><a class="" href="http://www.quadro.net/internet">Internet</a></li><li class="pipe"><a class="" href="http://www.quadro.net/phone">Phone</a></li><li class="pipe"><a class="" href="http://www.quadro.net/digital-cable">Digital Cable</a></li><li class="pipe"><a class="" href="http://www.quadro.net/quad-squad">Quad Squad</a></li><li><a class="" href="http://www.quadro.net/support">Support</a></li></ul><span class="nav_right"></span>    </nav>
+    
+    
+    
+    <script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '418700434950682']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=418700434950682&amp;ev=PixelInitialized" /></noscript>
+
+</header>            <section class="container">
+            	<h2 class="title about" style="background: url(http://www.quadro.net/css/images/bg-0.jpg) left top no-repeat;">Page Not Found</h2><ul class="secondary_subnav"></ul><article class="content page_1 bg_41">
+<span class="hanger_title"></span><h3>Page Not Found</h3>
+<ul class="breadcrumbs"><li><a class="" href="http://www.quadro.net/">Home&gt;</a></li><li><a class="" href="http://www.quadro.net/page-not-found">Page Not Found&gt;</a></li></ul><section><p>	The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p><p>	Please try the following:</p><ul>	<li>		If you typed the page address in the Address bar, make sure that it is spelled correctly.</li>	<li>		Open the <a href="http://www.quadro.net/">http://www.quadro.net/</a> home page, and then look for links to the information you want.</li>	<li>		Click the Back button to try another link.</li></ul><br /><br /></section></article>   
+                
+            </section>
+            <footer class="container">
+    <table border="0">
+    <tr>
+    <td class="border"><h6><a class="" href="http://www.quadro.net/bundles">Bundles</a></h6><ul><li><a class="" href="http://www.quadro.net/bundles/how-it-works">How It Works</a></li><li><a class="" href="http://www.quadro.net/bundles/bundle-faqs">Bundle FAQs</a></li><li><a class="" href="http://www.quadro.net/bundles/terms--conditions">Terms & Conditions</a></li></ul></td><td class="border"><h6><a class="" href="http://www.quadro.net/about-quadro">About Quadro</a></h6><ul><li><a class="" href="http://www.quadro.net/about-quadro/board-of-directors">Board of Directors</a></li><li><a class="" href="http://www.quadro.net/about-quadro/membership">Membership</a></li><li><a class="" href="http://www.quadro.net/member">Member Portal</a></li><li><a class="" href="http://www.quadro.net/about-quadro/annual-members-meeting">Members Meeting</a></li><li><a class="" href="http://www.quadro.net/about-quadro/scholarship">Scholarship</a></li><li><a class="" href="http://www.quadro.net/about-quadro/fibre-project">Fibre Project</a></li></ul></td><td class="border"><h6><a class="" href="http://www.quadro.net/contact-us">Contact Us</a></h6><ul><li><a class="" href="http://www.quadro.net/contact-us/phone---email">Phone & Email</a></li><li><a class="" href="http://www.quadro.net/contact-us/office-locations">Office Locations</a></li><li><a class="" href="http://www.quadro.net/contact-us/business-hours">Hours</a></li><li><a class="" href="http://www.quadro.net/contact-us/holiday-hours">Holiday Hours</a></li><li><a class="" href="http://www.quadro.net/contact-us/careers">Careers</a></li></ul></td><td><h6><a class="" href="http://www.quadro.net/support">Support</a></h6><ul><li><a class="" href="http://www.quadro.net/support/mobility">Mobility</a></li><li><a class="" href="http://www.quadro.net/support/internet">Internet</a></li><li><a class="" href="http://www.quadro.net/support/phone">Phone</a></li><li><a class="" href="http://www.quadro.net/support/digital-cable">Digital Cable</a></li><li><a class="" href="http://www.quadro.net/support/locates">Locates</a></li><li><a class="" href="https://addressinfo.northern911.com/">Update Voip E-911</a></li></ul></td>        <td class="newsletter">
+<!-- Begin MailChimp Signup Form -->
+
+<span class="validate"><div id="newsletter"> 
+<form action="http://quadro.us3.list-manage.com/subscribe/post?u=4268a795627dfb8652b383fe1&amp;id=0f17d4ca74" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate> <fieldset>
+<legend>Stay Connected:</legend>
+<label for="emailaddress">Sign-up for News &amp; Promotions</label>
+ <div id="response"><input type="email" value="" name="EMAIL" class="text" id="mce-EMAIL" placeholder="email address" required>
+   <input type="submit" value="Go" name="mc-embedded-subscribe" id="mc-embedded-subscribe2" class="submit" /></div>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_4268a795627dfb8652b383fe1_0f17d4ca74" tabindex="-1" value=""></div>
+
+  <div class="clear"></div>
+ </fieldset></form>
+</div></span></div>
+
+<!--End mc_embed_signup-->
+		<h6>Follow Us:</h6>
+		<ul class="social">
+        	<li> 
+          		<a rel="popup standard 1024 768 outbound" class="twitter" href="https://twitter.com/QuadroNews">Twitter</a>
+         	</li>
+            <li> 
+          		<a rel="popup standard 1024 768 outbound" class="youtube" href="http://www.youtube.com/channel/UCq9BP6MH8CepPYErDgpNeRA">YouTube</a>
+         	</li>
+            <li> 
+          		<a rel="popup standard 1024 768 outbound" class="google" href="https://plus.google.com/100321456116778771876/">Google+</a>
+         	</li>
+      	</ul>        
+        <!--<h6>&nbsp;</h6>-->
+      	</td>
+   </td></tr>
+    </table>
+    
+    <ul class="copyright" >
+        <li>
+            <a class="" href="http://www.quadro.net/quadro-legal">Legal</a>        </li>
+        <li class="divider"><a href="../accessibility">Accessibility</a></li>
+        <li class="divider"><a href="../Feedback">Feedback</a></li>
+        <li class="divider"><a href="../mediafiles/files/Your%20Rights%20as%20a%20Wireless%20Consumer.pdf">Your Rights As A Wireless Consumer</a></li>
+        
+        <li>
+                    </li>
+   	<li>
+           Copyright &copy;  2015 Quadro Communications.  All rights reserved.
+    </li>
+   </ul>
+        
+    <a id="scrollTop" href="#" class="scroll">Scroll To Top</a>
+    
+        <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 975735226;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/975735226/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</footer>        </div>
+        <script type="text/javascript">
+var website_address = "http://www.quadro.net/";
+</script>
+<script src="http://www.quadro.net/js/plugins.js"></script>
+<script src="http://www.quadro.net/js/main.js"></script>
+<script>
+	var _gaq=[['_setAccount','UA-4828174-37'],['_trackPageview']];
+	(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>    </body>
+</html>

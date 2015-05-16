@@ -1,0 +1,12 @@
+1428422011
+http://exo.shaw.ca
+http://exo.shaw.ca/robots.txt
+# GSA
+User-agent: *
+Disallow: /search/*
+Disallow: /login/
+
+Disallow: /popular/
+Disallow: /coming_soon_movies
+Disallow: /adult/
+

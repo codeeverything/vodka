@@ -1,0 +1,6 @@
+1428419383
+http://akademia.autoswiat.pl
+http://akademia.autoswiat.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

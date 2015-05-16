@@ -1,0 +1,5 @@
+1428234583
+https://music.yahoo.com
+https://music.yahoo.com/robots.txt
+User-agent: *
+Sitemap: https://music.yahoo.com/sitemap.xml

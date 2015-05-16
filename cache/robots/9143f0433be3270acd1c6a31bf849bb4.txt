@@ -1,0 +1,6 @@
+1428244387
+http://bathroom-scales-review.toptenreviews.com
+http://bathroom-scales-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

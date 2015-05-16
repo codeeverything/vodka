@@ -1,0 +1,24 @@
+1427627993
+http://www.mediauk.com/article/34387/who-is-grasping-the-opportunity-with-social-media?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JamesCridlandsBlog+%28James+Cridland%27s+blog%29&utm_content=Google+Reader
+http://www.mediauk.com/robots.txt
+Sitemap: http://www.mediauk.com/google_sitemap.muk
+Sitemap: http://www.mediauk.com/google_sitemap_articles.muk
+Sitemap: http://www.mediauk.com/google_sitemap_readership.muk
+Sitemap: http://www.mediauk.com/google_sitemap_music.muk
+Sitemap: http://www.mediauk.com/google_sitemap_jobs.muk
+Sitemap: http://www.mediauk.com/google_sitemap_discussions.muk
+Sitemap: http://www.mediauk.com/google_sitemap_people.muk
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow: /admin
+Disallow: /content/edit_media.muk
+Disallow: /content/login*
+Disallow: *?loggedin*
+Disallow: /*edit/people$
+Disallow: /news/go*
+Disallow: /list.php
+Disallow: /partners
+Allow: /

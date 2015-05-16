@@ -1,0 +1,31 @@
+1427820163
+http://www.parc.xerox.com/aop
+http://www.parc.xerox.com/robots.txt
+#
+# robots.txt for www/
+#
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /cgi-data/
+Disallow: /css/
+Disallow: /cms/
+Disallow: /admin/
+Disallow: /js/
+Disallow: /rss/
+Disallow: /swf/
+Disallow: /callouts/
+Disallow: /templates/
+Disallow: /test/
+Disallow: /search.html
+Disallow: /thumb
+Disallow: /search.html
+Disallow: /player/
+
+# Added sitemap to help google and other indexers
+#Sitemap: http://www.parc.com/sitemap.xml
+
+User-agent: W3C-checklink
+Disallow:
+
+

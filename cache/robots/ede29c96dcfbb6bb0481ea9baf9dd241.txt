@@ -1,0 +1,22 @@
+1428420706
+http://www.prezenty-i-zyczenia.pl
+http://www.prezenty-i-zyczenia.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.css$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: *ValDateFrom
+Disallow: *ValDateTo
+Disallow: *ValIdContentPlace
+Disallow: *ValIdContentType
+Disallow: /CMS/
+Disallow: /_UnAuthorized/
+Disallow: /Drukuj/
+Disallow: *aav.gif$
+

@@ -1,0 +1,12 @@
+1427823544
+http://czydziala.pl
+http://czydziala.pl/robots.txt
+1427805977
+http://czydziala.pl/
+http://czydziala.pl/robots.txt
+User-Agent: *
+Disallow: /sprawdz/
+Allow: /
+Disallow: /sprawdz
+Disallow: /sprawdz/*
+

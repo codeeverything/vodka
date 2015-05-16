@@ -1,0 +1,8 @@
+1428418687
+http://www.mbsprinterusa.com
+http://www.mbsprinterusa.com/robots.txt
+User-agent: *
+Disallow: /tax_promo/
+Disallow: /files/brochures/MB_Sprinter_Brochure_2012.pdf
+Disallow: /files/brochures/MB_Sprinter_Brochure_2013.pdf
+Disallow: /files/brochures/MB_Sprinter_Brochure_2014.pdf

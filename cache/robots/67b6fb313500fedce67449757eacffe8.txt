@@ -1,0 +1,6 @@
+1428244520
+http://cordless-drill-review.toptenreviews.com
+http://cordless-drill-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

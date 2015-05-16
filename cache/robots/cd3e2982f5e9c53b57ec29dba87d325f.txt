@@ -1,0 +1,11 @@
+1428241932
+https://www.pensionwise.gov.uk
+https://www.pensionwise.gov.uk/robots.txt
+1428240789
+https://www.pensionwise.gov.uk
+https://www.pensionwise.gov.uk/robots.txt
+# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+#
+User-agent: *
+Disallow: /email/
+Disallow: /signposting/

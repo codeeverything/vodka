@@ -1,0 +1,31 @@
+1427735327
+http://www.bankandtechguide.com/Banking-Applications-ct7732
+http://www.bankandtechguide.com/robots.txt
+1427735177
+http://www.bankandtechguide.com
+http://www.bankandtechguide.com/robots.txt
+1427734498
+http://www.bankandtechguide.com
+http://www.bankandtechguide.com/robots.txt
+User-Agent: *
+Disallow: /ads/
+Disallow: /Ads/
+Disallow: /MBContent/
+Disallow: /mbcontent/
+Disallow: /CompanyProfile.aspx
+Disallow: /companyprofile.aspx
+Disallow: /search.aspx
+Disallow: /Search.aspx
+Disallow: *c=
+Disallow: *?*&js=*
+Disallow: *?js=*
+Disallow: *.js
+Disallow: *.axd
+Disallow: *.ashx
+Disallow: *.css
+Allow: /chatter.aspx
+Allow: /video.aspx
+Allow: /Chatter.aspx
+Allow: /Video.aspx
+
+SITEMAP:http://www.bankandtechguide.com/sitemap.xml

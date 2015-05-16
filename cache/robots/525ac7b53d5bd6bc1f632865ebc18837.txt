@@ -1,0 +1,24 @@
+1428159111
+https://www.iab.org
+https://www.iab.org/robots.txt
+1427911007
+https://www.iab.org
+https://www.iab.org/robots.txt
+1427891243
+https://www.iab.org/wp-login.php
+https://www.iab.org/robots.txt
+1427891233
+https://www.iab.org/appeals
+https://www.iab.org/robots.txt
+1427891226
+https://www.iab.org/documents
+https://www.iab.org/robots.txt
+1427891213
+https://www.iab.org/about
+https://www.iab.org/robots.txt
+1427890905
+https://www.iab.org
+https://www.iab.org/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

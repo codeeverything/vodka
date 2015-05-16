@@ -1,0 +1,45 @@
+1427821827
+http://www.cert.org/tech_tips/denial_of_service.html
+http://www.cert.org/robots.txt
+1427818556
+http://www.cert.org/tech_tips/denial_of_service.html
+http://www.cert.org/robots.txt
+1427804082
+http://www.cert.org/tech_tips/denial_of_service.html
+http://www.cert.org/robots.txt
+# robots.txt for http://www.cert.org/
+
+User-agent: *
+Crawl-delay: 10
+
+User-agent: *
+Request-rate: 1/10 
+
+User-agent: *
+Allow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: *
+Disallow: /events/*
+
+User-agent: *
+Disallow: /loader*
+
+User-agent: *
+Disallow: /webadmin/*
+
+User-agent: *
+Allow: /smartgrid/start/downloads/*
+
+User-agent: *
+Disallow: /test/*
+
+User-agent: *
+Disallow: /sample-webinar*
+
+Sitemap: http://www.sei.cmu.edu/sitemap.xml
+
+# last updated: 5 April 2011
+# For information, contact: webmaster@sei.cmu.edu

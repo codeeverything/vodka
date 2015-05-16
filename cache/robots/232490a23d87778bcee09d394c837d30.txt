@@ -1,0 +1,9 @@
+1428417279
+http://www.instantpot.co.uk
+http://www.instantpot.co.uk/robots.txt
+1428241285
+http://www.instantpot.co.uk
+http://www.instantpot.co.uk/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+<!-- WP Super Cache is installed but broken. The constant WPCACHEHOME must be set in the file wp-config.php and point at the WP Super Cache plugin directory. -->

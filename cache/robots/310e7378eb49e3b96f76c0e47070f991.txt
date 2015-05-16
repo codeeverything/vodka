@@ -1,0 +1,9 @@
+1427910962
+http://techpack.acm.org
+http://techpack.acm.org/robots.txt
+User-agent: *
+Disallow: /actionfiles/ 
+Disallow: /primarytemplatefiles/ 
+Disallow: /install/ 
+Disallow: login.cfm
+Disallow: logout.cfm

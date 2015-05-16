@@ -1,0 +1,6 @@
+1428244533
+http://power-chairs-review.toptenreviews.com
+http://power-chairs-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

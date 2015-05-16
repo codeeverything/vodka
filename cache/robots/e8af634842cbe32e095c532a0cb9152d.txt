@@ -1,0 +1,23 @@
+1428419325
+https://www.donaldrussell.com/emailsignup
+https://www.donaldrussell.com/robots.txt
+1428419324
+https://www.donaldrussell.com/cataloguerequest
+https://www.donaldrussell.com/robots.txt
+1428419306
+https://www.donaldrussell.com/contacts
+https://www.donaldrussell.com/robots.txt
+1428242508
+https://www.donaldrussell.com/emailsignup
+https://www.donaldrussell.com/robots.txt
+1428242507
+https://www.donaldrussell.com/cataloguerequest
+https://www.donaldrussell.com/robots.txt
+1428242495
+https://www.donaldrussell.com/contacts
+https://www.donaldrussell.com/robots.txt
+User-agent: *
+Disallow: /*?
+Disallow: /review/
+
+Sitemap: http://www.donaldrussell.com/sitemap.xml

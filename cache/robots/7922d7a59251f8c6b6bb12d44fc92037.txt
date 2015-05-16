@@ -1,0 +1,39 @@
+1427891525
+http://www.atlassian.com/support
+http://www.atlassian.com/robots.txt
+1427891320
+http://www.atlassian.com
+http://www.atlassian.com/robots.txt
+1427891041
+http://www.atlassian.com/feeds
+http://www.atlassian.com/robots.txt
+1427890961
+http://www.atlassian.com/hosted/terms.jsp
+http://www.atlassian.com/robots.txt
+1427890821
+http://www.atlassian.com
+http://www.atlassian.com/robots.txt
+1427829181
+http://www.atlassian.com
+http://www.atlassian.com/robots.txt
+User-agent: *
+Disallow: /decorators
+Disallow: /includes
+
+# Disallow download page
+Disallow: /software/download.jsp?
+Disallow: /software/Download.jspa?
+
+# Disallow individual pages
+Disallow: /unsubscribe.jsp
+
+# Disallow docs, aside from /latest/
+Disallow: /software/jira/docs/
+Allow: /software/jira/docs/latest/
+
+# User-agent: googlebot
+# Disallow api docs aside from /latest/
+Disallow: /software/jira/docs/api/
+Allow: /software/jira/docs/api/latest/
+
+Sitemap: http://app.wistia.com/sitemaps/34311.xml

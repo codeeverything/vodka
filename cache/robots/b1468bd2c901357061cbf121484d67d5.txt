@@ -1,0 +1,5 @@
+1428241716
+http://www.jimmycarterlibrary.org
+http://www.jimmycarterlibrary.org/robots.txt
+User-agent: *
+Disallow: /wp-admin/

@@ -1,0 +1,14 @@
+1427822558
+http://blog.slideshare.net
+http://blog.slideshare.net/robots.txt
+1427819080
+http://blog.slideshare.net/
+http://blog.slideshare.net/robots.txt
+1427805022
+http://blog.slideshare.net/
+http://blog.slideshare.net/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Sitemap: https://blog.slideshare.net/sitemap.xml

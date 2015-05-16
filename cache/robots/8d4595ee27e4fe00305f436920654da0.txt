@@ -1,0 +1,6 @@
+1428244915
+http://gas-ranges-review.toptenreviews.com
+http://gas-ranges-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

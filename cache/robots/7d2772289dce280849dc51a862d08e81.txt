@@ -1,0 +1,11 @@
+1427891411
+http://www.piazza.com
+http://www.piazza.com/robots.txt
+1427890969
+http://www.piazza.com/berkeley/cs161
+http://www.piazza.com/robots.txt
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+User-Agent: *
+Disallow: /stats/report/

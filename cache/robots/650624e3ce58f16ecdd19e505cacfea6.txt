@@ -1,0 +1,11 @@
+1427735391
+http://www.anfan.com
+http://www.anfan.com/robots.txt
+User-agent: * 
+Disallow: /caches
+Disallow: /phpcms
+Disallow: /install
+Disallow: /phpsso_server
+Disallow: /api
+Disallow: /admin.php
+Disallow: /index.php?m=content&c=*

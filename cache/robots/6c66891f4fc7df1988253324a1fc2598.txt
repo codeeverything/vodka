@@ -1,0 +1,5 @@
+1428234733
+http://thusspakezuska.scientopia.org
+http://thusspakezuska.scientopia.org/robots.txt
+User-agent: *
+Disallow: /wp-admin/

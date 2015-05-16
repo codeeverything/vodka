@@ -1,0 +1,34 @@
+1427822697
+https://www.surveymonkey.com/s/J6HGQRL
+https://www.surveymonkey.com/robots.txt
+1427822685
+https://www.surveymonkey.com/s/GDAA-GDC2015Assist
+https://www.surveymonkey.com/robots.txt
+User-agent: *
+Allow: /user/sign-up/
+Allow: /user/sign-in/
+Disallow: /jsPop.aspx
+Disallow: /pop.aspx
+Disallow: /mp/lp/
+Disallow: /s_pass.aspx
+Disallow: /MyAccount_SessionExpired.aspx
+Disallow: /s_prize.aspx
+Disallow: /MySurvey_QuestionLogicFrame.aspx
+Disallow: /MySurvey_PageLogicFrame.aspx
+Disallow: /MyCollector_Message_MailList_Preview.aspx
+Disallow: /user/
+Disallow: /blog/en/wp-content/plugins*
+Disallow: /blog/en/wp-admin*
+Disallow: /blog/en/wp-includes*
+Disallow: /blog/br/wp-content/plugins/
+Disallow: /blog/br/wp-admin*
+Disallow: /blog/br/wp-includes*
+Disallow: /blog/jp/wp-content/plugins/
+Disallow: /blog/jp/wp-admin*
+Disallow: /blog/jp/wp-includes*
+Disallow: /blog/de/wp-content/plugins*
+Disallow: /blog/de/wp-admin*
+Disallow: /blog/de/wp-includes*
+Disallow: /jsEmbed.aspx
+Disallow: /OptOut.aspx
+Disallow: /billing/confirmed

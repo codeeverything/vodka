@@ -1,0 +1,6 @@
+1428245013
+http://vacuum-sealer-bags-review.toptenreviews.com
+http://vacuum-sealer-bags-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

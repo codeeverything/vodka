@@ -1,0 +1,12 @@
+1427956148
+http://www.istella.it
+http://www.istella.it/robots.txt
+User-agent: *
+Disallow: /search
+Disallow: /it/search
+Disallow: /en/search
+Disallow: /it/top-news
+Disallow: /en/top-news
+Disallow: /home/spellchecker
+Disallow: /it/home/spellchecker
+Disallow: /en/home/spellchecker

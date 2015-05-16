@@ -1,0 +1,16 @@
+1428419186
+http://najbogatsiludzieswiata.forbes.pl
+http://najbogatsiludzieswiata.forbes.pl/robots.txt
+1428417617
+http://najbogatsiludzieswiata.forbes.pl
+http://najbogatsiludzieswiata.forbes.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/

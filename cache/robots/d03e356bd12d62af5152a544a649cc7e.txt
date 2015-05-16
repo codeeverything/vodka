@@ -1,0 +1,11 @@
+1428158648
+https://www.osu.edu
+https://www.osu.edu/robots.txt
+1427891080
+https://www.osu.edu
+https://www.osu.edu/robots.txt
+1427891054
+https://www.osu.edu/giving
+https://www.osu.edu/robots.txt
+User-agent: *
+Allow: /

@@ -1,0 +1,6 @@
+1428242385
+http://robot-vacuum-review.toptenreviews.com
+http://robot-vacuum-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

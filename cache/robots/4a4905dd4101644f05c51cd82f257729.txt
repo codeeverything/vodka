@@ -1,0 +1,7 @@
+1428234812
+https://emea.digitalrealty.com
+https://emea.digitalrealty.com/robots.txt
+User-Agent: *
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+

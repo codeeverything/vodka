@@ -1,0 +1,6 @@
+1428422530
+http://waga-ciezka.przegladsportowy.pl
+http://waga-ciezka.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

@@ -1,0 +1,47 @@
+1428496218
+http://www.foodnetwork.ca
+http://www.foodnetwork.ca/robots.txt
+1428417824
+http://www.foodnetwork.ca/video/index.html
+http://www.foodnetwork.ca/robots.txt
+1428414356
+http://www.foodnetwork.ca
+http://www.foodnetwork.ca/robots.txt
+1428242079
+http://www.foodnetwork.ca/the-kit
+http://www.foodnetwork.ca/robots.txt
+1428242057
+http://www.foodnetwork.ca/easter
+http://www.foodnetwork.ca/robots.txt
+1428242044
+http://www.foodnetwork.ca/entertaining
+http://www.foodnetwork.ca/robots.txt
+1428242027
+http://www.foodnetwork.ca/everyday-cooking
+http://www.foodnetwork.ca/robots.txt
+1428241997
+http://www.foodnetwork.ca/healthy-eating
+http://www.foodnetwork.ca/robots.txt
+1428241988
+http://www.foodnetwork.ca/all-guides
+http://www.foodnetwork.ca/robots.txt
+1428241977
+http://www.foodnetwork.ca/newsletter
+http://www.foodnetwork.ca/robots.txt
+1428241971
+http://www.foodnetwork.ca
+http://www.foodnetwork.ca/robots.txt
+1428241964
+http://www.foodnetwork.ca/channel-listings
+http://www.foodnetwork.ca/robots.txt
+1428241948
+http://www.foodnetwork.ca/fun-with-food
+http://www.foodnetwork.ca/robots.txt
+1428240801
+http://www.foodnetwork.ca
+http://www.foodnetwork.ca/robots.txt
+User-agent: *
+Allow: 
+Disallow: /search/
+
+SITEMAP: http://a27643.hostedsitemaps.com/3861154/sitemap.xml

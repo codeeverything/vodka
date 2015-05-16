@@ -1,0 +1,5 @@
+1428235010
+http://www.jimmyv.org
+http://www.jimmyv.org/robots.txt
+User-agent: *
+Disallow: /wp-admin/

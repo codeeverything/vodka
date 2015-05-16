@@ -1,0 +1,12 @@
+1427822543
+http://www.drbmiami.com
+http://www.drbmiami.com/robots.txt
+1427819024
+http://www.drbmiami.com/
+http://www.drbmiami.com/robots.txt
+1427805007
+http://www.drbmiami.com/
+http://www.drbmiami.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

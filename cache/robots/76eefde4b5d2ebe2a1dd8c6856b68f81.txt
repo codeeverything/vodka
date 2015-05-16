@@ -1,0 +1,9 @@
+1427910792
+http://www.casinoonline.re/review/comeon
+http://www.casinoonline.re/robots.txt
+1427910599
+http://www.casinoonline.re/review/comeon
+http://www.casinoonline.re/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

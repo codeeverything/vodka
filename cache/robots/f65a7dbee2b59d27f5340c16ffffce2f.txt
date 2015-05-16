@@ -1,0 +1,30 @@
+1428418941
+http://www.southhuron.com
+http://www.southhuron.com/robots.txt
+User-agent: VocusBot 0.4
+Disallow:/
+
+User-agent: YandexBot/3.0
+Disallow:/
+
+User-agent: YandexImages/3.0
+Disallow:/
+
+User-agent: Ezooms/1.0
+Disallow:/
+
+User-agent: CrystalSemanticsBot
+Disallow:/
+
+User-agent: eyeVerifyBot
+Disallow:/
+
+User-agent: cXensebot/1.1a
+Disallow:/
+
+User-agent: oBot
+Disallow:/
+
+User-agent: *
+Crawl-delay: 10
+Disallow:/filter/

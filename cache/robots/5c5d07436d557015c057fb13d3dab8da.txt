@@ -1,0 +1,23 @@
+1428236741
+http://shopping.yahoo.com
+http://shopping.yahoo.com/robots.txt
+User-agent: googlebot 
+Disallow: /search
+
+
+User-agent: slurp
+Disallow: /search
+
+
+User-agent: *
+Disallow: /search
+Disallow: /stores/
+
+User-agent: msnbot
+Disallow: /search
+ 
+User-agent: bingbot
+Disallow: /search
+
+
+Sitemap: http://shopping.yahoo.com/sitemap-index.xml

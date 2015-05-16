@@ -1,0 +1,30 @@
+1427910810
+http://www.gnu.org/licenses/gpl.html
+http://www.gnu.org/robots.txt
+1427910622
+http://www.gnu.org/licenses/gpl.html
+http://www.gnu.org/robots.txt
+1427819691
+http://www.gnu.org/licenses/gpl-2.0.html
+http://www.gnu.org/robots.txt
+1427819659
+http://www.gnu.org/copyleft/gpl.html
+http://www.gnu.org/robots.txt
+1427805801
+http://www.gnu.org/licenses/gpl-2.0.html
+http://www.gnu.org/robots.txt
+1427805772
+http://www.gnu.org/copyleft/gpl.html
+http://www.gnu.org/robots.txt
+# robots.txt for http://www.gnu.org/
+
+User-agent: *
+Crawl-delay: 4
+Disallow: /private/
+
+User-agent: *
+Crawl-delay: 4
+Disallow: /savannah-checkouts/
+
+User-agent: *
+Disallow: /server/trans_map.html

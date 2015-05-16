@@ -1,0 +1,17 @@
+1428422131
+http://www.londonandpartners.com
+http://www.londonandpartners.com/robots.txt
+User-Agent: *
+Disallow: /register
+Disallow: /login
+Disallow: /preferences
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /offer/pdf
+Disallow: /venue/pdf
+Disallow: /partners/pdf
+Disallow: /pdf
+Disallow: /partners/partners-area
+Disallow: /starthere
+
+Sitemap: http://www.londonandpartners.com/sitemap_index.xml

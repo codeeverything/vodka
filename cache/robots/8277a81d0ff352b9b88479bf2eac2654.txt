@@ -1,0 +1,9 @@
+1428244128
+http://sidc.oma.be
+http://sidc.oma.be/robots.txt
+User-Agent: *
+Disallow: /swbs/
+Disallow: /SWBS/
+Disallow: /data/uset/
+User-Agent: Slurp
+Disallow: /*/

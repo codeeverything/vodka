@@ -1,0 +1,9 @@
+1428159046
+https://www.adaptavist.com
+https://www.adaptavist.com/robots.txt
+1427891140
+https://www.adaptavist.com
+https://www.adaptavist.com/robots.txt
+User-agent: *
+Disallow: /label/
+Disallow: /plugins/recently-updated/

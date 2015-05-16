@@ -1,0 +1,45 @@
+1428419557
+http://swiat.newsweek.pl/rosyjskie-podwodne-okrety-atomowe,artykuly,360583,1.html
+http://swiat.newsweek.pl/robots.txt
+1428419557
+http://swiat.newsweek.pl/atak-terrorystyczny-na-kampus-akademicki-w-kenii-kim-byli-napastnicy-,artykuly,360580,1.html
+http://swiat.newsweek.pl/robots.txt
+1428419461
+http://swiat.newsweek.pl/negocjacje-z-iranem-program-nuklearny,artykuly,360328,1.html
+http://swiat.newsweek.pl/robots.txt
+1428419454
+http://swiat.newsweek.pl/wolnosc-slowa-w-rosji,artykuly,360590,1.html
+http://swiat.newsweek.pl/robots.txt
+1428419454
+http://swiat.newsweek.pl/internetowy-trolling-w-rosji-czyli-propaganda-za-pieniadze,artykuly,360467,1.html
+http://swiat.newsweek.pl/robots.txt
+1428419435
+http://swiat.newsweek.pl/wielkanocne-oredzie-papieza-franciszka,artykuly,360512,1.html
+http://swiat.newsweek.pl/robots.txt
+1428419424
+http://swiat.newsweek.pl/jajka-faberge-carskie-pisanki-newsweek-pl,artykuly,283931,1.html
+http://swiat.newsweek.pl/robots.txt
+1428419424
+http://swiat.newsweek.pl
+http://swiat.newsweek.pl/robots.txt
+1428419424
+http://swiat.newsweek.pl/petro-poroszenko-nie-wyklucza-referendum-ws-struktury-ukrainy,artykuly,360542,1.html
+http://swiat.newsweek.pl/robots.txt
+1428419416
+http://swiat.newsweek.pl/w-amerykanskim-newsweeku-prezydent-usa-musi-sie-modlic,artykuly,360545,1.html
+http://swiat.newsweek.pl/robots.txt
+1428417732
+http://swiat.newsweek.pl
+http://swiat.newsweek.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/
+Disallow: /oferta
+Disallow: /pomoc

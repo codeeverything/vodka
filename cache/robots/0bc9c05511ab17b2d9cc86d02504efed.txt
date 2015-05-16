@@ -1,0 +1,6 @@
+1428234597
+https://weather.yahoo.com
+https://weather.yahoo.com/robots.txt
+User-agent: *
+Disallow:
+Sitemap: https://weather.yahoo.com/sitemap.xml

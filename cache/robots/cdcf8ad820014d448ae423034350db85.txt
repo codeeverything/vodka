@@ -1,0 +1,21 @@
+1427821774
+https://www.gnu.org/licenses/gpl-2.0.html 
+https://www.gnu.org/robots.txt
+1427818480
+https://www.gnu.org/licenses/gpl-2.0.html 
+https://www.gnu.org/robots.txt
+1427804020
+https://www.gnu.org/licenses/gpl-2.0.html 
+https://www.gnu.org/robots.txt
+# robots.txt for http://www.gnu.org/
+
+User-agent: *
+Crawl-delay: 4
+Disallow: /private/
+
+User-agent: *
+Crawl-delay: 4
+Disallow: /savannah-checkouts/
+
+User-agent: *
+Disallow: /server/trans_map.html

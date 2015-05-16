@@ -1,0 +1,51 @@
+1428159127
+http://www.ietf.org/iesg.html
+http://www.ietf.org/robots.txt
+1428159126
+http://www.ietf.org/rfc.html
+http://www.ietf.org/robots.txt
+1428159102
+http://www.ietf.org
+http://www.ietf.org/robots.txt
+1427958440
+http://www.ietf.org
+http://www.ietf.org/robots.txt
+1427958361
+http://www.ietf.org
+http://www.ietf.org/robots.txt
+1427958227
+http://www.ietf.org
+http://www.ietf.org/robots.txt
+1427958183
+http://www.ietf.org/iesg.html
+http://www.ietf.org/robots.txt
+1427910982
+http://www.ietf.org/list/nonwg.html
+http://www.ietf.org/robots.txt
+1427891898
+http://www.ietf.org/tao.html
+http://www.ietf.org/robots.txt
+1427890790
+http://www.ietf.org
+http://www.ietf.org/robots.txt
+1427890772
+http://www.ietf.org/iesg.html
+http://www.ietf.org/robots.txt
+1427890636
+http://www.ietf.org/iesg.html
+http://www.ietf.org/robots.txt
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /rfcdiff*
+
+User-agent: googlebot
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /rfcdiff*
+Disallow: *.csi
+

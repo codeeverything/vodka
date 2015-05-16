@@ -1,0 +1,8 @@
+1428244443
+http://www.yendo.com
+http://www.yendo.com/robots.txt
+User-agent: *    # applies to all robots
+Disallow: /admin
+Disallow: /yendo
+Disallow: /new
+Sitemap: sitemap.xml

@@ -1,0 +1,8 @@
+1428244440
+http://www.workingpoint.com
+http://www.workingpoint.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Sitemap: http://www.workingpoint.com/sitemap.xml

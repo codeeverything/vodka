@@ -1,0 +1,22 @@
+1427958397
+http://dst.lbl.gov
+http://dst.lbl.gov/robots.txt
+1427890837
+http://dst.lbl.gov
+http://dst.lbl.gov/robots.txt
+# @(#) $Id: robots.txt 37964 2014-04-18 23:41:17Z leres $ (ACS)
+# robots.txt for http://acs.lbl.gov/
+
+# applies equally to all robots
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /akenti/private
+Disallow: /Akenti/private
+Disallow: /~mrt/oscars
+Disallow: /DSDlocal/info
+Disallow: /DSDlocal/Private
+Disallow: /Secrets
+Disallow: /mailman
+Disallow: /pipermail
+Disallow: /twiki
+Disallow: /nagios

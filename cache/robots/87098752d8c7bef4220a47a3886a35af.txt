@@ -1,0 +1,6 @@
+1428422630
+http://wyrwa-w-ataku.przegladsportowy.pl
+http://wyrwa-w-ataku.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

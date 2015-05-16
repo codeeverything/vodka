@@ -1,0 +1,8 @@
+1427910791
+http://www.joinadaptavist.com
+http://www.joinadaptavist.com/robots.txt
+1427910598
+http://www.joinadaptavist.com
+http://www.joinadaptavist.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/

@@ -1,0 +1,6 @@
+1428244559
+http://deep-vacuum-cleaners-review.toptenreviews.com
+http://deep-vacuum-cleaners-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

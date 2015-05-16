@@ -1,0 +1,13 @@
+1427891368
+http://www.utk.edu
+http://www.utk.edu/robots.txt
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /test/
+Disallow: /tmp/
+Disallow: /wusage/
+Disallow: /wusage-ut/
+Disallow: /classifieds/
+Disallow: /teh_old_stuf/
+Disallow: /events2/
+Disallow: /email/

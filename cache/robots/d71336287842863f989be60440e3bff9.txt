@@ -1,0 +1,36 @@
+1428419641
+http://historia.newsweek.pl
+http://historia.newsweek.pl/robots.txt
+1428419618
+http://historia.newsweek.pl/kto-zlecil-zamach-na-jana-pawla-ii-watykan-papiez-polak-kosciol-katolicki-newsweek-pl,artykuly,284904,1.html
+http://historia.newsweek.pl/robots.txt
+1428419600
+http://historia.newsweek.pl/historia-chrzescijanstwa-gdzie-kiedy-i-jak-sie-zaczelo-,artykuly,284484,1.html
+http://historia.newsweek.pl/robots.txt
+1428419588
+http://historia.newsweek.pl/obrona-breslau-ii-wojna-swiatowa,artykuly,359315,1.html
+http://historia.newsweek.pl/robots.txt
+1428419588
+http://historia.newsweek.pl/wielkanoc-jaka-jest-istota-swiat-wielkanocnych-,artykuly,360505,1.html
+http://historia.newsweek.pl/robots.txt
+1428419573
+http://historia.newsweek.pl/pascha-wedlug-chrystusa--ostatnia-wieczerza--jak-wygladala-naprawde,90234,1,1.html
+http://historia.newsweek.pl/robots.txt
+1428419473
+http://historia.newsweek.pl/simon-sebag-montefiore-historia-jerozolimy-newsweek-pl,artykuly,283910,1.html
+http://historia.newsweek.pl/robots.txt
+1428417711
+http://historia.newsweek.pl
+http://historia.newsweek.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/
+Disallow: /oferta
+Disallow: /pomoc

@@ -1,0 +1,32 @@
+1428235446
+https://www.mapbox.com
+https://www.mapbox.com/robots.txt
+1428234973
+https://www.mapbox.com
+https://www.mapbox.com/robots.txt
+1427821761
+https://www.mapbox.com/commercial-satellite
+https://www.mapbox.com/robots.txt
+1427821760
+https://www.mapbox.com
+https://www.mapbox.com/robots.txt
+1427820697
+https://www.mapbox.com/tos/
+https://www.mapbox.com/robots.txt
+1427818462
+https://www.mapbox.com/commercial-satellite
+https://www.mapbox.com/robots.txt
+1427818461
+https://www.mapbox.com/
+https://www.mapbox.com/robots.txt
+1427818169
+https://www.mapbox.com/tos/
+https://www.mapbox.com/robots.txt
+User-agent: Swiftbot
+Disallow: /blog/
+
+
+User-agent: *
+Disallow:
+
+Sitemap: https://www.mapbox.com/sitemap.xml

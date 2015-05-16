@@ -1,0 +1,6 @@
+1428242356
+http://photo-editing-software-review.toptenreviews.com
+http://photo-editing-software-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

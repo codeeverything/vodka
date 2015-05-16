@@ -1,0 +1,6 @@
+1428420891
+http://www.tapandswipe.pl
+http://www.tapandswipe.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

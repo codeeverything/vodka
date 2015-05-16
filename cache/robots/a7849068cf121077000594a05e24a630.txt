@@ -1,0 +1,21 @@
+1427891390
+http://www.uchicago.edu/index.shtml
+http://www.uchicago.edu/robots.txt
+User-agent: Twitterbot
+Disallow: *
+Allow: /features/videos/
+
+User-agent: *
+Disallow: /admin/
+Disallow: /emergency/
+Disallow: /lsync_monitor/
+Disallow: /limit.html
+Disallow: /features/videos/
+Disallow: /offline
+Disallow: /offline.html
+Disallow: /rsvp/
+Disallow: /test/
+Disallow: /training_guide/
+Disallow: /uploads/
+
+Sitemap: http://uchicago.edu/xml-sitemaps/index.xml

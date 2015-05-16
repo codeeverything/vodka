@@ -1,0 +1,40 @@
+1428242774
+http://www.ellishotel.com/local-event-guide
+http://www.ellishotel.com/robots.txt
+1428242772
+http://www.ellishotel.com/area-attractions
+http://www.ellishotel.com/robots.txt
+1428242770
+http://www.ellishotel.com/dining
+http://www.ellishotel.com/robots.txt
+1428242765
+http://www.ellishotel.com/newsreleases
+http://www.ellishotel.com/robots.txt
+1428242763
+http://www.ellishotel.com/best-rate-guarantee
+http://www.ellishotel.com/robots.txt
+1428242761
+http://www.ellishotel.com/privacy-policy
+http://www.ellishotel.com/robots.txt
+1428242759
+http://www.ellishotel.com/sitemap
+http://www.ellishotel.com/robots.txt
+1428242753
+http://www.ellishotel.com/photo-video-gallery
+http://www.ellishotel.com/robots.txt
+1428242751
+http://www.ellishotel.com/email-offers
+http://www.ellishotel.com/robots.txt
+1428242749
+http://www.ellishotel.com/specials-packages
+http://www.ellishotel.com/robots.txt
+1428242747
+http://www.ellishotel.com/contact-us
+http://www.ellishotel.com/robots.txt
+1428241698
+http://www.ellishotel.com
+http://www.ellishotel.com/robots.txt
+User-Agent: *
+Disallow: /condor/
+
+Sitemap: http://www.ellishotel.com/sitemap.xml

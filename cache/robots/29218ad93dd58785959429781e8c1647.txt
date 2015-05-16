@@ -1,0 +1,13 @@
+1428236926
+http://sports.yahoo.com
+http://sports.yahoo.com/robots.txt
+1428234588
+http://sports.yahoo.com
+http://sports.yahoo.com/robots.txt
+User-agent: *
+Disallow: /_x_/
+Disallow: /_xhr/
+Disallow: /darla/
+Disallow: /dynamic/
+Disallow: /pageview/ 
+Sitemap: http:/sports.yahoo.com/sitemap.xml

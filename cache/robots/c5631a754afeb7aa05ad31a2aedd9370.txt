@@ -1,0 +1,6 @@
+1428422487
+http://futbol-na-nie.przegladsportowy.pl
+http://futbol-na-nie.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

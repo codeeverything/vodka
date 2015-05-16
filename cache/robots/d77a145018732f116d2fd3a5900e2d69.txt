@@ -1,0 +1,6 @@
+1428422516
+http://funny-old-game.przegladsportowy.pl
+http://funny-old-game.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

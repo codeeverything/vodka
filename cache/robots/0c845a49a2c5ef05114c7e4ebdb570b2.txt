@@ -1,0 +1,11 @@
+1427822811
+http://canada-gdc.com
+http://canada-gdc.com/robots.txt
+1427819291
+http://canada-gdc.com/
+http://canada-gdc.com/robots.txt
+1427805274
+http://canada-gdc.com/
+http://canada-gdc.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/

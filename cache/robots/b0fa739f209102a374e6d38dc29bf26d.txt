@@ -1,0 +1,6 @@
+1428244530
+http://portable-air-conditioners-review.toptenreviews.com
+http://portable-air-conditioners-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

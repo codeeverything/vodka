@@ -1,0 +1,12 @@
+1427823009
+http://us.kotaku.com/fineart
+http://us.kotaku.com/robots.txt
+1427819477
+http://us.kotaku.com/fineart
+http://us.kotaku.com/robots.txt
+1427805454
+http://us.kotaku.com/fineart
+http://us.kotaku.com/robots.txt
+User-agent: *
+Disallow:
+Sitemap: http://kotaku.com/sitemap.xml

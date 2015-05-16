@@ -1,0 +1,16 @@
+1428418522
+http://brasil.bbchd.com
+http://brasil.bbchd.com/robots.txt
+1428242311
+http://brasil.bbchd.com
+http://brasil.bbchd.com/robots.txt
+# Don't Allow Google agents to index mobile pages.
+User-agent: Googlebot
+Disallow: /m/
+Disallow: /*/m/
+
+# Do allow Google-Mobile agents to index mobile pages
+User-agent: Googlebot-Mobile
+Allow: /m/
+Allow: /*/m/
+

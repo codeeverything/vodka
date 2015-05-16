@@ -1,0 +1,5 @@
+1428243787
+http://www.mybasis.com
+http://www.mybasis.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/

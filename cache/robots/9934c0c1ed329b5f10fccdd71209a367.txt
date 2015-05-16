@@ -1,0 +1,21 @@
+1428420278
+http://www.liverpoolecho.co.uk/sport/tim-howard-says-everton-should-8989951
+http://www.liverpoolecho.co.uk/robots.txt
+1428419400
+http://www.liverpoolecho.co.uk
+http://www.liverpoolecho.co.uk/robots.txt
+1428244110
+http://www.liverpoolecho.co.uk
+http://www.liverpoolecho.co.uk/robots.txt
+Sitemap: http://www.liverpoolecho.co.uk/map_news.xml
+Sitemap: http://www.liverpoolecho.co.uk/sitemaps/sitemap_index.xml
+User-agent: *
+Disallow: /search/
+Disallow: /comm-part-test/
+Disallow: /*service=ajax
+Disallow: /*.ece
+Crawl-delay: 10.0
+
+User-agent: semetrical
+Disallow /
+

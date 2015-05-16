@@ -1,0 +1,5 @@
+1428422356
+http://www.tcc.on.ca
+http://www.tcc.on.ca/robots.txt
+User-agent: *
+Disallow: /stats/

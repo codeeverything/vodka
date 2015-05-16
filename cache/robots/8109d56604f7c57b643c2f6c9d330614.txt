@@ -1,0 +1,6 @@
+1428422571
+http://english-breakfast.przegladsportowy.pl
+http://english-breakfast.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

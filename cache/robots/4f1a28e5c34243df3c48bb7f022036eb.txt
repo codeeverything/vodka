@@ -1,0 +1,39 @@
+1428419612
+http://opinie.newsweek.pl/ab-ovo--magda-gessler-na-wielkanoc,89909,1,1.html
+http://opinie.newsweek.pl/robots.txt
+1428419611
+http://opinie.newsweek.pl/wstawki-sawki-przyszla-baba-do-apteki-po-tabletke-po-a-tam-,artykuly,355312,1.html
+http://opinie.newsweek.pl/robots.txt
+1428419575
+http://opinie.newsweek.pl/jasina-brytyjczycy-bronili-sowieckich-klamstw,artykuly,360439,1.html
+http://opinie.newsweek.pl/robots.txt
+1428419551
+http://opinie.newsweek.pl/porozumienie-z-iranem-jest-zle-ale-lepszy-kulawy-deal-niz-zaden,artykuly,360443,1.html
+http://opinie.newsweek.pl/robots.txt
+1428419517
+http://opinie.newsweek.pl/wielkanocne-zyczenia-dla-czytelnikow-newsweeka-od-henryka-sawki,film,360500.html
+http://opinie.newsweek.pl/robots.txt
+1428419517
+http://opinie.newsweek.pl/katastrofa-smolenska-lech-kaczynski-usilowal-sie-zabic-trzy-razy,artykuly,360586,1.html
+http://opinie.newsweek.pl/robots.txt
+1428419461
+http://opinie.newsweek.pl/wybory-prezydenckie-2015-wybory-parlamentarne-2015-polityka,artykuly,360523,1.html
+http://opinie.newsweek.pl/robots.txt
+1428419445
+http://opinie.newsweek.pl/robert-leszczynski-na-co-zmarl-leszczynski,artykuly,360245,1.html
+http://opinie.newsweek.pl/robots.txt
+1428417710
+http://opinie.newsweek.pl
+http://opinie.newsweek.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/
+Disallow: /oferta
+Disallow: /pomoc

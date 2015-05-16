@@ -1,0 +1,7 @@
+1427891581
+http://www.nro.net/statistics
+http://www.nro.net/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+
+Sitemap: https://www.nro.net/sitemap.xml

@@ -1,0 +1,5 @@
+1427800633
+http://cp.benshouji.com
+http://cp.benshouji.com/robots.txt
+User-agent: *
+Disallow: /

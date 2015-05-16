@@ -1,0 +1,41 @@
+1427735186
+http://www.shawsystems.com
+http://www.shawsystems.com/robots.txt
+1427734509
+http://www.shawsystems.com
+http://www.shawsystems.com/robots.txt
+User-agent: *
+Disallow: /cgi-bin/
+User-agent: *
+Disallow: /tmp/
+User-agent: *
+Disallow: /junk/
+User-agent: *
+Disallow: /test/
+User-agent: *
+Disallow: /test1/
+User-agent: *
+Disallow: /test2/
+User-agent: *
+Disallow: /test3/
+User-agent: *
+Disallow: /celebration/
+User-agent: *
+Disallow: /2008WebsiteArchive/
+User-agent: *
+Disallow: /backup/
+User-agent: *
+Disallow: /recoveryTemp/
+User-agent: *
+Disallow: /samples/
+User-agent: *
+Disallow: /webRecovery/
+User-agent: *
+Disallow: /workshop/
+User-agent: *
+Disallow: /intranet/
+User-agent: *
+Disallow: /portalpdfs/
+User-agent: *
+Disallow: /shawgram/
+

@@ -1,0 +1,11 @@
+1428418368
+http://www.wowbiz.ro/exclusiv-lectie-de-viata-dura-pentru-stefan-stan-m-a-batut-de-m-a-nenorocit-artistul-ne-a-povestit-un-episod-fabulos-din-trecutul-sau_144706.html
+http://www.wowbiz.ro/robots.txt
+1428418368
+http://www.wowbiz.ro/solcanu-si-mircea-zara-sar-la-gatul-raduleascai--m-a-jignit-nu-are--prea-multe-idei-in-cap-cand-esti-platit-regeste-faci-ce-ti-se-cere_145084.html
+http://www.wowbiz.ro/robots.txt
+1428418368
+http://www.wowbiz.ro/ioana-tufaru-s-a-mutat-cu-ionut-tatal-tanarului-vrea-nepoti-numai-daca-ea-isi-pune-dinti-in-gura--daca-ramane-gravida-s-a-terminat-cu-tot_144664.html
+http://www.wowbiz.ro/robots.txt
+User-agent: *
+Disallow:

@@ -1,0 +1,935 @@
+1428421142
+http://mireasapentrufiulmeu.a1.ro/simona-vrea-sa-afle-ce-sfaturi-a-primit-ana-din-partea-biancai-6962.html
+http://mireasapentrufiulmeu.a1.ro/robots.txt
+1428421142
+http://mireasapentrufiulmeu.a1.ro/ana-simte-ca-lavinia-o-trateaza-cu-ostilitate-6964.html
+http://mireasapentrufiulmeu.a1.ro/robots.txt
+1428421141
+http://mireasapentrufiulmeu.a1.ro/ce-framantari-se-ascund-in-spatele-lacrimilor-laviniei-6963.html
+http://mireasapentrufiulmeu.a1.ro/robots.txt
+1428421130
+http://mireasapentrufiulmeu.a1.ro/glumele-anei-nu-sunt-pe-placul-fetelor-6965.html
+http://mireasapentrufiulmeu.a1.ro/robots.txt
+1428418460
+http://mireasapentrufiulmeu.a1.ro
+http://mireasapentrufiulmeu.a1.ro/robots.txt
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+<meta name="identifier-url" content="http://xfactor.a1.ro/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="RO" />
+<meta name="google-site-verification" content="pIMjrh85e6Y_2Xi3O5uIC_YazDxuKc84mQd0otf3b64" />
+
+<title>Mireasa pentru fiul meu – Antena 1</title>
+<meta name="description" content="Urmareste ce fac concurentii favoriti din emisiunea Mireasa pentru fiul meu de pe Antena 1. Vezi la ce probe ii supune Andreea Mantea." /><meta name="keywords" content="mireasa pentru fiul meu, emisiune, concurenti, Andreea Mantea"/>
+<link rel="shortcut icon" href="http://mireasapentrufiulmeu.a1.ro/favicon.ico" type="image/x-icon" />
+
+<meta property="fb:app_id" content=""/>
+
+
+<meta name="robots" content="index, follow, noydir, noodp, all" />
+<link rel="alternate" type="application/rss+xml" title="" href="http://mireasapentrufiulmeu.a1.ro/rss/" />
+
+        <!--stylesheets-->
+		<link rel="stylesheet" href="/templates/default/css/reset.css" type="text/css" />
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,800|Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="/templates/default/css/default.css?6" type="text/css" />
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+		<script src="/templates/default/js/tipsy.js"></script>
+
+
+<script type="text/javascript">
+	var xajaxRequestUri="/x.php";
+	var xajaxDebug=false;
+	var xajaxStatusMessages=false;
+	var xajaxWaitCursor=true;
+	var xajaxDefinedGet=0;
+	var xajaxDefinedPost=1;
+	var xajaxLoaded=false;
+
+	
+	function xajax_poll(){return xajax.call("poll", arguments, 1);}
+	function xajax_login(){return xajax.call("login", arguments, 1);}
+	
+
+</script>
+<script type="text/javascript" src="/js/xajax.js"></script>
+<script type="text/javascript" src="/js/utils.js"></script>
+
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/62727623/A1-MireasaPentruFiulMeu.a1.ro-Branding', [[1000, 200], [1020, 200]], 'div-gpt-ad-1410261933362-0').addService(googletag.pubads());
+googletag.defineSlot('/62727623/A1-MireasaPentruFiulMeu.a1.ro-Leaderboard', [728, 90], 'div-gpt-ad-1410261933362-1').addService(googletag.pubads());
+googletag.defineSlot('/62727623/A1-MireasaPentruFiulMeu.a1.ro-Rectangle', [300, 250], 'div-gpt-ad-1410261933362-2').addService(googletag.pubads());
+googletag.defineSlot('/62727623/A1-MireasaPentruFiulMeu.a1.ro-Rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1410261933362-3').addService(googletag.pubads());
+googletag.defineSlot('/62727623/A1-MireasaPentruFiulMeu.a1.ro-SkyLeft', [160, 600], 'div-gpt-ad-1410261933362-4').addService(googletag.pubads());
+googletag.defineSlot('/62727623/A1-MireasaPentruFiulMeu.a1.ro-SkyRight', [160, 601], 'div-gpt-ad-1410261933362-5').addService(googletag.pubads());
+googletag.defineSlot('/62727623/A1-MireasaPentruFiulMeu.a1.ro-Special', [1, 1], 'div-gpt-ad-1410262023458-0').addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/62727623/A1-MireasaPentruFiulMeu.a1.ro-Special', 'div-gpt-ad-1410262023458-0-oop').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableVideoAds();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+
+//googletag.pubads().setTargeting('mature', 'no');
+//googletag.pubads().enableSyncRendering();
+//googletag.pubads().enableSingleRequest();
+//googletag.pubads().enableVideoAds();
+//googletag.pubads().collapseEmptyDivs();
+//googletag.enableServices();
+});
+</script>
+
+
+
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1331376-12']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- BRAT NEW VERSION -->
+<script type="text/javascript">
+	var springq = springq || [];
+	springq.push({
+		"s":"a1ro",
+		"cp":"mireasapentrufiulmeu.a1.ro/homepage",
+		"url": document.location.href
+	});
+</script>
+<!-- //BRAT NEW VERSION --><div style="position:absolute">
+<!-- BRAT VERSION="1.5" -->
+<script language="JavaScript" type="text/javascript"> <!--
+var br_sitecode = "antena1";
+var br_sitepath = "mireasapentrufiulmeu.a1.ro/home";
+var IVW="http://"+br_sitecode+".count.brat-online.ro/cgi-bin/cnt/CP/"+br_sitepath;
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"&x="+screen.width+"x"+screen.height+"\" width=\"1\" height=\"1\" alt=\"\"/>");
+
+//-->
+</script>
+
+<noscript>
+<img src="http://antena1.count.brat-online.ro/cgi-bin/cnt/CP/mireasapentrufiulmeu.a1.ro/home" width="1" height="1" alt=""/>
+</noscript>
+
+<script src="http://antena1.count.brat-online.ro/2004/01/survey.js" type="text/javascript"></script>
+<!-- /BRAT --></div>
+
+<div id="ghTopmenu">
+
+		<div class="bar">
+
+			<div class="itemtext"><a href="http://a1.ro/" title="A1.ro">A1.ro</a></div>
+
+			<div class="itemtext"><a href="http://antenaplay.ro/live/antena1" title="LIVE">LIVE</a></div>
+
+			<div class="itemtext"><a href="http://observator.tv" title="Observator">OBSERVATOR</a></div>
+
+			<div class="itemtext"><a href="http://nextstar.a1.ro" title="Next Star">NEXT STAR</a></div>
+
+			<div class="itemtext"><a href="http://xfactor.a1.ro" title="X Factor">X FACTOR</a></div>
+
+			<div class="itemtext"><a href="http://tecunoscdeundeva.a1.ro" title="TE CUNOSC DE UNDEVA">TCDU</a></div>
+
+			<div class="itemtext"><a href="http://iadulbucatarilor.a1.ro/" title="HELL'S KITCHEN">HELL'S KITCHEN</a></div>
+
+		
+			<div class="lastitemtext"><a href="http://antenaplay.ro/showuri" title="Inregistrari">INREGISTRARI</a></div><div class="ghClearfix"><!-- --></div>
+
+		</div>		
+
+	</div>
+<div class="top_special">
+	
+	<!-- A1-MireasaPentruFiulMeu.a1.ro-Special -->
+	<div id='div-gpt-ad-1410262023458-0' style='width:1px; height:1px;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410262023458-0'); });
+	</script>
+	</div>
+	<!-- A1-MireasaPentruFiulMeu.a1.ro-Special out-of-page -->
+	<div id='div-gpt-ad-1410262023458-0-oop'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410262023458-0-oop'); });
+	</script>
+	</div>
+	<!-- A1-MireasaPentruFiulMeu.a1.ro-Branding -->
+	<div id='div-gpt-ad-1410261933362-0'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410261933362-0'); });
+	</script>
+	</div>
+	
+</div>
+
+<div id="main-container">
+
+	<div id="header">
+
+	<a href="/"><div id="logo"></div></a>
+	<div id="search-container">
+		<div class="search">
+					
+			<form name="search" method="get" action="/cautare/">
+				<div class="search-box"><input type="text" value="" placeholder="Cautare" id="search-text-box" name="key"></div>
+				<a href="javascript:void(0);" onclick="document.search.submit();"><div id="search-button"></div></a>
+			</form>
+			
+		</div>
+	</div>
+
+
+	
+	<div id="navigation">
+        <ul>
+           	<li class="active"><a href="/">Home</a></li>
+            <li class=""><a href="/momente/">Momente</a></li>
+                        <li class=""><a href="/emisiuni/">Emisiuni</a></li>
+            <li class=""><a href="/content/6/prezentatoare.html">Prezentatoare</a></li>
+            <li class=""><a href="/content/7/despre-show.html">Despre Show</a></li>
+                                           	</ul>
+	</div>
+</div>
+
+
+	<div style="margin-bottom:20px;"><a href="http://antenaplay.ro/live/mireasa-pentru-fiul-meu" target="_blank"><div class="leaderboard-under-menu"><img src="/templates/default/images/mireasa-pentru-fiul-meu_980x120_v2.jpg" /></div></a></div>
+	
+					<div id="deschidere">
+
+			    <div class="stire-mare">
+	<a href="/andrada-in-culmea-disperarii-motivul-incredibil-pentru-care-concurenta-sa-suparat-pe-iubitul-ei-6960.html">
+		<img width="620" height="350" src="http://ivm.inin.ro/images_handler.php?guid=XVvZIUEMD8X&width=620&height=350" alt="">		<span>Andrada, în culmea disperării! Motivul incredibil pentru care concurenta s-a supărat pe iubitul ei</span>
+	</a>
+    </div>
+    
+	<div class="banner" style="background-color:#ffffff;">
+						
+
+			
+	<section class="black p20">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9430696585566190";
+/* Mireasa300x250 */
+google_ad_slot = "6118800821";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</section>
+
+	
+
+
+			</div>
+    <div id="facebook-urmareste"><a href="https://www.facebook.com/Mireasapentrufiulmeu" target="_blank"><img src="/templates/default/img/facebook-urmareste.png"></a></div>
+    <div class="clearfix"></div>
+
+                        <div class="stire-mica" >
+       	<a href="/petru-afirmatie-scandaloasa-andrada-esti-o-tradatoare-6959.html"><img width="218" height="152" src="http://ivm.inin.ro/images_handler.php?guid=qmIFAzJWYDd&width=218&height=152" alt=""><br />Petru, afirmaţie SCANDALOASĂ: Andrada, eşti o trădătoare!</a>
+    </div>
+                    <div class="stire-mica" >
+       	<a href="/tensiunea-a-atins-cote-maxime-reactiile-lauricai-dupa-ce-tatal-acesteia-a-criticato-6958.html"><img width="218" height="152" src="http://ivm.inin.ro/images_handler.php?guid=TxIOUqKSwrg&width=218&height=152" alt=""><br />Tensiunea a atins cote maxime! Reacţiile Lăuricăi după ce tatăl acesteia a criticat-o!</a>
+    </div>
+                    <div class="stire-mica" >
+       	<a href="/teama-motivul-pentru-care-concurentii-au-votat-ca-radu-si-cristian-sa-revina-in-competitie-6957.html"><img width="218" height="152" src="http://ivm.inin.ro/images_handler.php?guid=ZPKmNVkBUVB&width=218&height=152" alt=""><br />Teama, motivul pentru care concurenţii au votat ca Radu şi Cristian să revină în competiţie?</a>
+    </div>
+                    <div class="stire-mica" style="margin-right:0;">
+       	<a href="/andreea-mantea-absenta-la-emisiune-6956.html"><img width="218" height="152" src="http://ivm.inin.ro/images_handler.php?guid=E0zYPhA7ref&width=218&height=152" alt=""><br />Andreea Mantea, absentă la emisiune</a>
+    </div>
+        
+    <div class="clearfix"></div>
+</div> <!--simple leaderboard-->
+
+<div class="leaderboard">
+
+
+<!-- A1-MireasaPentruFiulMeu.a1.ro-Leaderboard -->
+<div id='div-gpt-ad-1410261933362-1' style='margin: 0 auto; width: 940px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410261933362-1'); });
+</script>
+</div>
+
+
+</div><!--//simple leaderboard-->
+
+<div id="juriu">
+	<h1><a href="http://mireasapentrufiulmeu.a1.ro/content/10/andreea-mantea.html">Andreea Mantea</a></h1>
+	<p><b></b><br />
+	Andreea Mantea se află în una dintre cele mai frumoase perioade din viața
+sa. Cariera îi merge ca pe roate, fiind prezentatoarea a două show-uri de
+succes,  "Mireasă pentru fiul meu" și "Burlacul" .
+<br/><br/>
+În urmă cu doar câteva luni de zile sucea minţile concurenţilor de la
+emisiunea "Burlăciţa", iar acum, frumoasa Andreea Mantea a debutat la
+cârma celui mai îndrăgit show matrimonial, unde o va înlocui pe Mirela
+Boureanu Vaida.
+	
+	<h2><a href="http://mireasapentrufiulmeu.a1.ro/content/10/prezentatoare.html" title="Andreea Mantea">
+	<br/>Afla mai multe
+	</a></h2>
+	
+		
+	
+	</div>
+
+
+<!--coloana C1-->
+<div id="C1">
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/glumele-anei-nu-sunt-pe-placul-fetelor-6965.html" class="_item_link">Glumele Anei nu sunt pe placul fetelor!</a></h1>
+		<div class="poza">
+			<a href="/glumele-anei-nu-sunt-pe-placul-fetelor-6965.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=oxp04kzhXw2&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Atitudinea Anei stârnește controverse în rândul fetelor!		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Marti, 7 Aprilie 2015, 15:08</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+	<div style="margin: 0px auto 20px; text-align: center; width: 610px;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7476608016381954";
+/* Mireasa_text_link */
+google_ad_slot = "1549000420";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/ana-simte-ca-lavinia-o-trateaza-cu-ostilitate-6964.html" class="_item_link">Ana simte că Lavinia o tratează cu ostilitate!</a></h1>
+		<div class="poza">
+			<a href="/ana-simte-ca-lavinia-o-trateaza-cu-ostilitate-6964.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=SUZUdQhF4a8&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Lavinia nu pare prea încântată că Petru s-a întors în Casă!		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Marti, 7 Aprilie 2015, 14:49</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/ce-framantari-se-ascund-in-spatele-lacrimilor-laviniei-6963.html" class="_item_link">Ce frământări se ascund în spatele lacrimilor Laviniei?</a></h1>
+		<div class="poza">
+			<a href="/ce-framantari-se-ascund-in-spatele-lacrimilor-laviniei-6963.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=RJrpowKJ4NW&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Lavinia, copleșită de tristețe: Se simte abandonată de ceilalți concurenți?		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Marti, 7 Aprilie 2015, 14:19</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/simona-vrea-sa-afle-ce-sfaturi-a-primit-ana-din-partea-biancai-6962.html" class="_item_link">Simona vrea să afle ce sfaturi a primit Ana din partea Biancăi!</a></h1>
+		<div class="poza">
+			<a href="/simona-vrea-sa-afle-ce-sfaturi-a-primit-ana-din-partea-biancai-6962.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=4za8FKSRKP7&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Alexandra e convinsă că Lăurica îi este antipatică Biancăi chiar de când prietena Anei a venit în vizită!		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Marti, 7 Aprilie 2015, 12:45</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/gabi-i-bianca-iau-adus-acuzaii-reciproc-6961.html" class="_item_link">Gabi și Bianca și-au adus acuzații reciproc!</a></h1>
+		<div class="poza">
+			<a href="/gabi-i-bianca-iau-adus-acuzaii-reciproc-6961.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=KQb6SvNmhcr&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Lăurica este contrariată în urma dezvăluirilor pe care le-a făcut Gabi!		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Marti, 7 Aprilie 2015, 12:11</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/andrada-in-culmea-disperarii-motivul-incredibil-pentru-care-concurenta-sa-suparat-pe-iubitul-ei-6960.html" class="_item_link">Andrada, în culmea disperării! Motivul incredibil pentru care concurenta s-a supărat pe iubitul ei</a></h1>
+		<div class="poza">
+			<a href="/andrada-in-culmea-disperarii-motivul-incredibil-pentru-care-concurenta-sa-suparat-pe-iubitul-ei-6960.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=XVvZIUEMD8X&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		A plâns ore în şir atunci când iubitul ei a sărit gardul, iar acum, când acesta a revenit în casă, Andrada este incredibil de supărată.
+
+Iar motivul este unul straniu, căci concurenta i-a reproşat iubitului ei că nu îi acordă suficientă atenţie şi petrece mai mult timp cu Petru.		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Luni, 6 Aprilie 2015, 15:32</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/petru-afirmatie-scandaloasa-andrada-esti-o-tradatoare-6959.html" class="_item_link">Petru, afirmaţie SCANDALOASĂ: Andrada, eşti o trădătoare!</a></h1>
+		<div class="poza">
+			<a href="/petru-afirmatie-scandaloasa-andrada-esti-o-tradatoare-6959.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=qmIFAzJWYDd&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Erau cei mai buni prieteni, însă la scurt timp după ce mama lui Radu le-a făcut observaţie că petrec prea mult timp împreună, Andrada şi Petru au avut o discuţie aprinsă.
+
+Dacă ea a fost deranjată de replicile pe care le-a avut concurentul la adresa doamnei Ana, el a fost...		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Luni, 6 Aprilie 2015, 15:23</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/tensiunea-a-atins-cote-maxime-reactiile-lauricai-dupa-ce-tatal-acesteia-a-criticato-6958.html" class="_item_link">Tensiunea a atins cote maxime! Reacţiile Lăuricăi după ce tatăl acesteia a criticat-o!</a></h1>
+		<div class="poza">
+			<a href="/tensiunea-a-atins-cote-maxime-reactiile-lauricai-dupa-ce-tatal-acesteia-a-criticato-6958.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=TxIOUqKSwrg&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		A fost criticată aprig de tatăl ei, care i-a transmis să nu mai vorbească despre fratele ei, din cauza faptului că pe internet se scrie că ar fi interlopi, iar acum Lăurica a reacţionat agresiv.
+La scurt timp după intervenţia acestuia, Lăurica a început să plângă şi să spună...		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Luni, 6 Aprilie 2015, 14:41</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/teama-motivul-pentru-care-concurentii-au-votat-ca-radu-si-cristian-sa-revina-in-competitie-6957.html" class="_item_link">Teama, motivul pentru care concurenţii au votat ca Radu şi Cristian să revină în competiţie?</a></h1>
+		<div class="poza">
+			<a href="/teama-motivul-pentru-care-concurentii-au-votat-ca-radu-si-cristian-sa-revina-in-competitie-6957.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=ZPKmNVkBUVB&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Concurenţii şi telespectatorii au votat ca Radu şi Cristian să revină în competiţia iubirii, însă se pare că unii dintre cei din casă ar fi spus “DA“ de teama de a nu le fi descoperită opoziţia.		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Luni, 6 Aprilie 2015, 14:34</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/andreea-mantea-absenta-la-emisiune-6956.html" class="_item_link">Andreea Mantea, absentă la emisiune</a></h1>
+		<div class="poza">
+			<a href="/andreea-mantea-absenta-la-emisiune-6956.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=E0zYPhA7ref&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		 Momente delicate astăzi la &quot;Mireasă pentru fiul meu&quot;, unde Andreea Mantea, frumoasa prezentatoare a show-ului matrimonial a &icirc;nt&acirc;rziat să apară şi le-a dat emoţii concurenţilor. 		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Luni, 6 Aprilie 2015, 13:06</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/cel-mai-longeviv-cuplu-din-competitie-este-in-pragul-despartirii-6955.html" class="_item_link">Cel mai longeviv cuplu din competiţie este în pragul despărţirii</a></h1>
+		<div class="poza">
+			<a href="/cel-mai-longeviv-cuplu-din-competitie-este-in-pragul-despartirii-6955.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=b260vT2pHdK&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Ionela şi Teodor discută despre nemulţumirile pe care le au în privinţa relaţiei lor.		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Luni, 6 Aprilie 2015, 12:44</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/fuga-anei-a-starnit-controverse-in-casa-6954.html" class="_item_link">Fuga Anei a stârnit controverse în casă!</a></h1>
+		<div class="poza">
+			<a href="/fuga-anei-a-starnit-controverse-in-casa-6954.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=mgRKzlfqL5g&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		 Vezi aici cum au reacţionat concurenţii după ce au aflat că Ana a a sărit gardul! 		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Luni, 6 Aprilie 2015, 12:17</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/cristian-si-radu-raman-in-competitie-6953.html" class="_item_link">Cristian şi Radu rămân în competiţie!</a></h1>
+		<div class="poza">
+			<a href="/cristian-si-radu-raman-in-competitie-6953.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=MW1n2njV9YU&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Comisia de Decizie şi publicul au decis că Radu şi Cristian să rămână în competiţia de la "Mireasă pentru fiul meu!"		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Sambata, 4 Aprilie 2015, 19:07</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/petru-uimit-de-decizia-anei-de-a-sari-gardul-6951.html" class="_item_link">Petru, uimit de decizia Anei de a sări gardul!</a></h1>
+		<div class="poza">
+			<a href="/petru-uimit-de-decizia-anei-de-a-sari-gardul-6951.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=IwlkbLGHy9f&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Petru a fost uluit de decizia pe care a luat-o Ana, atunci când a sărit gardul Casei "Mireasă pentru fiul meu!"		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Sambata, 4 Aprilie 2015, 18:48</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+
+	<div class="stire-mare _item">
+		<h1><a href="/ana-a-decis-sa-ramana-in-competitie-insa-decizia-de-a-reveni-o-costa-scump-6952.html" class="_item_link">Ana a decis să rămână în competiţie! Însă decizia de a reveni o costă scump!</a></h1>
+		<div class="poza">
+			<a href="/ana-a-decis-sa-ramana-in-competitie-insa-decizia-de-a-reveni-o-costa-scump-6952.html"><img width="570" height="400" src="http://ivm.inin.ro/images_handler.php?guid=Ryb0O88u09h&width=570&height=400"><span class="play-mare"></span></a>
+		</div>
+		Ana a revenit în "Casa Mireasă pentru fiul meu!", dar este obligată de Comisia de Decizie să renunţe la bani în cazul în care va câştiga competiţia!		<div class="footer-stire">
+			<div class="share _item_share"><img src="/templates/default/img/sharebar.png" class="_item_share_img"></div>
+			<div class="date">Sambata, 4 Aprilie 2015, 18:37</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+</div>
+<!--coloana C2-->
+<div id="C2">
+					<div style="margin-bottom: 20px;">
+<!-- A1-MireasaPentruFiulMeu.a1.ro-Rectangle -->
+<div id='div-gpt-ad-1410261933362-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410261933362-2'); });
+</script>
+</div>
+</div>
+	
+			<div class="box">
+	<h1>Cele mai citite</h1>
+
+			<a href="/socant-petru-a-sarit-gardul-6931.html"><img width="270" height="188" src="http://ivm.inin.ro/images_handler.php?guid=XV1HNRwFQk1&width=270&height=188"><h2>Şocant! Petru a sărit gardul!</h2></a>
+	<div class="separator"></div>			<a href="/tensiunea-a-atins-cote-maxime-reactiile-lauricai-dupa-ce-tatal-acesteia-a-criticato-6958.html"><img width="270" height="188" src="http://ivm.inin.ro/images_handler.php?guid=TxIOUqKSwrg&width=270&height=188"><h2>Tensiunea a atins cote maxime! Reacţiile Lăuricăi după ce tatăl acesteia a criticat-o!</h2></a>
+	<div class="separator"></div>			<a href="/momente-incredibile-pentru-carmen-si-danut-ce-cadou-au-primit-cei-doi-concurenti-6927.html"><img width="270" height="188" src="http://ivm.inin.ro/images_handler.php?guid=aCirWdFw1p1&width=270&height=188"><h2>Momente incredibile pentru Carmen şi Dănuţ! Ce cadou au primit cei doi concurenţi</h2></a>
+	<div class="separator"></div>			<a href="/laurica-distrusa-de-suparare-regret-ca-vam-dezamagit-6929.html"><img width="270" height="188" src="http://ivm.inin.ro/images_handler.php?guid=QMltyQysbeX&width=270&height=188"><h2>Lăurica, distrusă de supărare: Regret că v-am dezamăgit!</h2></a>
+	<div class="separator"></div>			<a href="/reactiile-concurentilor-dupa-ce-petru-a-sarit-gardul-cine-a-fost-cel-mai-afectat-6935.html"><img width="270" height="188" src="http://ivm.inin.ro/images_handler.php?guid=nu4yE0uRRgl&width=270&height=188"><h2>Reacţiile concurenţilor după ce Petru a sărit gardul! Cine a fost cel mai afectat</h2></a>
+		
+</div>		
+	<div style="margin-bottom: 20px;">
+<!-- A1-MireasaPentruFiulMeu.a1.ro-Rectangle1 -->
+<div id='div-gpt-ad-1410261933362-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410261933362-3'); });
+</script>
+</div>
+</div>
+
+					
+	
+
+	
+			
+
+			
+	<div class="box like">
+			<iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/Mireasapentrufiulmeu&width=300&height=250&show_faces=true&colorscheme=light&stream=false&border_color&header=false&appId=373674856062515" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowTransparency="true"></iframe>	    </div>
+
+
+
+	
+
+
+		
+	<div style="margin-bottom: 20px;">
+<!-- A1-MireasaPentruFiulMeu.a1.ro-Rectangle1 -->
+<div id='div-gpt-ad-1410261933362-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410261933362-3'); });
+</script>
+</div>
+</div>
+
+		
+	
+
+</div>		
+		<div class="clearfix"></div>
+		<div id="alte-stiri">
+			<h1>Recomandari A1.ro</h1>
+
+<div  class="stire-mica">
+	<a title="Mare atenție! Gemenii pot întâmpina probleme în relația de cuplu! Află ce-ți rezervă astrele mâine, pentru zodia ta" href="http://a1.ro/news/inedit/mare-atentie-gemenii-pot-intampina-probleme-in-relatia-de-cuplu-afla-ceti-rezerva-astrele-maine-pentru-zodia-ta-id391686.html" target="_blank">
+		<img width="220" height="153" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.inin.ro%252Fthumbs%252Fantena1%252F2015%252F04%252F07%252FSgCuKscgbvi_2O.jpg%26w%3D330%26h%3D231%26c%3D1&w=220&h=153&c=1"><br />Mare atenție! Gemenii pot întâmpina probleme în relația de cuplu! Află ce-ți rezervă...
+	</a>
+</div>
+
+
+
+<div  class="stire-mica">
+	<a title="Simona Gherghe a adus Paștele, mai repede, în casele românilor" href="http://a1.ro/tv/cioccioc/simona-gherghe-a-adus-pastele-mai-repede-in-casele-romanilor-id391685.html" target="_blank">
+		<img width="220" height="153" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.inin.ro%252Fthumbs%252Fantena1%252F2015%252F04%252F07%252FH8mJ5HYg7GQ_2O.jpg%26w%3D330%26h%3D231%26c%3D1&w=220&h=153&c=1"><br />Simona Gherghe a adus Paștele, mai repede, în casele românilor
+	</a>
+</div>
+
+
+
+<div  class="stire-mica">
+	<a title="Duckadam vine la “Next Star”, să-i facă un cadou special unui băiețel sărman, care are grijă de tatăl bolnav de epilepsie" href="http://nextstar.a1.ro/stiri/duckadam-vine-la-next-star-sai-faca-un-cadou-special-unui-baietel-sarman-care-are-grija-de-tatal-bolnav-de-epilepsie-id1287.html" target="_blank">
+		<img width="220" height="153" src="http://img.inin.ro/?u=http%3A%2F%2Fa1.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2015%2F4%2F7%2F391684%2F330x231_14284167176307a5ed.jpg&w=220&h=153&c=1"><br />Duckadam vine la “Next Star”, să-i facă un cadou special unui băiețel sărman, care are...
+	</a>
+</div>
+
+
+
+<div style="margin-right:0;" class="stire-mica">
+	<a title="BLESTEMUL unei familii! Doi frați s-au sinucis din cauza jocurilor de noroc. Al treilea a încercat și el să-și pună CAPĂT ZILELOR" href="http://a1.ro/news/social/blestemul-unei-familii-doi-frati-sau-sinucis-din-cauza-jocurilor-de-noroc-al-treilea-a-incercat-si-el-sasi-puna-capat-zilelor-id391681.html" target="_blank">
+		<img width="220" height="153" src="http://img.inin.ro/?u=http%3A%2F%2Fimg.inin.ro%2F%3Fu%3Dhttp%253A%252F%252Fivm.inin.ro%252Fthumbs%252Fantena1%252F2015%252F04%252F07%252FboNIO40SJXl_1O.jpg%26w%3D330%26h%3D231%26c%3D1&w=220&h=153&c=1"><br />BLESTEMUL unei familii! Doi frați s-au sinucis din cauza jocurilor de noroc. Al treilea a...
+	</a>
+</div>
+
+			<div style="height:40px;" class="clearfix"></div>
+			<h1>Lifestyle Euforia.TV</h1>
+
+<div  class="stire-mica">
+	<a title="FOTO! Beatles revine! Ringo Starr va avea propriul personaj de desene animate" href="http://www.euforia.tv/articol/lifestyle/vedete/foto-beatles-revine-ringo-starr-va-avea-propriul-personaj-de-desene-animate-23964.html" target="_blank">
+		<img width="220" height="153" src="http://img.inin.ro/?u=http%3A%2F%2Fwww.euforia.tv%2Fuploads%2Fmodules%2Fnews%2F23964%2F300x0_hepta_1571685.jpg&w=220&h=153&c=1"><br />FOTO! Beatles revine! Ringo Starr va avea propriul personaj de desene animate
+	</a>
+</div>
+
+
+
+<div  class="stire-mica">
+	<a title="Șase lucruri pe care doar pasionații de modă le adoră" href="http://www.euforia.tv/articol/lifestyle/fashion/ase-lucruri-pe-care-doar-pasionaii-de-moda-le-adora-23963.html" target="_blank">
+		<img width="220" height="153" src="http://img.inin.ro/?u=http%3A%2F%2Fwww.euforia.tv%2Fuploads%2Fmodules%2Fnews%2F23963%2F300x0_asos.jpg&w=220&h=153&c=1"><br />Șase lucruri pe care doar pasionații de modă le adoră
+	</a>
+</div>
+
+
+
+<div  class="stire-mica">
+	<a title="GALERIE FOTO! Sofia Vergara, dependentă de Instagram" href="http://www.euforia.tv/articol/lifestyle/vedete/galerie-foto-sofia-vergara-dependenta-de-instagram-23960.html" target="_blank">
+		<img width="220" height="153" src="http://img.inin.ro/?u=http%3A%2F%2Fwww.euforia.tv%2Fuploads%2Fmodules%2Fnews%2F23960%2F300x0_vergara4.JPG&w=220&h=153&c=1"><br />GALERIE FOTO! Sofia Vergara, dependentă de Instagram
+	</a>
+</div>
+
+
+
+<div style="margin-right:0;" class="stire-mica">
+	<a title="FOTO! Îndrăgostită de burlesc? Cum poți imita stilul Ditei von Teese" href="http://www.euforia.tv/articol/lifestyle/fashion/foto-indragostita-de-burlesc-cum-poi-imita-stilul-ditei-von-teese-23958.html" target="_blank">
+		<img width="220" height="153" src="http://img.inin.ro/?u=http%3A%2F%2Fwww.euforia.tv%2Fuploads%2Fmodules%2Fnews%2F23958%2F300x0_dita.jpg&w=220&h=153&c=1"><br />FOTO! Îndrăgostită de burlesc? Cum poți imita stilul Ditei von Teese
+	</a>
+</div>
+
+			<div class="clearfix"></div>
+		</div>
+
+		<footer>
+            <div class="footer_links_container">
+                <div class="footer_categorie footer_no_margin_left">TELEVIZIUNE</div>
+                <a href="http://www.a1.ro" title="Antena 1" target="_blank">Antena 1</a><br>
+                <a href="http://www.antena2.ro" title="Antena 2" target="_blank">Antena 2</a><br>
+                <a href="http://www.antena3.ro" title="Antena 3" target="_blank">Antena 3</a><br>
+                <a title="Antena International">Antena International</a><br>
+                <a href="http://www.euforia.tv" title="EuforiaTV" target="_blank">EuforiaTV</a><br>
+                <a href="http://www.gsptv.ro" title="GSP TV" target="_blank">GSP TV</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_categorie footer_no_margin_left">ZIARE</div>
+                <a href="http://www.jurnalul.ro" title="Jurnalul National" target="_blank">Jurnalul National</a><br>
+                <a href="http://gsp.ro" title="Gazeta Sporturilor" target="_blank">Gazeta Sporturilor</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_categorie footer_no_margin_left">REVISTE</div>
+                <a href="http://www.topgear.ro" title="TopGear" target="_blank">TopGear</a><br>
+                <a href="http://www.goodfood.ro" title="GoodFood" target="_blank">GoodFood</a><br>
+                <a href="http://www.sciencefocus.ro" title="ScienceFocus" target="_blank">ScienceFocus</a><br>
+                <a href="http://www.theindustry.ro" title="The Industry" target="_blank">The Industry</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_categorie footer_no_margin_left">RADIO</div>
+                <a href="http://www.radiozu.ro" title="RadioZU" target="_blank">RadioZU</a><br>
+                <a href="http://www.romanticfm.ro" title="Romantic FM" target="_blank">Romantic FM</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_categorie footer_no_margin_left">CSR</div>
+                <a href="http://fundatiamereuaproape.ro" title="Fundatia Mereu Aproape" target="_blank">Fundatia Mereu Aproape</a><br>
+                <a href="http://www.fudv.ro" title="Fundatia Dan Voiculescu" target="_blank">FUDV</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_categorie footer_no_margin_left">BUSINESS</div>
+                <a href="http://www.tipografiaintact.ro" title="Tipografia INTACT" target="_blank">Tipografia INTACT</a><br>
+                <a href="http://www.intactproduction.ro" title="INTACT Production" target="_blank">INTACT Production</a><br>
+                <a href="http://www.omn.ro" title="Open Media Network" target="_blank">Open Media Network</a><br>
+                <a href="http://www.intactinteractive.ro" title="Publicitate online" target="_blank">INTACT Interactive</a><br>
+                <a href="http://www.euroexpo.ro" title="Euroexpo Trade Fairs" target="_blank">Euroexpo Trade Fairs</a><br>
+                <a href="http://www.logicons.ro" target="_blank" title="LogiCons">LogiCons</a><br>
+                <a href="http://www.seed-consultants.ro/" title="Seed Consultants" target="_blank">Seed Consultants</a><br>
+                <a href="http://www.intactimages.ro" target="_blank" title="Intact Images">Intact Images</a>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_categorie footer_no_margin_left">EDUCATIE</div>
+                <a href="http://www.intactmediaacademy.ro" title="Intact Media Academy" target="_blank">Intact Media Academy</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_categorie footer_no_margin_left">CARIERE</div>
+                <a href="http://www.intactmediagroup.ro/cariere.html" title="Locuri de munca" target="_blank">Oportunitati in cadrul INTACT</a><br>
+            </div>
+            <div class="clearfix"></div>
+            <br>
+            <div class="footer_categorie">INTERNET</div>
+            <div class="footer_links_container">
+                <div class="footer_subcategorie">NEWS</div>
+                <a href="http://www.a1.ro" title="Antena 1" target="_blank">a1.ro</a><br>
+                <a href="http://www.antena3.ro" title="Antena 3" target="_blank">antena3.ro</a><br>
+                <a href="http://www.jurnalul.ro" title="Jurnalul National" target="_blank">jurnalul.ro</a><br>
+                <a href="http://www.videonews.ro" title="Video News" target="_blank">videonews.ro</a><br>
+                <a href="http://www.intactnews.ro" title="Intact News" target="_blank">intactnews.ro</a><br>
+                <a href="http://www.ghimpele.ro" title="Ghimpele" target="_blank">ghimpele.ro</a><br>
+                <a href="http://www.sciencefocus.ro" title="ScienceFocus" target="_blank">sciencefocus.ro</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_subcategorie">ENTERTAINMENT</div>
+                <a href="http://www.antena2.ro" title="Antena 2" target="_blank">antena2.ro</a><br>
+                <a href="http://www.vdtonline.ro" title="Vedete Online" target="_blank">vdtonline.ro</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_subcategorie">FINANCE</div>
+                <a href="http://www.sfin.ro" title="Saptamana Financiara" target="_blank">sfin.ro</a><br>
+                <a href="http://www.fin.ro" title="Fin.ro" target="_blank">fin.ro</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_subcategorie">WOMEN</div>
+                <a href="http://www.euforia.tv" title="Euforia TV" target="_blank">euforia.tv</a><br>
+                <a href="http://www.revistafelicia.ro" title="Felicia" target="_blank">revistafelicia.ro</a><br>
+                <a href="http://www.goodfood.ro" target="_blank" title="Good Food">goodfood.ro</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_subcategorie">SPORT</div>
+                <a href="http://www.gsp.ro" title="Gazeta Sporturilor" target="_blank">gsp.ro</a><br>
+                <a href="http://www.gsptv.ro" title="GSP TV" target="_blank">gsptv.ro</a><br>
+                <a href="http://www.mysport.ro" title="My Sport" target="_blank">mysport.ro</a><br>
+                <a href="http://www.pariori.ro" title="Pariuri Sportive" target="_blank">pariori.ro</a><br>
+                <a href="http://echipafantastica.gsp.ro" title="" target="_blank">echipafantastica.gsp.ro</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_subcategorie">MOBILE</div>
+                <a href="http://m.antena3.ro" title="Antena 3 pentru mobil" target="_blank">m.antena3.ro</a><br>
+                <a href="http://m.gsp.ro" title="Gazeta Sporturilor pentru mobil" target="_blank">m.gsp.ro</a><br>
+                <a href="http://m.antena1.ro" title="Antena 1 pentru mobil" target="_blank">m.antena1.ro</a><br>
+                <a href="http://m.fin.ro" title="" target="_blank">m.fin.ro</a><br>
+                <a href="http://ipad.gsp.ro/" title="GSP.ro iPad" target="_blank">ipad.gsp.ro</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_subcategorie">AUTO</div>
+                <a href="http://www.topgear.ro" title="TopGear" target="_blank">topgear.ro</a><br>
+            </div>
+            <div class="footer_links_container">
+                <div class="footer_subcategorie">SERVICII</div>
+                <a href="http://www.totulredus.ro" title="Totul Redus" target="_blank">totulredus.ro</a><br>
+                <a href="http://www.vulping.ro" title="Vulping.ro" target="_blank">vulping.ro</a><br>
+                <a href="http://www.meteoplus.ro" target="_blank" title="Meteo Plus">meteoplus.ro</a><br>
+            </div>
+            <div class="clearfix"></div>
+            <div class="footer_copyright">&copy; Acest site este parte a <a href="http://www.intactmediagroup.ro/" target="_blank">INTACT MEDIA GROUP</a> | <a href="http://mireasapentrufiulmeu.a1.ro/uploads/file/regulament.doc">Regulament</a> | <a href="http://static.a1.ro/Cod-Deontologic.pdf" title="Cod deontologic" target="_blank">Cod deontologic</a> | <a href="http://static.a1.ro/Antena-Group-Date-Companie.pdf" title="Antena Group - Date companie" target="_blank">Antena Group - Date companie</a> | <a target="_blank" href="http://a1.ro/termeni-si-conditii">Termeni si conditii</a></div>
+            <div style="color:#ffffff;font-weight:bold;" class="footer_copyright2">
+
+            </div>
+            
+            <center>
+            <div style="padding-top:20px">
+				<table>
+					<tr>
+						<td>
+									<center>
+		<!-- BEGIN trafic.ro code v2.0 -->
+		<script type="text/javascript">t_rid="antena1";</script>
+		<script src="http://storage.trafic.ro/js/trafic.js" type="text/javascript"></script>
+		<noscript>
+		<a href="http://www.trafic.ro/top/?rid=antena1"> <img src="http://log.trafic.ro/cgi-bin/pl.dll?rid=antena1" border="0" alt="trafic ranking"/></a>
+		</noscript>
+		<!-- END trafic.ro code v2.0 -->
+		</center>						</td>
+						<td>	
+							&nbsp;<a href="http://www.sati.ro/index.php?page=rezultate&amp;o=clients&amp;siteid=antena1" target="_blank"><img src="/templates/default/images/sati.jpg" border="0" alt="SATI" height="31"/></a>
+						</td>
+					</tr>
+				</table>
+				<br/>			
+			</center>
+			</div>
+</footer>
+</div>
+<div id="fb-root"></div>
+
+
+<script>
+var myfb_user_state = 0;
+
+
+(function(){
+	var e = document.createElement('script'); e.async = true;
+	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+	document.getElementById('fb-root').appendChild(e);
+}());
+
+function getMeOut() {
+	FB.logout(function() {xajax_login(0);});
+}
+	
+function getMeIn(){
+		
+	FB.getLoginStatus(function(response) {
+		if (response.authResponse ) xajax_login(1);
+		else window.location = "/login/?redirect_uri=" + window.location;
+	});		
+		
+}
+	
+
+</script>
+
+
+
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId: '',
+          cookie: true,
+          xfbml: true,
+          oauth: true
+        });
+
+	    FB.getLoginStatus(function(response) {
+			if (response.authResponse && !myfb_user_state ) xajax_login(1);
+	        else if ( !response.authResponse && myfb_user_state ) xajax_login(0);
+	    });
+
+      };
+</script>
+
+
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="wy-popup" class="sharepopup" style="display:none;"></div>
+
+<!-- Zontera Body End Code  :BEGIN-->
+<script type="text/javascript" src="http://content.ad20.net/LibBE.js"></script>
+<script type="text/javascript">(function(){var o,k;if(!window.ZTRANB)for(k in ZTRADS)
+{o=document.getElementById("zc"+k.substring(1));if(o)o.style.display='none';}})()</script>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<div><script type="text/javascript">try{ZTRADW()}catch(r){}</script></div>
+<!-- Zontera Body End Code  :END-->
+
+
+
+
+<!-- BRAT new version -->
+<script type="text/javascript">  (function() {
+    var scr = document.createElement('script'); 
+    scr.type = 'text/javascript'; scr.async = true;
+    scr.src = 'http://mireasapentrufiulmeu.a1.ro/js/spring.js';
+    var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(scr, s);
+    })();
+ 
+</script>
+<!-- //BRAT new version -->
+
+
+</body>
+</html>

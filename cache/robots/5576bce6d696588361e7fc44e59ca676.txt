@@ -1,0 +1,8 @@
+1427735643
+http://www.imobile.com.cn
+http://www.imobile.com.cn/robots.txt
+#
+# robots.txt for App
+#
+User-agent: *
+Disallow: /*.php

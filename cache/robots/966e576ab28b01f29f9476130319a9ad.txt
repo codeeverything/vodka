@@ -1,0 +1,14 @@
+1427800712
+http://www.9game.cn
+http://www.9game.cn/robots.txt
+User-agent: *
+Disallow: /tpl/pc/webgame/ 
+Disallow: /*?* 
+Disallow: /game/detail/ 
+Disallow: /game/2/ 
+Disallow: /game/down* 
+Disallow: /game/downs* 
+Disallow: /search/ 
+Disallow: /ng-* 
+Sitemap: http://static.9game.cn/sitemap/sitemapIndex.xml
+Sitemap: http://static.9game.cn/sitemap/sohuSitemapIndex.xml

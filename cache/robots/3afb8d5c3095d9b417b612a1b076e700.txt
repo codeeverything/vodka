@@ -1,0 +1,18 @@
+1428418741
+http://www.foxlifetv.nl
+http://www.foxlifetv.nl/robots.txt
+1428242674
+http://www.foxlifetv.nl
+http://www.foxlifetv.nl/robots.txt
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+
+Disallow: /schedule-calendar/
+Disallow: /schedule-calendar/*
+Disallow: /schedule-daily/
+Disallow: /schedule-daily/*
+Disallow: /schedule-reminder
+Disallow: /_pollVote
+Disallow: /flag/*

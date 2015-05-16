@@ -1,0 +1,23 @@
+1428496918
+https://www.keek.com/ETCanada
+https://www.keek.com/robots.txt
+1428416583
+https://www.keek.com/ETCanada
+https://www.keek.com/robots.txt
+1428414571
+https://www.keek.com/ETCanada
+https://www.keek.com/robots.txt
+1428240970
+https://www.keek.com/ETCanada
+https://www.keek.com/robots.txt
+1427632043
+https://www.keek.com/ETCanada
+https://www.keek.com/robots.txt
+User-agent: *
+Disallow: /stream
+Disallow: /login
+Disallow: /logout
+Disallow: /ajax
+Disallow: /pipe
+User-Agent: MJ12bot
+Disallow:

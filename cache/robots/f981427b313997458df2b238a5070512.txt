@@ -1,0 +1,6 @@
+1428234794
+http://www.lessig.org
+http://www.lessig.org/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

@@ -1,0 +1,206 @@
+1428421483
+https://www.att.com/olam/enterEmailForgotId.myworld
+https://www.att.com/robots.txt
+1428421480
+https://www.att.com/storeappointment
+https://www.att.com/robots.txt
+1428421474
+https://www.att.com/olam/enterUserIdSlidFpwd.myworld
+https://www.att.com/robots.txt
+1428421458
+https://www.att.com/olam/passthroughAction.myworld
+https://www.att.com/robots.txt
+1428421452
+https://www.att.com/olam/slidRegistrationAction.olamexecute
+https://www.att.com/robots.txt
+1428421432
+https://www.att.com/olam/loginAction.olamexecute
+https://www.att.com/robots.txt
+User-agent: *
+
+# Sitemap files
+Sitemap: http://www.att.com/sitemap.xml
+Sitemap: http://www.att.com/smallbusiness/sitemap.xml
+
+# Consumer Wireless and Home
+Disallow: /*.mobile.html
+Disallow: /Common/indc/popup/
+Disallow: /Common/maintenance/maintenance.html
+Disallow: /Common/popup/
+Disallow: /Common/supern/
+Disallow: /Large-Files/
+Disallow: /OnlineBilling/
+Disallow: /Uverse/files/
+Disallow: /apis/maps/v2/locator/search/query.json
+Disallow: /apis/maps/v2/locator/search/viewport.json
+Disallow: /cctp_tour/
+Disallow: /dsl/shop/fragments/
+Disallow: /econtactus/emailUsForm.jsp
+Disallow: /esupport/article/articleEmail.jsp
+Disallow: /esupport/learningCenter/printSolution.jsp
+Disallow: /esupport/sender/
+Disallow: /esupport/sender/browseResults.jsp
+Disallow: /esupport/sharedSegments/forumDetails.jsp
+Disallow: /esupport/sharedSegments/glossaryDisplay.jsp
+Disallow: /esupport/sharedSegments/supportViewOverlay.jsp
+Disallow: /esupport/sharedSegments/supportViewService.jsp
+Disallow: /esupport/solutionDisplay.jsp
+Disallow: /esupport/stayconnected/
+Disallow: /global/cms/u-verse/
+Disallow: /att/local/
+Disallow: /global-search/
+Disallow: /maintenance/maintenance.html
+Disallow: /media/en_US/swf/uverse_center/js/expressInstall.swf
+Disallow: /maps/not-available.html
+Disallow: /olam/loginAction.olamexecute;EDOCSSESSIONID
+Disallow: /olam/selectMethodsTelcoFpwd.myworld
+Disallow: /olam/submitSLIDEmailForgotIdSlid.myworld
+Disallow: /olam/viewCombinedLogin.myworld
+Disallow: /olam/dashboardAction.olamexecute
+Disallow: /olam/IdentityFailureAction.olamexecute
+Disallow: /privacy/policy/
+Disallow: /sbc_privacy_policy/
+Disallow: /shop/Upper_Funnel_Promo_Modals/ 
+Disallow: /shop/en/wireless/modals/
+Disallow: /shop/es/Upper_Funnel_Promo_Modals/ 
+Disallow: /shop/es/wireless/modals/
+Disallow: /shop/popups/en_US/
+Disallow: /shop/sharedSegments/
+Disallow: /shop/wireless/modals/
+Disallow: /u-verse/cart/
+Disallow: /u-verse/en_US/popups/
+Disallow: /u-verse/explore/uvPop.html
+Disallow: /u-verse/popups/
+Disallow: /u-verse/shop/fragments/
+Disallow: /u-verse/shop/modal/
+Disallow: /esupport/article.jsp?sid=64785
+Disallow: /esupport/article.jsp?sid=64785&cv=820
+
+# Small Business
+Disallow: /smallbusiness/bundles/afl_campaign1.jsp
+Disallow: /smallbusiness/bundles/compTable.jsp
+Disallow: /smallbusiness/bundles/config.jsp
+Disallow: /smallbusiness/bundles/productIndex.jsp
+Disallow: /smallbusiness/bundles/productIndex.jsp?prodType=bundles
+Disallow: /smallbusiness/bundles/redirect_childConfig.jsp
+Disallow: /smallbusiness/businessPhones/localCallingLongDistance.jsp
+Disallow: /smallbusiness/businessPhones/localCallingLongDistanceConfig.jsp
+Disallow: /smallbusiness/businessServices/mobileApplications/businessMessaging.jsp
+Disallow: /smallbusiness/businessServices/mobileApplications/index.jsp*
+Disallow: /smallbusiness/businessServices/mplsDetails.jsp*
+Disallow: /smallbusiness/businessServices/ts360/databackup.jsp*
+Disallow: /smallbusiness/businessServices/ts360/macServicesDetails.jsp
+Disallow: /smallbusiness/businessServices/ts360/onetimePcServices.jsp
+Disallow: /smallbusiness/businessServices/ts360/onetimeSmartphoneSupport.jsp
+Disallow: /smallbusiness/businessServices/ts360/onetimeTrainingServices.jsp
+Disallow: /smallbusiness/businessServices/ts360/serverSupport.jsp*
+Disallow: /smallbusiness/businessServices/ts360/smartMinutesDetails.jsp
+Disallow: /smallbusiness/businessServices/ts360/techSupport.jsp*
+Disallow: /smallbusiness/businessServices/ts360/wirelessNetworkDetails.jsp
+Disallow: /smallbusiness/businessServices/website-solutions/index.jsp*
+Disallow: /smallbusiness/businessServices/website-solutions/productPlans.jsp*
+Disallow: /smallbusiness/businessServices/website-solutions/serverSolution.jsp*
+Disallow: /smallbusiness/businessTv/businessTvIndex.jsp*
+Disallow: /smallbusiness/common/productDetails.jsp*
+Disallow: /smallbusiness/productIndex.jsp*
+Disallow: /smallbusiness/en/support/en/billing-account.page?
+Disallow: /smallbusiness/en/support/en/contact-us.page?
+Disallow: /smallbusiness/en/support/en/support-landing.page?
+Disallow: /smallbusiness/index.jsp
+Disallow: /smallbusiness/indexr3.jsp
+Disallow: /smallbusiness/internet/internet.jsp
+Disallow: /smallbusiness/internet/internetConfig.jsp
+Disallow: /smallbusiness/mac/contact_information.jsp
+Disallow: /smallbusiness/offers/specialOffers.jsp
+Disallow: /smallbusiness/pages/promo/AFLcampaign.jsp
+Disallow: /smallbusiness/pages/promo/attmobileshare.jsp
+Disallow: /smallbusiness/pages/promo/next.jsp
+Disallow: /smallbusiness/pages/splash/att-cloud-solutions.jsp
+Disallow: /smallbusiness/solutions/pages/articles/accessmylan.jsp
+Disallow: /smallbusiness/solutions/pages/articles/airtime-manager.jsp
+Disallow: /smallbusiness/solutions/pages/articles/apriva.jsp
+Disallow: /smallbusiness/solutions/pages/articles/associate-att.jsp
+Disallow: /smallbusiness/solutions/pages/articles/associate-pledge.jsp
+Disallow: /smallbusiness/solutions/pages/articles/att-office-at-hand.jsp
+Disallow: /smallbusiness/solutions/pages/articles/courier-complete.jsp
+Disallow: /smallbusiness/solutions/pages/articles/good-for-enterprise.jsp
+Disallow: /smallbusiness/solutions/pages/articles/mobileiron.jsp
+Disallow: /smallbusiness/solutions/pages/articles/mobile-marketing.jsp
+Disallow: /smallbusiness/solutions/pages/articles/netmotion.jsp
+Disallow: /smallbusiness/solutions/pages/articles/prontoforms.jsp
+Disallow: /smallbusiness/solutions/pages/articles/remosync-business-email.jsp
+Disallow: /smallbusiness/solutions/pages/articles/safecell-enterprise.jsp
+Disallow: /smallbusiness/solutions/pages/articles/sales-now.jsp
+Disallow: /smallbusiness/solutions/pages/articles/telenav-asset-tracker.jsp
+Disallow: /smallbusiness/solutions/pages/articles/telenav-track.jsp
+Disallow: /smallbusiness/solutions/pages/articles/telenav-vehicle-track.jsp
+Disallow: /smallbusiness/solutions/pages/articles/webtech-quadrant.jsp
+Disallow: /smallbusiness/solutions/pages/articles/xata-turnpike.jsp
+Disallow: /smallbusiness/solutions/pages/articles/xora-gps-timetrack.jsp
+Disallow: /smallbusiness/solutions/pages/articles/xora-gps-timetrack-in-vehicle.jsp
+Disallow: /smallbusiness/solutions/pages/blogs/how-do-new-customers-find-your-business.jsp
+Disallow: /smallbusiness/solutions/pages/blogs/your-customers-are-mobile.jsp
+Disallow: /smallbusiness/solutions/pages/expert-home/alice.jsp
+Disallow: /smallbusiness/solutions/pages/expert-home/mario.jsp
+Disallow: /smallbusiness/solutions/pages/expert-home/susan.jsp
+Disallow: /smallbusiness/solutions/pages/filter-page.jsp*
+Disallow: /smallbusiness/solutions/pages/index.jsp
+Disallow: /smallbusiness/solutions/pages/intro-pages/chaumette-vineyards.jsp
+Disallow: /smallbusiness/solutions/pages/intro-pages/montrose-pet-hospital.jsp
+Disallow: /smallbusiness/solutions/pages/intro-pages/secrets-to-staying-competitive.jsp
+Disallow: /smallbusiness/solutions/pages/mobile-productivity/construction.jsp
+Disallow: /smallbusiness/solutions/pages/mobile-productivity/healthcare.jsp
+Disallow: /smallbusiness/solutions/pages/mobile-productivity/legal.jsp
+Disallow: /smallbusiness/solutions/pages/mobile-productivity/other-business.jsp
+Disallow: /smallbusiness/solutions/pages/mobile-productivity/transportation.jsp
+Disallow: /smallbusiness/solutions/pages/products/additional-services.jsp
+Disallow: /smallbusiness/solutions/pages/products/business-phone.jsp
+Disallow: /smallbusiness/solutions/pages/products/local-service.jsp
+Disallow: /smallbusiness/solutions/pages/products/long-distance.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/channels/email.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/channels/instant-message.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/channels/mobile.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/channels/social-media.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/channels/voice.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/communication.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/developer-api.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/developers.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/index.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/features/marketing.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/index.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/automotive.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/education.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/event-promoters.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/gyms.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/hospitality.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/index.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/media.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/medical.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/non-profit-organizations.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/political-organizations.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/real-estate.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/religious-organizations.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/restaurants.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/retail.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/salons-and-spas.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/small-and-medium-enterprises.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/industries/union.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/pricing.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/support/faq.jsp*
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/support/signup.jsp
+Disallow: /smallbusiness/solutions/pages/products/messaging-toolkit/support/webinar-signup.jsp
+Disallow: /smallbusiness/solutions/pages/products/uverse-voice.jsp
+Disallow: /smallbusiness/solutions/pages/strategies-and-insights/attract-customers.jsp
+Disallow: /smallbusiness/solutions/pages/strategies-and-insights/boost-productivity.jsp
+Disallow: /smallbusiness/solutions/pages/strategies-and-insights/enable-recovery.jsp
+Disallow: /smallbusiness/solutions/pages/strategies-and-insights/improve-experiences.jsp
+Disallow: /smallbusiness/solutions/pages/strategies-and-insights/manage-technology.jsp
+Disallow: /smallbusiness/support/contact-us-home-28-states.jsp
+Disallow: /smallbusiness/support/contact-us-LCLD-28-states.jsp
+Disallow: /smallbusiness/support/contact-us-wireless-28-states.jsp
+Disallow: /smallbusiness/support/existingCustomer.jsp
+Disallow: /smallbusiness/support/supportHome.jsp
+Disallow: /smallbusiness/wireless/accessories.jsp*
+Disallow: /smallbusiness/wireless/buyFlowContainer.jsp
+Disallow: /smallbusiness/wireless/devices.jsp*
+Disallow: /smallbusiness/wireless/wirelessHome.jsp*

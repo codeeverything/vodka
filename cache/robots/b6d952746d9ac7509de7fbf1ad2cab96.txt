@@ -1,0 +1,22 @@
+1428422238
+http://www.fyitv.ca/channel-listings
+http://www.fyitv.ca/robots.txt
+1428422236
+http://www.fyitv.ca/on-fyi
+http://www.fyitv.ca/robots.txt
+1428418909
+http://www.fyitv.ca/schedule
+http://www.fyitv.ca/robots.txt
+1428417149
+http://www.fyitv.ca
+http://www.fyitv.ca/robots.txt
+1428242713
+http://www.fyitv.ca/schedule
+http://www.fyitv.ca/robots.txt
+1428241643
+http://www.fyitv.ca
+http://www.fyitv.ca/robots.txt
+User-agent: *
+Allow: 
+
+SITEMAP: http://www.fyitv.ca/sitemap.xml

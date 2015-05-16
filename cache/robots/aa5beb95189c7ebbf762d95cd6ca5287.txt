@@ -1,0 +1,8 @@
+1428416988
+http://bigbrothercanada.globaltv.com
+http://bigbrothercanada.globaltv.com/robots.txt
+1428241910
+http://bigbrothercanada.globaltv.com
+http://bigbrothercanada.globaltv.com/robots.txt
+User-agent: *
+Allow:

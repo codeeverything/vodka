@@ -1,0 +1,9 @@
+1428420148
+http://blogi.przegladsportowy.pl
+http://blogi.przegladsportowy.pl/robots.txt
+1428417803
+http://blogi.przegladsportowy.pl
+http://blogi.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

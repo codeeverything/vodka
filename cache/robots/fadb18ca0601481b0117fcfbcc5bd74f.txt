@@ -1,0 +1,18 @@
+1428419453
+http://www.examiner.co.uk
+http://www.examiner.co.uk/robots.txt
+1428244133
+http://www.examiner.co.uk
+http://www.examiner.co.uk/robots.txt
+Sitemap: http://www.examiner.co.uk/map_news.xml
+Sitemap: http://www.examiner.co.uk/sitemaps/sitemap_index.xml
+User-agent: *
+Disallow: /search/
+Disallow: /comm-part-test/
+Disallow: /*service=ajax
+Disallow: /*.ece
+Crawl-delay: 10.0
+
+User-agent: semetrical
+Disallow /
+

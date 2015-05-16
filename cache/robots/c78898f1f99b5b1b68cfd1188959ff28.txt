@@ -1,0 +1,14 @@
+1428420157
+http://shawmedia.polldaddy.com/s/digital-tve-survey
+http://shawmedia.polldaddy.com/robots.txt
+User-agent: *
+Allow: /
+Disallow: /ratings/
+Disallow: /account/
+Disallow: /polls/
+Disallow: /surveys/
+Disallow: /App/
+Disallow: /Feeds/
+Disallow: /poll-rss.php
+Disallow: /vote.php
+Disallow: /facebook/

@@ -1,0 +1,6 @@
+1428422612
+http://na-babski-rozum.przegladsportowy.pl
+http://na-babski-rozum.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

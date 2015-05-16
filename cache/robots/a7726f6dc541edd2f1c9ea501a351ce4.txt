@@ -1,0 +1,5 @@
+1428234576
+https://www.jcbusa.com
+https://www.jcbusa.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/

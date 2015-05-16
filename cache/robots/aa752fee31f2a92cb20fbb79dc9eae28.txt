@@ -1,0 +1,9 @@
+1428418652
+http://www.thesecretlocation.com
+http://www.thesecretlocation.com/robots.txt
+1428242741
+http://www.thesecretlocation.com
+http://www.thesecretlocation.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

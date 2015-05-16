@@ -1,0 +1,25 @@
+1428234791
+http://www.quantcast.com/p-da12qeST0GrE6
+http://www.quantcast.com/robots.txt
+1427822632
+http://www.quantcast.com/p-16uNVwiyGoWyg
+http://www.quantcast.com/robots.txt
+1427819133
+http://www.quantcast.com/p-16uNVwiyGoWyg
+http://www.quantcast.com/robots.txt
+1427805102
+http://www.quantcast.com/p-16uNVwiyGoWyg
+http://www.quantcast.com/robots.txt
+User-agent: *
+Disallow: /keyword  
+Disallow: /charts
+Disallow: /*/livegraph.png
+Disallow: /livegraph.png
+Disallow: /*/trafficGraph
+Disallow: /*/demographicGraphAll
+Disallow: /user/widgetImage
+Disallow: /user/confirmationEmail
+Disallow: /user/siteUpdate
+Disallow: /user/account
+
+Sitemap: http://www.quantcast.com/sitemap-index.jsp

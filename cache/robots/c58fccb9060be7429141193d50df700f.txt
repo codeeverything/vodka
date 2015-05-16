@@ -1,0 +1,7 @@
+1428417275
+http://www.mackinacisland.org
+http://www.mackinacisland.org/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+
+Sitemap: http://www.mackinacisland.org/sitemap.xml

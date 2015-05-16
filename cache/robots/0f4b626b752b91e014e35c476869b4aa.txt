@@ -1,0 +1,12 @@
+1428235408
+https://www.eurodns.com
+https://www.eurodns.com/robots.txt
+1428234964
+https://www.eurodns.com
+https://www.eurodns.com/robots.txt
+User-agent: *
+Disallow: /showcase/
+Disallow: /product/viewcart
+Disallow: /product/CheckCart
+
+Host: www.eurodns.com

@@ -1,0 +1,34 @@
+1428421057
+http://ro-en.gsp.ro/dictionar-englez-roman
+http://ro-en.gsp.ro/robots.txt
+1428421056
+http://ro-en.gsp.ro
+http://ro-en.gsp.ro/robots.txt
+1428421051
+http://ro-en.gsp.ro/dictionar-explicativ-roman
+http://ro-en.gsp.ro/robots.txt
+User-agent: Jyxobot*
+Disallow: /
+User-agent: Jyxobot/1
+Disallow: /
+User-agent: Twiceler
+Disallow: /
+User-agent: QihooBot
+Disallow: /
+User-agent: TurnitinBot
+Disallow: /
+User-agent: yahoo-mmcrawler
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: asterias
+Disallow: /
+User-agent: Mediapartners-Google* 
+Disallow:
+User-agent: Googlebot-Image
+Disallow: /
+User-Agent: Slurp
+User-agent: *
+Disallow: /doku.php?id=umor:start
+Disallow: /doku.php?id=http:start
+Crawl-delay: 30

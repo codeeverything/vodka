@@ -1,0 +1,6 @@
+1428244499
+http://palm-routers-review.toptenreviews.com
+http://palm-routers-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

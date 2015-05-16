@@ -1,0 +1,7 @@
+1428241302
+http://www.bbcgoodfoodshowscotland.com
+http://www.bbcgoodfoodshowscotland.com/robots.txt
+User-agent: *
+Disallow: /SHeight=
+Disallow: /index.asp
+Disallow: /viewHiRes=

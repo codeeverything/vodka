@@ -1,0 +1,6 @@
+1428422574
+http://z-gazem.przegladsportowy.pl
+http://z-gazem.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

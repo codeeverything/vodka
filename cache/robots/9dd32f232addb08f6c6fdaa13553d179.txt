@@ -1,0 +1,14 @@
+1428417934
+https://bigbrothercanada.globaltv.com
+https://bigbrothercanada.globaltv.com/robots.txt
+1428417915
+https://bigbrothercanada.globaltv.com/live
+https://bigbrothercanada.globaltv.com/robots.txt
+1428243767
+https://bigbrothercanada.globaltv.com
+https://bigbrothercanada.globaltv.com/robots.txt
+1428243684
+https://bigbrothercanada.globaltv.com/live
+https://bigbrothercanada.globaltv.com/robots.txt
+User-agent: *
+Allow:

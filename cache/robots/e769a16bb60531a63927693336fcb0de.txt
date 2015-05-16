@@ -1,0 +1,23 @@
+1428419504
+http://www.christies.com
+http://www.christies.com/robots.txt
+User-agent: ezooms
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+
+User-agent: * 
+Disallow: /js/
+Disallow: /css/
+Disallow: /xml/
+Disallow: /login/
+Disallow: /test/
+Disallow: /MyChristies/
+Disallow: /mobile/
+
+
+Sitemap: http://www.christies.com/sitemap.xml
+Sitemap: http://www.christies.com/Sitemap-image.xml
+Sitemap: http://www.christies.com/Sitemap-video.xml

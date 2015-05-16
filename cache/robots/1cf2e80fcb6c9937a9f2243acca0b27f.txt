@@ -1,0 +1,11 @@
+1427891621
+http://orientation.osu.edu
+http://orientation.osu.edu/robots.txt
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+
+User-agent: googlebot
+Disallow: *.csi

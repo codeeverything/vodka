@@ -1,0 +1,3875 @@
+1428420725
+http://www.senbolika.com/sennik#utm_source=komputerswiat.pl&utm_medium=footer_link&utm_campaign=footer_link&utm_term=sennik
+http://www.senbolika.com/robots.txt
+1428420723
+http://www.senbolika.com/sennik
+http://www.senbolika.com/robots.txt
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Horoskop na dzisiaj. Sprawdź horoskop gwiazd - Fakt.pl</title>
+    
+    
+
+
+
+
+    <!-- META TAGS -->
+    
+        
+            
+            
+
+            
+                
+                <meta name="title" content="Horoskop na dzisiaj. Sprawdź horoskop gwiazd - Fakt.pl"/>
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="description" content="Zobacz która z gwiazd ma taki sam znak zodiaku jak Ty!"  />
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="viewport" content="width=device-width"  />
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="robots" content="INDEX, FOLLOW, ARCHIVE, ALL"  />
+            
+        
+    
+        
+            
+                <meta property="og:type" content="article"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="keywords" content="Horoskop, gwiazdy, sport, program tv, filmy, galerie, gry online, seriale, showy, rozrywka, porady, kuchnia, moda, uroda, donosy"  />
+            
+        
+    
+        
+            
+                <meta property="og:title" content="Horoskop"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="decorator" content="default"  />
+            
+        
+    
+        
+            
+                <meta property="og:description" content="Zobacz która z gwiazd ma taki sam znak zodiaku jak Ty!"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+                <meta property="X-UA-Compatible" content="IE=edge"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="Author" content="Fakt.pl"  />
+            
+        
+    
+        
+            
+                <meta property="og:site_name" content="fakt.pl"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+                <meta property="fb:app_id" content="464036226972301"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+                <meta property="og:url" content="http://horoskop.fakt.pl"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+                <meta property="og:app_id" content="266358044374"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+                <meta property="verify-v1" content="CIUykSqC4FumbETfSWFclthQ0bgwiC6C+IqfDrjoUBU="/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="Copyright" content="Ringier Axel Springer Polska Sp. z o.o."  />
+            
+        
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+<link rel="canonical" href="http://horoskop.fakt.pl"/>
+
+
+    
+
+
+
+<link rel="alternate" href="http://szybki.fakt.pl"/>
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<script type="text/javascript" src="http://www.fakt.pl/jsb/27958298/bundles/jQueryMain.js" ></script>
+<script type="text/javascript" src="http://www.fakt.pl/jsb/27958298/bundles/commonScript.js" ></script>
+
+<script type="text/javascript" src='http://www.fakt.pl/resources/common-resources/js/jQuery/jquery.cookies.28403591.js'></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" src='http://www.fakt.pl/resources/common-resources/js/jQuery/idangerous.swiper-2.2.min.28403591.js'></script>
+<script type="text/javascript" src='http://www.fakt.pl/resources/common-resources/js/jQuery/jquery.cycle2.min.28403591.js'></script>
+<script type="text/javascript" src='http://www.fakt.pl/resources/common-resources/js/jQuery/jquery.lazyload.28403591.js'></script>
+<script type="text/javascript"  src='http://www.fakt.pl/resources/front/js/scripts.28403591.js' async></script>
+
+<link rel="stylesheet" href='http://www.fakt.pl/resources/front/manager.28403591.css' type="text/css" media="screen">
+
+
+
+<!--[if lte IE 11]>
+<link rel="stylesheet" href='http://www.fakt.pl/resources/front/styleie.28403591.css' type="text/css" media="screen">
+<script type="text/javascript" src='http://www.fakt.pl/resources/common-resources/js/html5shiv.28403591.js' async></script>
+<script type="text/javascript" src='http://www.fakt.pl/resources/common-resources/js/selectivizr.28403591.js' async></script>
+
+<![endif]-->
+
+<script type="text/javascript">
+    jCMS_domainName = 'http://www.fakt.pl';
+//    jCMS_ssoCookiesChecker();
+//    jCMS_setHighChartGradient();
+    $(function() {
+        $("img.lazy").lazyload({
+            failure_limit : 40,
+            effect : "fadeIn",
+            threshold : 300,
+            data_attribute: "src"
+        });
+    });
+    $(document).ready(function () {
+        jCMS_mainMenuHangings($("nav[class=Top-Menu]"));
+    });
+
+</script>
+
+
+
+<script type="text/javascript">
+    
+    
+    
+    
+
+    
+</script>
+
+
+
+
+
+    
+    
+        
+            
+        
+
+        
+            
+                
+                
+                
+
+            
+                        
+                        
+                            
+                        
+                        
+                        
+                            
+                            
+                            
+                        
+                            
+                            
+                        
+                    
+        
+    
+
+
+    
+
+
+
+<script type="text/javascript">/* <![CDATA[ */
+
+
+
+
+var pp_gemius_identifier = 'nFuaeIvgW8_vKtoAOYfStsbf76GkDCbAhoZD7qXdL1r.B7';
+
+
+
+
+
+
+
+
+onetAds = {
+    'target': 'rasp_fakt/exclusive:horoskop',
+    'autoslot': 1,
+    'async': 1,
+    
+    'keywords': ['horoskop'],
+    
+    
+    'mobile': 0,
+    
+    'sgn_cookie': 1,
+    'cookieInfo': 0
+};
+//stara wersja
+document.write('<scr' + 'ipt type="text/javascript" src="http://lib.onet.pl/s.csr/init/init.js?v=' + (new Date()).getFullYear() + (new Date()).getMonth() + '"></scr' + 'ipt>');
+//    document.write('<scr'+'ipt type="text/javascript" src="http://lib.onet.pl/s.csr/init/'+ (new Date()).getFullYear()+(new Date()).getMonth() +',init-beta.js'+'"></scr'+'ipt>');
+/* ]]> */
+</script>
+
+    <link rel="icon" href='http://www.fakt.pl/raspFavicon.ico' type="image/x-icon">
+    <link rel="stylesheet" href='/resources/front/masterstyle.28403591.css' type="text/css" media="screen">
+
+</head>
+
+<body id="Fakt" class="Website-Homepage">
+
+
+
+
+<noscript><img height="1" width="1" src="http://kropka.onet.pl/_s/kropka/1?DV=rasp_fakt/horoskop" alt="" /></noscript>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+
+    
+
+    
+    _gaq.push(['_setCustomVar', 4, 'variant', 'Fakt reactivation', 3]);
+    
+
+    
+
+    _gaq.push(
+            ['_setAccount', 'UA-4033697-1'],
+            ['_setAllowAnchor', true], ['_trackPageview']
+    );
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = "http://stats.asp24.pl/js/click.4.js";
+        document.body.appendChild(script);
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="" id="ALL_TOP_MENU" class="Region Rgn_1001 overTheTop">
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div style="" id="ALL_BANNER_TOP" class="Region Rgn_1002 ">
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner4623">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-top"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+</div>
+
+<div class="wrapper">
+    <div class="pageContent">
+        
+
+
+
+
+
+
+
+
+<header style="" id="ALL_HEADER" class="Region Rgn_1003 thetop">
+
+    
+        
+        
+
+
+
+
+
+
+
+
+    
+    
+        <div class="smallMenus">
+
+<iframe class="buttonTopFB" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffaktpl&amp;locale=pl_PL&amp;send=false&amp;layout=button_count&amp;width=130&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=260859193942272" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:130px; height:21px;" allowTransparency="true"></iframe>
+
+<div class="topInfo">
+<script type="text/javascript">
+    jCMS_displayDate();
+</script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+Imieniny: Donata, Rufina
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner63912">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-link-tekstowy-2"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+    
+    
+        </div>
+
+<ul class="menuLeft">
+<li><a href="http://www.fakt.pl/rss">RSS</a></li>
+<li><a href="http://www.fakt.pl/newsletter.html">Newsletter</a></li>
+<li><a href="http://encyklopedia.fakt.pl/">Encyklopedia</a></li>
+</ul>
+</div>
+<div class="mainheader">
+<a href="http://www.fakt.pl" class="logo"><img src="http://www.fakt.pl/resources/front/images/logo.png" /></a>
+
+<div class="searchTopContainerNew">
+        <form id="serchEngine" action="http://www.fakt.pl/szukaj"
+              method="get">
+            <input type="hidden" name="cx" value="/szukaj"/>
+            <input type="hidden" name="ie" value="UTF-8"/>
+            <input type="text" name="q" value="" class="Search-Text"  onkeyup="this.setAttribute('value', this.value);">
+            <input type="submit" value="Szukaj" name="sa" class="Search-Button">
+        </form>
+</div>
+
+
+<ul class="iconsMenu">
+    <li><a href="https://www.facebook.com/faktpl"><span class="icon icon1"></span>Facebook</a></li>
+    <li><a href="http://kuponyrabatowe.fakt.pl/"><span class="icon icon2"></span>Kupony</a></li>
+    <li><a href="http://gryonline.fakt.pl/"><span class="icon icon3"></span>Gry online</a></li>
+    <li><a href="http://www.fakt.pl/programtv/"><span class="icon icon4"></span>Program TV</a></li>
+    <li><a href="http://www.fakt.pl/pogoda/"><span class="icon icon5"></span>Pogoda</a></li>
+    <li><a href="http://horoskop.fakt.pl/"><span class="icon icon6"></span>Horoskop</a></li>
+    <li><a href="http://www.fakt.pl/video,kategoria,1134.html"><span class="icon icon7"></span>Fakt.tv</a></li>
+</ul>
+<!--    <li><a href="http://www.fakt.pl/programtv/"><span class="customicon"><img src="http://s10.postimg.org/mfkr173th/icon_M.png" /></span>Program TV</a></li> -->
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+<!-- TOP MENU BLOCK -->
+<nav class="Top-Menu">
+    <ul class="mainlevel">
+
+        
+            <li id="item_1158" class="Expandable">
+                <a href="http://www.fakt.pl/najnowsze,kategoria,1121.html"  >NAJNOWSZE</a>
+            </li>
+        
+            <li id="item_1093" class="Expandable">
+                <a href="http://www.fakt.pl/wydarzenia,kategoria,1052.html"  >Wydarzenia</a>
+            </li>
+        
+            <li id="item_1095" class="Expandable">
+                <a href="http://www.fakt.pl/polityka,kategoria,953.html"  >Polityka</a>
+            </li>
+        
+            <li id="item_1096" class="Expandable">
+                <a href="http://www.fakt.pl/gwiazdy,kategoria,1055.html"  >Gwiazdy</a>
+            </li>
+        
+            <li id="item_1097" class="Expandable">
+                <a href="http://www.fakt.pl/lokalne,kategoria,937.html"  >Lokalne</a>
+            </li>
+        
+            <li id="item_1098" class="Expandable">
+                <a href="http://sport.fakt.pl"  >Sport</a>
+            </li>
+        
+            <li id="item_1099" class="Expandable">
+                <a href="http://www.fakt.pl/galerie,1.html"  >Galerie</a>
+            </li>
+        
+            <li id="item_1100" class="Expandable">
+                <a href="http://kobieta.fakt.pl/"  >Kobieta</a>
+            </li>
+        
+            <li id="item_1101" class="Expandable">
+                <a href="http://pieniadze.fakt.pl/"  >Pieniądze</a>
+            </li>
+        
+            <li id="item_1102" class="Expandable">
+                <a href="http://www.fakt.pl/komputery,kategoria,955.html"  >Komputery</a>
+            </li>
+        
+            <li id="item_1103" class="Expandable">
+                <a href="http://www.fakt.pl/auto,kategoria,938.html"  >Auto</a>
+            </li>
+        
+        
+    </ul>
+    
+    
+</nav>
+
+<script  type="text/javascript">
+    $(document).ready(function () {
+        fetchSubmenu();
+        markSelectedMenu("");
+        markSelectedSubMenu("");
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner53234">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-pasekrozwijany"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+    
+    
+        <style>
+nav.Top-Menu a {border:1px solid transparent}
+nav.Top-Menu ul.mainlevel {padding: 0px 0px 2px 0px;}
+
+
+@media screen and (max-width: 1010px) {
+    #driver {width:calc(100% - 330px)}
+    #banner63903 {max-width:32%}
+    #driver {height:100%;max-height:380px;overflow:hidden}
+}
+
+@media screen and (max-width: 960px) {
+    .searchTopContainerNew .Search-Text {width:150px}
+    .searchTopContainerNew {margin:22px 0 0 30px}
+    nav.Top-Menu ul.mainlevel {width:100%}
+}
+
+@media screen and (max-width: 790px) {
+    .searchTopContainerNew .Search-Text {width:150px}
+    .searchTopContainerNew {margin:22px 0 0 0px}
+}
+
+
+</style>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+</header>
+        
+
+
+<ul class="Bread-Crumb-Navigator">
+    
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+
+            
+                
+                    <a itemprop="url" href='/'><span itemprop="title">Fakt.pl</span></a>
+                
+                
+            
+
+        </li>
+    
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+
+            
+                
+                    <a itemprop="url" href='http://horoskop.fakt.pl'><span itemprop="title">Horoskop</span></a>
+                
+                
+            
+
+        </li>
+    
+</ul>
+        
+
+
+
+
+
+
+
+
+<div style="" id="DEFAULT_CATEGORY_TOP" class="Region Rgn_1298 ">
+
+
+</div>
+        
+
+
+
+
+
+
+
+
+<div style="" id="DEFAULT_CATEGORY_CONTENT" class="Region Rgn_1203 leftColumn HPleft">
+
+    
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+    <div class="Article-List-Whole article_horizontal_lead" id='articleList53493'>
+        
+            <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-na-wtorek-7-04-2015,artykuly,536519.html">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/660/377/faktonline/635635777403114943.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                
+                
+
+            <span class="subTitle">
+            Sprawdź!
+            </span>
+            <span class="mainTitle spanh3">
+                      Horoskop na wtorek
+            </span>
+            </a>
+        
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<div data-section="articleList4320">
+
+
+
+
+    
+
+    <div class="Article-List-Whole articles_with_photos teaser" id='articleList4320'>
+        <ul>
+            
+                
+                
+
+                <li id="native_4320_329454">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-piatek-03-04-2015,artykuly,535938.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635635777403114943.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Przeczytaj</span>
+
+                        <span class="spanh3">
+                            Horoskop piątek
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Horoskop na piątek 3 kwietnia. zobacz co przygotowały dla ciebie gwiazdy
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-piatek-03-04-2015" >
+                             Horoskop piątek 03.04.2015</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4320_328345">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-poniedzialek-30-marca,artykuly,534829.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635633237526286581.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Sprawdź!</span>
+
+                        <span class="spanh3">
+                            Horoskop na poniedziałek 30.03
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Zobacz, co cię czeka w poniedziałek 30 marca
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/30-marca" >
+                             30 marca</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/poniedzialek" >
+                             poniedziałek</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-poniedzialek" >
+                             horoskop na poniedziałek</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4320_327506">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-czwartek-26-03-2015,artykuly,533990.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635578651411300892.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Zobacz, co cię czeka</span>
+
+                        <span class="spanh3">
+                            Horoskop na czwartek
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Ważna informacja dla każdego spod znaku zodiakalnej ryby. Koziorożec, którego ostatnio skrzywdziłeś, czuje się ...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-czwartek" >
+                             horoskop na czwartek</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+        </ul>
+        
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner4321">
+        <script type="text/javascript">
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<div data-section="articleList4322">
+
+
+
+
+    
+
+    <div class="Article-List-Whole articles_with_photos teaser" id='articleList4322'>
+        <ul>
+            
+                
+                
+
+                <li id="native_4322_326978">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-wtorek,artykuly,533462.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635627084604704257.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">To jest dzień próby!</span>
+
+                        <span class="spanh3">
+                            Uważaj! Dziś gwiazdy są nie w ...
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Dasz dzisiaj popis swoich umiejętności i opanujesz trudną sytuację. Niestety nie licz, że przełożeni to docenią - to ...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-wtorek" >
+                             horoskop na wtorek</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_326182">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-pt-20-03-2015,artykuly,532666.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635417474635203849.jpg"
+                        class=""
+                    
+                
+
+                alt="Znaki zodiaku."
+                title="Znaki zodiaku."
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Horoskop na pt. 20.03.2015</span>
+
+                        <span class="spanh3">
+                            Horoskop na piątek
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Horoskop na pt. 20.03.2015
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-pt-20-03-2015" >
+                             Horoskop na pt. 20.03.2015</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_325494">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-srode,artykuly,531978.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635578651411300892.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Co cię czeka dziś?</span>
+
+                        <span class="spanh3">
+                            Horoskop na środę
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Dziś twardo stąpaj po ziemi. Będzie to bardzo potrzebne w twojej sytuacji zawodowej, która wymaga realizmu - to rada ...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/18-03-2015" >
+                             18.03.2015</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/sroda" >
+                             środa</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_325107">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-poniedzialek-horoskop-na-16-marca,artykuly,531591.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635620307557666566.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Horoskop na poniedziałek </span>
+
+                        <span class="spanh3">
+                            Sprawdź, co cię dziś spotka 
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Byki czeka chwila wytchnienia, może to być jednak cisza przed burzą. Natomiast Wagi mogą spodziewać się dziś ...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-poniedzialek" >
+                             horoskop na poniedziałek</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-16-03-2015" >
+                             horoskop na 16.03.2015</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-16-marca" >
+                             horoskop na 16 marca</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_324712">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-weekend-14-15-marca,artykuly,531196.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635602931652461834.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop "
+                title="Horoskop "
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Co mówią gwiazdy?</span>
+
+                        <span class="spanh3">
+                            Horoskop na weekend
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Zobacz, co czeka nas w ten weekend! Gwiazdy mówią, że...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/weekend" >
+                             weekend</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/sobota" >
+                             sobota</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/14-15-marca" >
+                             14-15 marca</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_322662">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-piatek-6-marca-horoskop-na-dzis-horoskop,artykuly,529146.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635597832723579302.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Horoskop na piątek 6 marca</span>
+
+                        <span class="spanh3">
+                            Porządnie odpocznij od ludzi
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Przeczytajcie nasz horoskop, zobaczcie co przyniesie piątek.
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/co-mowia-giwazdy" >
+                             co mówią giwazdy</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/co-cie-dzis-czeka" >
+                             co cię dziś czeka</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-piatek-6-marca" >
+                             Horoskop na piątek 6 marca</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_321994">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-srode-4-02-2015,artykuly,528478.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635478539245228649.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Horoskop na środę</span>
+
+                        <span class="spanh3">
+                            Dziś powiedz że kochasz. Nie ...
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Horoskop na środę 4.02.2015. Zobacz co szykują dla Ciebie gwiazdy
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-srode-4-02-2015" >
+                             Horoskop na środę 4.02.2015</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_321063">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-sobote-i-niedziele,artykuly,527547.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635606418973590641.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Co nas czeka 28 lutego i 1 marca</span>
+
+                        <span class="spanh3">
+                            Komu grozi zapalenie gardła? ...
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Możesz być w kiepskim nastroju, ale nie wyładowuj emocji na partnerze. To rada dla lwa. A co czeka inne znaki w ten ...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-1-marca" >
+                             horoskop na 1 marca</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-sobote" >
+                             horoskop na sobotę</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-28-lutego" >
+                             horoskop na 28 lutego</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-1-03" >
+                             horoskop na 1.03</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_320497">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-27-lutego-do-5-marca,artykuly,526981.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635604568890024088.jpg"
+                        class=""
+                    
+                
+
+                alt="Juliette Binoche"
+                title="Juliette Binoche"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Horoskop z gwiazdą</span>
+
+                        <span class="spanh3">
+                            Horoskop na najbliższy tydzień
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Znakiem tygodnia są Ryby. Samotne Ryby spotkają kogoś, kto stanie się wkrótce bliski ich sercu, podczas załatwiania ...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/baran" >
+                             baran</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/lew" >
+                             lew</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/waga" >
+                             waga</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/rak" >
+                             rak</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_320844">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-piatek-27-lutego-horoskop-na-dzis,artykuly,527328.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635605820558252859.jpg"
+                        class=""
+                    
+                
+
+                alt="Znaki zodiaku."
+                title="Znaki zodiaku."
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Horoskop na piątek 27 lutego</span>
+
+                        <span class="spanh3">
+                            Doskonały nastrój na cały dzień
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Jaki będzie piątek? Zapomnij o wszystkich mniej pilnych sprawach i skoncentruj się dziś na najpoważniejszym zadaniu, ...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-piatek-27-lutego" >
+                             Horoskop na piątek 27 lutego</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-piatek" >
+                             horoskop na piątek</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-dzis" >
+                             horoskop na dziś</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_318508">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-srode-18-lutego-horoskop-na-dzis-horoskop,artykuly,524992.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635597832723579302.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Horoskop na środę 18 lutego</span>
+
+                        <span class="spanh3">
+                            Zaproś na wieczór przyjaciół. Coś ...
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Zobacz, co przyniesie dzień. Przeczytaj nasz horoskop środę
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/przepowiednie" >
+                             przepowiednie</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/co-mowia-gwiazdy" >
+                             co mówią gwiazdy</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-dzis" >
+                             horoskop na dziś</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_317947">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-poniedzialek,artykuly,524431.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635596098256872078.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Zobacz, co cię czeka</span>
+
+                        <span class="spanh3">
+                            Horoskop na poniedziałek
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        To może być burzliwy tydzień dla wielu osób. Zobacz, jak zacznie się dla ciebie. Przeczytaj nasz horoskop
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-poniedzialek" >
+                             horoskop na poniedziałek</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/wrozba" >
+                             wróżba</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_317696">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-sobote-i-niedziele-14-15-lutego-2015,artykuly,524180.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635594180509158799.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">14-15 lutego 2015</span>
+
+                        <span class="spanh3">
+                            Horoskop na Walentynki
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Co gwiazdy pokażą nam w ten weekend? Komu dadzą szczęście w miłości, a komu przyniosą pecha?
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/sobota" >
+                             sobota</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/niedziela" >
+                             niedziela</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/14-luty" >
+                             14 luty</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_316524">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-wtorek-10-lutego-2015-roku,artykuly,523008.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635591050194312497.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Co mówią gwiazdy?</span>
+
+                        <span class="spanh3">
+                            Horoskop na wtorek
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Zobacz horoskop na wtorek 10 lutego 2015 roku
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop" >
+                             Horoskop</a>,
+                     
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-wtorek-10-lutego-2015-roku" >
+                             horoskop na wtorek 10 lutego 2015 roku</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+                
+                
+
+                <li id="native_4322_315656">
+
+                    <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-piatek-6-02-2015,artykuly,522140.html">
+                <span class="imgHolder">
+                
+                
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/190/109/faktonline/635578651411300892.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+                        <span class="subTitle">Horoskop na piątek</span>
+
+                        <span class="spanh3">
+                            Randka z rakiem skończy się czymś ...
+                        </span>
+                    </a>
+
+                    <p class="lead">
+                        Dziś czeka cię spotkanie z Rakiem. Z tej z pozoru niewiele znaczącej randki może wiele wyniknąć – przeczytaj, komu ...
+                    </p>
+
+                    
+                     <span class="tags">
+                        Tagi:
+                         <a rel="tag" href="http://www.fakt.pl/tag/horoskop-na-piatek-6-02-2015" >
+                             Horoskop na piątek 6.02.2015</a>,
+                     
+                    </span>
+
+
+                    
+
+                    
+                </li>
+            
+        </ul>
+        
+            <div class="paginator"><span >1</span><a href="/horoskop/kategoria,1135,2.html">2</a><a href="/horoskop/kategoria,1135,3.html">3</a><a href="/horoskop/kategoria,1135,4.html">4</a><a href="/horoskop/kategoria,1135,5.html">5</a><a href="/horoskop/kategoria,1135,2.html" class="next"></a></div>
+        
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+</div>
+        
+
+
+
+
+
+
+
+
+<div style="" id="DEFAULT_RIGHT_CATEGORY_CONTENT" class="Region Rgn_1204 rightColumn HPright">
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner4600">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-right"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+
+
+    <div class="two_columns_with_photos_sub_cat">
+    <span class="header"> Galerie</span>
+
+    <ul class="Article-List-Whole" id='articleList4323'>
+        
+            <li>
+                <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-20-do-26-marca,galeria,531962.html">
+                <span class="imgHolder">
+                
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/147/84/faktonline/635622018097477010.jpg"
+                        class=""
+                    
+                
+
+                alt="Reese Witherspoon"
+                title="Reese Witherspoon"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+
+                    
+                    
+                        <span class="photopng"></span>
+                    
+                </span>
+                <span class="subTitle">Horoskop z gwiazdami</span>
+                <span class="mainTitle">Horoskop na najbliższy tydzień</span>
+                </a>
+            </li>
+        
+            <li>
+                <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-13-do-19-marca,galeria,530101.html">
+                <span class="imgHolder">
+                
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/147/84/faktonline/635615182067399820.jpg"
+                        class=""
+                    
+                
+
+                alt="Cindy Crawford"
+                title="Cindy Crawford"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+
+                    
+                    
+                        <span class="photopng"></span>
+                    
+                </span>
+                <span class="subTitle">Horoskop z gwiazdami</span>
+                <span class="mainTitle">Horoskop na najbliższy tydzień</span>
+                </a>
+            </li>
+        
+            <li>
+                <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-6-do-12-marca,galeria,528375.html">
+                <span class="imgHolder">
+                
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/147/84/faktonline/635609186987195082.jpg"
+                        class=""
+                    
+                
+
+                alt="Eva Longoria"
+                title="Eva Longoria"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+
+                    
+                    
+                        <span class="photopng"></span>
+                    
+                </span>
+                <span class="subTitle">Horoskop z gwiazdą</span>
+                <span class="mainTitle">Horoskop na najbliższy tydzień</span>
+                </a>
+            </li>
+        
+            <li>
+                <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-20-do-26-lutego,galeria,524977.html">
+                <span class="imgHolder">
+                
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/147/84/faktonline/635597873758475302.jpg"
+                        class=""
+                    
+                
+
+                alt="Cindy Crawford"
+                title="Cindy Crawford"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+
+                    
+                    
+                        <span class="photopng"></span>
+                    
+                </span>
+                <span class="subTitle">Horoskop z gwiazdą</span>
+                <span class="mainTitle">Horoskop na najbliższy tydzień</span>
+                </a>
+            </li>
+        
+            <li>
+                <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-13-do-19-lutego,galeria,523611.html">
+                <span class="imgHolder">
+                
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/147/84/faktonline/635591944613053155.jpg"
+                        class=""
+                    
+                
+
+                alt="Jennifer Aniston"
+                title="Jennifer Aniston"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+
+                    
+                    
+                        <span class="photopng"></span>
+                    
+                </span>
+                <span class="subTitle">Horoskop z gwiazdą</span>
+                <span class="mainTitle">Horoskop na najbliższy tydzień</span>
+                </a>
+            </li>
+        
+            <li>
+                <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-6-do-12-lutego,galeria,521870.html">
+                <span class="imgHolder">
+                
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/147/84/faktonline/635585576701778865.jpg"
+                        class=""
+                    
+                
+
+                alt="Oprah Winfrey"
+                title="Oprah Winfrey"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+
+                    
+                    
+                        <span class="photopng"></span>
+                    
+                </span>
+                <span class="subTitle">Horoskop z gwiazdą</span>
+                <span class="mainTitle">Horoskop na najbliższy tydzień</span>
+                </a>
+            </li>
+        
+            <li>
+                <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-30-stycznia-do-5-lutego,galeria,520418.html">
+                <span class="imgHolder">
+                
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/147/84/faktonline/635578715530938857.jpg"
+                        class=""
+                    
+                
+
+                alt="Jennifer Aniston"
+                title="Jennifer Aniston"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+
+                    
+                    
+                        <span class="photopng"></span>
+                    
+                </span>
+                <span class="subTitle">Horoskop z gwiazdą</span>
+                <span class="mainTitle">Horoskop na najbliższy tydzień</span>
+                </a>
+            </li>
+        
+            <li>
+                <a class="imglink" href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-23-do-29-stycznia,galeria,518179.html">
+                <span class="imgHolder">
+                
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/147/84/faktonline/635573611465782158.jpg"
+                        class=""
+                    
+                
+
+                alt="Paris Hilton"
+                title="Paris Hilton"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+
+                    
+                    
+                        <span class="photopng"></span>
+                    
+                </span>
+                <span class="subTitle">Horoskop z gwiazdą</span>
+                <span class="mainTitle">Horoskop na najbliższy tydzień</span>
+                </a>
+            </li>
+        
+    </ul>
+        <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner4601">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-right2"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+    
+    
+        <script type="text/javascript"  src="http://emisjawidgeet.onet.pl/_/ads/?QAPS_OCS=6a36c05c016aad1c25a55bd7aaa4b3c8"></script>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner53363">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-boxright4"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner53364">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-boxright7"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner53365">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-boxright8"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+<div class="articles_right_column_hidden_photos">
+    <div class="in">
+        <h3 class="header"> TOP 5</h3>
+    <ul class="Article-List-Partial" id='articleList4325'>
+        
+            
+            <li class="item1 active">
+            <span class="number">1</span>
+
+
+
+            
+            <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-wtorek-7-04-2015,artykuly,536519.html">
+
+                <span class="imgHolder">
+                    
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/90/0/faktonline/635635777403114943.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+
+            <span class="subTitle">
+            Sprawdź!
+            </span>
+
+                    <span class="artTitle spanh3">Horoskop na wtorek</span>
+                </a>
+
+                    
+
+                <span class="commcount1">0 komentarze</span>
+                <span class="commcount2">0</span>
+            </li>
+        
+            
+            <li class="item2 ">
+            <span class="number">2</span>
+
+
+
+            
+            <a href="http://horoskop.fakt.pl/horoskop/horoskop-piatek-03-04-2015,artykuly,535938.html">
+
+                <span class="imgHolder">
+                    
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/90/0/faktonline/635635777403114943.jpg"
+                        class=""
+                    
+                
+
+                alt="Horoskop"
+                title="Horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+
+            <span class="subTitle">
+            Przeczytaj
+            </span>
+
+                    <span class="artTitle spanh3">Horoskop piątek</span>
+                </a>
+
+                    
+
+                <span class="commcount1">0 komentarze</span>
+                <span class="commcount2">0</span>
+            </li>
+        
+            
+            <li class="item3 ">
+            <span class="number">3</span>
+
+
+
+            
+            <a href="http://horoskop.fakt.pl/horoskop/horoskop-tygodniowy-od-27-lutego-do-5-marca,artykuly,526981.html">
+
+                <span class="imgHolder">
+                    
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/90/0/faktonline/635604568890024088.jpg"
+                        class=""
+                    
+                
+
+                alt="Juliette Binoche"
+                title="Juliette Binoche"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+
+            <span class="subTitle">
+            Horoskop z gwiazdą
+            </span>
+
+                    <span class="artTitle spanh3">Horoskop na najbliższy tydzień</span>
+                </a>
+
+                    
+
+                <span class="commcount1">0 komentarze</span>
+                <span class="commcount2">0</span>
+            </li>
+        
+            
+            <li class="item4 ">
+            <span class="number">4</span>
+
+
+
+            
+            <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-poniedzialek-30-marca,artykuly,534829.html">
+
+                <span class="imgHolder">
+                    
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/90/0/faktonline/635633237526286581.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+
+            <span class="subTitle">
+            Sprawdź!
+            </span>
+
+                    <span class="artTitle spanh3">Horoskop na poniedziałek 30.03</span>
+                </a>
+
+                    
+
+                <span class="commcount1">0 komentarze</span>
+                <span class="commcount2">0</span>
+            </li>
+        
+            
+            <li class="item5 ">
+            <span class="number">5</span>
+
+
+
+            
+            <a href="http://horoskop.fakt.pl/horoskop/horoskop-na-srode,artykuly,531978.html">
+
+                <span class="imgHolder">
+                    
+                    
+
+
+
+    
+    
+
+        
+        
+
+        
+        
+
+        <img
+                
+                    
+                    
+                    
+                        src="http://www.fakt.pl/m/crop/90/0/faktonline/635578651411300892.jpg"
+                        class=""
+                    
+                
+
+                alt="horoskop"
+                title="horoskop"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </span>
+
+            <span class="subTitle">
+            Co cię czeka dziś?
+            </span>
+
+                    <span class="artTitle spanh3">Horoskop na środę</span>
+                </a>
+
+                    
+
+                <span class="commcount1">0 komentarze</span>
+                <span class="commcount2">0</span>
+            </li>
+        
+    </ul></div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+    
+    
+        <div class="socialMedia">
+<span class="headerstripe">Social Media</span>
+
+<ul>
+<li class="facebook"><span><b>FAKT.PL</b> na Facebooku</span>
+<iframe class="buttonTopFB" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffaktpl&amp;locale=pl_PL&amp;send=false&amp;layout=button_count&amp;width=130&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=260859193942272" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:130px; height:21px;" allowTransparency="true"></iframe></li>
+<li class="twitter"><span><b>FAKT.PL</b> na Twitterze</span>
+<a href="https://twitter.com/FaktPL" class="twitter-follow-button" data-show-count="false" data-lang="pl">Obserwuj @FaktPL</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
+<li class="googleplus"><span><b>FAKT.PL</b> na Google+</span><a href="https://plus.google.com/u/0/+Fakt" title="Obserwuj Fakt.pl na Google+">Obserwuj</a></li>
+<li class="newsletter"><span><b>FAKT.PL</b> Newsletter</span><a href="http://www.fakt.pl/newsletter.html" title="Dodaj e-mail">Dodaj e-mail</a></li>
+</ul>
+
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+</div>
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div style="" id="ALL_BOTTOM" class="Region Rgn_1006 ">
+
+
+</div>
+    
+
+
+
+
+
+
+
+
+<footer style="" id="ALL_FOOTER" class="Region Rgn_1007 pageFooter">
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner53282">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-wizytowka"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner53449">
+        <script type="text/javascript">
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-widget"></div>');
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+    
+    
+        <div id="footer">
+
+    <p class="bigLinks">
+      <a title="Archiwum tekstów Faktu" href="http://www.fakt.pl/archiwum/2014">Archiwum</a>
+       |
+      <a title="Wasze plotki i donosy" href="http://www.fakt.pl/donosy/">Donosy</a>
+       |
+      <a title="Napisz do redakcji" href="http://www.fakt.pl/kontakt">Kontakt</a>
+       |
+      <a title="Współpraca" href="http://www.fakt.pl/wspolpraca/">Współpraca</a>
+       |
+      <a title="Regulamin serwisu" href="http://www.fakt.pl/regulamin/">Regulamin serwisu</a>
+       |
+      <a title="Cookies" href="http://cookies.asp24.pl/" target="_blank">Cookies</a>
+       |
+      <a title="Reklamuj się w serwisie Fakt.pl" href="http://www.ringieraxelspringer.pl/reklama/faktpl">Reklama w Fakt.pl</a>
+
+    </p>
+<!--
+<p class="smallLinks">Serwisy online Ringier Axel Springer Polska<br /><br />
+  <a target="_blank" title="Samochody, testy, części samochodowe, giełda" href="http://www.auto-swiat.pl">Auto Świat</a>
+  |
+  <a target="_blank" title="Top Gear: oficjalna polska strona najpopularniejszego magazynu motoryzacyjnego na świecie" href="http://www.topgear.com.pl">Top Gear</a>
+  |
+  <a target="_blank" title="Sport, wiadomości sportowe, Przegląd Sportowy" href="http://www.przegladsportowy.pl">Przegląd Sportowy</a>
+  |
+  <a target="_blank" title="Newsweek Polska, Wiadomości, Opinie i Komentarze" href="http://www.newsweek.pl">Newsweek</a>
+  |
+  <a target="_blank" title="Forbes" href="http://www.forbes.pl">Forbes</a>
+  |
+  <a target="_blank" title="Download, testy, poradniki do programów i sprzętu" href="http://www.komputerswiat.pl">Komputer Świat</a>
+ <br>
+  <a target="_blank" title="Download, programy, aplikacje" href="http://www.download.komputerswiat.pl">Download KŚ</a>
+  |
+  <a target="_blank" title="Komputer Świat Plus" href="http://ksplus.komputerswiat.pl">KŚ Plus</a>
+  |
+  <a target="_blank" title="Tap & Swipe" href="http://www.tapandswipe.pl/">Tap & Swipe</a>
+  |
+  <a target="_blank" title="Społeczność Students.pl &ndash; imprezy, praca, pokoje i mieszkania do wynajęcia" href="http://www.students.pl/">Portal studencki</a>
+  |
+  <a target="_blank" title="Plotki, Gwiazdy, Zdjęcia, Celebrities" href="http://www.koktajl.fakt.pl">Koktajl.Fakt.pl</a>
+  |
+  <a target="_blank" href="http://gamezilla.komputerswiat.pl/" title="Gry PC, PS3, X360 - zapowiedzi, recenzje, newsy">Gamezilla</a>
+  |
+  <a target="_blank" href="http://www.prezenty-i-zyczenia.pl" title="Prezenty i Życzenia">Prezenty i Życzenia</a>
+|
+<a href="http://www.ofeminin.pl" title="oFeminin.pl" target="_blank"> Ofeminin</a>
+<br>
+<a target="_blank" href="http://onettechnologie.pl/">Usługi IT</a>
+|
+<a target="_blank" href="http://shopaLike.pl">ShopAlike.pl </a>
+|
+<a target="_blank" title="Kupony rabatowe, promocje i kody rabatowe" href="http://kuponyrabatowe.fakt.pl/">Kupony Rabatowe</a>
+|
+<a target="_blank" title="Informator miejski" href="http://miejsca.fakt.pl/">Informator miejski</a>
+</p>
+-->
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+    <div class="Block-Banner" id="banner4642">
+        <script type="text/javascript">
+            
+        </script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+    
+    
+        <script type="text/javascript" src="http://cookies.fakt.pl/resources/js/min.cookies.js"></script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+
+    
+
+        
+            
+                <style>
+ article div.mvp {margin: 15px 0;max-width: 100%}
+</style>
+
+            
+        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+</footer>
+
+    
+
+
+
+
+
+</div>
+
+</body>
+</html>

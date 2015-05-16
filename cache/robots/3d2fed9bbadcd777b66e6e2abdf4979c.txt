@@ -1,0 +1,19 @@
+1427800673
+http://www.gao7.com
+http://www.gao7.com/robots.txt
+User-Agent: *
+Disallow: /new
+Disallow: /stats/softview/*
+Disallow: /ajaxcommentlist/*
+Disallow: /Developerdetail/*/*/js/*
+Disallow: /Download.aspx?id=*
+Disallow: /mypack/
+Disallow: /Content/js/*
+Disallow: /yearcheck.aspx
+Disallow: /scripts/*
+Disallow: /content/js/*
+Disallow: /Comment/*
+Disallow: /ajaxcommentlist/*/soft/InTime/*
+Disallow: /app/js/*
+Disallow: /UserCenter/*
+Disallow: /Interface/*

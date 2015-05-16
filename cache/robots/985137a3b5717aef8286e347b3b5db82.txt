@@ -1,0 +1,34 @@
+1427735206
+http://www.printradiant.com
+http://www.printradiant.com/robots.txt
+1427734443
+http://www.printradiant.com
+http://www.printradiant.com/robots.txt
+User-Agent: *
+Allow: /
+Disallow: /App_Code
+Disallow: /Bin
+Disallow: /Controls
+Disallow: /ControlsFront
+Disallow: /Css
+Disallow: /CssFront
+Disallow: /Images
+Disallow: /ImagesFront
+Disallow: /Member
+Disallow: /MemberFront
+Disallow: /Public
+Disallow: /Scripts
+Disallow: /Content/About.aspx
+Disallow: /Content/Checklist.aspx
+Disallow: /Content/Contact.aspx
+Disallow: /Content/Guidelines.aspx
+Disallow: /Content/Help.aspx
+Disallow: /Content/Products.aspx
+Disallow: /Content/Register.aspx
+Disallow: /Content/SignIn.aspx
+Disallow: /Content/Samples.aspx
+Disallow: /Content/Templates.aspx
+Disallow: /Content/Turnaround.aspx
+Disallow: /Content/Privacy.aspx
+Disallow: /Content/Terms.aspx
+Disallow: /Content/Return_Policy.aspx

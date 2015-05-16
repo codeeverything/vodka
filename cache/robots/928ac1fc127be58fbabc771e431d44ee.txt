@@ -1,0 +1,773 @@
+1427734409
+http://www.gdcvault.com
+http://www.gdcvault.com/robots.txt
+1427717490
+http://www.gdcvault.com
+http://www.gdcvault.com/robots.txt
+1427717258
+http://www.gdcvault.com
+http://www.gdcvault.com/robots.txt
+1427717250
+http://www.gdcvault.com
+http://www.gdcvault.com/robots.txt
+1427717088
+http://www.gdcvault.com
+http://www.gdcvault.com/robots.txt
+1427717028
+http://www.gdcvault.com
+http://www.gdcvault.com/robots.txt
+1427716480
+http://www.gdcvault.com/demo
+http://www.gdcvault.com/robots.txt
+1427701308
+http://www.gdcvault.com
+http://www.gdcvault.com/robots.txt
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="http://www.gdcvault.com/css//thickbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet"   media="only screen and (min-width: 481px)"  href="/css/style.css" type="text/css"  />
+<link rel="stylesheet"   media="only screen and (max-width: 480px)"  href="/css/style_phone.css" type="text/css"  />
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0;">
+
+
+
+<style>
+    /* Bourgeois Fonts */
+    <!--[if IE]>
+    @font-face {
+        font-family: 'Bourgeois Bold';
+        src: url('../fonts/bourgeois/BourgBol.eot');
+    }
+    @font-face {
+        font-family: 'Bourgeois';
+        src: url('../fonts/bourgeois/BourgMed.eot');
+    }
+    <![endif]-->
+
+    <!--[if !IE]>
+    @font-face {
+        font-family: 'Bourgeois Bold';
+        src: url('../fonts/bourgeois/BourgBol.eot');
+        src: url('../fonts/bourgeois/BourgBol.otf');
+        font-weight: normal;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'Bourgeois';
+        src: url('../fonts/bourgeois/BourgMed.eot');
+        src: url('../fonts/bourgeois/BourgMed.otf');
+        font-weight: normal;
+        font-style: normal;
+    }
+    <![endif]-->
+
+
+</style>
+<!-- Start: GPT Sync -->
+<script type='text/javascript'>
+ var gptadslots=[];
+ (function(){
+  var useSSL = 'https:' == document.location.protocol;
+  var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+ })();
+</script>
+
+<script type="text/javascript">
+
+gptadslots[1]=googletag.defineSlot('/2441/GDCVault/homepage',[[300,250]],'div-gpt-ad-rec1').addService(googletag.pubads()).setTargeting('pos',['rec1']).setTargeting('page',['landing']).addService(googletag.pubads());
+gptadslots[2]=googletag.defineSlot('/2441/GDCVault/homepage',[[300,100]],'div-gpt-ad-button1').addService(googletag.pubads()).setTargeting('pos',['smrec1']).setTargeting('page',['landing']).addService(googletag.pubads());
+gptadslots[3]=googletag.defineSlot('/2441/GDCVault/homepage',[[1,2]],'div-gpt-ad-skin').addService(googletag.pubads()).setTargeting('pos',['skin']).setTargeting('page',['landing']).addService(googletag.pubads());
+
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+
+</script>
+
+
+
+<script type="text/javascript">
+    var ImageURL = "http://www.gdcvault.com/img/gdc_vault";
+</script>
+
+<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.9.1.custom.min.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/jquery.simplemodal-1.4.3.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/mp_popup.js"></script>
+
+<script type="text/javascript" src="/js/underscore.js"></script>
+<script type="text/javascript" src="/js/jquery.template.js"></script>
+<script type="text/javascript" src="/js/gdc.js?v3"></script>
+<script type="text/javascript" src="/js/gdc.solr.js?v3"></script>
+<script type="text/javascript" src="/js/gdc.tmpl.solr.js?v3"></script>
+<script type="text/javascript" src="/js/gdc.conference.js?v3"></script>
+<script type="text/javascript" src="/js/gdc.session.js?v3"></script>
+<script type="text/javascript" src="/js/gdc.conference_list.js?v3"></script>
+<script type="text/javascript" src="/js/gdc.bookshelf.js?v3"></script>
+
+
+
+<title>GDC Vault</title>
+<meta name="title" content="GDC Vault" />
+<meta name="google-site-verification" content="google37f67fc7c751c351.html" />
+    </head>
+    <body>
+       <div id='div-gpt-ad-skin'>
+		 <script type='text/javascript'>
+		  googletag.display('div-gpt-ad-skin');
+		 </script>
+		</div> 
+         <div id="bumpedWrapper">
+                <div id="bumpedOverlay"></div>
+                <div id="bumped">
+                        You've been logged out of GDC Vault since the maximum users allowed for this account has been reached. 
+                        To access Members Only content on GDC Vault, please log out of GDC Vault from the computer which last accessed this account. 
+                        <br/><br/>Click <strong><a href="http://www.gdcvault.com/demo">here</a></strong> to find out about GDC Vault Membership options for more users.
+                        <br/><br/><a id="bumpClose">close</a>
+                </div>
+                
+            </div>
+        <header>
+           
+            
+            <div class="wrapper">
+                <ul id="gdc">
+
+		    <li><a href="http://www.gdconf.com" target="_blank"     class="topnav_gdc" alt="GDC"></a></li>
+		    <li><a href="http://www.gdceurope.com" target="_blank"  class="topnav_europe" alt="GDC Europe"></a></li>
+		    <li><a href="http://www.gdcnext.com"  target="_blank" class="topnav_next" alt="GDC Next"></a></li>
+		    <li><a href="http://www.gdcchina.com" target="_blank" class="topnav_china" alt="GDC China"></a></li>
+		    <li><a href="http://www.gdcvault.com" target="_blank" class="topnav_vault" alt="GDC Vault"></a></li>
+                </ul>
+
+                <h3 id="welcome_user_name" class="hidden">Welcome, <span></span></h3>
+
+                <nav>
+                    <ul>
+                        <li id="nav_login" class="nav_item droppable">
+                            <a class="nav_button">Login</a>
+                            <div class="dropdown login" id="login">
+                                <a href="/inquiry">not a member?</a>
+                                <div class="error"></div>
+                                <form id="form_login" method="POST" action="/api/login.php">
+                                    <input type="text" name="email" value="Email" autocomplete="off" class="empty" default_text="Email" />
+                                    <input type="password" name="password" value="" />
+                                    <br />
+                                    <input type="checkbox" name="remember_me" id="remember" /><label for="remember">remember me</label> | <a id="forgot_password">forgot password?</a>
+                                    <input type="submit" value="LOGIN" />
+                                </form>
+                                <form id="form_forgot_password" method="POST" action="/api/forgot_password.php" style="display:none">
+                                    <p>We will send a new password to your email address.</p>
+                                    <input type="text" name="email" />
+                                    <input type="submit" value="SUBMIT" />
+                                </form>
+                            </div>
+                        </li>
+
+                        <li id="nav_logout" class="nav_item nav_link hidden"><a href="/logout">Logout</a></li>
+
+                        <li class="nav_item droppable ">
+                            <a class="nav_button">Subscribe</a>
+                            <div class="dropdown" id="subscribe">
+                                <ul>
+                                    <li><a href="/inquiry">Individual</a></li>
+                                    <li><a href="/help.php#3">All-Access Pass</a></li>
+                                    <li><a href="/demo">Studio</a></li>
+                                    <li><a href="/demo">Education</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav_item nav_link  hidden"><a href="/account.php" target="_blank">Account</a></li>
+                        <li class="nav_item nav_link"><a href="http://gdconf.com/newsletter/" target="_blank">Newsletter</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div class="wrapper">
+            <section id="masthead">
+                <a href="/" class="logo" alt="GDC Vault"></a>
+                <div class="main">
+                    <ul>
+                        <li><a href="/free">video + audio + slides</a></li>
+                        <li><a href="/news">news</a></li>
+                        <li><a href="https://store.cmpgame.com/category.php?cat=1&skin=gdcvault">store</a></li>
+                        <li><a href="/help.php">FAQ</a></li>
+                    </ul>
+                    <div class="social_media">GDC:
+                        <a href="http://www.facebook.com/GameDevelopersConference?fref=ts" target="_blank"><img src="/img/icon_facebook.png" alt="Facebook" /></a>
+                        <a href="http://twitter.com/Official_GDC" target="_blank"><img src="/img/icon_twitter.png" alt="Twitter" /></a>
+                    </div>
+
+                    
+                        <script type="text/javascript">
+                            var keyword_already_selected = false;
+                            $(document).ready(function(){
+                                $('#search-bar form').submit(function(){
+                                    var $vault_keyword_search = $('#vault_keyword_search');
+                                    if ('Search' === $vault_keyword_search.val()) {
+                                        $vault_keyword_search.val('');
+                                    }
+                                    return true;
+                                });
+                            });
+                        </script>
+                    
+
+                    <form id="searchForm" method="GET" action="/search.php">
+                        <input id='searchCategory' type="hidden" name="category" value="free" />
+                        <input type="hidden" name="firstfocus" />
+                        <input id="vault_keyword_search" type="text" name="keyword" value="Search" default_text="Enter your search term(s) here"  class="empty" />
+                        <select name="conference_id">
+                            <option value="" selected>All Conferences</option>
+                                                            <option value="87" >
+                                    Game Developers Conference 2015
+                                </option>
+                                                            <option value="80" >
+                                    GDC Next 2014
+                                </option>
+                                                            <option value="75" >
+                                    GDC China 2014
+                                </option>
+                                                            <option value="76" >
+                                    GDC Europe 2014
+                                </option>
+                                                            <option value="309" >
+                                    GDC 2014
+                                </option>
+                                                            <option value="25" >
+                                    GDC Next 2013
+                                </option>
+                                                            <option value="27" >
+                                    ADC 2013
+                                </option>
+                                                            <option value="58" >
+                                    GDC Europe 2013
+                                </option>
+                                                            <option value="19" >
+                                    GDC 2013
+                                </option>
+                                                            <option value="17" >
+                                    GDC Online 2012
+                                </option>
+                                                            <option value="15" >
+                                    GDC Europe 2012
+                                </option>
+                                                            <option value="10" >
+                                    GDC 2012
+                                </option>
+                                                            <option value="20" >
+                                    GDC China 2012
+                                </option>
+                                                            <option value="14" >
+                                    GDC China 2011
+                                </option>
+                                                            <option value="7" >
+                                    GDC Online 2011
+                                </option>
+                                                            <option value="6" >
+                                    GDC Europe 2011
+                                </option>
+                                                            <option value="308" >
+                                    GDC 2011
+                                </option>
+                                                            <option value="305" >
+                                    GDC China 2010
+                                </option>
+                                                            <option value="300" >
+                                    GDC Online 2010
+                                </option>
+                                                            <option value="293" >
+                                    GDC Europe 2010
+                                </option>
+                                                            <option value="287" >
+                                    GDC Canada 2010
+                                </option>
+                                                            <option value="280" >
+                                    GDC 2010
+                                </option>
+                                                            <option value="2" >
+                                    GDC China 2009
+                                </option>
+                                                            <option value="262" >
+                                    GDC Austin/Online 2009
+                                </option>
+                                                            <option value="272" >
+                                    GDC Europe 2009
+                                </option>
+                                                            <option value="258" >
+                                    GDC Canada 2009
+                                </option>
+                                                            <option value="234" >
+                                    GDC 2009
+                                </option>
+                                                            <option value="228" >
+                                    GDC Austin/Online 2008
+                                </option>
+                                                            <option value="198" >
+                                    GDC 2008
+                                </option>
+                                                            <option value="183" >
+                                    GDC Austin/Online 2007
+                                </option>
+                                                            <option value="134" >
+                                    GDC 2007
+                                </option>
+                                                            <option value="98" >
+                                    GDC 2006
+                                </option>
+                                                            <option value="63" >
+                                    GDC 2005
+                                </option>
+                                                            <option value="41" >
+                                    GDC 2004
+                                </option>
+                                                            <option value="29" >
+                                    GDC 2003
+                                </option>
+                                                            <option value="36" >
+                                    GDC 2002
+                                </option>
+                                                            <option value="2001" >
+                                    GDC 2001
+                                </option>
+                                                            <option value="2000" >
+                                    GDC 2000
+                                </option>
+                                                            <option value="1999" >
+                                    GDC 1999
+                                </option>
+                                                            <option value="1998" >
+                                    GDC 1998
+                                </option>
+                                                            <option value="1997" >
+                                    GDC 1997
+                                </option>
+                                                            <option value="1996" >
+                                    GDC 1996
+                                </option>
+                                                    </select>
+                        <button></button>
+                    </form>
+                    <script type="text/javascript">
+                        GDC.Search.getInstance($("#searchForm"), null, null);
+                    </script>
+                </div>
+            </section>
+
+            <link rel="stylesheet" type="text/css" href="/css/gallery.css" />
+<link rel="stylesheet" type="text/css" href="css/home.css" />
+<script type="text/javascript" src="/js/gallery.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+       
+        var visited = $.cookie("visited")
+
+        if (visited == null) {
+           $("#cache").fadeIn(3000,function() { 
+           setTimeout(function(){$("#cache").fadeOut(3000)},7000); 
+             });  
+         
+            $.cookie('visited', 'yes', { expires: 100, path: '/' });      
+        }
+
+
+    });
+    
+    
+</script>
+
+
+
+
+
+<div id="home">
+    <div id="cache">Having trouble viewing our new site? Try clearing your browser's cache.</div>
+        <div class="left_column">
+        <h2>Featured Videos</h2>
+        <section id="featured_videos" class="gallery">
+            <div id="image_wrap">
+                <a class="featured_play" href="#"><img src="img/spacer.png" /></a>
+
+                                                    
+                    <div class="image_caption">
+                                                <a class="session_name" href="/play/1020874/A-Great-Disturbance-in-Development">A Great Disturbance in Development: The Dark Side of Early Access</a>
+                        <br />
+                        <b>GDC Europe 2014</b>
+                        <p>
+                                                                                                                                        by
+                                                        James Crowe
+                            (Bohemia Interactive)                                                </p>
+                    </div>
+                                    
+                    <div class="image_caption">
+                                                <a class="session_name" href="/play/1020858/MirrorMoon-EP-A-True-Sci">MirrorMoon EP: A True Sci-Fi Game Postmortem</a>
+                        <br />
+                        <b>GDC Europe 2014</b>
+                        <p>
+                                                                                                                                        by
+                                                        Pietro Righi Riva
+                            (Santa Ragione)                                                </p>
+                    </div>
+                                    
+                    <div class="image_caption">
+                                                <a class="session_name" href="/play/1020877/In-3-Sentences-or-Less">In 3 Sentences or Less: Perfecting Your Pitch</a>
+                        <br />
+                        <b>GDC Europe 2014</b>
+                        <p>
+                                                                                                                                        by
+                                                        Rami Ismail
+                            (Vlambeer)                                                </p>
+                    </div>
+                                    
+                    <div class="image_caption">
+                                                <a class="session_name" href="/play/1020883/Beyond-Spreadsheets-How-to-Generate">Beyond Spreadsheets: How to Generate Operational Impact with Analytics</a>
+                        <br />
+                        <b>GDC Europe 2014</b>
+                        <p>
+                                                                                                                                        by
+                                                        Michael Lenz
+                            (InnoGames GmbH)                                                </p>
+                    </div>
+                                    
+                    <div class="image_caption">
+                                                <a class="session_name" href="/play/1020855/The-Art-of-Killing">The Art of Killing Games</a>
+                        <br />
+                        <b>GDC Europe 2014</b>
+                        <p>
+                                                                                                                                        by
+                                                        Adam Telfer
+                            (Wooga)                                                </p>
+                    </div>
+                                    
+                    <div class="image_caption">
+                                                <a class="session_name" href="/play/1020878/Designing-Monument-Valley-Less-Game">Designing Monument Valley: Less Game, More Experience</a>
+                        <br />
+                        <b>GDC Europe 2014</b>
+                        <p>
+                                                                                                                                        by
+                                                        Ken Wong
+                            (ustwo)                                                </p>
+                    </div>
+                                    
+                    <div class="image_caption">
+                                                <a class="session_name" href="/play/1020872/Clash-of-Clones-The-Importance">Clash of Clones: The Importance of Standing Out</a>
+                        <br />
+                        <b>GDC Europe 2014</b>
+                        <p>
+                                                                                                                                        by
+                                                        Fredrik Wester
+                            (Paradox Interactive)                                                </p>
+                    </div>
+                                    
+                    <div class="image_caption">
+                                                <a class="session_name" href="/play/1020849/The-Challenge-of-Bringing-FEZ">The Challenge of Bringing FEZ to PlayStation Platforms</a>
+                        <br />
+                        <b>GDC Europe 2014</b>
+                        <p>
+                                                                                                                                        by
+                                                        Miguel Angel Horna
+                            (BlitWorks)                                                </p>
+                    </div>
+                            </div>
+            <a class="prev browse left opaque"></a>
+            <a class="next browse right"></a>
+            <div class="scrollable" id="scrollable">
+                <div class="items" style="left:0px;">
+                                                        <img src="http://twvideo01.ubm-us.net/o1/vault/carousel_featured_images/GreatDisturbance.jpg" media_id="1020874" />
+                                                        <img src="http://twvideo01.ubm-us.net/o1/vault/carousel_featured_images/MirrorMoon.jpg" media_id="1020858" />
+                                                        <img src="http://twvideo01.ubm-us.net/o1/vault/carousel_featured_images/Pitch.jpg" media_id="1020877" />
+                                                        <img src="http://twvideo01.ubm-us.net/o1/vault/carousel_featured_images/Spreadsheet.jpg" media_id="1020883" />
+                                                        <img src="http://twvideo01.ubm-us.net/o1/vault/carousel_featured_images/TheArtofKilling.jpg" media_id="1020855" />
+                                                        <img src="http://twvideo01.ubm-us.net/o1/vault/carousel_featured_images/MonumentVelly.jpg" media_id="1020878" />
+                                                        <img src="http://twvideo01.ubm-us.net/o1/vault/carousel_featured_images/ClashofClones.jpg" media_id="1020872" />
+                                                        <img src="http://twvideo01.ubm-us.net/o1/vault/carousel_featured_images/FEZ.jpg" media_id="1020849" />
+                                </div>
+            </div>
+        </section>
+
+        <div class='divider'></div>
+
+        <section id="vault_news" class="news">
+            <div class="top"></div>
+            <h2>Vault News</h2>
+            <ul>
+                                                        <li>
+                                                <img src="/img/news_default.png" class="thumbnail" />
+                                                
+                                                <p><a href="/news/#Free_GDC_2014_Video:_How_theater_influenced_the_design_of_Kentucky_Route_Zero" target="_blank">Free GDC 2014 Video: How theater influenced the design of Kentucky Route Zero</a><br />
+                            <span><i>posted</i> Mar 25 2015</span></p>
+                    </li>
+                                                        <li>
+                                                <img src="/img/news_default.png" class="thumbnail" />
+                                                
+                                                <p><a href="/news/#Free_GDC_2014_Video:_Building_guns_to_drive_the_Counter_Strike:_GO_economy" target="_blank">Free GDC 2014 Video: Building guns to drive the Counter-Strike: GO economy</a><br />
+                            <span><i>posted</i> Mar 23 2015</span></p>
+                    </li>
+                                                        <li>
+                                                <img src="/img/news_default.png" class="thumbnail" />
+                                                
+                                                <p><a href="/news/#Free_GDC_2014_Video:_Nier_director_discusses_making_weird_games_for_weird_people" target="_blank">Free GDC 2014 Video: Nier director discusses making weird games for weird people</a><br />
+                            <span><i>posted</i> Mar 20 2015</span></p>
+                    </li>
+                                                        <li>
+                                                <img src="/img/news_default.png" class="thumbnail" />
+                                                
+                                                <p><a href="/news/#Free_GDC_2014_Video:_Improving_romance_in_games_with_rivalry_and_respect" target="_blank">Free GDC 2014 Video: Improving romance in games with rivalry and respect</a><br />
+                            <span><i>posted</i> Mar 18 2015</span></p>
+                    </li>
+                            </ul>
+            <a class="bottom_link" href="/news">view more &#8594;</a>
+        </section>
+
+        <div class='divider'></div>
+
+        <section id="gdc_news" class="news">
+            <div class="top"></div>
+            <h2>GDC News and Information Blog</h2>
+            <ul>
+                                                        <li>
+                                                <img src="/img/news_default.png" class="thumbnail" />
+                                                <p><a href="http://www.gdconf.com/news/gdc_europe_2015_officials_anno.html" target="_blank">GDC Europe 2015 officials announce dates and call for papers</a><br />
+                            <span><i>posted</i> Mar 11 2015</span></p>
+                    </li>
+                                                        <li>
+                                                <img src="/img/news_default.png" class="thumbnail" />
+                                                <p><a href="http://www.gdconf.com/news/gdc_in_pictures_highlights_fro.html" target="_blank">GDC In Pictures: Highlights from GDC 2015</a><br />
+                            <span><i>posted</i> Mar 10 2015</span></p>
+                    </li>
+                                                        <li>
+                                                <img src="/img/news_default.png" class="thumbnail" />
+                                                <p><a href="http://www.gdconf.com/news/gdc_sees_record-breaking_atten.html" target="_blank">GDC sees record-breaking attendance and announces 2016 dates</a><br />
+                            <span><i>posted</i> Mar 09 2015</span></p>
+                    </li>
+                                                        <li>
+                                                <img src="/img/news_default.png" class="thumbnail" />
+                                                <p><a href="http://www.gdconf.com/news/shadow_of_mordor_takes_top_pri.html" target="_blank">Shadow of Mordor takes top prize at Game Developers Choice Awards</a><br />
+                            <span><i>posted</i> Mar 04 2015</span></p>
+                    </li>
+                            </ul>
+            <a class="bottom_link" href="http://www.gdconf.com/news/" target="_blank">view more &#8594;</a>
+        </section>
+
+        <section id="what_is_vault" class="left grey_box">
+            <h3>What is Vault?</h3>
+            <p>GDC Vault is a trove of in-depth design, technical and inspirational talks and slides from the influencers of the game development industry, taken from over 20 years of the worldwide Game Developers Conferences.</p>
+            <a href="/inquiry" class="bottom_link">Individual Subscriptions &#8594;</a>
+            <a href="/demo" class="bottom_link">Studio Subscriptions &#8594;</a>
+        </section>
+    </div>
+
+        <div class="right_column">
+        <section id="browse">
+            <div class="subscribe_now_border"></div>
+            <a href="/inquiry" class="subscribe_now">
+                <h3>SUBSCRIBE NOW &#9733;</h3>
+                Get Instant Access to all Members Only Content!
+            </a>
+            <div class="subscribe_now_border"></div>
+            <div class="grey_box half_box left">
+                <h3><a href="/free">Free Content &nbsp;<span>&#8594;</span></a></h3>
+                <a href="/free" class="count">851 sessions</a>
+            </div>
+            <div class="grey_box half_box">
+                <h3>
+                                        <a class="login_required">
+                                            Members Only &nbsp;<span>&#8594;</span>
+                    </a>
+                </h3>
+                                <a class="count login_required">
+                                3236 sessions
+                </a>
+            </div>
+            <br class="clear" />
+            <div class="grey_box">
+                <h3>Browse by Category</h3>
+                <ul>
+                                                        <li><a href="/browse/?track_category=300">Design</a></li>
+                                                        <li><a href="/browse/?track_category=1300">Smartphone / Tablet Games</a></li>
+                                                        <li><a href="/browse/?track_category=1000">Monetization</a></li>
+                                                        <li><a href="/browse/?track_category=1200">Social / Online Games</a></li>
+                                                        <li><a href="/browse/?track_category=200">Business & Marketing</a></li>
+                                </ul>
+                <a class="bottom_link" href="/browse/">more categories &#8594;</a>
+            </div>
+            <div class="grey_box">
+                <h3>Browse by Event</h3>
+                <ul>
+                                                                            <li><a href="/browse/gdc-15">Game Developers Conference 2015</a></li>
+                                                                            <li><a href="/browse/gdc-next-14">GDC Next 2014</a></li>
+                                                                            <li><a href="/browse/gdc-china-14">GDC China 2014</a></li>
+                                                                            <li><a href="/browse/gdc-europe-14">GDC Europe 2014</a></li>
+                                                                            <li><a href="/browse/gdc-14">GDC 2014</a></li>
+                                </ul>
+                <a class="bottom_link" href="/browse">more events &#8594;</a>
+            </div>
+        </section>
+
+        <div class='divider'></div>
+        <div class='divider'></div>
+
+        <section id="sponsored_sessions" class="default_box">
+            <h2>Sponsored Sessions</h2>
+            <ul>
+                                                    <li>
+                    <img src="/img/gdc_vault/sponsor_images/18/logo.png" />
+                                        <a class="session_name" title="sponsor_user_register_form.php?sponsor_id=18&cid=1017686&type=4" onclick="sponsorRegPopup('18','1017686','400002138')">Game Development With Google Cloud Platform (Presented By...</a>
+                    <p><span><i>presented</i> by Google</span></p>
+                </li>
+                                                    <li>
+                    <img src="/img/gdc_vault/sponsor_images/25/logo.png" />
+                                        <a class="session_name" title="sponsor_user_register_form.php?sponsor_id=25&cid=1015146&type=4" onclick="sponsorRegPopup('25','1015146','400000343')">Privacy Policy and Terms of Use Issues for Social Games i...</a>
+                    <p><span><i>presented</i> by Loeb & Loeb</span></p>
+                </li>
+                                                    <li>
+                    <img src="/img/gdc_vault/sponsor_images/30/logo.png" />
+                                        <a class="session_name" title="sponsor_user_register_form.php?sponsor_id=30&cid=1016496&type=4" onclick="sponsorRegPopup('30','1016496','400001208')">Facebook Developer Day: Turning Players into Payers: Best...</a>
+                    <p><span><i>presented</i> by Facebook</span></p>
+                </li>
+                                                    <li>
+                    <img src="/img/gdc_vault/sponsor_images/3/logo.png" />
+                                        <a class="session_name" title="sponsor_user_register_form.php?sponsor_id=3&cid=1020791&type=4" onclick="sponsorRegPopup('3','1020791','400002816')">Approaching Zero Driver Overhead in OpenGL (Presented by ...</a>
+                    <p><span><i>presented</i> by Nvidia</span></p>
+                </li>
+                            </ul>
+            <a class="bottom_link" href="/browse/sponsor">more sponsored sessions &#8594;</a>
+        </section>
+
+        <div class='divider'></div>
+
+        <section id="ads">
+            <!-- large ad -->
+            <div class="div-gpt-ad-rec1">
+	      <script type='text/javascript'>
+	      	        googletag.display('div-gpt-ad-rec1');
+	      </script>
+            </div>
+
+            <!-- small ad -->
+            <div class="small_ad">  
+             <a href="/gamenarrativereview" ><img src="/img/gdc_vault/gamenarrative_banner.gif" border="0"></a>
+            </div>
+            <!-- small ad -->
+            <div class="small_ad">
+	     	 <a href="/gdmag" ><img src="/img/gdc_vault/gdmag_banner.jpg" border="0"></a>
+            </div>
+            <!-- small ad -->
+            <div class="small_ad">
+                <a href="mailto:help@gdcvault.com" ><img src="/img/gdc_vault/gdc_contactus.jpg" border="0"></a>
+            </div>
+        </section>
+    </div>
+</div>
+
+            <div class='divider'></div>
+        </div>
+
+        <div class="footer1" >
+        <div class="footerline"><img src="http://www.gdconf.com/img/pixel.gif"/></div>
+        <div id="footercontent">
+         <!-- LEFT SIDE -->
+             <div class="left">
+             <a href="http://www.ubmtechweb.com/" target="_blank"><img src="http://gamasutra.com/game_sites_superfooter_2012/images/logo_ubmtech_white.png " width="88" height="111" border="0" alt="UBM Tech"></a>
+             </div>
+         <!-- /LEFT SIDE -->
+        <div id="rightlinks">
+          <ul>
+            <li>FEATURED UBM TECH SITES: 
+            <li><a href="http://www.gdconf.com/" target="_blank">Game Developers Conference</a></li> | 
+            <li><a href="http://www.gamasutra.com/" target="_blank">Gamasutra</a></li> | 
+            <li><a href="http://www.appdevstories.com/" target="_blank">App Dev Stories</a></li> | 
+            <li><a href="http://www.gamecareerguide.com/" target="_blank">Game Career Guide</a></li> 
+          </ul>
+          <ul>
+            <li>OUR MARKETS: 
+            <li><a href="http://tech.ubm.com/businesses/business-technology/" target="_blank">Business Technology</a></li> | 
+            <li><a href="http://tech.ubm.com/businesses/channel/" target="_blank">Channel</a></li> | 
+            <li><a href="http://tech.ubm.com/businesses/electronics/" target="_blank">Electronics</a></li> | 
+            <li><a href="http://tech.ubm.com/businesses/game-app-development/" target="_blank">Game &amp; App Development</a></li>
+          </ul>
+          <ul class="normal">
+            <li><b>Working With Us:</b>
+            <li><a href="http://www.jointhegamenetwork.com/" target="_blank">Game Network Advertising</a></li> | 
+            <li><a href="http://www.jointhegamenetwork.com/event/" target="_blank">Event Calendar</a></li> | 
+            <li><a href="http://www.jointhegamenetwork.com/contact/" target="_blank">Contact Us</a></li> 
+          </ul>
+          <ul class="colored">
+            <li><a href="http://legal.us.ubm.com/terms-of-service/" target="_blank" class="blue">Terms of Service</a></li>  |
+            <li><a href="http://legal.us.ubm.com/privacy-policy/" target="_blank" class="blue">Privacy Statement</a></li>  |
+            <li><a href="http://legal.us.ubm.com/copyright-notice/" target="_blank" class="blue">Copyright &#169; <script type="text/javascript">
+                  <!--
+                  var currentTime = new Date()
+                  var year = currentTime.getFullYear()
+                  document.write( year)
+                  //-->
+                 </script>
+     UBM Tech, All rights reserved</a></li>
+          </ul>
+        </div>
+          <br/>
+        </div><!--end footercontent-->
+    </div>
+
+        <div id="filter_overlay" style="display:none; text-align:center;color:#000">
+            <img src="/img/loadingAnimation.gif" />
+            <br/><br/>
+            <strong>loading...</strong>
+        </div>
+
+                
+<!--SiteCatalyst code version: G.7. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com-->
+<script language="JavaScript" type="text/javascript">
+
+/* You may give each page an identifying name, server, and channel on the next lines. */
+var s_pageName=""
+var s_server=""
+var s_channel=""
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""
+
+/* E-commerce Variables */
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW *********/
+//-->
+</script>
+<script language="JavaScript" src="http://i.cmpnet.com/shared/omniture/s_code_remote.js" type="text/javascript"></script>
+
+<!-- End SiteCatalyst code version: G.7. -->
+    </body>
+</html>

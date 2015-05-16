@@ -1,0 +1,10 @@
+1428244044
+http://www.mioglobal.com/Default.aspx
+http://www.mioglobal.com/robots.txt
+User-agent: *
+Disallow: /SiteCM3/
+Allow: /SiteCM3/CSS/
+Allow: /SiteCM3/JS/
+Disallow: /NewsletterSignup.aspx
+Disallow: /RegisteredCustomer.aspx
+Sitemap: http://www.mioglobal.com/sitemaps/sitemapindex.xml

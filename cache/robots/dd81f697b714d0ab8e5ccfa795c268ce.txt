@@ -1,0 +1,15 @@
+1427822997
+http://gawker.com/the-worlds-most-famous-musicians-just-hosted-a-bonkers-1694627052
+http://gawker.com/robots.txt
+1427819469
+http://gawker.com/the-worlds-most-famous-musicians-just-hosted-a-bonkers-1694627052
+http://gawker.com/robots.txt
+1427805440
+http://gawker.com/the-worlds-most-famous-musicians-just-hosted-a-bonkers-1694627052
+http://gawker.com/robots.txt
+1427805440
+http://gawker.com/indianapolis-star-slams-rfra-with-powerful-front-page-e-1694712937
+http://gawker.com/robots.txt
+User-agent: *
+Disallow:
+Sitemap: http://gawker.com/sitemap.xml

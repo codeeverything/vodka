@@ -1,0 +1,56 @@
+1428234498
+http://www.eecs.berkeley.edu
+http://www.eecs.berkeley.edu/robots.txt
+1427958402
+http://www.eecs.berkeley.edu/deptinfo
+http://www.eecs.berkeley.edu/robots.txt
+1427958178
+http://www.eecs.berkeley.edu
+http://www.eecs.berkeley.edu/robots.txt
+1427890830
+http://www.eecs.berkeley.edu/deptinfo
+http://www.eecs.berkeley.edu/robots.txt
+1427890762
+http://www.eecs.berkeley.edu
+http://www.eecs.berkeley.edu/robots.txt
+1427890631
+http://www.eecs.berkeley.edu
+http://www.eecs.berkeley.edu/robots.txt
+1427824633
+http://www.eecs.berkeley.edu
+http://www.eecs.berkeley.edu/robots.txt
+1427824415
+http://www.eecs.berkeley.edu
+http://www.eecs.berkeley.edu/robots.txt
+User-agent: *
+Disallow: /abet/
+Disallow: /Logs/
+Disallow: /idsg/
+Disallow: /Soda/
+Disallow: /Chairconf/
+Disallow: /Programs/Manual/
+Disallow: /Confidential-Case-Materials/
+Disallow: /education/abet-outcomes/restricted/
+Disallow: /EE-Recruiting-Data/
+Disallow: /FacultyInfo/
+Disallow: /Faculty-Meetings/
+Disallow: /Faculty-Rankings/
+Disallow: /Faculty-Candidates/
+Disallow: /Faculty-Restricted/
+Disallow: /Faculty/Webcasts/
+Disallow: /FiveYearMS/Students/
+Disallow: /Gradadm/Admissions&Support/
+Disallow: /Gradadm/Reviewers/
+Disallow: /GradAffairs/Manual/
+Disallow: /GradAffairs/IncomingCS/
+Disallow: /GradAffairs/IncomingEE/
+Disallow: /IPRO/Software/Catalog/addl.resource.html
+Disallow: /IPRO/Software/Catalog/whats.new.html
+Disallow: /Programs/doublex/
+Disallow: /Rosters/index.shtml
+Disallow: /Rosters/roster.room.cory.noextra.html
+Disallow: /Rosters/roster.room.soda.noextra.html
+Disallow: /simons-video/
+Disallow: /Students/Awards/Nominees/
+Disallow: /XRG/Resumes/
+Sitemap: /sitemap.txt

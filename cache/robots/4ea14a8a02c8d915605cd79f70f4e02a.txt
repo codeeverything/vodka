@@ -1,0 +1,6 @@
+1428422572
+http://rossbieg.przegladsportowy.pl
+http://rossbieg.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

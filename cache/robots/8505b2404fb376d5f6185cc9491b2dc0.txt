@@ -1,0 +1,6 @@
+1428242458
+http://video-editing-software-review.toptenreviews.com
+http://video-editing-software-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

@@ -1,0 +1,137 @@
+1428159044
+http://my.wisc.edu
+http://my.wisc.edu/robots.txt
+1427891136
+http://my.wisc.edu
+http://my.wisc.edu/robots.txt
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html  lang="en">
+<!--<![endif]-->
+  <head>
+    <title>UW-Madison NetID Login Service</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="/idp/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/idp/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="/idp/css/netid-login.css?12345" rel="stylesheet">
+    <link href="/idp/css/gt-520.css" media="screen and (min-width: 520px)" rel="stylesheet">
+    <link href="/idp/css/gt-780.css" media="screen and (min-width: 780px)" rel="stylesheet">
+    <link href="/idp/css/gt-780-header-expand.css" media="screen and (min-width: 780px)" rel="stylesheet">
+    <!--[if lt IE 8]>
+      <style type="text/css">
+        #content {width: 63%;}
+      </style>
+    <![endif]-->
+    <!--[if lt IE 9]>
+      <script type="text/javascript" src="/idp/js/html5.js"></script>
+    <![endif]-->
+    <!--[if (lt IE 9)&(!IEMobile)]>
+      <link rel="stylesheet" type="text/css" href="/idp/css/gt-520.css" media="screen">
+      <link rel="stylesheet" type="text/css" href="/idp/css/gt-780.css" media="screen">
+    <![endif]-->
+    <script src="/idp/js/jquery.min.js"></script>
+    <script language="Javascript">
+        <!--
+        if (top.location != self.location) {
+            top.location = self.location.href
+        }
+        
+        function drawAnnouncements() {
+    		$.ajax({
+    			url : "/json/announcements.json",
+    			type : "GET",
+    			dataType : "json",
+    			cache : false,
+    			success : function(data) {
+	    			$.each(data.announcements, function(index, announcement) {
+	    				$("#announcements").append('<div class="alert">' + announcement + '</div>');
+	    			});
+    			},
+    			error : function(jqXHR, textStatus, errorThrown) {
+					console.log("Error fetching announcements: " + textStatus + " " + errorThrown);
+    			}
+    		});
+
+        }
+        
+        function setFocus() {
+            var f = null;
+            if (document.getElementById) {
+                f = document.getElementById("loginForm");
+            } else if (window.loginForm) {
+                f = window.loginform;
+            }
+            if (f) {
+                if (f.j_username.value == null || f.j_username.value == "") {
+                    f.j_username.focus();
+                } else {
+                    f.j_password.focus();
+                } 
+            }
+        }
+        
+        $(function(){
+        	drawAnnouncements();
+        	setFocus();
+        });
+        
+        //-->
+    </script>
+
+  </head>
+  <body>
+    <header>
+      <div id="logo">
+        <a href="http://www.wisc.edu"><img src="/idp/images/uwcrest.png" alt="Link to UW home page"></a>
+      </div>
+      <div id="siteTitle"><a href="http://www.wisc.edu"><img src="/idp/images/b_uw.png" alt="University of Wisconsin-Madison"></a></div>
+    </header><section id="content">
+  <div class="well">
+    <h1>Campus NetID Login </h1>
+    <div class="alert">
+      <p>Sorry, there was a problem.  Common causes are:
+        <ul>
+          <li>You accessed this page using a bookmark.</li>
+	      <li>This service requires cookies.  Please ensure that they are enabled and try 
+              going back to your desired resource and trying to login again.
+          </li>
+          <li>Use of your browser's back button may cause specific problems that can be resolved by
+	          going back to your desired resource and trying to login again.
+          </li>
+        </ul>
+      </p>
+      <p>If the problem persists, contact the <a href="/redirect/helpdesk">Help Desk</a> or check the <a href="/redirect/outages">Service Outages</a> page for more information.</p>
+      </div>
+  </div>
+</section>
+
+<aside>
+      <img src="/idp/images/Union_South_study11_0122.jpg" alt="Students working at computers in Union South"><br />
+      <h2>Need help?</h2>
+      <ul>
+        <li><a href="/redirect/helpdesk">Contact the DoIT Help Desk</a></li>
+        <li><a href="/redirect/help-docs">Help <abbr title="documents">docs</abbr></a></li>
+      </ul>      
+    </aside>
+    <footer>
+      <p>
+        <a href="/redirect/feedback" class="btn btn-mini">Feedback</a>
+        <a href="/redirect/accessibility" class="btn btn-mini">Accessibility</a>
+        <a href="/redirect/outages" class="btn btn-mini">Service Outages</a>
+      </p>
+      <p id="copyright">
+        &copy; 2012 Board of Regents of the University of Wisconsin System
+      </p>
+    </footer>
+  </body>
+</html>

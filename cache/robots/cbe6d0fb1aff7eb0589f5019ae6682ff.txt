@@ -1,0 +1,12 @@
+1428418213
+http://thespacearts.tumblr.com
+http://thespacearts.tumblr.com/robots.txt
+Sitemap: http://thespacearts.tumblr.com/sitemap-pages.xml
+Sitemap: http://thespacearts.tumblr.com/sitemap1.xml
+
+User-agent: *
+Disallow: /private
+Disallow: /random
+Disallow: /day
+Crawl-delay: 1
+

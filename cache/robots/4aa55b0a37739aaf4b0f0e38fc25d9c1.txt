@@ -1,0 +1,8 @@
+1428421019
+http://gry.fakt.pl
+http://gry.fakt.pl/robots.txt
+User-agent: *
+
+Crawl-delay: 1
+
+Allow: /

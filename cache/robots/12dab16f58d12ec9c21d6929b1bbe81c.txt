@@ -1,0 +1,27 @@
+1428496950
+http://www.jdoqocy.com/click-7712625-8256871
+http://www.jdoqocy.com/robots.txt
+1428417900
+http://www.jdoqocy.com
+http://www.jdoqocy.com/robots.txt
+1428417171
+http://www.jdoqocy.com
+http://www.jdoqocy.com/robots.txt
+1428416684
+http://www.jdoqocy.com/click-7712625-8256871
+http://www.jdoqocy.com/robots.txt
+1428414612
+http://www.jdoqocy.com/click-7712625-8256871
+http://www.jdoqocy.com/robots.txt
+1428243672
+http://www.jdoqocy.com
+http://www.jdoqocy.com/robots.txt
+1428241672
+http://www.jdoqocy.com
+http://www.jdoqocy.com/robots.txt
+1428240996
+http://www.jdoqocy.com/click-7712625-8256871
+http://www.jdoqocy.com/robots.txt
+# go away
+User-agent: *
+Disallow: /

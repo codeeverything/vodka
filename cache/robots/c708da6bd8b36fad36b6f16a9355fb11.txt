@@ -1,0 +1,46 @@
+1428419158
+http://pierwszymilion.forbes.pl/milion-pomyslow,kategoria,25,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428419158
+http://pierwszymilion.forbes.pl/od-zera-do-milionera,kategoria,26,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428419131
+http://pierwszymilion.forbes.pl/e-milion,kategoria,20,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428419131
+http://pierwszymilion.forbes.pl/miliona-brak,kategoria,21,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428419102
+http://pierwszymilion.forbes.pl/kalendarium-pm,kategoria,1387,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428419102
+http://pierwszymilion.forbes.pl/wiadomosci,kategoria,1384,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428419034
+http://pierwszymilion.forbes.pl/mlodzi-innowacyjni-polacy-poszukiwani-konkurs-innovators-under-35,artykuly,191623,1,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428418998
+http://pierwszymilion.forbes.pl/serdecznie-witamy-w-dobrym-smaku,artykuly,191340,1,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428418997
+http://pierwszymilion.forbes.pl/airbnb-zakwateruje-kibicow-w-rio-de-janeiro,artykuly,192583,1,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428418986
+http://pierwszymilion.forbes.pl/zbigniew-niemczycki-jak-prowadzilo-sie-biznes-w-dawnej-polsce,artykuly,191343,1,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428418888
+http://pierwszymilion.forbes.pl/escape-roomy-podbijaja-polske,artykuly,191344,1,1.html
+http://pierwszymilion.forbes.pl/robots.txt
+1428417478
+http://pierwszymilion.forbes.pl
+http://pierwszymilion.forbes.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/

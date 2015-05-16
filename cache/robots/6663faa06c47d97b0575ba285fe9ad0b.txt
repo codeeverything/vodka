@@ -1,0 +1,16 @@
+1427736466
+http://www.52shouyou.com
+http://www.52shouyou.com/robots.txt
+#
+# robots.txt for EmpireCMS
+#
+
+User-agent: *
+
+Disallow: /d/
+Disallow: /e/class/
+Disallow: /e/data/
+Disallow: /e/enews/
+Disallow: /e/update/
+Disallow: /danji/
+Disallow: /bbs/search.php

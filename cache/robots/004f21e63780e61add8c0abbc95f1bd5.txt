@@ -1,0 +1,2233 @@
+1428421037
+http://mysport.gsp.ro
+http://mysport.gsp.ro/robots.txt
+1428418419
+http://mysport.gsp.ro
+http://mysport.gsp.ro/robots.txt
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>MySport :: Comunitatea ta de prieteni din sport</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+	<meta name="description" content="sport, comunitate, articole, mysport, prieteni,Steaua,Dinamo,Rapid,CFR Cluj,Unirea Urziceni,FC Vaslui,FC Brasov,Otelul Galati,Pandurii Tg Jiu,U Cluj,Astra Ploiesti,Gaz Metan,FCM Targu Mures,Sportul Studentesc,Concordia,Petrolul,CS Mioveni,Vointa Sibiu,U Craiova,Victoria Branesti,Poli Timisoara,Gloria Bistrita,Ceahlaul,Liga 1,Liga B,Liga C,Cupa Romaniei,Echipa nationala,Anglia,Italia,Germania,Spania,Franta,Brazilia,Olanda,Barcelona,AC Milan,Manchester United,Arsenal Londra,Chelsea Londra,Liverpool FC,Inter,Real Madrid,Juventus,Bayern Munchen,Catalin Tolontan,Andrei Vochin,Ovidiu Ioanitoaia,Cristian Geambasu,Maria Andries,Catalin Oprisan,Daniel Sendre,Andrei Niculescu,Luiza Bogdan,Handbal,Rugby,Tenis,Volei,Hochei,Ciclism,Atletism,Box,Natatie,Snooker,Baschet,Wrestling,Formula 1,Drive test,Lumea auto,Moto,Anunţuri AUTO,Pescuit,Running,Biciclete,Pariori,Sailing,Enduro - Offroad,Escalada,Mihai Nesu,Lucian Bute,Robert Muresan,Fernando Alonso,Novak Djokovic,Roger Federer,Rafael Nadal,Daniel Pancu,Nike MySport,Radio GSP,e-Sports,Nikon MySport,Echipa fantastica,BRD Nastase-Tiriac Trophy,Cistiga un loc in Champions League pentru copilul tau,Jocuri Video,Mitică la brutărie" />
+<meta name="keywords" content="" />
+	<script type="text/javascript" src="https://www.idunic.ro/js/autologin.js.php"></script>
+	<script type="text/javascript" src="https://www.idunic.ro/js/idunic.js"></script>
+
+
+<script type="text/javascript">
+	var springq = springq || [];
+	springq.push({
+		"s":"gspro",
+		"cp":"mysport",
+		"url": document.location.href
+	});
+</script>
+<link rel="stylesheet" type="text/css" href="/templates/default/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/templates/default/css/main-style.css?2" />
+<link rel="stylesheet" type="text/css" href="/templates/default/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/templates/default/css/jquery.ui.css" />
+<link type="text/css" rel="stylesheet" href="/templates/default/css/jquery.thickbox.css" />
+<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/css3fix.css" />
+<![endif]-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/utils.js?2" language="JavaScript"></script>
+<script type="text/javascript" src="/js/wall.js?6" language="JavaScript"></script>
+<script type="text/javascript" src="/templates/default/js/jquery.textarea-expander.js"></script>
+<script type="text/javascript" src="/templates/default/js/jquery.1.4.2.thickbox.js"></script>
+<script type="text/javascript" src="/templates/default/js/tipsy.js"></script>
+
+<script type="text/javascript">
+	var xajaxRequestUri="/x.php";
+	var xajaxDebug=false;
+	var xajaxStatusMessages=false;
+	var xajaxWaitCursor=true;
+	var xajaxDefinedGet=0;
+	var xajaxDefinedPost=1;
+	var xajaxLoaded=false;
+	
+	function xajax_wy_share_select(){return xajax.call("wy_share_select", arguments, 1);}
+	function xajax_wy_share_link_attach(){return xajax.call("wy_share_link_attach", arguments, 1);}
+	function xajax_wy_share_video_attach(){return xajax.call("wy_share_video_attach", arguments, 1);}
+	function xajax_wy_share_send(){return xajax.call("wy_share_send", arguments, 1);}
+	function xajax_wy_comment_show_field(){return xajax.call("wy_comment_show_field", arguments, 1);}
+	function xajax_wy_comment_send(){return xajax.call("wy_comment_send", arguments, 1);}
+	function xajax_wy_comment_delete(){return xajax.call("wy_comment_delete", arguments, 1);}
+	function xajax_wy_comment_show_all(){return xajax.call("wy_comment_show_all", arguments, 1);}
+	function xajax_wy_wallentry_delete(){return xajax.call("wy_wallentry_delete", arguments, 1);}
+	function xajax_wy_wall_get_more(){return xajax.call("wy_wall_get_more", arguments, 1);}
+	function xajax_wy_search_get_more(){return xajax.call("wy_search_get_more", arguments, 1);}
+	function xajax_wy_friends_get_more(){return xajax.call("wy_friends_get_more", arguments, 1);}
+	function xajax_wy_like(){return xajax.call("wy_like", arguments, 1);}
+	function xajax_wy_add2prefs(){return xajax.call("wy_add2prefs", arguments, 1);}
+	function xajax_wy_show_likes(){return xajax.call("wy_show_likes", arguments, 1);}
+	function xajax_wy_show_prefs(){return xajax.call("wy_show_prefs", arguments, 1);}
+	function xajax_wy_fshare(){return xajax.call("wy_fshare", arguments, 1);}
+	function xajax_wy_fshare_send(){return xajax.call("wy_fshare_send", arguments, 1);}
+	function xajax_fr_send(){return xajax.call("fr_send", arguments, 1);}
+	function xajax_sbs_send(){return xajax.call("sbs_send", arguments, 1);}
+	function xajax_unfriend(){return xajax.call("unfriend", arguments, 1);}
+	function xajax_wy_comment_get_more(){return xajax.call("wy_comment_get_more", arguments, 1);}
+	function xajax_wy_play_video(){return xajax.call("wy_play_video", arguments, 1);}
+	function xajax_wy_subscribe(){return xajax.call("wy_subscribe", arguments, 1);}
+	
+</script>
+<script type="text/javascript" src="/js/xajax.js"></script>
+
+
+
+<style type="text/css">
+#wy-popup-overlay{
+    display:none;
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index:5000;
+    background-color:#000;
+    -moz-opacity: 0.1;
+    opacity:.10;
+    filter: alpha(opacity=10);
+}
+#wy-popup-overlay[id]{ /* IE6 and below Can't See This */
+    position:fixed;
+}
+
+#more-links-trigger.style1{
+	background-color:#0000FF;
+}
+
+#more-links-trigger.style2{
+	background-color:#FF0000;
+}
+
+</style>
+
+<script type="text/javascript" src="http://gspro.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "gspro.adocean.pl", id: "_dIBxMGib.VYExDZpvvLe7i5nma4PHrIT0EYuP5rmID.47"});
+</script>
+
+<!-- start master -->
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, MASTER: gsp_ro.mysport.ro.Content */
+ado.master({id: 'Rzv8sBtojS3vvmQErmVQnBdwjwFQ0Q8qHXX0JYYKGwn.j7', server: 'gspro.adocean.pl' });
+</script>
+<!--  end master  -->
+
+
+
+
+</head>
+
+
+
+<body>
+<!-- BRAT VERSION="1.5" -->
+<script language="JavaScript" type="text/javascript"> <!--
+var br_sitecode = "gsp";
+var br_sitepath = "mysport";
+var IVW="http://"+br_sitecode+".count.brat-online.ro/cgi-bin/cnt/CP/"+br_sitepath;
+document.write("<IMG SRC=\""+IVW+"?r="+escape(document.referrer)+"&amp;d="+(Math.random()*100000)+"&amp;x="+screen.width+"x"+screen.height+"\" WIDTH=\"1\" HEIGHT=\"1\">");
+//-->
+</script>
+<noscript>
+<img src="http://gsp.count.brat-online.ro/cgi-bin/cnt/CP/mysport" width="1" height="1" alt="" />
+</noscript>
+
+<script src="http://gsp.count.brat-online.ro/2004/01/survey.js" type="text/javascript"></script>
+<!-- /BRAT -->
+		<!-- start slave -->
+		<div id="adoceangsproviejjlkqdt"></div>
+		<script type="text/javascript">
+		/* (c)AdOcean 2003-2011, gsp_ro.mysport.ro.Content.Interstitial */
+		ado.slave('adoceangsproviejjlkqdt', {myMaster: 'Rzv8sBtojS3vvmQErmVQnBdwjwFQ0Q8qHXX0JYYKGwn.j7' });
+		</script>
+		<!--  end slave  -->
+
+		<!-- start slave -->
+		<div id="adoceangsprolnelgrsgbx"></div>
+		<script type="text/javascript">
+		/* (c)AdOcean 2003-2011, gsp_ro.mysport.ro.Content.floating */
+		ado.slave('adoceangsprolnelgrsgbx', {myMaster: 'Rzv8sBtojS3vvmQErmVQnBdwjwFQ0Q8qHXX0JYYKGwn.j7' });
+		</script>
+		<!--  end slave  -->
+
+
+
+
+
+	
+	<div id="adoceangsprolhgmcrghjd"></div>
+	<script type="text/javascript">
+	/* (c)AdOcean 2003-2012, gsp_ro.mysport.ro.Content.Article */
+	ado.slave('adoceangsprolhgmcrghjd', {myMaster: 'Rzv8sBtojS3vvmQErmVQnBdwjwFQ0Q8qHXX0JYYKGwn.j7' });
+	</script>
+	
+
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = '1v2bGWMM7N7lbmJ18QkyePU5nKSFmeQxlFksgS6iA9H.P7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://garo.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+
+	<div id="main-head" class="notlogged"><div class="head-center">
+	<div class="homelink">
+		<a href="/"><img src="/templates/default/img/blank.gif" alt="" /></a>
+	</div>
+	<div class="upper-head">
+		<ul class="gsp-links">
+			<li class="fst"><a href="http://www.gsp.ro/">GSP.ro</a></li>
+			<li><a href="http://www.gsp.ro/fotbal-intern.html">Fotbal</a></li>
+			<li><a href="http://www.gsp.ro/international.html">Internațional</a></li>
+			<li><a href="http://www.gsp.ro/sporturi.html">Sporturi</a></li>
+			<li><a href="http://blogsport.gsp.ro/">Blogsport</a></li>
+			<li><a href="http://www.gsp.ro/special.html">Special</a></li>
+			<li><a href="http://tv.gsp.ro/">GSP TV</a></li>
+			<li><a href="http://www.gsp.ro/timp-liber.html">Timp Liber</a></li>
+			<li><a href="http://www.gsp.ro/stiri-externe.html">Extra</a></li>
+		</ul>
+		<ul class="affiliate-links">
+			<li class="fst"><a href="http://www.reduceri.gsp.ro/" target="_blank">Reduceri</a></li>
+			<li><a href="http://www.anunturipenet.ro/" target="_blank">Anunturi pe net</a></li>
+			<li><a href="http://www.imopedia.ro/" target="_blank">Imobiliare</a></li>
+			<li class="lst"><a href="http://fasport.gsp.ro/" target="_blank">FaSport</a></li>
+		</ul>
+	</div>
+
+	<div class="btns">
+		<div><a href="/"><img src="/templates/default/img/v2/btn-acasa.png" alt="" /></a></div>
+			</div>
+
+	<div class="cauta-prieteni">
+		<form name="search" action="/site/cautare/" method="POST" onsubmit="return true;">
+		<input type="text" name="search" value="Cauta prieteni" autocomplete="off" onblur="if(this.value=='') this.value='Cauta prieteni'" onfocus="if(this.value=='Cauta prieteni') this.value=''" />
+		<div class="search-btn">
+			<a href="javascript:void(0);" onclick="document.search.submit();"><img src="/templates/default/img/blank.gif" width="30" height="28" alt="" /></a>
+		</div>
+		</form>
+	</div>
+
+	<div class="box-idunic">
+				<a href="javascript:void(0)" onclick="iDunic.show();"><img src="/templates/default/img/v2/avatar-idunic-nelogat.jpg" alt="" />
+		<p>Log In</p></a>
+		<div class="logout">
+			<a href="javascript:void(0)" onclick="iDunic.show();"><img src="/templates/default/img/blank.gif" width="43" height="34" alt="" /></a>
+		</div>
+			</div>
+
+</div>
+
+
+
+
+</div>
+	
+	<div id="content-area">
+
+						
+
+		<div id="centered-content">
+
+
+					<div style="margin: 5px auto 5px 141px"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8288277453017289";
+/* mysport.gsp.ro - leaderboard */
+google_ad_slot = "2883497932";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		
+			<div><img alt="" src="/templates/default/img/blank.gif"></div>
+			<div class="content-box">
+
+								<div class="main-columns">
+
+	<div class="thewallcol">
+		<script type="text/javascript">wy_wall_offset_id='1428377442x500596!101x131628';</script>
+
+<div class="thewall">
+
+	<div class="thetabz dsansb">
+		<div class="act btn-noutati"><p><a href="javascript:void(0);">Noutati</a></p></div>
+		<div class="btn-opinii"><p><a href="javascript:void(0);" onclick="iDunic.show();">Opinii</a></p></div>
+		<div class="btn-foto"><p><a href="javascript:void(0);" onclick="iDunic.show();">Foto</a></p></div>
+		<div class="btn-video"><p><a href="javascript:void(0);" onclick="iDunic.show();">Video</a></p></div>
+	</div>
+
+	<div class="thewallinner">
+		<div id="wall">
+			
+
+
+
+<div id="wy-wallentry-500627">
+
+						
+
+<div class="wall-post">
+	<div class="post-avatar"><a href="/behaitoarea.woody/"><img alt="" src="http://www.idunic.ro/avatar/behaitoarea.woody_k9yzq7.jpg" width="60px" height="60px"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+			<a href="/behaitoarea.woody/"><b>Behaitoarea Woody</b></a> a devenit prieten cu <a href="/luisharcsa/"><b>luis luis</b></a>
+					</p>
+		<p class="post-details">
+			7 Aprilie 2015, 17:52
+			&bull; <span id="wy-like-button-204x500627" class="wy-like-button-204x500627">
+<a href="javascript:void(0);" onclick="xajax_wy_like('204x500627', 1)">Imi place</a></span>			&bull; <a href="javascript:void(0)" onclick="wy_comment_show_field('204x500627')">Comenteaza</a>		</p>
+		<div class="placuri" id="wy-like-counter-container-204x500627" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('204x500627');"><span id="wy-like-counter-204x500627">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-204x500627">
+
+		
+		<div id="wy-comments-204x500627">
+				</div>
+
+		<div id="wy-comments-form-204x500627" class="comenteaza-custom">
+	<textarea id="wy-comment-field-204x500627" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('204x500627')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-204x500627" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('204x500627', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+	</div>
+</div></div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500621">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207915486#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131644/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207915486#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Mercedes-Benz B 180 BE CHROM-PAKET*AHK*PARKTRONIC*SITZKOMFORTP - 27.889 EUR
+        </a></h2>
+			<p class="post-text">Cuplaj pentru remorcă,Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Manual de service,Regulator de viteză,Senzori de parcare,Scaune încălzite electric,Compatibil E10,ITP nou,Garanţie,Senzor de ploaie automat,Oglindă laterală electrică,Bluetooth,Computer de bord,CD player,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Senzor de lumini,Lumini diurne,Sistem de control al tracţiunii,Vehicul pentru nefumători,Sistem de pornire/oprire automată
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 16:53
+			• <span id="wy-like-button-101x131644" class="wy-like-button-101x131644">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131644', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131644');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131644', 500621)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131644" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131644');"><span id="wy-like-counter-101x131644">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131644">
+
+		
+		<div id="wy-comments-101x131644">
+				</div>
+
+		<div id="wy-comments-form-101x131644" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131644" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131644')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131644" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131644', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500622">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207915471#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131645/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207915471#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Nissan Micra 1.2 Acenta KLIMA BLUETOOTH/1.HAND/SCHECKH. - 6.280 EUR
+        </a></h2>
+			<p class="post-text">Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Manual de service,Oglindă laterală electrică,Bluetooth,Computer de bord,CD player,Set pentru mâini libere,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Sistem de control al tracţiunii
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 16:53
+			• <span id="wy-like-button-101x131645" class="wy-like-button-101x131645">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131645', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131645');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131645', 500622)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131645" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131645');"><span id="wy-like-counter-101x131645">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131645">
+
+		
+		<div id="wy-comments-101x131645">
+				</div>
+
+		<div id="wy-comments-form-101x131645" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131645" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131645')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131645" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131645', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500620">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207915309#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131643/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207915309#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Volkswagen Touran 2.0 TDI DPF *SHZ*PDC*7-Sitzer - 24.584 EUR
+        </a></h2>
+			<p class="post-text">Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Manual de service,Regulator de viteză,Senzori de parcare,Scaune încălzite electric,ITP nou,Garanţie,Oglindă laterală electrică,Computer de bord,CD player,Interfaţă MP3,Tuner/radio,Senzor de lumini,Sistem de control al tracţiunii,Vehicul pentru nefumători
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 16:51
+			• <span id="wy-like-button-101x131643" class="wy-like-button-101x131643">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131643', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131643');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131643', 500620)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131643" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131643');"><span id="wy-like-counter-101x131643">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131643">
+
+		
+		<div id="wy-comments-101x131643">
+				</div>
+
+		<div id="wy-comments-form-101x131643" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131643" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131643')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131643" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131643', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500625">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/pariori/"><img width="60" height="60" alt="" src="/uploads/modules/elements/257/image_logo.png"></a></div>
+	<div class="post-content farapoza">
+		<p class="post-header">
+							<span class="nume"><a href="/pariori/">pariori.ro</a></span>
+					</p>
+				<div class="desp-10"></div>
+				<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://www.pariori.ro/stiri/28685/liga-1--etapa-25-cotele-meciurilor-de-joi.htm 
+" target="_blank">Liga 1 - Etapa 25: Cotele meciurilor de joi
+</a></h2>
+			<p class="post-text">Pariori.ro &icirc;ti prezinta cele mai importante cote ale meciurilor de joi:
+</p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 15:35
+			• <span id="wy-like-button-101x131648" class="wy-like-button-101x131648">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131648', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131648');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131648', 500625)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131648" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131648');"><span id="wy-like-counter-101x131648">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131648">
+
+		
+		<div id="wy-comments-101x131648">
+				</div>
+
+		<div id="wy-comments-form-101x131648" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131648" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131648')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131648" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131648', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500624">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/pariori/"><img width="60" height="60" alt="" src="/uploads/modules/elements/257/image_logo.png"></a></div>
+	<div class="post-content farapoza">
+		<p class="post-header">
+							<span class="nume"><a href="/pariori/">pariori.ro</a></span>
+					</p>
+				<div class="desp-10"></div>
+				<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://www.pariori.ro/stiri/28684/liga-1--etapa-25-cotele-meciurilor-de-miercuri.htm 
+" target="_blank">Liga 1 - Etapa 25: Cotele meciurilor de miercuri
+</a></h2>
+			<p class="post-text">Pariori.ro &icirc;ti prezinta cele mai importante cote ale meciurilor de miercuri:
+</p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 15:28
+			• <span id="wy-like-button-101x131647" class="wy-like-button-101x131647">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131647', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131647');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131647', 500624)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131647" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131647');"><span id="wy-like-counter-101x131647">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131647">
+
+		
+		<div id="wy-comments-101x131647">
+				</div>
+
+		<div id="wy-comments-form-101x131647" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131647" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131647')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131647" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131647', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500623">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/pariori/"><img width="60" height="60" alt="" src="/uploads/modules/elements/257/image_logo.png"></a></div>
+	<div class="post-content farapoza">
+		<p class="post-header">
+							<span class="nume"><a href="/pariori/">pariori.ro</a></span>
+					</p>
+				<div class="desp-10"></div>
+				<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://www.pariori.ro/stiri/28683/liga-1--etapa-25-cotele-meciurilor-de-marti.htm 
+" target="_blank">Liga 1 - Etapa 25: Cotele meciurilor de marti
+</a></h2>
+			<p class="post-text">Pariori.ro &icirc;ti prezinta cele mai importante cote ale meciurilor de marti:
+</p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 15:21
+			• <span id="wy-like-button-101x131646" class="wy-like-button-101x131646">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131646', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131646');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131646', 500623)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131646" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131646');"><span id="wy-like-counter-101x131646">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131646">
+
+		
+		<div id="wy-comments-101x131646">
+				</div>
+
+		<div id="wy-comments-form-101x131646" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131646" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131646')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131646" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131646', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+
+<div id="wy-wallentry-500615">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/criticul/"><img width="60" height="60" alt="" src="http://www.idunic.ro/avatar/criticul_dmynzx.jpg"></a></div>
+	<div class="post-content farapoza">
+		<p class="post-header">
+											<span class="nume"><a href="/criticul/">Cristian Baltaru</a></span> 	<img alt="" src="/templates/default/img/v2/ranking.png"><img alt="" src="/templates/default/img/v2/ranking.png"><img alt="" src="/templates/default/img/v2/ranking.png"><img alt="" src="/templates/default/img/v2/ranking.png"><img alt="" src="/templates/default/img/v2/ranking.png">
+									</p>
+		<p class="post-text">Clasamentul Ligii 1 la fotbal,după cea de-a douăzeci și patra etapă,ediția 2014-2015<br />
+================================================================<br />
+1.) Steaua București 24 18 2 4 45-14 56p.(+20)<br />
+2.) A.S.A.Târgu-Mureș 24 14 7 3 33-13 49p.(+16)<br />
+3.) Petrolul Ploiești 24 12 7 5 34-17 43p.(+4)<br />
+4.) C.S.,,U''Craiova 24 11 9 4 28-23 42p.(+6)<br />
+5.) Astra Giurgiu 24 10 9 5 37-18 39p.(0)<br />
+6.) C.F.R.Cluj* <span id='hlt-more-100x500615' style='display:none'>24 11 6 7 29-18 39p.(+3)<br />
+7.) Dinamo București 24 10 6 8 35-33 36p.(+3)<br />
+8.) Viitorul Constanța 24 8 8 8 33-33 32p.(-4)<br />
+9.) F.C.Botoșani 24 8 7 9 25-30 31p.(-2)<br />
+10.) Pandurii Târgu-Jiu 24 7 7 10 29-32 28p.(-8)<br />
+11.) C.S.M.S.Iași 24 7 7 10 23-29 28p.(-5)<br />
+12.) F.C.Brașov 24 7 7 10 25-33 28p.(-5)<br />
+13.) Concordia Chiajna 24 5 12 7 26-29 27p.(-9)<br />
+14.) Gaz Metan Mediaș 24 5 9 10 22-30 24p.(-15)<br />
+15.) ,,U''Cluj 24 5 8 11 22-30 23p.(-13)<br />
+16.) Rapid București 24 5 7 12 12-28 22p.(-14)<br />
+17.) Ceahlăul Piatra-Neamț 24 4 7 13 18-42 19p.(-17)<br />
+18.) Oțelul Galați 24 2 9 13 9-33 15p.(-21)<br />
+==================================================================<br />
+În această ediție de campionat vor retrograda ultimele șase echipe din clasamentul final al Ligii 1 la fotbal,ediția 2014-2015(locurile 13-18) și vor promova câștigătoarele celor două serii din Liga a-2-a. Evident,ultimul cuvânt în stabilirea finală a ierarhiilor și clasamentelor finale îl vor avea comisiile F.R.F. :)))<br />
+-<br />
+C.F.R.Cluj a fost penalizată,de către F.R.F.,prin comisia de specialitate,cu 24 de puncte în clasament,pentru neplata salariilor jucătorilor săi,penalizare menținută și la Comisia de Recurs a F.R.F.,ceferiștii clujeni mai având o cale de atac și anume la T.A.S..Până la un verdict final în acest caz,C.F.R.Cluj va figura în acest clasament cu numărul de puncte câștigat de echipă pe teren.</span><a href='javascript:void(0);' class='hlt-more' onclick='this.style.display="none";document.getElementById("hlt-more-100x500615").style.display="inline"'>citeste tot</a></p>
+	</div>
+	<div class="post-echipa"><img alt="" src="/uploads/modules/elements/217/image.png" width="28px"></div>
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 13:54
+			• <span id="wy-like-button-100x500615" class="wy-like-button-100x500615">
+<a href="javascript:void(0);" onclick="xajax_wy_like('100x500615', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('100x500615');">Comenteaza</a>		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-100x500615" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('100x500615');"><span id="wy-like-counter-100x500615">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-100x500615">
+
+		
+		<div id="wy-comments-100x500615">
+				</div>
+
+		<div id="wy-comments-form-100x500615" class="commenteaza-intern">
+	<textarea id="wy-comment-field-100x500615" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('100x500615')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-100x500615" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('100x500615', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500618">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D205510979#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131641/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D205510979#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Skoda Fabia Combi Cool Edition 1.Hd. Garantie+Finanz. - 7.499 EUR
+        </a></h2>
+			<p class="post-text">Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Manual de service,ITP nou,Garanţie,CD player,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Lumini diurne,Vehicul pentru nefumători,Şine portbagaj plafon
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 13:53
+			• <span id="wy-like-button-101x131641" class="wy-like-button-101x131641">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131641', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131641');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131641', 500618)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131641" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131641');"><span id="wy-like-counter-101x131641">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131641">
+
+		
+		<div id="wy-comments-101x131641">
+				</div>
+
+		<div id="wy-comments-form-101x131641" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131641" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131641')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131641" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131641', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500617">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207906084#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131640/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207906084#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">BMW 420 Gran Coupe iA.xDrive Sport-Line GSD Xen.Navi - 38.980 EUR
+        </a></h2>
+			<p class="post-text">Tracţiune 4x4,Trapă decapotabilă,Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Manual de service,Regulator de viteză,Faruri cu xenon,Senzori de parcare,Scaune încălzite electric,Compatibil E10,ITP nou,Garanţie,Scaune sport,Oglindă laterală electrică,Pachet sport,Bluetooth,Computer de bord,CD player,Set pentru mâini libere,Interfaţă MP3,Volan multifuncţional,Husă pentru schiuri,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Senzor de lumini,Faruri de ceaţă,Lumini diurne,Sistem de control al tracţiunii,Vehicul pentru nefumători,Sistem de pornire/oprire automată
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 13:50
+			• <span id="wy-like-button-101x131640" class="wy-like-button-101x131640">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131640', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131640');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131640', 500617)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131640" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131640');"><span id="wy-like-counter-101x131640">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131640">
+
+		
+		<div id="wy-comments-101x131640">
+				</div>
+
+		<div id="wy-comments-form-101x131640" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131640" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131640')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131640" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131640', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500619">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207906074#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131642/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207906074#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Volkswagen Golf Sportsvan 1.4 TSI DSG Comfortline - 24.989 EUR
+        </a></h2>
+			<p class="post-text">Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Manual de service,Regulator de viteză,Senzori de parcare,Compatibil E10,ITP nou,Garanţie,Oglindă laterală electrică,CD player,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Sistem de iluminare adaptor,Lumini diurne,Sistem de pornire/oprire automată
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 13:50
+			• <span id="wy-like-button-101x131642" class="wy-like-button-101x131642">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131642', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131642');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131642', 500619)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131642" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131642');"><span id="wy-like-counter-101x131642">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131642">
+
+		
+		<div id="wy-comments-101x131642">
+				</div>
+
+		<div id="wy-comments-form-101x131642" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131642" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131642')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131642" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131642', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+
+<div id="wy-wallentry-">
+
+						
+
+
+<div class="wall-post">
+	<div class="post-avatar"><a href="/venutu/"><img alt="" src="http://mysport.gsp.ro/templates/default/img/ghost.jpg" width="60px" height="60px"></a></div>
+	<div class="post-content">
+			<p class="post-text"><a href="/venutu/"><b>peptanus mihaela</b></a> a devenit prieten cu </p>
+
+			<div class="friendzone">
+														<a href="/aditarta/" title="Adrian Tarta"><img width="60" height="60" src="/uploads/modules/users/1194/60x60_8ed55.jpg"></a>
+														<a href="/kedei/" title="dionisie kedei"><img width="60" height="60" src="http://www.idunic.ro/avatar/kedei_3yj8jq.jpg"></a>
+														<a href="/adihno68/" title="Adrian Dangulea"><img width="60" height="60" src="/uploads/modules/users/23823/60x60_753a2.jpg"></a>
+							</div>
+
+			
+
+	</div>
+</div></div>
+
+
+
+
+<div id="wy-wallentry-500608">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/criticul/"><img width="60" height="60" alt="" src="http://www.idunic.ro/avatar/criticul_dmynzx.jpg"></a></div>
+	<div class="post-content farapoza">
+		<p class="post-header">
+											<span class="nume"><a href="/criticul/">Cristian Baltaru</a></span> 	<img alt="" src="/templates/default/img/v2/ranking.png"><img alt="" src="/templates/default/img/v2/ranking.png"><img alt="" src="/templates/default/img/v2/ranking.png"><img alt="" src="/templates/default/img/v2/ranking.png"><img alt="" src="/templates/default/img/v2/ranking.png">
+									</p>
+		<p class="post-text">Rezultatele celei de-a douăzeci și patra etape a Ligii 1 la fotbal,ediția 2014-2015<br />
+==========================================================================<br />
+În perioada vineri 03.04.2015-luni 06.04.2015 au avut loc meciurile celei de-a douăzeci și patra etape a Ligii 1 la fotbal,ediția 2014-2015,meciuri disputate în următoarea ordine:vineri-meciurile cu numerele 1și 2,sâmbătă-meciurile <span id='hlt-more-100x500608' style='display:none'>cu numerele 3,4 și 5,duminică-meciurile cu numerele 6.7 și 8,luni-meciul cu numărul 9.Iată rezultatele înregistrate:<br />
+-<br />
+1.) A.S.A.Târgu-Mureș-C.S.M.S.Iași 1-0;<br />
+2.) Dinamo București-F.C.Botoșani 0-0;<br />
+3.) Oțelul Galați-C.S.,,U''.Craiova 0-1;<br />
+4.) Astra Giurgiu-C.F.R.Cluj 0-1;<br />
+5.) ,,U''Cluj-Rapid București 1-0;<br />
+6.) Concordia Chiajna-F.C.Brașov 1-1;<br />
+7.) Ceahlăul Piatra-Neamț-Viitorul Constanța 1-2;<br />
+8.) Gaz Metan Mediaș-Steaua București 1-2;<br />
+9.) Petrolul Ploiești-Pandurii Târgu-JIu 0-1.<br />
+==================================================<br />
+Total meciuri etapă: 9 2 2 5 5-8 8-17p.<br />
+Total meciuri general: 216 80 67 69 268-217 307-274p.</span><a href='javascript:void(0);' class='hlt-more' onclick='this.style.display="none";document.getElementById("hlt-more-100x500608").style.display="inline"'>citeste tot</a></p>
+	</div>
+	<div class="post-echipa"><img alt="" src="/uploads/modules/elements/217/image.png" width="28px"></div>
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 13:43
+			• <span id="wy-like-button-100x500608" class="wy-like-button-100x500608">
+<a href="javascript:void(0);" onclick="xajax_wy_like('100x500608', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('100x500608');">Comenteaza</a>		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-100x500608" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('100x500608');"><span id="wy-like-counter-100x500608">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-100x500608">
+
+		
+		<div id="wy-comments-100x500608">
+				</div>
+
+		<div id="wy-comments-form-100x500608" class="commenteaza-intern">
+	<textarea id="wy-comment-field-100x500608" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('100x500608')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-100x500608" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('100x500608', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500616">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/andriesro/"><img width="60" height="60" alt="" src="/uploads/modules/elements/260/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/andriesro/">Maria Andries</a> <img alt="" src="/templates/default/img/v2/ranking-gsp-dark.png"></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://blogsport.gsp.ro/andries/2015/04/07/ce-mai-tropaie-petrache/
+		" target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131639/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://blogsport.gsp.ro/andries/2015/04/07/ce-mai-tropaie-petrache/
+		" target="_blank">Ce mai tropăie Petrache!
+		</a></h2>
+			<p class="post-text">Ce ţi-e şi cu funcţiile astea! Judecînd după agenda lui Alin Petrache, olimpismul românesc n-are nevoie de un lider, ci de un purtător de costum, care să facă treaba plictisitoare. Să meargă la recepţii, să dea mîna cu unii şi [...]
+				</p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 13:34
+			• <span id="wy-like-button-101x131639" class="wy-like-button-101x131639">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131639', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131639');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131639', 500616)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131639" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131639');"><span id="wy-like-counter-101x131639">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131639">
+
+		
+		<div id="wy-comments-101x131639">
+				</div>
+
+		<div id="wy-comments-form-101x131639" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131639" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131639')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131639" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131639', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500606">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207903988#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131637/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207903988#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Mercedes-Benz CLA 180 URBAN*PANORAMA-SCHIEBEDACH*BI-XENON*NAVI - 28.599 EUR
+        </a></h2>
+			<p class="post-text">Trapă decapotabilă,Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Manual de service,Faruri cu xenon,Senzori de parcare,Scaune încălzite electric,Compatibil E10,ITP nou,Garanţie,Senzor de ploaie automat,Plafon panoramic din sticlă,Oglindă laterală electrică,Suspensie sport,Bluetooth,Computer de bord,CD player,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Senzor de lumini,Sistem de control al tracţiunii,Vehicul pentru nefumători,Sistem de pornire/oprire automată
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 12:53
+			• <span id="wy-like-button-101x131637" class="wy-like-button-101x131637">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131637', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131637');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131637', 500606)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131637" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131637');"><span id="wy-like-counter-101x131637">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131637">
+
+		
+		<div id="wy-comments-101x131637">
+				</div>
+
+		<div id="wy-comments-form-101x131637" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131637" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131637')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131637" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131637', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500605">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207903906#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131636/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207903906#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">BMW 120d Sport Line/ M-Performance Leistungs-Kit - 18.600 EUR
+        </a></h2>
+			<p class="post-text">Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Regulator de viteză,Faruri cu xenon,Senzori de parcare,Scaune încălzite electric,Filtru de particule,Garanţie,Senzor de ploaie automat,Scaune sport,Oglindă laterală electrică,Computer de bord,CD player,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Sistem de iluminare adaptor,Senzor de lumini,Faruri de ceaţă,Lumini diurne,Sistem de control al tracţiunii,Sistem de pornire/oprire automată
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 12:51
+			• <span id="wy-like-button-101x131636" class="wy-like-button-101x131636">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131636', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131636');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131636', 500605)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131636" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131636');"><span id="wy-like-counter-101x131636">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131636">
+
+		
+		<div id="wy-comments-101x131636">
+				</div>
+
+		<div id="wy-comments-form-101x131636" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131636" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131636')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131636" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131636', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500607">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D185164841#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131638/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D185164841#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Volkswagen T5 Multivan "PanAmericana" DSG 4-motion - 47.950 EUR
+        </a></h2>
+			<p class="post-text">Tracţiune 4x4,Scaune de piele,Cuplaj pentru remorcă,Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Manual de service,Regulator de viteză,Sistem de încălzire auxiliar,Senzori de parcare,Scaune încălzite electric,Filtru de particule,ITP nou,Garanţie,Senzor de ploaie automat,Oglindă laterală electrică,Bluetooth,Computer de bord,CD player,Set pentru mâini libere,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Sistem de iluminare adaptor,Senzor de lumini,Faruri de ceaţă,Lumini diurne,Sistem de control al tracţiunii,Vehicul pentru nefumători
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 12:50
+			• <span id="wy-like-button-101x131638" class="wy-like-button-101x131638">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131638', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131638');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131638', 500607)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131638" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131638');"><span id="wy-like-counter-101x131638">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131638">
+
+		
+		<div id="wy-comments-101x131638">
+				</div>
+
+		<div id="wy-comments-form-101x131638" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131638" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131638')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131638" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131638', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500604">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/toloro/"><img width="60" height="60" alt="" src="/uploads/modules/elements/212/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/toloro/">Catalin Tolontan</a> <img alt="" src="/templates/default/img/v2/ranking-gsp-dark.png"></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://www.tolo.ro/2015/04/07/copos-merit-sa-fiu-liber-sint-printre-putinii-care-au-achitat-prejudiciul/
+		" target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131635/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://www.tolo.ro/2015/04/07/copos-merit-sa-fiu-liber-sint-printre-putinii-care-au-achitat-prejudiciul/
+		" target="_blank">Copos: „Merit să fiu liber, sînt printre puținii care au achitat prejudiciul!”
+		</a></h2>
+			<p class="post-text"><p>de Mirela Neag și Cătălin Tolontan</p> <p>Ziua libertății sau a amînării pentru fostul patron rapidist.</p> <p>În fața instanței, avocatul Ion Cazacu a recunoscut că ”sînt prieten cu George Copos și pun pasiune în pledoaria mea. Nu e normal ca judecătorul de [...]
+		</p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 12:46
+			• <span id="wy-like-button-101x131635" class="wy-like-button-101x131635">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131635', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131635');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131635', 500604)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131635" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131635');"><span id="wy-like-counter-101x131635">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131635">
+
+		
+		<div id="wy-comments-101x131635">
+				</div>
+
+		<div id="wy-comments-form-101x131635" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131635" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131635')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131635" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131635', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500603">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207901366#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131634/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207901366#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">BMW 520d Aut. F10 N.Mod. Leder Navi Xenon PDC Blueto - 24.999 EUR
+        </a></h2>
+			<p class="post-text">Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Manual de service,Regulator de viteză,Faruri cu xenon,Senzori de parcare,Scaune încălzite electric,Filtru de particule,Senzor de ploaie automat,Oglindă laterală electrică,Bluetooth,Computer de bord,CD player,Set pentru mâini libere,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Senzor de lumini,Faruri de ceaţă,Sistem de control al tracţiunii
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 11:50
+			• <span id="wy-like-button-101x131634" class="wy-like-button-101x131634">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131634', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131634');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131634', 500603)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131634" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131634');"><span id="wy-like-counter-101x131634">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131634">
+
+		
+		<div id="wy-comments-101x131634">
+				</div>
+
+		<div id="wy-comments-form-101x131634" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131634" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131634')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131634" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131634', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500602">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D206565426#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131633/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D206565426#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Renault Clio Grandtour Dynamique - 5.990 EUR
+        </a></h2>
+			<p class="post-text">Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Manual de service,Senzori de parcare,ITP nou,Computer de bord,Isofix (puncte de prindere a scaunului pentru copii),Faruri de ceaţă,Şine portbagaj plafon
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 11:50
+			• <span id="wy-like-button-101x131633" class="wy-like-button-101x131633">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131633', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131633');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131633', 500602)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131633" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131633');"><span id="wy-like-counter-101x131633">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131633">
+
+		
+		<div id="wy-comments-101x131633">
+				</div>
+
+		<div id="wy-comments-form-101x131633" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131633" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131633')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131633" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131633', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+
+<div id="wy-wallentry-500598">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/dankoss/"><img width="60" height="60" alt="" src="/uploads/modules/users/28560/60x60_76c0e.jpg"></a></div>
+	<div class="post-content farapoza">
+		<p class="post-header">
+											<span class="nume"><a href="/dankoss/">Statistici Fotbal</a></span> 	<img alt="" src="/templates/default/img/v2/ranking.png">
+					</p>
+		<div class="desp-10"></div>
+				<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="/dankoss/note/de-pe-scaunul-furat-al-unui-caine-17281.html">De pe scaunul furat al unui caine</a></h2>
+			<p class="post-text">Cand nu avem fotbal, ne amintim de articole vechi ;)</p>
+		</div>
+	</div>
+	<div class="post-echipa"><img alt="" src="/uploads/modules/elements/194/image.png" width="28px"></div>
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 09:54
+			• <span id="wy-like-button-106x17281" class="wy-like-button-106x17281">
+<a href="javascript:void(0);" onclick="xajax_wy_like('106x17281', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('106x17281');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('106x17281', 500598)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-106x17281" style="">Sunt <a href="javascript:void();" onclick="wy_show_likes('106x17281');"><span id="wy-like-counter-106x17281">1</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-106x17281">
+
+		
+		<div id="wy-comments-106x17281">
+								
+
+
+
+
+<div id="wy-comment-149940" class="comment-item" style="position:relative;">
+
+	<div class="comment-avatar"><img title="" alt="" src="/uploads/modules/users/18527/30x30_721a4.jpg" width="30px" height="30px"></div>
+	<div class="comment-text">
+		<a class="numele" href="/redbluearmy/" class="">redbluearmy 	<img style="margin-bottom:-2px" alt="" src="/templates/default/img/v2/ranking.png"><img style="margin-bottom:-2px" alt="" src="/templates/default/img/v2/ranking.png"><img style="margin-bottom:-2px" alt="" src="/templates/default/img/v2/ranking.png"><img style="margin-bottom:-2px" alt="" src="/templates/default/img/v2/ranking.png"><img style="margin-bottom:-2px" alt="" src="/templates/default/img/v2/ranking.png">
+</a>
+		ne traim propriile visuri, fie ele, cateodata, poate paradoxal, suma amintirilor pe care le suprapunem prezentului.
+		<p class="post-details comm">
+			7 Aprilie 2015, 11:50
+			&bull; <span id="wy-like-button-107x149940" class="wy-like-button-107x149940">
+<a href="javascript:void(0);" onclick="xajax_wy_like('107x149940', 1)">Imi place</a></span>			<span id="wy-like-counter-container-107x149940" style="display:none;"> (<a href="javascript:void();" onclick="wy_show_likes('107x149940');"><span id="wy-like-counter-107x149940">0</span> persoane</a>)</span>
+		</p>
+	</div>
+	</div>
+
+
+
+				</div>
+
+		<div id="wy-comments-form-106x17281" class="commenteaza-intern">
+	<textarea id="wy-comment-field-106x17281" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('106x17281')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-106x17281" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('106x17281', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500601">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D201432795#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131632/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D201432795#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Opel Astra J 1.4 Energy 5-Trg. AUTOM. +BiXen/WintPak. - 15.790 EUR
+        </a></h2>
+			<p class="post-text">Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Regulator de viteză,Faruri cu xenon,Senzori de parcare,Scaune încălzite electric,Garanţie,Senzor de ploaie automat,Oglindă laterală electrică,Bluetooth,Computer de bord,CD player,Set pentru mâini libere,Interfaţă MP3,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Sistem de iluminare adaptor,Senzor de lumini,Faruri de ceaţă,Lumini diurne,Sistem de control al tracţiunii,Vehicul pentru nefumători
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 09:52
+			• <span id="wy-like-button-101x131632" class="wy-like-button-101x131632">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131632', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131632');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131632', 500601)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131632" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131632');"><span id="wy-like-counter-101x131632">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131632">
+
+		
+		<div id="wy-comments-101x131632">
+				</div>
+
+		<div id="wy-comments-form-101x131632" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131632" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131632')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131632" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131632', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500599">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D201432796#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131630/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D201432796#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Opel Astra J 1.4 Energy 5-Trg. AUTOM. +BiXen./Klimaau - 15.500 EUR
+        </a></h2>
+			<p class="post-text">Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Regulator de viteză,Faruri cu xenon,Senzori de parcare,Scaune încălzite electric,ITP nou,Garanţie,Senzor de ploaie automat,Oglindă laterală electrică,Bluetooth,Computer de bord,CD player,Set pentru mâini libere,Interfaţă MP3,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Sistem de iluminare adaptor,Senzor de lumini,Faruri de ceaţă,Lumini diurne,Sistem de control al tracţiunii,Vehicul pentru nefumători
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 09:50
+			• <span id="wy-like-button-101x131630" class="wy-like-button-101x131630">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131630', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131630');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131630', 500599)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131630" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131630');"><span id="wy-like-counter-101x131630">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131630">
+
+		
+		<div id="wy-comments-101x131630">
+				</div>
+
+		<div id="wy-comments-form-101x131630" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131630" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131630')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131630" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131630', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500600">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207154670#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131631/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207154670#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Audi A5 Cabriolet 3.0 TDI quattro S-Line, 19 Zoll,top - 31.950 EUR
+        </a></h2>
+			<p class="post-text">Tracţiune 4x4,Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Manual de service,Regulator de viteză,Faruri cu xenon,Senzori de parcare,Filtru de particule,ITP nou,Garanţie,Senzor de ploaie automat,Oglindă laterală electrică,Suspensie sport,Pachet sport,Bluetooth,Computer de bord,Reglare electrică a scaunelor,Interfaţă MP3,Volan multifuncţional,Isofix (puncte de prindere a scaunului pentru copii),Senzor de lumini,Faruri de ceaţă,Lumini diurne,Sistem de control al tracţiunii,Vehicul pentru nefumători,Sistem de pornire/oprire automată
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 09:49
+			• <span id="wy-like-button-101x131631" class="wy-like-button-101x131631">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131631', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131631');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131631', 500600)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131631" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131631');"><span id="wy-like-counter-101x131631">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131631">
+
+		
+		<div id="wy-comments-101x131631">
+				</div>
+
+		<div id="wy-comments-form-101x131631" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131631" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131631')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131631" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131631', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500597">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207896257#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131629/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207896257#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Skoda Rapid Spaceback 1.2 TSI Ambition Plus Klimaaut.  - 14.900 EUR
+        </a></h2>
+			<p class="post-text">Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Regulator de viteză,Senzori de parcare,Scaune încălzite electric,ITP nou,Garanţie,Computer de bord,CD player,Interfaţă MP3,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Faruri de ceaţă,Lumini diurne,Sistem de control al tracţiunii
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 08:26
+			• <span id="wy-like-button-101x131629" class="wy-like-button-101x131629">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131629', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131629');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131629', 500597)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131629" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131629');"><span id="wy-like-counter-101x131629">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131629">
+
+		
+		<div id="wy-comments-101x131629">
+				</div>
+
+		<div id="wy-comments-form-101x131629" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131629" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131629')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131629" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131629', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500595">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207895895#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131627/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207895895#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Mercedes-Benz ML 250 BT 4M Standhzg. 7G Sport-P SHZ akt. Park - 41.998 EUR
+        </a></h2>
+			<p class="post-text">Tracţiune 4x4,Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Manual de service,Regulator de viteză,Senzori de parcare,Scaune încălzite electric,Filtru de particule,ITP nou,Garanţie,Senzor de ploaie automat,Scaune sport,Oglindă laterală electrică,Pachet sport,Bluetooth,Computer de bord,CD player,Reglare electrică a scaunelor,Set pentru mâini libere,Interfaţă MP3,Volan multifuncţional,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Senzor de lumini,Lumini diurne,Sistem de control al tracţiunii,Vehicul pentru nefumători,Sistem de pornire/oprire automată
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 06:45
+			• <span id="wy-like-button-101x131627" class="wy-like-button-101x131627">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131627', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131627');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131627', 500595)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131627" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131627');"><span id="wy-like-counter-101x131627">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131627">
+
+		
+		<div id="wy-comments-101x131627">
+				</div>
+
+		<div id="wy-comments-form-101x131627" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131627" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131627')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131627" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131627', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500594">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207895853#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131626/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207895853#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Mercedes-Benz S 400 HYBRID Limousine Lang - 109.064 EUR
+        </a></h2>
+			<p class="post-text">Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Sistem de navigare,Regulator de viteză,Faruri cu xenon,Senzori de parcare,Scaune încălzite electric,ITP nou,Garanţie,Senzor de ploaie automat,Plafon panoramic din sticlă,Oglindă laterală electrică,Bluetooth,Computer de bord,CD player,Reglare electrică a scaunelor,Set pentru mâini libere,Interfaţă MP3,Tuner/radio,Isofix (puncte de prindere a scaunului pentru copii),Sistem de iluminare adaptor,Senzor de lumini,Faruri de ceaţă,Lumini diurne,Sistem de pornire/oprire automată
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 06:30
+			• <span id="wy-like-button-101x131626" class="wy-like-button-101x131626">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131626', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131626');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131626', 500594)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131626" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131626');"><span id="wy-like-counter-101x131626">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131626">
+
+		
+		<div id="wy-comments-101x131626">
+				</div>
+
+		<div id="wy-comments-form-101x131626" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131626" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131626')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131626" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131626', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+
+
+
+											
+
+
+<div id="wy-wallentry-500596">
+
+						
+<div class="wall-post intern">
+	<div class="post-avatar"><a href="/mobilero/"><img width="60" height="60" alt="" src="/uploads/modules/elements/297/image_logo.png"></a></div>
+	<div class="post-content">
+		<p class="post-header">
+							<span class="nume"><a href="/mobilero/">Anunţuri AUTO</a></span>
+					</p>
+				<div class="desp-10"></div>
+		<div style="border:none" class="post-poza-articol"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207895843#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank"><img width="160" alt="" src="/uploads/modules/sharing/131628/160x0_0.jpg"></a></div>		<div class="post-text-articol">
+			<h2 class="titlu-intern"><a href="http://adfarm.mediaplex.com/ad/ck/11425-70603-35220-11?mpro=http%3A%2F%2Fcautare.mobile.ro%2Fvehicule%2Fdetails.html%3Fid%3D207895843#utm_source=http%3A%2F%2Fmysport.gsp.ro%2F&utm_medium=Banner&utm_campaign=Personalised%2Bads%2Bon%2BMySport
+        " target="_blank">Ford F 150 Lariat SuperCrew 4X4 5.0l 2015 6-Seater - 67.017 EUR
+        </a></h2>
+			<p class="post-text">Tracţiune 4x4,Trapă decapotabilă,Cuplaj pentru remorcă,Jante de aliaj,Închidere centralizată,Geamuri electrice,Dispozitiv antidemaraj electric,Servodirecţie,ABS,ESP,Manual de service,Regulator de viteză,Senzori de parcare,Scaune încălzite electric,ITP nou,Garanţie,Senzor de ploaie automat,Plafon panoramic din sticlă,Oglindă laterală electrică,Bluetooth,Computer de bord,CD player,Reglare electrică a scaunelor,Set pentru mâini libere,Interfaţă MP3,Isofix (puncte de prindere a scaunului pentru copii),Senzor de lumini,Faruri de ceaţă,Lumini diurne,Sistem de control al tracţiunii,Vehicul pentru nefumători
+        </p>
+		</div>
+	</div>
+	
+	<div class="details-intern">
+		<p class="post-details">
+			7 Aprilie 2015, 06:30
+			• <span id="wy-like-button-101x131628" class="wy-like-button-101x131628">
+<a href="javascript:void(0);" onclick="xajax_wy_like('101x131628', 1)">Imi place</a></span>			• <a href="javascript:void(0)" onclick="wy_comment_show_field('101x131628');">Comenteaza</a>			• <a href="javascript:void(0)" onclick="wy_fshare('101x131628', 500596)">Distribuie</a>
+		</p>
+	</div>
+	<div class="placuri" id="wy-like-counter-container-101x131628" style="display:none;">Sunt <a href="javascript:void();" onclick="wy_show_likes('101x131628');"><span id="wy-like-counter-101x131628">0</span> persoane</a> carora le place.</div>
+		
+
+
+
+			<div id="wy-comments-container-101x131628">
+
+		
+		<div id="wy-comments-101x131628">
+				</div>
+
+		<div id="wy-comments-form-101x131628" class="commenteaza-intern">
+	<textarea id="wy-comment-field-101x131628" style="height: 20px; overflow: hidden; padding-top: 0px; padding-bottom: 0px;" name="textarea1" rows="4" cols="40" class="addcomm" spellcheck="false" onfocus="wy_comment_field_focus('101x131628')">Adauga comentariu...</textarea>
+
+	<div style="height: 1px; clear: both;"><!-- --></div>
+	<div id="wy-comment-btn-101x131628" class="submitstatus" style="display:none;">
+		<div class="btn-go" id="" style="margin-top:2px;"><p><a href="javascript:void(0)" onclick="wy_comment_send('101x131628', 0, 0);">Trimite</a></p></div>
+	</div>
+
+</div>	</div>
+
+</div>
+</div>
+			<div id="wall-more"></div>
+		</div>
+	</div>
+
+	<div id="wy-wall-more" class="older dsansb" onclick="wy_wall_get_more('flux', '0', wy_wall_offset_id )"><p>Postări mai vechi <span>▾</span></p></div>
+
+</div>	</div>
+
+	<div class="right-col">
+		<div class="profil-dreapta">
+			
+		
+		
+		<div class="indrumar">
+			<div class="indrumar-thumb">
+				<img alt="" src="/templates/default/img/mysport/joben.png">
+			</div>
+			<div class="indrumar-text">
+				<h2>Personalizeaza</h2>
+				<p>Iti oferim pe pagina ta doar stirile care te intereseaza din GSP</p>
+			</div>
+		</div>
+		<div class="desp-20"><!-- --></div>
+
+		<div class="indrumar">
+			<div class="indrumar-thumb">
+				<img alt="" src="/templates/default/img/mysport/notes.png">
+			</div>
+			<div class="indrumar-text">
+				<h2>Contribuie</h2>
+				<p>Adauga articole, imagini, video, noutati si impartaseste-le cu prietenii tai</p>
+			</div>
+		</div>
+		<div class="desp-20"><!-- --></div>
+
+		<div class="indrumar">
+			<div class="indrumar-thumb">
+				<img alt="" src="/templates/default/img/mysport/priza.png">
+			</div>
+			<div class="indrumar-text">
+				<h2>Conecteaza-te</h2>
+				<p>Fa-ti propria retea de prieteni cu care sa comunici prin sport. Viziteaza profilul lor si pasiunea comuna va forma comunitatea voastra</p>
+			</div>
+		</div>
+		<div class="desp-20"><!-- --></div>
+
+		<div class="indrumar">
+			<div class="indrumar-thumb">
+				<img alt="" src="/templates/default/img/mysport/trompetica.png">
+			</div>
+			<div class="indrumar-text">
+				<h2>Fa-te auzit</h2>
+				<p>Exprima-ti opiniile prin intermediul MySport, iar daca esti bun poti fi citit de peste 250.000 vizitatori, zilnic, pe GSP.ro sau in Gazeta Sporturilor.</p>
+			</div>
+		</div>
+
+		<div class="desp-20"><!-- --></div>
+		<div class="c2-div"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8288277453017289";
+/* mysport.gsp.ro - 300x250 */
+google_ad_slot = "4360231133";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+
+		</div>
+	</div>
+
+</div>								<br>
+				<br>
+			</div>
+		</div>
+	</div>
+
+	<div class="mysport-footer">
+		<div class="minner">
+		<a href="/"><img src="/templates/default/img/v2/logogri-1.png" alt="" /></a>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="/site/267/termeni-si-conditii-de-utilizare.html" target="_self" class="">Termeni si conditii</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/site/266/indrumari-in-comunitatea-mysportro.html" target="_self" class="">Indrumar</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				</div>
+	</div>
+	<div id="main_footer">
+	<div class="centered_cnt">
+    	<div class="desp_m"></div>
+        <div class="desp_m"></div>
+    	<div class="foot_cnt">
+        	<div class="foot_up">
+                <span class="supra_1 size_12 sans_bold">TELEVIZIUNE</span>
+                <div class="desp_xs"></div>
+                <a class="foot_txt sans" href="http://www.a1.ro/" target="_blank">Antena1</a>
+                <br>
+                <a class="foot_txt sans" href="http://www.antena2.tv/" target="_blank">Antena2</a>
+                <br>
+                <a class="foot_txt sans" href="http://www.antena3.ro/" target="_blank">Antena3</a>
+                <br>
+                <a class="foot_txt sans" href="http://antenai.ro/" target="_blank">Antena International</a>
+                <br>
+                <a class="foot_txt sans" href="http://www.euforia.tv/" target="_blank">Euforia TV</a>
+                <br>
+                <a class="foot_txt sans" href="http://gsptv.gsp.ro/" target="_blank">GSP TV</a>
+                <div class="desp_xl"></div>
+                <div class="desp_xxs"></div>
+                <span class="supra_1 size_12 sans_bold">INTERNET</span>
+            </div>
+            <span class="supra_title size_12 sans_bold">NEWS</span>
+            <div class="desp_xs"></div>
+            <a class="foot_txt sans" href="http://www.antena3.ro/" target="_blank">antena3.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://www.jurnalul.ro/" target="_blank">jurnalul.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://videonews.antena3.ro/" target="_blank">videonews.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://www.intactnews.ro/" target="_blank">intactnews.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://www.totulredus.ro/" target="_blank">totulredus.ro</a>
+
+        </div>
+
+        <div class="foot_cnt">
+        	<div class="foot_up">
+                <span class="supra_1 size_12 sans_bold">ZIARE</span>
+                <div class="desp_xs"></div>
+                <a class="foot_txt sans" href="http://www.sfin.ro/" target="_blank">Saptamana Finaciara</a>
+                <br>
+                <a class="foot_txt sans" href="http://www.jurnalul.ro/" target="_blank">Jurnalul National</a>
+                <br>
+                <a class="foot_txt sans" href="http://www.gsp.ro/" target="_blank">Gazeta Sporturilor</a>
+            </div>
+            <span class="supra_title size_12 sans_bold">ENTERTAINMENT</span>
+            <div class="desp_xs"></div>
+            <a class="foot_txt sans" href="http://www.a1.ro/" target="_blank">antena1.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://www.antena2.tv/" target="_blank">antena2.tv</a>
+            <br>
+            <a class="foot_txt sans" href="http://antenai.ro/" target="_blank">antenai.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://www.vdtonline.ro/" target="_blank">vdtonline.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://myconfidential.ro/" target="_blank">myconfidential.ro</a>
+            <br>
+        </div>
+
+        <div class="foot_cnt">
+        	<div class="foot_up">
+        <span class="supra_1 size_12 sans_bold">REVISTE</span>
+                <div class="desp_xs"></div>
+                <a class="foot_txt sans" href="http://www.topgear.ro/" target="_blank">TopGear</a>
+                <br>
+                <a class="foot_txt sans" href="http://felicia.a1.ro/" target="_blank">Felicia</a>
+                <br>
+                <a class="foot_txt sans" href="http://myconfidential.ro/" target="_blank">Confidential</a>
+                <br>
+                <a class="foot_txt sans" href="http://www.goodfood.ro/" target="_blank">GoodFood</a>
+                <br>
+                <a class="foot_txt sans" href="http://www.goodhomes.ro/" target="_blank">GoodHomes</a>
+			</div>
+            <span class="supra_title size_12 sans_bold">FINANCE</span>
+            <div class="desp_xs"></div>
+            <a class="foot_txt sans" href="http://www.incomemagazine.ro/" target="_blank">incomemagazine.ro</a>
+            <br>
+            <div class="desp_xs"></div>
+            <span class="supra_title size_12 sans_bold">AUTO</span>
+            <div class="desp_xs"></div>
+            <a class="foot_txt sans" href="http://www.topgear.ro/" target="_blank">topgear.ro</a>
+            <br>
+
+        </div>
+        <div class="foot_cnt">
+        	<div class="foot_up">
+                <span class="supra_1 size_12 sans_bold">RADIO</span>
+                <div class="desp_xs"></div>
+                <a class="foot_txt sans" href="http://www.radiozu.ro/" target="_blank">RadioZU</a>
+                <br>
+                <a class="foot_txt sans" href="http://www.romanticfm.ro/" target="_blank">Romantic FM</a>
+                <br>
+                <div class="desp_m"></div>
+                <span class="supra_1 size_12 sans_bold">CSR</span><br>
+                <div class="desp_xs"></div>
+                <a class="foot_txt sans" href="http://www.fundatiadanvoiculescu.ro/" target="_blank">FUDV</a>
+                <br>
+                <a class="foot_txt sans" href="http://fundatiamereuaproape.ro/" target="_blank">Fundatia Mereu Aproape</a>
+			</div>
+            <span class="supra_title size_12 sans_bold">WOMEN</span>
+            <div class="desp_xs"></div>
+            <a class="foot_txt sans" href="http://www.euforia.tv/" target="_blank">euforia.tv</a>
+            <br>
+            <a class="foot_txt sans" href="http://felicia.a1.ro/" target="_blank">revistafelicia.ro</a>
+            <br>
+        </div>
+        <div class="foot_cnt">
+        	<div class="foot_up">
+                <span class="supra_1 size_12 sans_bold">BUSINESS</span>
+                    <div class="desp_xs"></div>
+                    <a class="foot_txt sans" href="http://www.tipografiaintact.ro/" target="_blank">Tipografia INTACT</a>
+                    <br>
+                    <a class="foot_txt sans" href="http://www.intactproduction.ro/" target="_blank">INTACT Production</a>
+                    <br>
+                    <a class="foot_txt sans" href="http://www.clirmedia.ro/ro/" target="_blank">Clir Media</a>
+                    <br>
+                    <a class="foot_txt sans" href="http://www.omn.ro/" target="_blank">Open Media Network</a>
+                    <br>
+                    <a class="foot_txt sans" href="http://www.intactmediagroup.ro/intactadvertising.html" target="_blank">INTACT Advertising</a>
+                    <br>
+                    <a class="foot_txt sans" href="http://intactinteractive.ro/" target="_blank">INTACT Interactive</a>
+            </div>
+            <span class="supra_title size_12 sans_bold">SPORT</span><br>
+            <div class="desp_xs"></div>
+            <a class="foot_txt sans" href="http://www.gsp.ro/" target="_blank">gsp.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://gsptv.gsp.ro/" target="_blank">gsptv.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://www.mysport.ro/" target="_blank">mysport.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://www.pariori.ro/" target="_blank">pariori.ro</a>
+            <br>
+        </div>
+
+        <div class="foot_cnt">
+        	<div class="foot_up">
+                <span class="supra_1 size_12 sans_bold">CARIERE</span>
+                    <div class="desp_xs"></div>
+                    <a class="foot_txt sans" href="http://intactmediagroup.mojob.ro/" target="_blank">Oportunitati in cadrul INTACT</a>
+             </div>
+             <span class="supra_title size_12 sans_bold">MOBILE</span><br>
+            <div class="desp_xs"></div>
+            <a class="foot_txt sans" href="http://www.a1.ro/" target="_blank">m.a1.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://m.antena3.ro/" target="_blank">m.antena3.ro</a>
+            <br>
+            <a class="foot_txt sans" href="http://m.gsp.ro/" target="_blank">m.gsp.ro</a>
+            <br>
+        </div>
+
+       <div class="desp_l"></div>
+       <div class="sans_bold foot_txt">&copy; Acest site este parte a INTACT MEDIA GROUP</div>
+
+       <div class="clear"></div>
+<!--footer parteneri -->
+        <div class="desp_m"></div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9339321-1']);
+  _gaq.push(['_setDomainName', '.gsp.ro']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+	<div id="wy-popup" class="sharepopup" style="display:none;"></div>
+
+	
+
+	<script type="text/javascript" src="http://tv.gsp.ro/js/popup.js"></script>
+	<script type="text/javascript">
+	function myNewPopup(popupHref, popupWidth, popupHeight, props,popupblockmsg) {
+
+
+    if (!popupWidth)
+        popupWidth=900;
+    if (!popupHeight)
+        popupHeight=660;
+
+    popupStatus="no";
+    popupResizable="no";
+    popupScroll="no";
+    popupLocation="no";
+    popupMenubar="no";
+    popupModal="no";
+
+    if (props) {
+        // popup status
+        if (props.status) popupStatus='yes';
+        // resizable window
+        if (props.resizable) popupResizable='yes';
+        // scrollbar
+        if (props.scrollbars) popupScroll='yes';
+        // location
+        if (props.location) popupLocation='yes';
+        // menubar
+        if (props.menuBar) popupMenubar='yes';
+        // modal window
+        if (props.modal) popupModal='yes';
+    }
+
+    // position window
+    popupLeft=Math.abs(screen.width-popupWidth)/2;
+    popupTop=Math.abs(screen.height-popupHeight)/2;
+
+
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
+    // SET REAL WINDOW PROPERTIES ////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    // handle properties
+    popupProps="width=" + popupWidth + ", height=" + popupHeight;
+    popupProps+=", status="+popupStatus+", resizable="+popupResizable+", scrollbars="+popupScroll+", location="+popupLocation+", menubar="+popupMenubar;
+    popupProps+=", top="+popupTop+", left="+popupLeft;
+    popupProps+=", modal="+popupModal;
+
+    // handle window name
+    if (!props.name) {
+        thisPopupUniqueId=Math.random().toString();
+        thisPos=thisPopupUniqueId.indexOf(".");
+        randomNumber=thisPopupUniqueId.substr(thisPos+1);
+
+        windowName="newPopupWindow_"+randomNumber;
+    }
+    else
+        windowName=props.name;
+
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
+    // CREATE NEW WINDOW (MODAL - if the case) ///////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
+    if (window.showModalDialog && popupModal=='yes') {
+        thisPopup=window.showModalDialog(popupHref, windowName, "dialogWidth:"+popupWidth+"px; dialogHeight:"+popupHeight+"px");
+
+        if (thisPopup==null || typeof(thisPopup)=="undefined") {
+            alert(popupblockmsg)
+        }
+    }
+    else {
+        thisPopup=window.open(popupHref, windowName, popupProps);
+        if (thisPopup==null || typeof(thisPopup)=="undefined") {
+            alert(popupblockmsg)
+        }else{
+            thisPopup.focus();
+
+            if (!thisPopup.opener)
+            thisPopup.opener = self;
+        }
+    }
+
+    return thisPopup;
+
+}
+function radiogspPopup() {
+	myNewPopup('http://radio.gsp.ro/live',960,550,{
+	            name:'radiogsplive',
+	            scrollbars:false
+	        },'Pentru a putea viziona RadioGSP Live va rugam sa dezactivati popup-up blocker-ul.'
+	    )
+}
+</script>
+
+	<div id="left_sigle" class="left_sigle">
+		<a class="left_sigla left_sigla3" target="_blank" href="#" onclick="radiogspPopup();return false;" title="Radio GSP"></a>
+		<div class="desp_m"></div>
+		<a class="left_sigla left_sigla1	" target="_blank" href="#" onclick="gsptvPopup();return false;" title="Urmareste live GSPTV"></a>
+	</div>
+
+
+<script type="text/javascript">  (function() {
+	var scr = document.createElement('script');
+	scr.type = 'text/javascript'; scr.async = true;
+	scr.src = '/js/spring.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(scr, s);
+	})();
+</script>
+</body>
+</html>

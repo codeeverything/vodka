@@ -1,0 +1,7 @@
+1427891891
+https://buckid.osu.edu
+https://buckid.osu.edu/robots.txt
+# Allows all robots
+
+User-agent: *
+Disallow:

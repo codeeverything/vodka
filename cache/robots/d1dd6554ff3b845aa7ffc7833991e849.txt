@@ -1,0 +1,18 @@
+1428421173
+http://www.rambler.ru
+http://www.rambler.ru/robots.txt
+1428416915
+http://www.rambler.ru
+http://www.rambler.ru/robots.txt
+1428242620
+http://www.rambler.ru
+http://www.rambler.ru/robots.txt
+User-agent: *
+Disallow: /photo/
+Disallow: /pobeda/
+Disallow: /db/
+Disallow: /news/
+Disallow: /cgi-bin/
+Disallow: /srch
+Disallow: /lite
+Disallow: /*?

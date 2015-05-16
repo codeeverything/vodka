@@ -1,0 +1,6 @@
+1428244649
+http://ipod-car-charger-review.toptenreviews.com
+http://ipod-car-charger-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

@@ -1,0 +1,6 @@
+1428244862
+http://front-load-washer-review.toptenreviews.com
+http://front-load-washer-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

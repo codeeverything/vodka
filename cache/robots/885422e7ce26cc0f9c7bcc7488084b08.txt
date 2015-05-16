@@ -1,0 +1,6 @@
+1428244576
+http://smoke-detectors-review.toptenreviews.com
+http://smoke-detectors-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

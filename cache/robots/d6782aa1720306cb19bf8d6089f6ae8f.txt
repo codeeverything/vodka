@@ -1,0 +1,45 @@
+1428419377
+http://www.newarkadvertiser.co.uk
+http://www.newarkadvertiser.co.uk/robots.txt
+﻿##ACAP version=1.0
+
+#Robots.txt File
+#Version: 0.8
+#Last updated: 04/01/2010
+
+
+#Agent Specific Disallowed Sections
+User-agent: NewsNow
+Disallow: /
+
+User-agent: WebVac
+Disallow: /
+
+User-agent: WebZip
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive_crawler
+Disallow: /
+
+User-Agent: endeca
+Disallow: /archive/
+
+User-agent: Meltwater
+Disallow: /
+Disallow: /search
+
+ACAP-crawler: *
+
+ACAP-crawler: NewsNow
+ACAP-crawler: omgilibot/0.3
+ACAP-crawler: WebVac
+ACAP-crawler: WebZip
+ACAP-crawler: psbot
+ACAP-crawler: ia_archiver
+ACAP-disallow-crawl: /

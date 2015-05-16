@@ -1,0 +1,5 @@
+1428234837
+http://www.aamcal.com
+http://www.aamcal.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/

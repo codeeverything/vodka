@@ -1,0 +1,69 @@
+1428419618
+http://polska.newsweek.pl/10-rocznica-smierci-papieza-jan-pawel-ii-kanonizacja,artykuly,283911,1.html
+http://polska.newsweek.pl/robots.txt
+1428419611
+http://polska.newsweek.pl/najgorsze-pomniki-papieza-smieszne-pomniki,galeria,284676,1.html
+http://polska.newsweek.pl/robots.txt
+1428419573
+http://polska.newsweek.pl/rzad-ewy-kopacz-dlaczego-premier-prosi-o-rzeczy-nierealne-,artykuly,360476,1.html
+http://polska.newsweek.pl/robots.txt
+1428419567
+http://polska.newsweek.pl/jacek-sasin-i-ryszard-kalisz-na-zamknietych-imprezach-skok-u-wolomin,artykuly,359995,1.html
+http://polska.newsweek.pl/robots.txt
+1428419562
+http://polska.newsweek.pl/katastrofa-smolenska-nowy-zapis-rozmow-z-tupolewa,artykuly,360559,1.html
+http://polska.newsweek.pl/robots.txt
+1428419557
+http://polska.newsweek.pl/europosel-po-dariusz-rosati-zarobil-w-skok-u-wolomin,artykuly,360553,1.html
+http://polska.newsweek.pl/robots.txt
+1428419543
+http://polska.newsweek.pl/czy-szesciolatki-nie-sa-gotowe-do-podjecia-edukacji-problem-tkwi-w-ich-rodzicach,artykuly,360565,1.html
+http://polska.newsweek.pl/robots.txt
+1428419543
+http://polska.newsweek.pl/robert-leszczynski-na-co-zmarl-leszczynski,artykuly,360236,1.html
+http://polska.newsweek.pl/robots.txt
+1428419509
+http://polska.newsweek.pl/jak-budowano-metro-warszawskie,galeria,360571,1.html
+http://polska.newsweek.pl/robots.txt
+1428419473
+http://polska.newsweek.pl/katastrofa-smolenska-smolensk-michal-kaminski-dla-newsweeka,artykuly,360538,1.html
+http://polska.newsweek.pl/robots.txt
+1428419462
+http://polska.newsweek.pl/ile-wynosi-nowe-becikowe-dla-kazdej-matki-zasilek,artykuly,360568,1.html
+http://polska.newsweek.pl/robots.txt
+1428419457
+http://polska.newsweek.pl/jak-zostac-pilotem-wymagania-dla-przyszlych-pilotow-,film,360533.html
+http://polska.newsweek.pl/robots.txt
+1428419454
+http://polska.newsweek.pl/bedzie-wiecej-fotoradarow-przy-polskich-drogach,artykuly,360554,1.html
+http://polska.newsweek.pl/robots.txt
+1428419444
+http://polska.newsweek.pl/wstawki-sawki-co-laczy-gierka-z-ogorek-wideo-,film,360463.html
+http://polska.newsweek.pl/robots.txt
+1428419442
+http://polska.newsweek.pl/co-robia-rolnicy-z-programu-rolnik-szuka-zony-,artykuly,360509,1.html
+http://polska.newsweek.pl/robots.txt
+1428419435
+http://polska.newsweek.pl/szanse-bronislawa-komorowskiego-na-reelekcje,artykuly,360562,1.html
+http://polska.newsweek.pl/robots.txt
+1428419432
+http://polska.newsweek.pl/katastrofa-smolenska-nowe-nagrania,artykuly,360592,1.html
+http://polska.newsweek.pl/robots.txt
+1428419417
+http://polska.newsweek.pl/violetta-villas-przyczyny-smierci-spadek-po-violetcie-villas-,artykuly,360548,1.html
+http://polska.newsweek.pl/robots.txt
+1428417753
+http://polska.newsweek.pl
+http://polska.newsweek.pl/robots.txt
+User-Agent: *
+Disallow: /*.pdf$
+Disallow: /*.wmv$
+Disallow: /*.flv$
+Disallow: /*.mpg$
+Disallow: /*.avi$
+Disallow: /*.inl$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /Drukuj/
+Disallow: /oferta
+Disallow: /pomoc

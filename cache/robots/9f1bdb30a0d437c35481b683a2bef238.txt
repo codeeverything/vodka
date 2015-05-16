@@ -1,0 +1,9 @@
+1428417094
+http://www.ngckorea.com
+http://www.ngckorea.com/robots.txt
+1428241600
+http://www.ngckorea.com
+http://www.ngckorea.com/robots.txt
+# robotstxt.org/
+
+User-agent: *

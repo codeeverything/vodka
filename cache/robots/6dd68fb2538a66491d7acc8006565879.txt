@@ -1,0 +1,11 @@
+1427633564
+http://marketplace.latimes.com/newcars
+http://marketplace.latimes.com/robots.txt
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+#####
+Sitemap: /places/sitemap
+
+User-agent: *
+Disallow: /wcp
+Allow: /places

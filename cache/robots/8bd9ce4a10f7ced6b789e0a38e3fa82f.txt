@@ -1,0 +1,6 @@
+1428242504
+http://payment-gateway-services-review.toptenreviews.com
+http://payment-gateway-services-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

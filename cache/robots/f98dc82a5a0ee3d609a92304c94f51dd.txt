@@ -1,0 +1,17 @@
+1427734494
+https://developer.github.com
+https://developer.github.com/robots.txt
+1427717025
+https://developer.github.com
+https://developer.github.com/robots.txt
+1427717009
+https://developer.github.com
+https://developer.github.com/robots.txt
+1427701281
+https://developer.github.com
+https://developer.github.com/robots.txt
+1427701155
+https://developer.github.com
+https://developer.github.com/robots.txt
+User-agent: *
+Disallow: /enterprise/

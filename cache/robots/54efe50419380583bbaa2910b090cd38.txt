@@ -1,0 +1,6 @@
+1428422508
+http://pass-it-on.przegladsportowy.pl
+http://pass-it-on.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

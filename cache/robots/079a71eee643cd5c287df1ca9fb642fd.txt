@@ -1,0 +1,62 @@
+1427891318
+http://www.techstreet.com/ieee
+http://www.techstreet.com/robots.txt
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+User-Agent: *
+Disallow: /account/
+Disallow: /checkout/
+Disallow: /subgroups/
+Disallow: /cms/
+Disallow: /shopping/
+Disallow: /sessions/
+Disallow: /users/
+Disallow: /products/preview/
+
+Disallow: /api/
+Disallow: /api
+Disallow: /ieee/
+Disallow: /ieee
+Disallow: /ashrae/
+Disallow: /ashrae
+Disallow: /cie/
+Disallow: /cie
+Disallow: /awwa/
+Disallow: /awwa
+Disallow: /cgsb/
+Disallow: /cgsb
+Disallow: /aga/
+Disallow: /aga
+Disallow: /tms/
+Disallow: /tms
+Disallow: /nsf/
+Disallow: /nsf
+Disallow: /cmr/
+Disallow: /cmr
+Disallow: /bhma/
+Disallow: /bhma
+Disallow: /fci/
+Disallow: /fci
+Disallow: /3a/
+Disallow: /3a
+Disallow: /incits/
+Disallow: /incits
+Disallow: /boiler/
+Disallow: /boiler
+Disallow: /abma/
+Disallow: /abma
+Disallow: /awpa/
+Disallow: /awpa
+Disallow: /ies/
+Disallow: /ies
+Disallow: /techam/
+Disallow: /techam
+Disallow: /infodocsrl/
+Disallow: /infodocsrl
+Disallow: /c2/
+Disallow: /c2
+Disallow: /nema/
+Disallow: /nema
+Disallow: /awi/
+Disallow: /awi

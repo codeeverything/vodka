@@ -1,0 +1,6 @@
+1428422489
+http://sam-na-sam.przegladsportowy.pl
+http://sam-na-sam.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

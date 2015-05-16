@@ -1,0 +1,18 @@
+1428243613
+http://www.falter.at
+http://www.falter.at/robots.txt
+# www.falter.at
+
+User-agent: EmailCollector
+Disallow: /
+
+Sitemap: http://www.falter.at/sitemap_cp.xml
+Sitemap: http://www.falter.at/sitemap_events_event_1.xml
+Sitemap: http://www.falter.at/sitemap_events_festival_1.xml
+Sitemap: http://www.falter.at/sitemap_events_film_1.xml
+Sitemap: http://www.falter.at/sitemap_events_location_1.xml
+Sitemap: http://www.falter.at/sitemap_reparaturfuehrer_1.xml
+Sitemap: http://www.falter.at/web/best-of-vienna/sitemap.xml
+Sitemap: http://www.falter.at/web/ffiw/sitemap.xml
+Sitemap: http://www.falter.at/web/wwei/sitemap.xml
+Sitemap: http://www.falter.at/sitemap_rezensionen.xml

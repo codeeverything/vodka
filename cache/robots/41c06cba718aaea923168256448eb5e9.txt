@@ -1,0 +1,6 @@
+1428244838
+http://power-scooter-review.toptenreviews.com
+http://power-scooter-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

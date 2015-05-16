@@ -1,0 +1,6 @@
+1427891036
+http://blogs.atlassian.com
+http://blogs.atlassian.com/robots.txt
+User-agent: *
+Disallow:
+Sitemap: http://app.wistia.com/sitemaps/35455.xml

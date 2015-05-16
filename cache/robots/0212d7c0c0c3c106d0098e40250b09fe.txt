@@ -1,0 +1,16 @@
+1427735366
+http://faq.youtui.mobi
+http://faq.youtui.mobi/robots.txt
+#
+# robots.txt for WeCenter
+#
+
+User-agent: *
+Disallow: /app/
+Disallow: /cache/
+Disallow: /install/
+Disallow: /models/
+Disallow: /system/
+Disallow: /tmp/
+Disallow: /views/
+Disallow: /?/admin/

@@ -1,0 +1,7 @@
+1428244188
+http://www.inboundpro.net/how-to-write-ebooks-that-sell
+http://www.inboundpro.net/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+
+Sitemap: http://www.inboundpro.net/sitemap.xml.gz

@@ -1,0 +1,12 @@
+1428234747
+http://geomblog.blogspot.com
+http://geomblog.blogspot.com/robots.txt
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: http://blog.geomblog.org/sitemap.xml
+

@@ -1,0 +1,44 @@
+1428159068
+http://roi.ted.com
+http://roi.ted.com/robots.txt
+1427891146
+http://roi.ted.com
+http://roi.ted.com/robots.txt
+# This file was generated on Sat, 28 Feb 2015 02:14:20 +0000
+# If you are regularly crawling WordPress.com sites, please use our firehose to receive real-time push updates instead.
+# Please see http://en.wordpress.com/firehose/ for more details.
+
+Sitemap: http://roi.ted.com/sitemap.xml
+Sitemap: http://roi.ted.com/news-sitemap.xml
+
+User-agent: IRLbot
+Crawl-delay: 3600
+
+User-agent: *
+Disallow: /next/
+
+User-agent: *
+Disallow: /mshots/v1/
+
+# har har
+User-agent: *
+Disallow: /activate/
+
+User-agent: *
+Disallow: /wp-login.php
+
+User-agent: *
+Disallow: /related-tags.php
+
+User-agent: *
+Disallow: /public.api/
+
+# MT refugees
+User-agent: *
+Disallow: /cgi-bin/
+
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /wp-admin/

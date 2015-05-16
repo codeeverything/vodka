@@ -1,0 +1,5 @@
+1428236925
+http://blog.tanyakhovanova.com
+http://blog.tanyakhovanova.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/

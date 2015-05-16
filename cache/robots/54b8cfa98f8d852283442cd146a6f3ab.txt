@@ -1,0 +1,15 @@
+1427821914
+https://goo.gl/maps/YturS
+https://goo.gl/robots.txt
+1427821906
+https://goo.gl/maps/wz0ou
+https://goo.gl/robots.txt
+1427818569
+https://goo.gl/maps/wz0ou
+https://goo.gl/robots.txt
+User-agent: *
+Disallow: /action/
+Disallow: /api/
+Disallow: /info/
+Disallow: /static/
+Disallow: /urlshortener/api/

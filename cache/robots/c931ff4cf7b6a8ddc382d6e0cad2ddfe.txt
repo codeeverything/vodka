@@ -1,0 +1,94 @@
+1428497288
+https://www.youtube.com
+https://www.youtube.com/robots.txt
+1428496697
+https://www.youtube.com/user/BBCEarth
+https://www.youtube.com/robots.txt
+1428422669
+https://www.youtube.com/channel/UCBtu9jcItqOKKq2M29wUv8w
+https://www.youtube.com/robots.txt
+1428422417
+https://www.youtube.com/channel/UCmNxyLUGOi_vUIzf7SfzwEQ
+https://www.youtube.com/robots.txt
+1428422093
+https://www.youtube.com/user/TheMetOffice
+https://www.youtube.com/robots.txt
+1428421640
+https://www.youtube.com/channel/UCxD03AhBg9LWQuJfijnzhhQ
+https://www.youtube.com/robots.txt
+1428420822
+https://www.youtube.com/user/vatafug
+https://www.youtube.com/robots.txt
+1428420290
+https://www.youtube.com/user/BBCAmericaTV
+https://www.youtube.com/robots.txt
+1428419744
+https://www.youtube.com/user/PrzegladSportowy
+https://www.youtube.com/robots.txt
+1428417901
+https://www.youtube.com/c/NatGeoStore
+https://www.youtube.com/robots.txt
+1428417607
+https://www.youtube.com
+https://www.youtube.com/robots.txt
+1428416941
+https://www.youtube.com
+https://www.youtube.com/robots.txt
+1428416552
+https://www.youtube.com/user/BBCEarth
+https://www.youtube.com/robots.txt
+1428414416
+https://www.youtube.com/user/BBCEarth
+https://www.youtube.com/robots.txt
+1428243672
+https://www.youtube.com/c/NatGeoStore
+https://www.youtube.com/robots.txt
+1428243603
+https://www.youtube.com/channel/UCxD03AhBg9LWQuJfijnzhhQ
+https://www.youtube.com/robots.txt
+1428241602
+https://www.youtube.com
+https://www.youtube.com/robots.txt
+1428241191
+https://www.youtube.com/user/BBCEarth
+https://www.youtube.com/robots.txt
+1428240825
+https://www.youtube.com
+https://www.youtube.com/robots.txt
+1428240734
+https://www.youtube.com/user/BBCEarth
+https://www.youtube.com/robots.txt
+1428159063
+https://www.youtube.com/user/InternetSocietyVideo
+https://www.youtube.com/robots.txt
+1427820697
+https://www.youtube.com/githubguides
+https://www.youtube.com/robots.txt
+1427818168
+https://www.youtube.com/githubguides
+https://www.youtube.com/robots.txt
+1427632041
+https://www.youtube.com/user/AnglopheniaTV/
+https://www.youtube.com/robots.txt
+1427629664
+https://www.youtube.com/user/everydayhealth
+https://www.youtube.com/robots.txt
+# robots.txt file for YouTube
+# Created in the distant future (the year 2000) after
+# the robotic uprising of the mid 90's which wiped out all humans.
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /comment
+Disallow: /get_video
+Disallow: /get_video_info
+Disallow: /login
+Disallow: /results
+Disallow: /signup
+Disallow: /t/terms
+Disallow: /verify_age
+Disallow: /watch_ajax
+Disallow: /watch_popup
+Disallow: /watch_queue_ajax

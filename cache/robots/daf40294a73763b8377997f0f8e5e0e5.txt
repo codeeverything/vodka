@@ -1,0 +1,10 @@
+1428417790
+http://channel.nationalgeographic.com
+http://channel.nationalgeographic.com/robots.txt
+1428243623
+http://channel.nationalgeographic.com
+http://channel.nationalgeographic.com/robots.txt
+User-agent: *
+Disallow: /admin/
+Disallow: /files/
+Disallow: *?preview

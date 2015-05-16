@@ -1,0 +1,6 @@
+1428244743
+http://outdoor-fireplaces-review.toptenreviews.com
+http://outdoor-fireplaces-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

@@ -1,0 +1,45 @@
+1427735297
+http://www.gamasutra.com/prnewswire.php
+http://www.gamasutra.com/robots.txt
+1427735145
+http://www.gamasutra.com
+http://www.gamasutra.com/robots.txt
+1427734483
+http://www.gamasutra.com/oculusconnect2014
+http://www.gamasutra.com/robots.txt
+1427734474
+http://www.gamasutra.com/prnewswire.php
+http://www.gamasutra.com/robots.txt
+1427734417
+http://www.gamasutra.com
+http://www.gamasutra.com/robots.txt
+1427717086
+http://www.gamasutra.com
+http://www.gamasutra.com/robots.txt
+1427717073
+http://www.gamasutra.com/deepdives
+http://www.gamasutra.com/robots.txt
+1427717027
+http://www.gamasutra.com
+http://www.gamasutra.com/robots.txt
+1427717012
+http://www.gamasutra.com/
+http://www.gamasutra.com/robots.txt
+1427716962
+http://www.gamasutra.com/gdc2015
+http://www.gamasutra.com/robots.txt
+1427716660
+http://www.gamasutra.com/YouTube
+http://www.gamasutra.com/robots.txt
+1427716466
+http://www.gamasutra.com/VR
+http://www.gamasutra.com/robots.txt
+1427701339
+http://www.gamasutra.com
+http://www.gamasutra.com/robots.txt
+1427701333
+http://www.gamasutra.com/
+http://www.gamasutra.com/robots.txt
+User-agent: *
+Disallow: /dummy_entry_to_check_robots
+Disallow: /admin

@@ -1,0 +1,6 @@
+1428422540
+http://czysty-wslizg.przegladsportowy.pl
+http://czysty-wslizg.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

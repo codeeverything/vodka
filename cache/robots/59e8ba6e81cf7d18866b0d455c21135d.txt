@@ -1,0 +1,11 @@
+1428242283
+http://www.hermanstreet.com
+http://www.hermanstreet.com/robots.txt
+user-agent: *
+disallow: /ss-bin/
+Disallow: /store/cancel-order.html
+Disallow: /store/about-us.html
+Disallow: /store/return-policy.html
+Disallow: /store/privacy-policy.html
+Disallow: /store/contact-us.html
+Disallow: /store/payment-policy.html

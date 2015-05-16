@@ -1,0 +1,8 @@
+1427910952
+http://www.lgcorp.com/main/main.dev
+http://www.lgcorp.com/robots.txt
+User-agent: *
+Disallow: /sys/
+Disallow: /upload/*
+Disallow: /*.pdf$
+Disallow: /*.pdf$/

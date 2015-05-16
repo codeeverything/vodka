@@ -1,0 +1,529 @@
+1428421866
+http://www.servizioclientinational.repubblica.it/index.php
+http://www.servizioclientinational.repubblica.it/robots.txt
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>  
+<head>
+    <title>Servizio clienti National Geographic</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link rel="stylesheet" type="text/css" href="/sitedesign/css/stile_national.css">
+    <link rel="stylesheet" type="text/css" href="/sitedesign/css/stile_V2.css">
+<!--New style and script -->
+<script language="javascript">
+var pageHref = 'http://www.servizioclientinational.repubblica.it/robots.txt';
+var pageType = 'homepage';
+</script>
+    <style type="text/css" media="screen">@import "http://www.repubblica.it/sharedfiles/header2lev_v3.css";</style>
+    <script type="text/javascript" src="http://www.repubblica.it/sharedfiles/js/lib.js"></script>
+    <script type="text/javascript" src="http://www.repubblica.it/sharedfiles/includes/header2lev_v3.js"></script>
+<!--New style and script -->
+    <link href="http://espresso.repubblica.it/css/testata.css"  rel="stylesheet" type="text/css" />
+ <style type="text/css">
+/*  logo    */
+
+
+#header-espresso .logo {
+    float: left;
+    display: block;
+    background-color:#ee3124;
+    text-indent: -9999px;
+    padding: 0;
+    margin:0px;
+    width: 694px;
+    height: 73px;
+    }
+
+#header-espresso .logo a {
+    float: left;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    background: transparent url(/sitedesign/images/vpc/logo.gif) 0 0 no-repeat;
+    }
+    </style>
+
+    <style type="text/css" media="screen">@import "http://www.repubblica.it/css/homepage/2006/ge-network.css";</style>
+    <script type="text/javascript" src="/sitedesign/js/functions.js"></script>
+    <script type="text/JavaScript" language="JavaScript">
+        <!--
+        function MM_jumpMenu(targ,selObj,restore){ //v3.0
+          eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+          if (restore) selObj.selectedIndex=0;
+        }
+
+        function MM_openBrWindow(theURL,winName,features) { //v2.0
+        window.open(theURL,winName,features);
+        }
+        function MM_preloadImages() { //v3.0
+          var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+            var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+            if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+        }
+
+        function MM_swapImgRestore() { //v3.0
+          var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+        }
+
+        function MM_findObj(n, d) { //v3.0
+          var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+            d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+          if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+          for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+        }
+
+        function MM_swapImage() { //v3.0
+          var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+           if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+        }
+        //-->
+    </script>
+<!-- OAS SETUP (please place in page header) -->
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_sitepage = 'repubblica.it/nz/generica';
+OAS_listpos = 'Top,TopLeft,Left,Right';
+OAS_query = '';
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE=JavaScript1.1 SRC="http://oasjs.kataweb.it/kataweb/mjx.js">
+<!-- -->
+</SCRIPT>
+<!-- OAS SETUP end -->
+
+
+
+
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="background-color:#FFFFFF">
+
+<div id="topheader">
+    <div id="advtop">
+    <script language="JavaScript" type="text/javascript">
+    <!--
+    OAS_RICH('Top');
+    //-->
+    </script>
+    </div>
+    <!--
+    <div id="ge-network">
+        <div id="ge-network-top">
+            <span class="ge-repubblica"><a href="http://www.repubblica.it/?ref=hphead" title="Repubblica.it">Repubblica.it</a></span>
+
+            <span class="ge-espresso"><a href="http://espresso.repubblica.it/?ref=hphead" title="Leggi L&rsquo;Espresso online">L&rsquo;Espresso</a></span>
+            <span class="ge-kataweb"><a href="http://www.kataweb.it/?ref=esphphead" title="Kataweb">Kataweb</a></span>
+        </div>
+
+        <div id="ge-network-middle">
+            <span class="ge-xl"><a href="http://xl.repubblica.it/?ref=hphead" title="Repubblica XL">XL</a></span>
+            <span class="ge-dweb"><a href="http://www.dweb.repubblica.it/?ref=hphead" title="Leggi D La repubblica delle Donne">Dweb</a></span>
+
+            <span class="ge-miojob"><a href="http://www.miojob.it/?ref=esphphead" title="miojob: annunci, news e strumenti per chi cerca e offre lavoro">miojob</a></span>
+            <span class="ge-quotespresso"><a href="http://www.quotidianiespresso.it/?ref=esphphead" title="Quotidiani Espresso">Quotidiani Espresso</a></span>
+            <span class="ge-trovacinema"><a href="http://www.capital.it/trovacinema/home_page.jsp?ref=esphphead" title="Trovacinema">Trovacinema</a></span>
+        </div>
+
+        <div id="ge-network-bottom">
+            <span class="ge-deejay"><a href="http://www.deejay.it/?ref=esphphead" title="Ascolta e guarda DEEJAY">DEEJAY</a></span>
+
+            <span class="ge-capital"><a href="http://www.capital.it/?ref=esphphead" title="Ascolta Capital">Capital</a></span>
+            <span class="ge-m2o"><a href="http://www.m2o.it/?ref=esphphead" title="Ascolta m2o">m2o</a></span>
+            <span class="ge-reptv"><a href="http://tv.repubblica.it/?ref=hphead" title="Ascolta e guarda Repubblica TV">Repubblica TV</a></span>
+            <span class="ge-allmusic"><a href="http://www.allmusic.tv/?ref=esphphead" title="Guarda All Music">All Music</a></span>
+            <span class="ge-fantacalcio"><a href="http://www.fantacalcio.kataweb.it/?ref=esphphead" title="Gioca al Fantacalcio">Fantacalcio</a></span>
+        </div>
+
+    </div>-->
+</div>
+<div class="clear"></div>
+<div id="header-espresso" style="background-color:#000000; height:73px; padding-top:0px;">
+    <div class="logo" style="height:73px"><a href="http://www.nationalgeographic.it" target="_blank">National</a></div>
+        <div class="edvoip" style="height:73px">
+            <form style="margin-top:0px;" action="/index.php?page=ricerca" name="productsearchform" id="productsearchform" method="post" class="inlineform">
+                <dl>
+                    <dd><img src="/sitedesign/images/vpc/cerca.gif"></dd>
+                    <dd><input style="margin-right:0px;" type="text" name="ricerca" id="ricerca" class="headersearchprodtext" value=""
+                               /></dd><dd><input type="image" src="/sitedesign/images/vpc/button_cerca_over.gif" border="0" name="searchbutton" id="searchbutton" onClick="if(document.getElementById('ricerca').value != '' && document.getElementById('ricerca').value.length > 3){document.getElementById('productsearchform').submit()}else{alert('Attenzione, specificare un criterio di ricerca!');return false;}" value="VAI" class="sendbutton"/></dd>
+                </dl>
+            </form>
+        </div>
+    <div class="clear"></div>
+</div>
+
+
+<div class="maincontainer">
+
+
+    <div id="nav" class="headerhmenu" style="border-color:#fecd1b">
+        <div class="headerhmenuboxitemleft"><a href="/index.php" class="menuheaderitem">Home</a>
+        </div>
+        <div class="headerhmenuboxitemleft"><a href="/index.php?page=ricerca&idcategoria=94" class="menuheaderitem">Arretrati</a>
+        </div>
+        <div class="headerhmenuboxitemleft"><a href="http://ilmioabbonamento.espresso.repubblica.it/catalog/product/view/id/24/?tema=national" target="_blank" class="menuheaderitem">Abbonamenti</a>
+        </div>
+        <div class="headerhmenuboxitemleft"><a href="/index.php?page=servizio_page" class="menuheaderitem">Contatti</a>
+        </div>
+        <div class="headerhmenuboxitemright"><a href="/index.php?page=faq_page" class="menuheaderitem">FAQ</a>
+        </div>
+    </div>
+
+    <div id="content-main">
+    <div id="adStrip">
+        <div id="adTopLeft"><SCRIPT LANGUAGE='JavaScript'>
+        <!--
+        OAS_RICH('TopLeft');
+        //-->
+        </SCRIPT></div>
+
+            <div id="adTopRight"><SCRIPT LANGUAGE='JavaScript'>
+        <!--
+        OAS_RICH('TopRight');
+        //-->
+        </SCRIPT></div>
+    </div>
+    <div class="subheaderstatus">
+    <div class="subheadertext">Sei in:&nbsp;<b><a href="\index.php" style="text-decoration:underline">Home</a></b>
+           
+    </div>
+    </div>
+    <div class="bodycontainer">
+        <div class="menusxcontainer">
+                    <div class="menusx">
+               <!--elenco delle categorie-->
+                <div class="menusxboxborder">
+                    <div class="menusxboxtitle"><div class="leftspacer"></div>ARRETRATI</div>
+                    <div class="menusxbox">
+                        <div class="menusxitem">
+                        <a href="http://www.servizioclientinational.repubblica.it/index.php?page=ricerca&idcategoria=94" >Cofanetti</a></div>
+                        <div class="menusxitem">
+                        <a href="http://www.servizioclientinational.repubblica.it/index.php?page=ricerca&idcategoria=95" >Rivista</a></div>
+                        <div class="menusxitem">
+                        <a href="http://www.servizioclientinational.repubblica.it/index.php?page=ricerca&idcategoria=86" >Libri</a></div>
+                        <div class="menusxitem">
+                        <a href="http://www.servizioclientinational.repubblica.it/index.php?page=ricerca&idcategoria=90" >DVD</a></div>
+                        <div class="menusxitem">
+                        <a href="http://www.servizioclientinational.repubblica.it/index.php?page=ricerca&idcategoria=92" >Varie</a></div>
+                    </div>
+                    <div class="menusxbox">
+                        <div class="menusxitem">
+                            <a href="/index.php?page=arretrati">Come Ordinare</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--menu delle informazioni-->
+                <div class="menusxboxborder">
+                    <div class="menusxboxtitle"><div class="leftspacer"></div>Periodico</div>
+                    <div class="menusxbox">
+                        <div class="menusxitem">
+                            <a target="_blank" href="http://ilmioabbonamento.espresso.repubblica.it/index.php?page=promo&testatacod=844&formaction=search">Abbonati Online</a>
+                        </div>
+                        <div class="menusxitem">
+                            <a target="_blank" href="http://www.nationalgeographic.it">Periodico</a>
+                        </div>
+
+ 
+
+    
+                    </div>
+                </div>
+
+
+                <!--BANNER SOTTO MENU DI SINISTRA-->
+                <div class="menusxbanner">
+                        <script language="javascript">
+                        OAS_RICH('Left');
+                        </script>
+                </div>
+                <!--FINE BANNER SOTTO MENU DI SINISTRA-->
+            </div>
+            
+        </div>
+        <div class="content">
+
+
+
+
+
+
+            <div class="mainnewsbox">
+                <div class="staticboxtitle"><div class="leftspacer"></div>Novit&agrave; in Edicola</div>
+                <div class="mainnewsboxcontainer">
+                    <div class="mainnewscontainer">
+                        <div class="mainnewsinnercontainer">
+                            <div class="mainnewsspacer">
+                            </div>
+                            <div class="mainnewstextual">
+                                <div class="mainnewstitle newstitle">
+                                <a href="/index.php?page=news&id=12081">Offerta last minute!</a>
+                       
+                                </div>
+                                <div class="mainnewstext newstxt">
+                                <br />
+Un anno de l'Espresso + Le Scienze a soli € 74,90. <br />
+                                 </div>
+                                <div class="mainnewsinfoprice newsinfoprice">
+                                <br />
+Offerta esclusiva acquistabile solo online e valida solo per l'Italia<br />
+                                </div>
+                            </div>
+                            <div class="mainnewsimagebox"  onClick="vai:('/index.php?page=news&id=12081')">
+                                <div class="mainnewsimageborder">
+                                    <div class="mainnewsimageimg">                            <a href="/index.php?page=news&id=12081"><img src="http://admin.servizioclienti.repubblica.it/systemImages/images/771bfd1b9ee2c0cf62883eef1d9108c6/0c6c3b465bb840154ee51375b588c2e3/40642dd106771c0f385ff623c59e8723/images_981b74c896d013289a9c7b963c924c46.JPG"  width="116"    border="0"></a>
+</div>
+                                </div>
+                            </div>
+                            <div class="mainnewsbtns"><a
+                                 class="mainnewsbtn" href="/index.php?page=news&id=12081"><img src="/sitedesign/images/vpc/btnnewsscheda.jpg" border="0"/></a>
+                            <a class="mainnewsbtn"  href="http://ilmioabbonamento.espresso.repubblica.it/411PASQUA2015"><img src="/sitedesign/images/vpc/btnnewssito.jpg" border="0"/></a>
+                            </div>
+                        </div>
+                     </div>
+                </div>
+            </div>
+<!--
+            <div class="moviecontainer">
+                <div class="movieplayerborder">
+                    <div class="movieplayerbox">
+        <script language="javascript">
+        //OAS_RICH('Middle1');
+        </script>
+                    </div>
+                </div>
+            </div>
+-->
+            <div class="mainnewsbox">
+                <div class="mainnewsboxcontainer">
+                    <div class="othernewscontainer">
+                        <div class="othernewsspacer">
+                        </div>
+                        <div class="othernewstextual">
+                            <div class="othernewstitle othnewstitle">
+                                <a href="/index.php?page=news&id=11484">Stanco dei soliti regali? <br />
+Scegli la Carta Regalo del Gruppo Editoriale L'Espresso</a>
+                       
+                            </div>
+                            <div class="othernewstext newstxt">
+                            <br />
+Vuoi fare un regalo speciale ad una persona a te cara che ti farà ricordare tutto l’anno?<br />
+Vuoi donare un abbonamento, ma non conosci l'indirizzo della persona a cui desideri regalare l'abbonamento? <br />
+<br />
+Acquista ora una <b>Carta Regalo</b> e decidi tu quando regalarla!<br />
+<br />
+Le proposte di abbonamento acquistabili tramite Carta Regalo sono valide solo per l'Italia.                             </div>
+                            <div class="othernewsinfoprice newsinfoprice">
+                            <br />
+Offerta acquistabile solo online e valida solo per l'Italia<br />
+                            </div>
+                        </div>
+                        <div class="mainnewsimagebox" >
+                            <div class="mainnewsimageborder">
+                                <div class="mainnewsimageimg">                        <a href="/index.php?page=news&id=11484">
+                        <img src="http://admin.servizioclienti.repubblica.it/systemImages/images/771bfd1b9ee2c0cf62883eef1d9108c6/13c595f49e4a1d395cb56bf6e3111e61/40642dd106771c0f385ff623c59e8723/images_bd65939891020a66ad5798df81511d53.JPG"  height="115"   border="0">
+                        </a>
+</div>
+                            </div>
+                        </div>
+                        <div class="othernewsbtns">
+                            <a class="othernewsbtn" href="/index.php?page=news&id=11484"><img border="0" src="/sitedesign/images/vpc/bottone_guardalascheda.gif"/></a>
+                            <a class="othernewsbtn"  href="http://ilmioabbonamento.espresso.repubblica.it/giftcard/index.php"><img src="/sitedesign/images/vpc/bottone_visitailsito.gif" border="0"/></a>
+                        </div>
+                     </div>
+                </div>
+            </div>
+            <div class="mainnewsbox">
+                <div class="mainnewsboxcontainer">
+                    <div class="othernewscontainer">
+                        <div class="othernewsspacer">
+                        </div>
+                        <div class="othernewstextual">
+                            <div class="othernewstitle othnewstitle">
+                                <a href="/index.php?page=news&id=12387">Storia della fotografia</a>
+                       
+                            </div>
+                            <div class="othernewstext newstxt">
+                            <br />
+National Geographic presenta "Storia della fotografia", uno studio completo ed esauriente in 4 volumi compilato dal fotografo e divulgatore pluripremiato Tom Ang sulle origini e l'evoluzione del mezzo fotografico. Uno strumento indispensabile per chi vuole andare alle radici della fotografìa, per conoscerne il significato e comprenderne gli sviluppi.<br />
+La fotografìa non ha neanche 200 anni d'età, eppure è entrata a far parte della nostra vita in un modo che i primi pionieri di questo mezzo espressivo non avrebbero mai potuto immaginare. Oggi siamo letteralmente bombardati dalle immagini fotografiche, che appaiono ovunque guardiamo. Ma qual è la storia dietro la scienza e l'arte del catturare la luce, e come è avvenuta l'evoluzione dalle prime, primitive emulsioni fino agli odierni e sofisticati sensori digitali?<br />
+                            </div>
+                            <div class="othernewsinfoprice newsinfoprice">
+                            In edicola dal 1 aprile il 2° volume a <font class="newsPrice">7,90</font> Euro in più con National Geographic                            </div>
+                        </div>
+                        <div class="mainnewsimagebox" >
+                            <div class="mainnewsimageborder">
+                                <div class="mainnewsimageimg">                        <a href="/index.php?page=news&id=12387">
+                        <img src="http://admin.servizioclienti.repubblica.it/systemImages/images/771bfd1b9ee2c0cf62883eef1d9108c6/0c6c3b465bb840154ee51375b588c2e3/3f1b87fe8917f86b0f68307133627aaa/images_ed26ad0864b7866ee51055cea9ecb09a.JPG"  width="116"   border="0">
+                        </a>
+</div>
+                            </div>
+                        </div>
+                        <div class="othernewsbtns">
+                            <a class="mainnewsbtn"  href="/index.php?page=vpclist&idcollana=1500"><img src="/sitedesign/images/vpc/bottone_acquista.gif" border="0"/></a>
+                            <a class="othernewsbtn" href="/index.php?page=news&id=12387"><img border="0" src="/sitedesign/images/vpc/bottone_guardalascheda.gif"/></a>
+                            <a class="othernewsbtn"  href="http://temi.repubblica.it/iniziative-biblioteca/2015/02/25/storia-della-fotografia/"><img src="/sitedesign/images/vpc/bottone_visitailsito.gif" border="0"/></a>
+                        </div>
+                     </div>
+                </div>
+            </div>
+            <div class="mainnewsbox">
+                <div class="mainnewsboxcontainer">
+                    <div class="othernewscontainer">
+                        <div class="othernewsspacer">
+                        </div>
+                        <div class="othernewstextual">
+                            <div class="othernewstitle othnewstitle">
+                                <a href="/index.php?page=news&id=12392">National Geographic di Aprile 2015: "Il viaggio della Sindone"</a>
+                       
+                            </div>
+                            <div class="othernewstext newstxt">
+                            <br />
+In edicola National Geographic di Aprile 2015: "Il viaggio della Sindone"                            </div>
+                            <div class="othernewsinfoprice newsinfoprice">
+                            In edicola dal 1 aprile il nuovo numero di National Geographic a <font class="newsPrice">4,50</font> Euro                            </div>
+                        </div>
+                        <div class="mainnewsimagebox" >
+                            <div class="mainnewsimageborder">
+                                <div class="mainnewsimageimg">                        <a href="/index.php?page=news&id=12392">
+                        <img src="http://admin.servizioclienti.repubblica.it/systemImages/images/771bfd1b9ee2c0cf62883eef1d9108c6/daa1a8db93f30ea13dba5266d0396fbe/images_6dcda92d8c0b9be167104c4cdc494bbc.JPG"  height="115"   border="0">
+                        </a>
+</div>
+                            </div>
+                        </div>
+                        <div class="othernewsbtns">
+                            <a class="othernewsbtn" href="/index.php?page=news&id=12392"><img border="0" src="/sitedesign/images/vpc/bottone_guardalascheda.gif"/></a>
+                            <a class="othernewsbtn"  href="http://www.nationalgeographic.it/nat_geo/index.jsp?ref=rephpsbsx"><img src="/sitedesign/images/vpc/bottone_visitailsito.gif" border="0"/></a>
+                        </div>
+                     </div>
+                </div>
+            </div>
+            <div class="mainnewsbox">
+                <div class="mainnewsboxcontainer">
+                    <div class="othernewscontainer">
+                        <div class="othernewsspacer">
+                        </div>
+                        <div class="othernewstextual">
+                            <div class="othernewstitle othnewstitle">
+                                <a href="/index.php?page=news&id=12384">National Geographic Video di Aprile 2015: "Antichi misteri. La Sacra Sindone. La corona di spine"</a>
+                       
+                            </div>
+                            <div class="othernewstext newstxt">
+                            In edicola National Geographic Video di Aprile 2015: "Antichi misteri. La Sacra Sindone. La corona di spine"                            </div>
+                            <div class="othernewsinfoprice newsinfoprice">
+                            In edicola dal 1 aprile il nuovo National Geographic Video a <font class="newsPrice">9,90</font> euro                            </div>
+                        </div>
+                        <div class="mainnewsimagebox" >
+                            <div class="mainnewsimageborder">
+                                <div class="mainnewsimageimg">                        <a href="/index.php?page=news&id=12384">
+                        <img src="http://admin.servizioclienti.repubblica.it/systemImages/images/771bfd1b9ee2c0cf62883eef1d9108c6/dca7db42b8447f6316d39ac3e66488e1/images_c12af7b8b5e0103dc4b7e668f929f148.JPG"  height="115"   border="0">
+                        </a>
+</div>
+                            </div>
+                        </div>
+                        <div class="othernewsbtns">
+                            <a class="othernewsbtn" href="/index.php?page=news&id=12384"><img border="0" src="/sitedesign/images/vpc/bottone_guardalascheda.gif"/></a>
+                            <a class="othernewsbtn"  href="http://www.nationalgeographic.it/nat_geo/index.jsp?ref=rephpsbsx"><img src="/sitedesign/images/vpc/bottone_visitailsito.gif" border="0"/></a>
+                        </div>
+                     </div>
+                </div>
+            </div>
+
+
+
+        </div>
+        <div id="menudxcontainer">
+                    <div class="menudx">
+                <!--
+                <div class="searchproductbox">
+                    <div class="searchproductboxtitle">
+                        <div class="searchtitle">CERCA UN PRODOTTO</div>
+                    </div>
+                    <div class="searchproductboxform">
+                        <form action="/index.php?page=ricerca" name="productsearchform" id="productsearchform" method="post" class="inlineform">
+                            <input type="text" name="ricerca" class="textsearch"/><input type="image" src="/sitedesign/images/vpc/menudx_vai_search.gif" border="0" name="searchbutton" id="searchbutton" onclick="document.getElementById('productsearchform').submit()" value="VAI" class="sendbutton"/>
+                        </form>                   
+                    </div>
+                </div>
+                -->
+                <div class="menudxCCborder">
+                    <div class="menudxCCtitle">
+                    </div>
+                </div>
+                <div class="menudxbanborder">
+                    <script language="javascript">
+                    //OAS_RICH('Right');
+                    </script>                    
+                </div>
+                <div class="menudxboxborder">
+                    <div class="menudxboxtitle">
+                        <span class="menudxtitlelogin">LOGIN</span>
+                        <a href="/index.php?page=registrati" class="menudxregistrati"><b>Registrati</b></a>
+                    </div>
+                    <div class="menudxbox">
+                        <div class="menudxtext">                    
+                        </div>
+
+
+                        <form action="/index.php?page=login" method="post" id="formlogin" name="formlogin" class="inlineform">
+                        <div class="menudxlogbox">
+                            <div class="menudxtext"><strong>e-mail</strong></div>
+                            <div class="menudxlogboxrow">                                
+                                <input type="text" name="email" value="" maxlength="100" class="textsearch"/>
+                            </div>
+                            <div class="menudxtext"><strong>Password</strong></div>
+                            <div class="menudxlogboxrow">                                
+                                <input type="password" name="pwd" value=""  maxlength="100"  class="textsearch"/>
+                                <input type="image" src="/sitedesign/images/vpc/menudx_vai_login.gif" border="0" name="searchbutton" id="searchbutton" value="VAI" class="sendbuttonlogin"/>
+                            </div>
+                        </div>
+                        <input type="hidden" name="action" value="">
+                        </form>
+                        <a href="http://www.servizioclientinational.repubblica.it//index.php?page=recupero_pwd">                        
+                        <div class="menudxulink">
+                        Dimenticata la password?
+                        </div>
+                        </a>
+                        <a href="/index.php?page=registrati">
+                        <div class="menudxulink" style="margin-bottom:4px;">
+                        Non sei ancora registrato?
+                        </div>
+                        </a>
+                  </div>
+                </div>
+
+
+            </div>
+            
+        </div>
+    </div>
+    <div class="clear"></div>
+    
+    <div class="content-bottom">
+    &copy;1999-2011&nbsp;<a href="http://www.gruppoespresso.it/" target="_blank">Gruppo Editoriale L'Espresso S.p.A.</a>&nbsp;Partita IVA 00906801006 | <a href="http://www.manzoniadvertising.com/2_internet/prenotaOnlIne.asp?ref=hpfoot" target="_blank">Pubblicit&agrave;</a></div>
+
+
+</div>
+</div>
+<!-- START Webtrekk 3.1.5 - lib 1.0 - http://data.kataweb.it/scripts/includes/wt/repubblica.it/somedia/national.html  -->
+<script type="text/javascript" src="http://data.kataweb.it/scripts/js/wt/wt_v315_1_async.js?20121129"></script>
+<noscript><img class="webtrekk-noscript" src="http://gruppoespresso01.webtrekk.net/253822047730481/wt.pl?p=321,0&amp;cg1=repubblica&amp;cg2=noscript" height="1" width="1" alt="" /></noscript>
+<!-- END Webtrekk -->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-it.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var pvar = { cid: "kataweb-it", content: "0", server: "secure-it" };
+ var feat = { check_cookie: 0 };
+ var trac = nol_t(pvar, feat);
+ trac.record().post();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=kataweb-it&amp;cg=0&amp;cc=0&amp;ts=noscript" 
+ width="1" height="1" alt="" />
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</body>
+</html>

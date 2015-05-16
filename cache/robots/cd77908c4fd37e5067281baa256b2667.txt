@@ -1,0 +1,6 @@
+1427632169
+http://www.apple.com/quicktime/download/
+http://www.apple.com/robots.txt
+# robots.txt for http://www.apple.com/
+User-agent: *
+Disallow: /cn/se/

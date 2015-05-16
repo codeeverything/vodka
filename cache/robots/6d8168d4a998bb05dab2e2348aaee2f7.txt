@@ -1,0 +1,23 @@
+1427735179
+http://www.ubmtechweb.com
+http://www.ubmtechweb.com/robots.txt
+1427735126
+http://www.ubmtechweb.com/
+http://www.ubmtechweb.com/robots.txt
+1427734486
+http://www.ubmtechweb.com/
+http://www.ubmtechweb.com/robots.txt
+1427717805
+http://www.ubmtechweb.com
+http://www.ubmtechweb.com/robots.txt
+1427717668
+http://www.ubmtechweb.com/
+http://www.ubmtechweb.com/robots.txt
+1427717253
+http://www.ubmtechweb.com
+http://www.ubmtechweb.com/robots.txt
+1427717082
+http://www.ubmtechweb.com
+http://www.ubmtechweb.com/robots.txt
+User-agent: *
+Disallow: /wp-admin/

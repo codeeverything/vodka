@@ -1,0 +1,6 @@
+1428244444
+http://canister-vacuums-review.toptenreviews.com
+http://canister-vacuums-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

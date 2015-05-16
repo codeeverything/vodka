@@ -1,0 +1,7 @@
+1427891462
+http://www.sciencegatewaysecurity.org/discussion
+http://www.sciencegatewaysecurity.org/robots.txt
+User-agent: *
+Disallow:
+
+Sitemap: http://www.sciencegatewaysecurity.org/sitemap.xml.gz

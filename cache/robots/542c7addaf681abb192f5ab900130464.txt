@@ -1,0 +1,46 @@
+1427820168
+http://www.jwz.org/xscreensaver
+http://www.jwz.org/robots.txt
+User-agent: *
+Disallow: /dadadodo/dadadodo.cgi
+Disallow: /hacks/irc2html.cgi
+Disallow: /images/random.cgi
+Disallow: /telegram/index.cgi
+Disallow: /cheesegrater/
+
+Disallow: /blog/wp-
+Disallow: /blog/tag/
+Disallow: /blog/page/
+Disallow: /blog/2019/page/
+Disallow: /blog/2018/page/
+Disallow: /blog/2017/page/
+Disallow: /blog/2016/page/
+Disallow: /blog/2015/page/
+Disallow: /blog/2014/page/
+Disallow: /blog/2013/page/
+Disallow: /blog/2012/page/
+Disallow: /blog/2011/page/
+Disallow: /blog/2010/page/
+Disallow: /blog/2009/page/
+Disallow: /blog/2008/page/
+Disallow: /blog/2007/page/
+Disallow: /blog/2006/page/
+Disallow: /blog/2005/page/
+Disallow: /blog/2004/page/
+Disallow: /blog/2003/page/
+Disallow: /blog/2002/page/
+Disallow: /blog/2001/page/
+Disallow: /blog/2000/page/
+
+# You people suck. Stop clogging my referers.
+Disallow: /blog/2003/07/nipple-raider/
+Disallow: /blog/2007/09/another-movie-to-avoid/
+Disallow: /blog/2012/04/fuck-the-police/
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: YandexImages
+Disallow: /
+
+Sitemap: http://www.jwz.org/blog/sitemap.xml.gz

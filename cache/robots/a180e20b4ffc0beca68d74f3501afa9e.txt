@@ -1,0 +1,40 @@
+1428244442
+http://www.sageone.com
+http://www.sageone.com/robots.txt
+# This virtual robots.txt file was created by the PC Robots.txt WordPress plugin.
+# For more info visit: http://petercoughlin.com/robotstxt-wordpress-plugin/
+
+User-agent: *
+Disallow: /plus-one/
+Disallow: /sage-one-club/
+Disallow: /club-members/
+Disallow: /club-community/
+Disallow: /club-education/
+Disallow: /club-rewards/
+Disallow: /club-products/
+Disallow: */feed/
+Disallow: */trackback/
+Disallow: /*?
+Disallow: /author/
+Disallow: /blog/author/
+Disallow: /blog/category/
+Disallow: /blog/tag/
+Disallow: /category/
+Disallow: /cgi-bin/
+Disallow: /directory/listing/*
+Disallow: /feed/
+Disallow: /find-an-accountant/listing/*/map
+Disallow: /search/
+Disallow: /tag/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/plugins/
+Disallow: /wp-includes/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Allow: /wp-content/uploads/*
+Allow: /wp-content/themes/sageone/*
+Allow: /add-ons/?*
+Sitemap: http://uk.sageone.com/sitemap.xml.gz
+Sitemap: http://uk.sageone.com/sitemap.xml

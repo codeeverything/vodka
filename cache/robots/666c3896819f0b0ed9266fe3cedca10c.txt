@@ -1,0 +1,141 @@
+1428496912
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1428496903
+http://www.bbckids.ca/shows/lilly
+http://www.bbckids.ca/robots.txt
+1428496480
+http://www.bbckids.ca/play
+http://www.bbckids.ca/robots.txt
+1428496479
+http://www.bbckids.ca/cbeebies
+http://www.bbckids.ca/robots.txt
+1428496406
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1428421208
+http://www.bbckids.ca/cbeebies/shows/little-robots
+http://www.bbckids.ca/robots.txt
+1428418725
+http://www.bbckids.ca/cbeebies/shows/kerwhizz
+http://www.bbckids.ca/robots.txt
+1428417585
+http://www.bbckids.ca/cbeebies/shows/bob-builder
+http://www.bbckids.ca/robots.txt
+1428416813
+http://www.bbckids.ca/shows/mona-vampire
+http://www.bbckids.ca/robots.txt
+1428416811
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1428416485
+http://www.bbckids.ca/play
+http://www.bbckids.ca/robots.txt
+1428416485
+http://www.bbckids.ca/cbeebies
+http://www.bbckids.ca/robots.txt
+1428416391
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1428414471
+http://www.bbckids.ca/shows/mona-vampire
+http://www.bbckids.ca/robots.txt
+1428414461
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1428414320
+http://www.bbckids.ca/play
+http://www.bbckids.ca/robots.txt
+1428414320
+http://www.bbckids.ca/cbeebies
+http://www.bbckids.ca/robots.txt
+1428413932
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1428241603
+http://www.bbckids.ca/shows/bradys-beasts
+http://www.bbckids.ca/robots.txt
+1428241067
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1428240746
+http://www.bbckids.ca/cbeebies
+http://www.bbckids.ca/robots.txt
+1428240739
+http://www.bbckids.ca/play
+http://www.bbckids.ca/robots.txt
+1428240703
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1428240161
+http://www.bbckids.ca/cbeebies
+http://www.bbckids.ca/robots.txt
+1428240161
+http://www.bbckids.ca/play
+http://www.bbckids.ca/robots.txt
+1428239871
+http://www.bbckids.ca
+http://www.bbckids.ca/robots.txt
+1427629465
+http://www.bbckids.ca/
+http://www.bbckids.ca/robots.txt
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+#
+# For syntax checking, see:
+# http://www.frobee.com/robots-txt-check
+
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/

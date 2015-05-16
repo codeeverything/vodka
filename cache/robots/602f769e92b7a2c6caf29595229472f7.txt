@@ -1,0 +1,6 @@
+1428236768
+http://everything.yahoo.com
+http://everything.yahoo.com/robots.txt
+User-agent: *
+Disallow: 
+Sitemap: https://everything.yahoo.com/sitemap.xml

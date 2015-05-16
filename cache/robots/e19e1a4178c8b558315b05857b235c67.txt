@@ -1,0 +1,102 @@
+1427891355
+http://ncsa.illinois.edu
+http://ncsa.illinois.edu/robots.txt
+###############################
+#
+# sample robots.txt file for this website 
+#
+# addresses all robots by using wild card *
+#
+
+User-agent: *
+
+#
+# list folders robots are not allowed to index 
+#
+
+Disallow: /News/HN/
+Disallow: /News/HN/01HN/
+Disallow: /News/HN/02HN/
+Disallow: /News/HN/03HN/
+Disallow: /News/HN/04HN/
+Disallow: /News/HN/05HN/
+Disallow: /News/HN/06HN/
+Disallow: /News/Press/Appearances/
+Disallow: /Divisions/
+Disallow: /%20VR/
+Disallow: /95.2/
+Disallow: /About/
+Disallow: /access/
+Disallow: /AccessInclusion/
+Disallow: /ALG/
+Disallow: /alliance/
+Disallow: /alliancepartners/
+Disallow: /Apps/
+Disallow: /Archive/
+Disallow: /Business/
+Disallow: /campusrelations/
+Disallow: /cgi.ncsa.uiuc.edu/
+Disallow: /cgi-bin/
+Disallow: /chautauqua/
+Disallow: /Consulting/
+Disallow: /Cyberia/
+Disallow: /datalink/
+Disallow: /DMV/
+Disallow: /Edu/
+Disallow: /edu/
+Disallow: /EP/
+Disallow: /EVL/
+Disallow: /Expeditions/
+Disallow: /General/
+Disallow: /grids/
+Disallow: /illcoalistion/
+Disallow: /includes/
+Disallow: /Indices/
+Disallow: /IndusProg/
+Disallow: /InformationServers/
+Disallow: /LinuxRevolution/
+Disallow: /Pubs/
+Disallow: /Reed/
+Disallow: /SCD/
+Disallow: /SCMS/
+Disallow: /SDG/
+Disallow: /TechFocus/
+Disallow: /VEG/
+Disallow: /Vis/
+Disallow: /Viz/
+Disallow: /VMR/
+Disallow: /VR/
+Disallow: /Conferences/SC2005/
+Disallow: /Conferences/SC2004/
+Disallow: /Conferences/SC2003/
+Disallow: /Conferences/SC2002/
+Disallow: /UserInfo/
+Disallow: /MEDIA/
+Disallow: /NARA/
+Disallow: /Search/
+Disallow: /dc2k1/
+Disallow: /gog/
+Disallow: /idt/
+Disallow: /mscmc/
+Disallow: /sitemap/
+Disallow: /usr/
+Disallow: /consortium/
+Disallow: /digest/
+Disallow: /News/impacts/
+Disallow: /Outreach/CDC/
+Disallow: /assets/
+Disallow: /test/
+Disallow: /themes/
+Disallow: /ipay/
+Disallow: /sites/
+Disallow: /flopsfever/
+
+User-agent: ia_archiver-web.archive.org
+User-agent: archive.org_bot
+User-agent: ia_archiver
+Disallow:
+
+# 
+# End of robots.txt file
+#
+###############################

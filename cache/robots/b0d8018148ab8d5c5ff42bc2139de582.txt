@@ -1,0 +1,6 @@
+1428422627
+http://rosyjska-torpeda.przegladsportowy.pl
+http://rosyjska-torpeda.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

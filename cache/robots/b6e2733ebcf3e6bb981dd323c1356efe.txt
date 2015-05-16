@@ -1,0 +1,75 @@
+1427735338
+http://www.myrealestateprint.com/Index.aspx
+http://www.myrealestateprint.com/robots.txt
+1427735203
+http://www.myrealestateprint.com
+http://www.myrealestateprint.com/robots.txt
+1427734447
+http://www.myrealestateprint.com
+http://www.myrealestateprint.com/robots.txt
+User-Agent: *
+Allow: /
+Allow: /Content/A_Frame_Signs.aspx
+Disallow: /Content/A_Frame_Stands.aspx
+Disallow: /Content/Books_Catalogs.aspx
+Disallow: /Content/Brochures.aspx
+Disallow: /Content/Business_Card_Boxes.aspx
+Allow: /Content/Business_Cards.aspx
+Allow: /Content/Calendars.aspx
+Disallow: /Content/Canvas.aspx
+Disallow: /Content/Clings.aspx
+Allow: /Content/Coroplast_Signs.aspx
+Disallow: /Content/Corrugated_Boxes.aspx
+Disallow: /Content/Display_Boards.aspx
+Allow: /Content/Door_Hangers.aspx
+Disallow: /Content/Envelopes.aspx
+Allow: /Content/Flyers.aspx
+Disallow: /Content/Foam_Boards.aspx
+Allow: /Content/Greeting_Cards.aspx
+Disallow: /Content/H_Stand_Signs.aspx
+Disallow: /Content/Labels.aspx
+Disallow: /Content/Letterhead_Boxes.aspx
+Allow: /Content/Letterheads.aspx
+Allow: /Content/Magnets.aspx
+Allow: /Content/Mugs.aspx
+Disallow: /Content/Notepads.aspx
+Allow: /Content/Pens.aspx
+Disallow: /Content/Plastics.aspx
+Allow: /Content/Pocket_Folders.aspx
+Allow: /Content/Postcards.aspx
+Disallow: /Content/Posters.aspx
+Allow: /Content/Pull_Up_Banners.aspx
+Disallow: /Content/Tear_Cards.aspx
+Disallow: /Content/Tent_Cards.aspx
+Disallow: /Content/Vinyl_Banners.aspx
+Allow: /Content/X_Frame_Banners.aspx
+Allow: /Content/Pop_Up_Displays.aspx
+Disallow: /App_Code
+Disallow: /Bin
+Disallow: /Controls
+Disallow: /ControlsFront
+Disallow: /Css
+Disallow: /CssFront
+Disallow: /Images
+Disallow: /ImagesFront
+Disallow: /Member
+Disallow: /MemberFront
+Disallow: /Public
+Disallow: /Scripts
+Disallow: /Content/Default.aspx
+Disallow: /Content/About.aspx
+Disallow: /Content/Checklist.aspx
+Disallow: /Content/Contact.aspx
+Disallow: /Content/Guidelines.aspx
+Disallow: /Content/Help.aspx
+Disallow: /Content/Products.aspx
+Disallow: /Content/Register.aspx
+Disallow: /Content/SignIn.aspx
+Disallow: /Content/Samples.aspx
+Disallow: /Content/Templates.aspx
+Disallow: /Content/Turnaround.aspx
+Disallow: /Content/Privacy.aspx
+Disallow: /Content/Terms.aspx
+Disallow: /Content/Return_Policy.aspx
+Disallow: /SignIn.aspx
+Disallow: /SignUp.aspx

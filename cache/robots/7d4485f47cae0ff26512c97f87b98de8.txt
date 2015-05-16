@@ -1,0 +1,45 @@
+1428422192
+https://www.flickr.com
+https://www.flickr.com/robots.txt
+1428421288
+https://www.flickr.com/photos/pulselive
+https://www.flickr.com/robots.txt
+1428234661
+https://www.flickr.com/20under20
+https://www.flickr.com/robots.txt
+1428234544
+https://www.flickr.com
+https://www.flickr.com/robots.txt
+1428234517
+https://www.flickr.com/photos/parksdh
+https://www.flickr.com/robots.txt
+1427819514
+https://www.flickr.com/photos/matthewbergman
+https://www.flickr.com/robots.txt
+User-agent: Twitterbot
+Disallow: /report_abuse.gne
+Disallow: /abuse
+Disallow: /signin
+Disallow: /search
+Disallow: /groups/10millionphotos
+Disallow: /photos/youpy
+Disallow: /photos/i_love_u_get_away_from_me/
+Disallow: /faves-i_love_u_get_away_from_me
+Disallow: /photos/gbachelie
+
+User-agent: *
+Disallow: /gp/
+Disallow: /report_abuse.gne
+Disallow: /abuse
+Disallow: /signin
+Disallow: /search
+Disallow: /groups/10millionphotos
+Disallow: /photos/youpy
+Disallow: /photos/i_love_u_get_away_from_me/
+Disallow: /faves-i_love_u_get_away_from_me
+Disallow: /photos/gbachelie
+User-agent: bingbot
+Crawl-delay: 5
+User-agent: msnbot
+Crawl-delay: 5
+

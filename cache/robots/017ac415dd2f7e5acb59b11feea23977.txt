@@ -1,0 +1,6 @@
+1428244677
+http://laminators-review.toptenreviews.com
+http://laminators-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

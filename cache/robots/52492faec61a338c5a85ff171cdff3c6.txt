@@ -1,0 +1,12 @@
+1427822992
+http://sploid.gizmodo.com
+http://sploid.gizmodo.com/robots.txt
+1427819465
+http://sploid.gizmodo.com/
+http://sploid.gizmodo.com/robots.txt
+1427805437
+http://sploid.gizmodo.com/
+http://sploid.gizmodo.com/robots.txt
+User-agent: *
+Disallow:
+Sitemap: http://sploid.gizmodo.com/sitemap.xml

@@ -1,0 +1,1648 @@
+1428420236
+http://www.typer.przegladsportowy.pl
+http://www.typer.przegladsportowy.pl/robots.txt
+
+
+
+
+
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>sport, pilka nożna, siatkowka, przeglad sportowy</title>
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+<link rel="canonical" href="http://www.typer.przegladsportowy.pl/robots.txt"/>
+
+
+    
+
+
+
+<link rel="alternate" href="http://m.typer.przegladsportowy.pl/robots.txt"/>
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<script type="text/javascript" src="http://www.przegladsportowy.pl/jsb/28395691/bundles/jQueryMain.js" ></script>
+<script type="text/javascript" src="http://www.przegladsportowy.pl/jsb/28395691/bundles/commonScript.js" ></script>
+
+<script type="text/javascript" src='http://www.przegladsportowy.pl/resources/common-resources/js/jQuery/jquery.cookies.28396043.js'></script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.przegladsportowy.pl/jsb/28395691/bundles/specificScript.js" ></script>
+
+
+
+
+<link rel="stylesheet" href='http://www.przegladsportowy.pl/resources/front/style.28396043.css' type="text/css" media="screen">
+
+<script type="text/javascript" >
+    $(document).ready(function () {
+        
+        jCMS_loginBox();
+    });
+
+</script>
+
+
+
+<!--[if lte IE 11]>
+<link rel="stylesheet" href='http://www.przegladsportowy.pl/resources/front/styleie.28396043.css' type="text/css" media="screen">
+<script type="text/javascript" src='http://www.przegladsportowy.pl/resources/common-resources/js/html5shiv.28396043.js' async></script>
+<script type="text/javascript" src='http://www.przegladsportowy.pl/resources/common-resources/js/selectivizr.28396043.js' async></script>
+
+<![endif]-->
+
+<script type="text/javascript">
+    jCMS_domainName = 'http://www.przegladsportowy.pl';
+//    jCMS_ssoCookiesChecker();
+//    jCMS_setHighChartGradient();
+    $(function() {
+        $("img.lazy").lazyload({
+            failure_limit : 40,
+            effect : "fadeIn",
+            threshold : 300,
+            data_attribute: "src"
+        });
+    });
+    $(document).ready(function () {
+        jCMS_mainMenuHangings($("nav[class=Top-Menu]"));
+    });
+
+</script>
+
+
+
+<script type="text/javascript">
+    
+    
+    
+    
+
+    
+</script>
+
+
+
+
+
+    
+    
+        
+            
+        
+
+        
+            
+                
+                
+                
+
+            
+                        
+                        
+                            
+                        
+                        
+                        
+                            
+                            
+                            
+                        
+                            
+                            
+                        
+                    
+        
+    
+
+
+
+    
+
+
+
+    <script type="text/javascript">/* <![CDATA[ */
+
+    
+        
+        
+            var pp_gemius_identifier = 'bPpFBEbz9SeDN8bp_abnvaPN7zduMaciGhVJghoPG77.L7';
+        
+    
+    
+    
+    
+    
+    
+    
+    onetAds={
+        'target': 'rasp_przegladsportowy/exclusive:pozostale',
+        'autoslot': 1,
+        'async': 1
+        ,
+        'keywords': ['pozostale']
+        
+        ,
+        
+        'sgn_cookie' : 1,
+        'cookieInfo' : 0
+    };
+    document.write('<scr'+'ipt type="text/javascript" src="http://lib.onet.pl/s.csr/init/init.js?v='+(new Date()).getFullYear()+(new Date()).getMonth()+'"></scr'+'ipt>');
+    /* ]]> */
+    </script>
+
+
+    <link rel="icon" href='http://www.przegladsportowy.pl/raspFavicon.ico' type="image/x-icon">
+
+    
+
+    
+
+
+
+
+    <!-- META TAGS -->
+    
+        
+            
+            
+
+            
+            
+                <meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"  />
+            
+        
+    
+        
+            
+            
+
+            
+                
+                <meta name="title" content="sport, pilka nożna, siatkowka, przeglad sportowy"/>
+            
+            
+        
+    
+        
+            
+                <meta property="og:title" content="80. Plebiscyt na 10 Najlepszych Sportowców Polski 2014 "/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="description" content="Sport. Największa strona sportowa w Polsce - oficjalny serwis Przeglądu Sportowego. Najnowsze sportowe informacje, wyniki na żywo, tabele, statystyki, relacje live."  />
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="decorator" content="static_content"  />
+            
+        
+    
+        
+            
+                <meta property="og:description" content="Biorę udział w 80. Plebiscycie na 10 Najlepszych Sportowców Polski 2014 roku. Wybierz ze mną 10 Najlepszych Sportowców 2014 roku!"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+                <meta property="og:image" content="http://static.przegladsportowy.pl/2014/11/27/635526918241120000.jpg"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+                <meta property="og:url" content="http://plebiscyt.przegladsportowy.pl/"/>
+            
+            
+
+            
+            
+        
+    
+
+
+
+
+
+</head>
+<body class="wprzerwie">
+
+
+
+<noscript><img height="1" width="1" src="http://kropka.onet.pl/_s/kropka/1?DV=rasp_przegladsportowy/pozostale" alt="" /></noscript>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    
+    
+    
+    
+    
+    
+    _gaq.push(['_setAccount', 'UA-6198404-1']);
+    _gaq.push(['_setDomainName', 'przegladsportowy.pl']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_setAllowAnchor', true]);
+
+    
+
+    
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+
+    $.cookies.del('autoRefresh');
+</script>
+
+<!-- Google Code for Ca&#322;a strona - 365 dni Remarketing List -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 954771765;
+    var google_conversion_language = "en";
+    var google_conversion_format = "3";
+    var google_conversion_color = "ffffff";
+    var google_conversion_label = "tn0sCIPN2gMQtdKixwM";
+    var google_conversion_value = 0;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt=""
+             src="http://www.googleadservices.com/pagead/conversion/954771765/?label=tn0sCIPN2gM
+QtdKixwM&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = "http://stats.asp24.pl/js/click.4.js";
+        document.body.appendChild(script);
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="ALL_BANNER_TOP" class="Region Rgn_275 ">
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <div class="Block-Banner" id="banner262">
+        <script type="text/javascript">
+
+            
+            document.write('<div class="onet-ad" id="onet-ad-top"></div>');
+            
+
+        </script>
+
+    </div>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+</div>
+
+<div id="pagewrap">
+
+    
+
+
+
+
+
+
+
+
+<div id="ALL_HEADER" class="Region Rgn_14 ">
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        <a href="http://www.przegladsportowy.pl" class="pageLogo"><img src="http://static.przegladsportowy.pl/2014/07/25/635418795535170000.png" alt="Przegląd Sportowy" /></a>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<div  id='articleList221' class="issueCover" >
+
+        
+
+            
+
+
+                <span class="issueMini">
+                    <span class="icolup"></span>
+
+
+                                
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+    
+    
+
+        <img
+                
+                    
+                    
+                        src="http://www.przegladsportowy.pl/m/crop/115/0/przegladsportowy/635639560515054002.jpg"
+                        class=""
+                    
+                
+
+                alt="Okładki &#034;Przeglądu Sportowego&#034;"
+                title="Okładki &#034;Przeglądu Sportowego&#034;"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                    <span class="ipadIssueCover"></span>
+
+                </span>
+
+
+
+
+
+
+            <div class="issueBig" style="display: none;">
+                <a class="img" href="http://www.przegladsportowy.pl/skarb-kibica,okladka-przegladu-sportowego,galeria,1,280630,1020.html" >
+                    
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+    
+    
+
+        <img
+                
+                    
+                    
+                        src="http://www.przegladsportowy.pl/m/Repozytorium.Podglad.aspx/390/0/przegladsportowy/635639560515054002.jpg"
+                        class=""
+                    
+                
+
+                alt="Okładki &#034;Przeglądu Sportowego&#034;"
+                title="Okładki &#034;Przeglądu Sportowego&#034;"
+            
+                border="0"
+                />
+        
+
+        
+    
+    
+
+
+                </a>
+                <a class="seeIssue" href="http://www.przegladsportowy.pl/skarb-kibica,okladka-przegladu-sportowego,galeria,1,280630,1020.html">Zobacz wszystkie okładki</a>
+                <a class="seeIssue" href="http://www.przegladsportowy.pl/wydania-cyfrowe "/>Kup wydanie cyfrowe</a>
+                <span class="close">X</span>
+            </div>
+
+
+        
+
+
+</div>
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <div class="Block-Banner" id="banner233">
+        <script type="text/javascript">
+
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-belkagorna"></div>');
+            
+
+        </script>
+
+    </div>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        <ul class="ShortMenu newHeader">
+<!--<li><a style="background: #800000; color: #FFF;" href="http://plebiscyt.przegladsportowy.pl/" target="blank">Plebiscyt PS</a></li>-->
+<li><a href="http://www.typer.przegladsportowy.pl/" target="blank">Typer</a></li>
+<li><a href="http://www.przegladsportowy.pl/subskrypcja.html" target="blank">Newsletter</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sport-TV-PROGRAM-TV,artykul,300026,1,1010.html">Program TV</a></li>
+<li><a href="http://www.przegladsportowy.pl/kalendarz-imprez,kalendarz-imprez-sportowych-2015,artykul,535657,1,692.html">Kalendarz imprez</a></li>
+<li><a href="http://nazywo.przegladsportowy.pl/ls5/livescore.jsp?partner=przegladsportowy">Wyniki live</a></li>
+<!--<li><a href="http://fun.fakt.pl">Ukryteeeee</a></li>-->
+<li><a href="http://blogi.przegladsportowy.pl">Blogi</a></li>
+<li><a href="http://www.przegladsportowy.pl/wydania-cyfrowe">Wydania cyfrowe</a></li>
+<li><a href="http://bilety.przegladsportowy.pl/">Bilety</a></li>
+
+</ul>
+
+<script>
+$(document).ready(function(){
+$(".issueCover").addClass("headerNew");
+});
+
+</script>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+<ul class="navbar topMenu" id="mainNavbar">
+    
+        
+        <li id="item_13" class="menuItem1">
+            <a href="http://www.przegladsportowy.pl/" >strona główna</a>
+        </li>
+    
+        
+        <li id="item_1" class="menuItem2">
+            <a href="http://www.przegladsportowy.pl/pilka-nozna,kategoria,279.html" >Piłka nożna</a>
+        </li>
+    
+        
+        <li id="item_6665" class="menuItem3">
+            <a href="http://www.przegladsportowy.pl/pilka-nozna/transfery,kategoria,970.html" >Transfery</a>
+        </li>
+    
+        
+        <li id="item_2" class="menuItem4">
+            <a href="http://www.przegladsportowy.pl/siatkowka,kategoria,282.html" >Siatkówka</a>
+        </li>
+    
+        
+        <li id="item_17" class="menuItem5">
+            <a href="http://www.przegladsportowy.pl/zuzel,kategoria,281.html" >Żużel</a>
+        </li>
+    
+        
+        <li id="item_14" class="menuItem6">
+            <a href="http://www.przegladsportowy.pl/tenis,kategoria,289.html" >Tenis</a>
+        </li>
+    
+        
+        <li id="item_22" class="menuItem7">
+            <a href="http://www.przegladsportowy.pl/pilka-reczna,kategoria,284.html" >Piłka ręczna</a>
+        </li>
+    
+        
+        <li id="item_21" class="menuItem8">
+            <a href="http://www.przegladsportowy.pl/koszykowka,kategoria,280.html" >Koszykówka</a>
+        </li>
+    
+        
+        <li id="item_6454" class="menuItem9">
+            <a href="http://czasnabieganie.pl" >Czas na bieganie </a>
+        </li>
+    
+        
+        <li id="item_7283" class="menuItem10">
+            <a href="http://zdrowie.przegladsportowy.pl/" >Zdrowie</a>
+        </li>
+    
+        
+        <li id="item_169" class="menuItem11">
+            <a href="http://wideo.przegladsportowy.pl" >Wideo</a>
+        </li>
+    
+        
+        <li id="item_86" class="menuItem12">
+            <a href="http://www.przegladsportowy.pl/motosporty,kategoria,286.html" >Motosporty</a>
+        </li>
+    
+        
+        <li id="item_18" class="menuItem13">
+            <a href="http://www.przegladsportowy.pl/boks,kategoria,290.html" >Boks</a>
+        </li>
+    
+        
+        <li id="item_89" class="menuItem14">
+            <a href="http://www.przegladsportowy.pl/lekkoatletyka,kategoria,287.html" >Lekkoatletyka</a>
+        </li>
+    
+        
+        <li id="item_20" class="menuItem15">
+            <a href="http://www.przegladsportowy.pl/kolarstwo,kategoria,288.html" >Kolarstwo</a>
+        </li>
+    
+        
+        <li id="item_104" class="menuItem16">
+            <a href="http://www.przegladsportowy.pl/plywanie,kategoria,421.html" >Pływanie</a>
+        </li>
+    
+        
+        <li id="item_83" class="menuItem17">
+            <a href="http://www.przegladsportowy.pl/sporty-zimowe,kategoria,285.html" >Sporty zimowe</a>
+        </li>
+    
+        
+        <li id="item_92" class="menuItem18">
+            <a href="http://www.przegladsportowy.pl/sporty-walki,kategoria,304.html" >Sporty walki</a>
+        </li>
+    
+        
+        <li id="item_101" class="menuItem19">
+            <a href="http://www.przegladsportowy.pl/sporty-wodne,kategoria,402.html" >Sporty wodne</a>
+        </li>
+    
+        
+        <li id="item_584" class="menuItem20">
+            <a href="http://www.przegladsportowy.pl/inne-dyscypliny/podnoszenie-ciezarow,kategoria,460.html" >Podnoszenie ciężarów</a>
+        </li>
+    
+        
+        <li id="item_593" class="menuItem21">
+            <a href="http://www.przegladsportowy.pl/inne-dyscypliny/tenis-stolowy,kategoria,857.html" >Tenis stołowy</a>
+        </li>
+    
+        
+        <li id="item_7220" class="menuItem22">
+            <a href="http://www.przegladsportowy.pl/szachy,kategoria,12941.html" >Szachy</a>
+        </li>
+    
+        
+        <li id="item_599" class="menuItem23">
+            <a href="http://www.przegladsportowy.pl/inne-dyscypliny/rugby,kategoria,979.html" >Rugby</a>
+        </li>
+    
+        
+        <li id="item_590" class="menuItem24">
+            <a href="http://www.przegladsportowy.pl/inne-dyscypliny/futbol-amerykanski,kategoria,751.html" >Futbol Amerykański</a>
+        </li>
+    
+        
+        <li id="item_587" class="menuItem25">
+            <a href="http://www.przegladsportowy.pl/inne-dyscypliny/badminton,kategoria,476.html" >Badminton</a>
+        </li>
+    
+        
+        <li id="item_580" class="menuItem26">
+            <a href="http://www.przegladsportowy.pl/inne-dyscypliny/golf,kategoria,420.html" >Golf</a>
+        </li>
+    
+        
+        <li id="item_596" class="menuItem27">
+            <a href="http://www.przegladsportowy.pl/inne-dyscypliny/hokej-na-trawie,kategoria,939.html" >Hokej na trawie</a>
+        </li>
+    
+        
+        <li id="item_95" class="menuItem28">
+            <a href="http://www.przegladsportowy.pl/inne-dyscypliny,kategoria,307.html" >Inne dyscypliny</a>
+        </li>
+    
+        
+        <li id="item_3202" class="menuItem29">
+            <a href="http://www.przegladsportowy.pl/igrzyska-olimpijskie,kategoria,969.html" >Igrzyska olimpijskie</a>
+        </li>
+    
+        
+        <li id="item_122" class="menuItem30">
+            <a href="http://www.przegladsportowy.pl/mistrzowie-sportu,kategoria,845.html" >Plebiscyt PS</a>
+        </li>
+    
+        
+        <li id="item_6070" class="menuItem31">
+            <a href="http://plebiscyt-25-lecia.przegladsportowy.pl/" >Sportowy sukces 25-lecia</a>
+        </li>
+    
+        
+        <li id="item_133" class="menuItem32">
+            <a href="http://www.przegladsportowy.pl/felietony,kategoria,920.html" >Felietony</a>
+        </li>
+    
+        
+        <li id="item_3237" class="menuItem33">
+            <a href="http://blogi.przegladsportowy.pl/" >Blogi</a>
+        </li>
+    
+        
+        <li id="item_166" class="menuItem34">
+            <a href="http://www.przegladsportowy.pl/wyniki,kategoria,1057.html" >Wyniki</a>
+        </li>
+    
+        
+        <li id="item_3239" class="menuItem35">
+            <a href="http://wiki.przegladsportowy.pl/" >Encyklopedia sportowa</a>
+        </li>
+    
+</ul>
+
+
+
+
+
+
+<script  type="text/javascript">
+
+    $(document).ready(function () {
+        $('#mainNavbar').flexMenu();
+        var countTab = 0;
+        for (var i = 1; i <= countTab; i++) {
+            $("#subNavbar_" + i).flexMenu();
+        }
+        var tab = [];
+
+        for (var i = 0; i < tab.length; i++) {
+            markSelectedMenuItems(tab[i]);
+        }
+
+        markMoreSelectedMenuItems();
+    });
+</script>
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        		<div class="topSearchMdenu newHeader">
+			<!--<ul class="miniMenu">
+				<li><a href="http://www.przegladsportowy.pl/newsletter.html">Newsletter</a></li>
+				<li><a href="http://www.przegladsportowy.pl/kontakt.html">Kontakt</a></li>
+				<li><a href="http://feeds.feedburner.com/WiadomociPrzegladsportowypl">RSS</a></li>
+			</ul>-->
+		        
+
+			<div class="search" id="searchField">
+<div class="searchbut" onclick="showBox()"></div>
+<div id="search1">
+
+<form id="cse-search-box" method="GET" action="http://www.przegladsportowy.pl/szukaj">
+<input type="text"  id="inpsearch" size="21" name="q">
+<input type="hidden" value="010228074649092228461:k1rfbqi20-m" name="cx">
+<input type="hidden" value="UTF-8" name="ie">
+<input type="submit" value="Szukaj" class="searchbutton" name="sa" onclick="if(inpsearch.value=='szukaj' || inpsearch.value=='') {return false;} else { return true;}">
+</form>
+
+<!--<form id="cse-search-box" >
+				<input type="radio" style="display: none;" checked="checked" value="przegladsportowy.pl" name="sitesearch">
+				<input type="hidden" value="010228074649092228461:k1rfbqi20-m" name="cx">
+				<input type="hidden" value="FORID:11;NB:1" name="cof">
+				<input type="hidden" value="ISO-8859-2" name="ie">
+				<input type="text" value="szukaj" onblur="if(this.value=='') this.value='szukaj';" onfocus="if(this.value=='szukaj') this.value='';" id="inpsearch" size="21" name="q">
+				<input type="submit" value="" class="searchbut">
+			</form>-->
+
+</div></div>
+
+		</div>
+
+<script>
+
+var toggle=false;
+
+function showBox(){
+	if(toggle){
+		$(".search input#inpsearch").css({"visibility":"hidden","width":"0px"});
+		$(".topSearchMdenu").css("background-color","transparent");
+                $(".newHeader .search .searchbutton").css({"visibility":"hidden","width":"0px"});
+		toggle = false;
+	}
+	else{
+		$(".search input#inpsearch").css({"visibility":"visible","width":"175px"});
+		$(".topSearchMdenu").css("background-color","#e81a0e");
+$(".newHeader .search .searchbutton").css({"visibility":"visible","width":"60px"});
+		toggle = true;
+	}
+}
+
+
+</script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+<!-- SUBMENU MENU BLOCK -->
+<div id="shortcut">
+    <ul class="shortcutMenu">
+        <li class="first">Na Skróty</li>
+        
+            <li id="shortcutMenu_item_5945">
+                <a href="http://www.przegladsportowy.pl/wyniki,kategoria,1057.html" >WYNIKI</a>
+            </li>
+
+        
+            <li id="shortcutMenu_item_7215">
+                <a href="http://www.przegladsportowy.pl/inne-dyscypliny,top-10-wydarzen-tygodnia-borussia-bayern-final-four-siatkarek,artykul,556500,1,307.html" >Nie przegap! Sportowe wydarzenia tygodnia</a>
+            </li>
+
+        
+            <li id="shortcutMenu_item_6951">
+                <a href="http://www.przegladsportowy.pl/tempo-magazyn,kategoria,12788.html" >Magazyn TEMPO</a>
+            </li>
+
+        
+            <li id="shortcutMenu_item_6954">
+                <a href="http://www.przegladsportowy.pl/mecz-magazyn,kategoria,12789.html" >Magazyn MECZ</a>
+            </li>
+
+        
+            <li id="shortcutMenu_item_6785">
+                <a href="http://www.przegladsportowy.pl/wschodzacy-bialystok-superliga,kategoria,12757.html" ><b>Tenis stołowy – Superliga</b></a>
+            </li>
+
+        
+            <li id="shortcutMenu_item_6818">
+                <a href="http://www.przegladsportowy.pl/polish-soccer-skills,kategoria,12759.html" >Polish Soccer Skills</a>
+            </li>
+
+        
+            <li id="shortcutMenu_item_6925">
+                <a href="http://junior.przegladsportowy.pl/" >JUNIOR</a>
+            </li>
+
+        
+    </ul>
+</div>
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <div class="Block-Banner" id="banner235">
+        <script type="text/javascript">
+
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-pasekrozwijany"></div>');
+            
+
+        </script>
+
+    </div>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+<nav class="menusticky">
+    <ul class="navbar">
+    
+        
+        <li id="item_302" class="menuItem1">
+            <a href="http://www.przegladsportowy.pl/" >strona główna</a>
+        </li>
+    
+        
+        <li id="item_47" class="menuItem2">
+            <a href="http://www.przegladsportowy.pl/pilka-nozna,kategoria,279.html" >Piłka nożna</a>
+        </li>
+    
+        
+        <li id="item_3196" class="menuItem3">
+            <a href="http://www.przegladsportowy.pl/pilka-nozna/transfery,kategoria,970.html" >Transfery</a>
+        </li>
+    
+        
+        <li id="item_6935" class="menuItem4">
+            <a href="http://www.przegladsportowy.pl/sporty-zimowe,kategoria,285.html" >Zima</a>
+        </li>
+    
+        
+        <li id="item_50" class="menuItem5">
+            <a href="http://www.przegladsportowy.pl/siatkowka,kategoria,282.html" >Siatkówka</a>
+        </li>
+    
+        
+        <li id="item_6075" class="menuItem6">
+            <a href="http://www.przegladsportowy.pl/zuzel,kategoria,281.html" >Żużel</a>
+        </li>
+    
+        
+        <li id="item_3252" class="menuItem7">
+            <a href="http://wideo.przegladsportowy.pl/" >Wideo</a>
+        </li>
+    
+        
+        <li id="item_6792" class="menuItem8">
+            <a href="http://typer.przegladsportowy.pl/" >Typer PS</a>
+        </li>
+    
+     </ul>
+
+    <div class="sharenavi">
+        <a  class="facebookIco" target="blank" title="Przegląd Sportowy na Facebook" href="https://www.facebook.com/przegladsportowy"></a>
+        <a  class="twitterIco" target="blank" title="Przegląd Sportowy na Twitter" href="https://twitter.com/przeglad"></a>
+        <a  class="gplusIco" target="blank" title="Przegląd Sportowy na Google Plus" href="https://plus.google.com/105093181364229254127?prsrc=5"></a>
+        <a  class="instaIco" target="blank" title="Przegląd Sportowy na Instagram" href="http://instagram.com/przeglad"></a>
+        <a  class="youtIco" target="blank" title="Przegląd Sportowy na Youtube" href="https://www.youtube.com/user/PrzegladSportowy"></a>
+        <a  class="mailIco" target="blank" title="Skontaktuj się z nami" href="http://www.przegladsportowy.pl/kontakt.html"></a>
+        <a  class="rssIco" target="blank" title="Przegląd Sportowy RSS" href="http://feeds.feedburner.com/WiadomociPrzegladsportowypl"></a>
+        <a href="#" id="gototop" title="Idź do góry">&#9650;</a>
+        <a href="#" id="removeMenu" title="Zamknij menu"></a>
+    </div>
+
+</nav>
+
+<script  type="text/javascript">
+    $(document).ready(function () {
+        fetchSubmenu("view/regionitems/menu/sticky_menu_leaf", $("nav[class=menusticky]"));
+        markSelectedMenu("");
+        markSelectedSubMenu("");
+    });
+
+</script>
+
+    
+    
+
+    
+</div>
+
+    <div class="staticContent">
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="STATIC_CONTENT" class="Region Rgn_361 ">
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        <script type="text/javascript">
+    var videoHP2 = new Swiper('.mundial14 .swiper-container',{
+        slidesPerView: 11,
+        loop: false,
+        calculateHeight: true
+    })
+    $('.mundial14 .swipePrev').on('click', function(e){
+        e.preventDefault()
+        videoHP2.swipePrev()
+    })
+    $('.mundial14 .swipeNext').on('click', function(e){
+        e.preventDefault()
+        videoHP2.swipeNext()
+    })
+
+    var videoHP3 = new Swiper('.blogrio .swiper-container',{
+        loop: true,
+        calculateHeight: true
+    })
+    $('.blogrio .swipePrev').on('click', function(e){
+        e.preventDefault()
+        videoHP3.swipePrev()
+    })
+    $('.blogrio .swipeNext').on('click', function(e){
+        e.preventDefault()
+        videoHP3.swipeNext()
+    })
+
+
+</script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+</div>
+        
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<footer id="ALL_FOOTER" class="Region Rgn_12 pageFooter">
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <div class="Block-Banner" id="banner11529">
+        <script type="text/javascript">
+
+            
+            document.write('<div class="onet-ad" id="onet-ad-flat-widget"></div>');
+            
+
+        </script>
+
+    </div>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        <div class="whiteContainer">
+<ul>
+<li class="main-footer">
+<div id="logo"><a href="http://www.przegladsportowy.pl">Przegląd Sportowy</a></div>
+<ul>
+
+<li><a href="http://www.przegladsportowy.pl/">Strona główna</a></li>
+<li><a href="http://www.przegladsportowy.pl/newsletter.html">Newsletter</a></li>
+<li><a target="blank" href="http://www.ringieraxelspringer.pl/reklama/przegladsportowypl">Reklama</a></li>
+<li><a href="http://www.przegladsportowy.pl/Regulaminy,artykul,107564,1,1013.html">Regulaminy</a></li>
+<li><a href="http://cookies.asp24.pl/">Cookies</a></li>
+<li><a href="http://www.przegladsportowy.pl/Polecamy,artykul,107566,1,1013.html">Polecamy</a></li>
+<li><a href="http://www.przegladsportowy.pl/kontakt.html">Kontakt</a></li>
+</ul>
+<div>
+<div id="fb"><a href="https://www.facebook.com/przegladsportowy">Przegląd Sportowy na Facebook</a></div>
+<div id="plus"><a href="https://plus.google.com/105093181364229254127/posts">Przegląd Sportowy na Google +</a></div>
+<div id="rss"><a href="http://feeds.feedburner.com/sports-pl?format=xml">RSS</a></div>
+</div>
+</li>
+<li><ul>
+<li><a href="http://www.przegladsportowy.pl/Inne-dyscypliny-Silowanie-na-reke,kategoria,440.html">Armwrestling</a></li>
+<li><a href="http://www.przegladsportowy.pl/Inne-dyscypliny-Badminton,kategoria,476.html">Badminton</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-zimowe-Biathlon,kategoria,851.html">Biathlon</a></li>
+<li><a href="http://biegi-narciarskie.przegladsportowy.pl/Sporty-zimowe-Biegi-narciarskie,kategoria,301.html">Biegi narciarskie</a></li>
+<li><a href="http://boks.przegladsportowy.pl/Boks,kategoria,290.html">Boks</a></li>
+<li><a href="http://f1.przegladsportowy.pl/Motosporty-Formula-1,kategoria,474.html">Formuła 1</a></li>
+<li><a href="http://www.przegladsportowy.pl/Inne-dyscypliny-Golf,kategoria,420.html">Golf</a></li>
+<li><a href="http://www.przegladsportowy.pl/Inne-dyscypliny-Hokej-na-trawie,kategoria,939.html">Hokej na trawie</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-walki-Judo,kategoria,993.html">Judo</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-wodne-Kajakarstwo,kategoria,961.html">Kajakarstwo</a></li>
+<li><a href="http://kolarstwo.przegladsportowy.pl/Kolarstwo,kategoria,288.html">Kolarstwo</a></li>
+<li><a href="http://koszykowka.przegladsportowy.pl/Koszykowka,kategoria,280.html">Koszykówka</a></li>
+<li><a href="http://lekkoatletyka.przegladsportowy.pl/Lekkoatletyka,kategoria,287.html">Lekkoatletyka</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-zimowe/Lyzwiarstwo,kategoria,387.html">Łyżwiarstwo figurowe</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-zimowe/Lyzwiarstwo,kategoria,387.html">Łyżwiarstwo szybkie</a></li>
+<li><a href="http://www.przegladsportowy.pl/Pilka-nozna/MLS,kategoria,429.html">MLS</a></li>
+<li><a href="http://www.przegladsportowy.pl/Motosporty,kategoria,286.html">Motosporty</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-zimowe/Narciarstwo,kategoria,301.html">Narciarstwo alpejskie</a></li>
+<li><a href="http://www.przegladsportowy.pl/Koszykowka/NBA,kategoria,299.html">NBA</a></li>
+<li><a href="http://www.przegladsportowy.pl/Hokej/NHL,kategoria,305.html">NHL</a></li>
+<li><a href="http://www.przegladsportowy.pl/Pilka-nozna,kategoria,279.html">Piłka nożna</a></li>
+<li><a href="http://www.przegladsportowy.pl/Pilka-reczna,kategoria,284.html">Piłka ręczna</a></li>
+<li><a href="http://www.przegladsportowy.pl/Plywanie,kategoria,421.html">Pływanie</a></li>
+<li><a href="http://www.przegladsportowy.pl/Inne-dyscypliny/Podnoszenie-ciezarow,kategoria,460.html">Podnoszenie ciężarów</a></li>
+<li><a href="http://www.przegladsportowy.pl/Motosporty/Rajdy,kategoria,352.html">Rajdy samochodowe</a></li>
+<li><a href="http://www.przegladsportowy.pl/Siatkowka,kategoria,282.html">Siatkówka</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-zimowe/Skoki-narciarskie,kategoria,300.html">Skoki narciarskie</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-zimowe,kategoria,285.html">Snowboard</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-walki,kategoria,304.html">Sporty walki</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-zimowe,kategoria,285.html">Sporty zimowe</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-walki,kategoria,304.html">Szermierka</a></li>
+<li><a href="http://www.przegladsportowy.pl/Tenis,kategoria,289.html">Tenis</a></li>
+<li><a href="http://www.przegladsportowy.pl/Inne-dyscypliny-Tenis-stolowy,kategoria,857.html">Tenis stołowy</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-wodne-Wioslarstwo,kategoria,962.html">Wioślarstwo</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-walki,kategoria,304.html">Zapasy</a></li>
+<li><a href="http://www.przegladsportowy.pl/Sporty-wodne-Zeglarstwo,kategoria,963.html">Żeglarstwo</a></li>
+<li><a href="http://www.przegladsportowy.pl/Zuzel,kategoria,281.html">Żużel</a></li>
+</ul></li>
+</ul>
+
+<div id="copyrights">&copy; 2008 - 2015 Ringier Axel Springer Polska. Wszelkie prawa zastrzeżone.</div>
+
+</div>
+<ul id="serwisy">
+<li><a href="http://www.przegladsportowy.pl/" title="Sport. Wiadomości sportowe, relacje na żywo, wszystkie dyscypliny." target="_blank">Sport</a></li>
+<li><a href="http://www.czasnabieganie.pl/" title="Czas na bieganie" target="_blank">Czas na bieganie</a></li>
+<li><a href="http://www.auto-swiat.pl/" title="Auto Świat" target="_blank">Auto Świat</a></li>
+<li><a href="http://www.wprzerwie.pl" title="filmiki, zdjęcia, sportowcy, zadymy" target="_blank">Wprzerwie.pl</a></li>
+<li><a href="http://www.newsweek.pl" title="Newsweek Polska. Opinie, komentarze. " target="_blank">Newsweek</a></li>
+<li><a href="http://www.komputerswiat.pl" title="Komputery, download, testy sprzętu" target="_blank">Komputer Świat</a></li>
+<li><a href="http://www.topgear.com.pl" title="Top Gear" target="_blank">Top Gear</a></li>
+<li><a href="http://www.fakt.pl" title="plotki, ciekawostki, fakty z życia gwiazd" target="_blank">Fakt</a></li>
+<li><a href="http://kuponyrabatowe.fakt.pl/" title="Kupony Rabatowe" target="_blank">Kupony Rabatowe</a></li>
+<li><a href="http://www.ofeminin.pl" title="Ofeminin" target="_blank">Ofeminin</a></li>
+<li><a href="http://www.literia.pl/#utm_source=przegladsportowy.pl&amp;utm_medium=footer_link&amp;utm_campaign=footer_link" title="Literia" target="_blank">Literia</a></li>
+<li><a href="http://www.forbes.pl" title="Forbes.pl " target="_blank">Forbes</a></li>
+<li><a href="http://www.shopalike.pl/" title="shopalike.pl" target="_blank">shopalike.pl</a></li>
+<li><a href="http://onettechnologie.pl" title="Usługi IT" target="_blank">Usługi IT</a></li>
+</ul>
+
+<div class="politicfoot">
+Żadna część jak i całość utworów umieszczonych na witrynie nie może być powielana i rozpowszechniana w jakikolwiek sposób (w tym także elektroniczny, mechaniczny lub inny), na jakimkolwiek polu eksploatacji i w jakiejkolwiek formie, włącznie z umieszczeniem w Internecie - bez pisemnej zgody Ringier Axel Springer Polska Sp. z o.o. Jakiekolwiek użycie lub wykorzystanie utworów w całości lub w części bez zgody Ringier Axel Springer Sp. z o.o. lub autorów stanowi naruszenie prawa, jest zabronione pod groźbą kary i może być ścigane prawnie.
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        <style>
+.videoBlock .header {background:transparent}
+</style>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        <script type="text/javascript" src="http://cookies.przegladsportowy.pl/resources/js/min.cookies.js"></script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        <style>
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|PT+Sans:400,700,400italic,700italic|Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic|PT+Sans+Caption:400,700&subset=latin-ext);
+</style>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        <style>
+html.cat_12779 body{background:url("http://static.przegladsportowy.pl/2014/12/18/635545005037290000.jpg") #130a4d no-repeat top center; background-attachment: fixed;
+
+</style>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
+    
+    
+        	<style>
+.mecz { font-family:Arial, Helvetica, sans-serif;
+	min-width:100%;
+	margin: 0 auto 20px auto;
+}
+.mecz h2 {
+	color: #c5272d;
+	font-size: 28px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 15px;
+}
+.mecz_content {
+	height:auto;
+	background:#efefef;
+	height: auto;
+	padding: 10px;
+}
+.mecz_logo {
+	float: left;
+	margin-right: 10px;
+}
+.mecz_left {
+	float: left;
+	width:100%
+}
+.mecz_okladki {
+	background: url(http://static.przegladsportowy.pl/2014/10/16/635490420638550000.png);
+	padding: 10px;
+}
+.mecz_kup {
+	float: left;
+	margin-top: 20px;
+	text-align: center;
+	width: 100%
+}
+.mecz_kup img {
+	margin: 0 0 10px 0;
+	padding: 0;
+	display: inline-block;
+}
+.mecz_right {
+	background:#e30613;
+	color: #fff;
+	font-size: 14px;
+	line-height: 19px;
+	padding: 3%;
+	width: 94%;
+	overflow: hidden;
+	-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+.mecz_right ul {
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+.mecz_right ul li {
+	list-style: disc;
+}
+.mecz_right .bold {
+	font-weight: bold;
+	margin: 0;
+	padding: 0 0 10px 0;
+}
+.mecz_clear {
+	clear: both;
+}
+.mecz_lightbox {
+	/** Hide the lightbox */
+	display: none;
+	/** Apply basic lightbox styling */
+	position: fixed;
+	z-index: 9999;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	top: 0;
+	left: 0;
+	background: black;
+	background: rgba(0,0,0,0.8);
+}
+.mecz_lightbox img {
+	/** Pad the lightbox image */
+	max-width: 90%;
+	max-height: 80%;
+	margin: 2% auto 0 auto;
+}
+.mecz_lightbox:target {
+	/** Show lightbox when it is target */
+	display: block;
+	/** Remove default browser outline style */
+	outline: none;
+}
+
+.meczmobile {display:block; width:100%;}
+
+
+
+</style>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+</footer>
+
+    
+
+
+
+
+
+
+</div>
+</body>
+</html>

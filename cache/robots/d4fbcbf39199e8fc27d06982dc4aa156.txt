@@ -1,0 +1,28 @@
+1427634327
+http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/default.stm
+http://news.bbc.co.uk/robots.txt
+1427630176
+http://news.bbc.co.uk/sport1/hi/15890345.stm
+http://news.bbc.co.uk/robots.txt
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /cgi-perl
+Disallow: /lexaurus
+Disallow: /mpapps
+Disallow: /mpsearch
+Disallow: /mtk
+Disallow: /weatherbeta
+Disallow: /weather/hi/about/newsid_7760000/7760846.stm
+Disallow: /1/hi/help/8594343.stm 
+Disallow: /2/hi/help/8594343.stm
+Disallow: /1/hi/help/8594488.stm
+Disallow: /2/hi/help/8594488.stm
+Disallow: /1/hi/uk/1494064.stm
+Disallow: /1/hi/health/363959.stm
+Disallow: /1/hi/health/4749331.stm
+Disallow: /1/hi/england/1678616.stm
+Disallow: /1/hi/education/3826037.stm
+Disallow: /1/shared/spl/hi/pop_ups/05/uk_should_the_uk_vote_on_the_eu_constitution0/html/8.stm
+Sitemap: http://news.bbc.co.uk/weather/sitemap.xml 
+Sitemap: http://news.bbc.co.uk/weather/sitemap_mobile.xml 
+

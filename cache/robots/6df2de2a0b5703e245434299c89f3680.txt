@@ -1,0 +1,6 @@
+1428245014
+http://home-gyms-review.toptenreviews.com
+http://home-gyms-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

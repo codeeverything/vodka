@@ -1,0 +1,9 @@
+1427628889
+http://digg.com/submit?url=http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz9rhn39&title=Is%20changing%20the%20clocks%20a%20waste%20of%20time%3F&bodytext=Stephen%20Fry%20investigates%20the%20story%20of%20daylight%20saving%20time%20and%20asks%3A%20Is%20changing%20the%20clocks%20a%20waste%20of%20time%3F&
+http://digg.com/robots.txt
+User-agent: *
+Disallow: /submit
+Disallow: /session
+
+User-agent: Baiduspider
+Disallow: /submit

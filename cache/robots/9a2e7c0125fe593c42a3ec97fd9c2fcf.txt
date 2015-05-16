@@ -1,0 +1,6 @@
+1428242473
+http://dvd-copy-software-review.toptenreviews.com
+http://dvd-copy-software-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

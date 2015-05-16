@@ -1,0 +1,25 @@
+1428244217
+http://www.enloop.com
+http://www.enloop.com/robots.txt
+1428244180
+http://www.enloop.com/plans_and_pricing
+http://www.enloop.com/robots.txt
+User-agent: *
+
+Disallow: /forms/*
+Disallow: /embeds/*
+Disallow: /navs/*
+Disallow: /modal/*
+Disallow: /account/*
+Disallow: /search/*
+Disallow: /exported_templates/*
+Disallow: /html/*
+Disallow: /images/*
+Disallow: /misc/*
+Disallow: /scripts/*
+Disallow: /styles/*
+Disallow: /themes/*
+Disallow: /admin.php
+Disallow: /opengateway/*
+Disallow: /php_info.php
+

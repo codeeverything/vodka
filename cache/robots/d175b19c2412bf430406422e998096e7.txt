@@ -1,0 +1,18 @@
+1428419471
+http://www.tauck.com
+http://www.tauck.com/robots.txt
+1428417366
+http://www.tauck.com/EarthJourneys
+http://www.tauck.com/robots.txt
+1428242413
+http://www.tauck.com/EarthJourneys
+http://www.tauck.com/robots.txt
+1427632072
+http://www.tauck.com/bbcearth/signup
+http://www.tauck.com/robots.txt
+﻿User-agent: *
+Disallow: /ShareAlbum.aspx
+Disallow: /requests/
+Disallow: /agent/TWVirtualRiverSummit-BonusCommission
+Disallow: /brochures
+Disallow: /Brochures

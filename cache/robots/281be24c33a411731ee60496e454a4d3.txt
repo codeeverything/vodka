@@ -1,0 +1,24 @@
+1428419778
+http://www.khanacademy.org
+http://www.khanacademy.org/robots.txt
+1428243898
+http://www.khanacademy.org
+http://www.khanacademy.org/robots.txt
+1428241062
+http://www.khanacademy.org
+http://www.khanacademy.org/robots.txt
+User-agent: *
+Sitemap: http://www.khanacademy.org/sitemap.xml
+Disallow: /_ah/
+Disallow: /admin/
+Disallow: /api/auth/
+Disallow: /crash
+Disallow: /devadmin/
+Disallow: /dupeaccount
+Disallow: /embed_video
+Disallow: /postlogin
+Disallow: /preview/
+Disallow: /search
+Disallow: /searchtest
+Disallow: /settings/linkaccount
+Disallow: /sleep

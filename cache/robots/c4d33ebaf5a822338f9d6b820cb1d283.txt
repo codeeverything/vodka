@@ -1,0 +1,7 @@
+1428421673
+http://www.wtd.sggw.pl
+http://www.wtd.sggw.pl/robots.txt
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://3gsg.ru/sitemap.xml

@@ -1,0 +1,12 @@
+1427735138
+http://www.indiegames.com
+http://www.indiegames.com/robots.txt
+1427717088
+http://www.indiegames.com
+http://www.indiegames.com/robots.txt
+1427716706
+http://www.indiegames.com
+http://www.indiegames.com/robots.txt
+User-agent: *
+Disallow: /cgi-bin/
+

@@ -1,0 +1,6 @@
+1428422504
+http://po-bandzie.przegladsportowy.pl
+http://po-bandzie.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

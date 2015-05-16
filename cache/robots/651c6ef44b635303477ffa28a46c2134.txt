@@ -1,0 +1,7 @@
+1427891079
+http://veterans.osu.edu
+http://veterans.osu.edu/robots.txt
+# Allows all robots
+
+User-agent: *
+Disallow:

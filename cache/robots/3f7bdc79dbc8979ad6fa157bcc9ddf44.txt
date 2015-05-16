@@ -1,0 +1,13 @@
+1427891514
+http://plugins.atlassian.com
+http://plugins.atlassian.com/robots.txt
+Sitemap: https://marketplace.atlassian.com/sitemap.xml
+
+User-agent: *
+Disallow: /server/
+Disallow: /rest/
+Disallow: /download/
+Disallow: /admin/
+Disallow: /manage/
+Disallow: /archive/
+Disallow: /users/

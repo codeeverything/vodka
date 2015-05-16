@@ -1,0 +1,6 @@
+1428244372
+http://baby-wraps-review.toptenreviews.com
+http://baby-wraps-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

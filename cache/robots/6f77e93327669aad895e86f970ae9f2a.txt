@@ -1,0 +1,52 @@
+1427823268
+http://www.unrealengine.com/blog
+http://www.unrealengine.com/robots.txt
+1427822757
+http://www.unrealengine.com/products/udk
+http://www.unrealengine.com/robots.txt
+1427822627
+http://www.unrealengine.com
+http://www.unrealengine.com/robots.txt
+1427821589
+http://www.unrealengine.com
+http://www.unrealengine.com/robots.txt
+1427819768
+http://www.unrealengine.com/blog
+http://www.unrealengine.com/robots.txt
+1427819313
+http://www.unrealengine.com//
+http://www.unrealengine.com/robots.txt
+1427818280
+http://www.unrealengine.com/
+http://www.unrealengine.com/robots.txt
+1427805695
+http://www.unrealengine.com/blog
+http://www.unrealengine.com/robots.txt
+1427805491
+http://www.unrealengine.com/marketplace/
+http://www.unrealengine.com/robots.txt
+1427805437
+http://www.unrealengine.com//
+http://www.unrealengine.com/robots.txt
+1427805095
+http://www.unrealengine.com/
+http://www.unrealengine.com/robots.txt
+1427803818
+http://www.unrealengine.com/
+http://www.unrealengine.com/robots.txt
+
+# Robots.txt file from https://www.unrealengine.com
+# All robots will spider the domain
+
+Sitemap: https://www.unrealengine.com/sitemap
+
+User-agent: *
+Disallow: /get-started
+Disallow: /register
+Disallow: /settings
+Disallow: /dashboard
+Disallow: /thank-you
+Disallow: /payment
+Disallow: /choose-plan
+Disallow: /billing-history
+Disallow: /cancel-subscription

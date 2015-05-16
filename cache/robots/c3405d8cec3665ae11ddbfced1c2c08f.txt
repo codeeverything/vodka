@@ -1,0 +1,15 @@
+1428419272
+http://www.thewestonmercury.co.uk
+http://www.thewestonmercury.co.uk/robots.txt
+1428243927
+http://www.thewestonmercury.co.uk
+http://www.thewestonmercury.co.uk/robots.txt
+User-agent: *
+Disallow: /logger/
+Disallow: /*?cache=*$
+Disallow: /*?referrer=*$
+Disallow: /*?action=*$
+Disallow: /*?report=*$
+Disallow: /*?ot=archant.PrintFriendlyPageLayout.ot*$
+Disallow: /*?cache=*$
+Disallow: /*?*excludeSiteIds=%5B%5D&*$

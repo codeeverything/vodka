@@ -1,0 +1,6 @@
+1428244519
+http://pepper-spray-review.toptenreviews.com
+http://pepper-spray-review.toptenreviews.com/robots.txt
+
+User-Agent: *
+Allow: /

@@ -1,0 +1,5 @@
+1428241727
+http://www.fatmattsribshack.net
+http://www.fatmattsribshack.net/robots.txt
+User-agent: *
+Disallow: /wp-admin/

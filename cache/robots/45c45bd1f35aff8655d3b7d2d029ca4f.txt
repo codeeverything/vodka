@@ -1,0 +1,18 @@
+1427822625
+http://epic.gamespress.com
+http://epic.gamespress.com/robots.txt
+1427821596
+http://epic.gamespress.com
+http://epic.gamespress.com/robots.txt
+1427818286
+http://epic.gamespress.com/
+http://epic.gamespress.com/robots.txt
+1427805093
+http://epic.gamespress.com/
+http://epic.gamespress.com/robots.txt
+1427803824
+http://epic.gamespress.com/
+http://epic.gamespress.com/robots.txt
+﻿# go away
+#User-agent: *
+#Disallow: /

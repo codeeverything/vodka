@@ -1,0 +1,7 @@
+1427891397
+http://hr.osu.edu
+http://hr.osu.edu/robots.txt
+# robotstxt.org/
+
+User-agent: *
+Disallow: /oe/2014/

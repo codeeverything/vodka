@@ -1,0 +1,7 @@
+1427819553
+http://www.paris-bibliotheques.org/en-vue/
+http://www.paris-bibliotheques.org/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/

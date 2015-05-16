@@ -1,0 +1,21 @@
+1427958391
+http://www.inet.tu-berlin.de
+http://www.inet.tu-berlin.de/robots.txt
+1427890832
+http://www.inet.tu-berlin.de
+http://www.inet.tu-berlin.de/robots.txt
+1427829309
+http://www.inet.tu-berlin.de
+http://www.inet.tu-berlin.de/robots.txt
+User-agent: *
+Disallow: */print.html
+Disallow: */parameter/font0
+Disallow: */parameter/font1
+Disallow: */parameter/font2
+Disallow: */parameter/font3
+Disallow: */parameter/font4
+Disallow: */parameter/font5
+Disallow: */parameter/font6
+Disallow: /iv_d_team_vertragsmanagement/menue/einkauf
+Disallow: /weiterbildung
+

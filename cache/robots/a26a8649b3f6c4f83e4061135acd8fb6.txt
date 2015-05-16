@@ -1,0 +1,14 @@
+1427716654
+http://atom.io/docs
+http://atom.io/robots.txt
+1427716654
+http://atom.io/faq
+http://atom.io/robots.txt
+1427701320
+http://atom.io
+http://atom.io/robots.txt
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-agent: *
+# Disallow: /

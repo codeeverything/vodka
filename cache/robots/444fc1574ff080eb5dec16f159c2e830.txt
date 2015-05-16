@@ -1,0 +1,9 @@
+1427822996
+http://morningafter.gawker.com/these-are-the-most-brutal-jokes-from-the-roast-of-justi-1694750690
+http://morningafter.gawker.com/robots.txt
+1427819467
+http://morningafter.gawker.com/these-are-the-most-brutal-jokes-from-the-roast-of-justi-1694750690
+http://morningafter.gawker.com/robots.txt
+User-agent: *
+Disallow:
+Sitemap: http://morningafter.gawker.com/sitemap.xml

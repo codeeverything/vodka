@@ -1,0 +1,11 @@
+1428421162
+http://weather.rambler.ru
+http://weather.rambler.ru/robots.txt
+User-Agent: *
+Allow: /world/
+Disallow: /*?
+Host: weather.rambler.ru
+Sitemap: http://weather.rambler.ru/sitemap.xml
+
+User-Agent: AhrefsBot
+Disallow: /

@@ -1,0 +1,13 @@
+1428236951
+http://www.abelprize.no
+http://www.abelprize.no/robots.txt
+User-agent: *
+Disallow: /admin
+Disallow: /manage
+Crawl-delay: 6
+
+User-agent: Slurp
+Crawl-delay: 6
+
+User-agent: msnbot
+Crawl-delay: 6

@@ -1,0 +1,9 @@
+1427736442
+http://www.benshouji.com
+http://www.benshouji.com/robots.txt
+1427735511
+http://www.benshouji.com
+http://www.benshouji.com/robots.txt
+User-agent: *
+Disallow: /*.php
+Disallow: /baoku/

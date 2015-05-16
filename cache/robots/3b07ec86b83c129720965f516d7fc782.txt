@@ -1,0 +1,6 @@
+1428422561
+http://ostatnie-podanie.przegladsportowy.pl
+http://ostatnie-podanie.przegladsportowy.pl/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

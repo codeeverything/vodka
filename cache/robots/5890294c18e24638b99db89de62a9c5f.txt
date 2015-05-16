@@ -1,0 +1,9 @@
+1427823551
+http://lesberges.paris.fr
+http://lesberges.paris.fr/robots.txt
+1427805989
+http://lesberges.paris.fr/
+http://lesberges.paris.fr/robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

@@ -1,0 +1,98 @@
+1428244236
+http://www.laptopmag.com/latest/5
+http://www.laptopmag.com/robots.txt
+1428244236
+http://www.laptopmag.com/latest/reviews
+http://www.laptopmag.com/robots.txt
+1428244235
+http://www.laptopmag.com/latest/3
+http://www.laptopmag.com/robots.txt
+1428244222
+http://www.laptopmag.com/latest/news
+http://www.laptopmag.com/robots.txt
+1428244222
+http://www.laptopmag.com/latest/6
+http://www.laptopmag.com/robots.txt
+1428244221
+http://www.laptopmag.com/latest/4
+http://www.laptopmag.com/robots.txt
+1428244214
+http://www.laptopmag.com/latest/2
+http://www.laptopmag.com/robots.txt
+1428244144
+http://www.laptopmag.com/reviews/6
+http://www.laptopmag.com/robots.txt
+1428244137
+http://www.laptopmag.com/reviews/3
+http://www.laptopmag.com/robots.txt
+1428244136
+http://www.laptopmag.com/reviews/4
+http://www.laptopmag.com/robots.txt
+1428244135
+http://www.laptopmag.com/reviews/5
+http://www.laptopmag.com/robots.txt
+1428244129
+http://www.laptopmag.com/reviews/2
+http://www.laptopmag.com/robots.txt
+1428242288
+http://www.laptopmag.com/t/tablets
+http://www.laptopmag.com/robots.txt
+1428242287
+http://www.laptopmag.com/t/smartphones
+http://www.laptopmag.com/robots.txt
+1428242279
+http://www.laptopmag.com/t/laptops
+http://www.laptopmag.com/robots.txt
+1428242278
+http://www.laptopmag.com
+http://www.laptopmag.com/robots.txt
+1428242271
+http://www.laptopmag.com/t/ultrabooks
+http://www.laptopmag.com/robots.txt
+1428242254
+http://www.laptopmag.com/best-business-laptops
+http://www.laptopmag.com/robots.txt
+1428242253
+http://www.laptopmag.com/gaming-laptops
+http://www.laptopmag.com/robots.txt
+1428241196
+http://www.laptopmag.com/best-msi-laptops
+http://www.laptopmag.com/robots.txt
+1428241195
+http://www.laptopmag.com/best-apple-laptops
+http://www.laptopmag.com/robots.txt
+1428241189
+http://www.laptopmag.com/best-tablets
+http://www.laptopmag.com/robots.txt
+1428241188
+http://www.laptopmag.com/latest
+http://www.laptopmag.com/robots.txt
+1428241187
+http://www.laptopmag.com/best-laptops
+http://www.laptopmag.com/robots.txt
+1428241186
+http://www.laptopmag.com/best-phones
+http://www.laptopmag.com/robots.txt
+1428241185
+http://www.laptopmag.com/best-phablets
+http://www.laptopmag.com/robots.txt
+1428241177
+http://www.laptopmag.com/reviews
+http://www.laptopmag.com/robots.txt
+1428240864
+http://www.laptopmag.com
+http://www.laptopmag.com/robots.txt
+User-agent: *
+
+Disallow: /search
+Disallow: /videos
+Disallow: /tag.aspx
+Disallow: /shop.aspx
+Disallow: /search.aspx
+Disallow: /advsearch.aspx
+Disallow: /review/advsearch.aspx
+Disallow: /_*
+Disallow: /dart_iframe
+Disallow: /dyn_adsense
+
+Sitemap: http://www.laptopmag.com/sitemap.xml

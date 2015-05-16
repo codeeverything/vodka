@@ -1,0 +1,20 @@
+1428244569
+http://www.tomatocart.com
+http://www.tomatocart.com/robots.txt
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+
+User-agent: Mediapartners-Google
+Disallow:
